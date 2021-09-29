@@ -1,0 +1,758 @@
+[
+    {
+        "Id": 1,
+        "StageId": 20000101,
+        "Difficulty": 1,
+        "RecommendAbility": 2200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201101,
+        "FlopRewardId": 1,
+        "MonsterLevel": [
+            30,
+            30,
+            30,
+            1
+        ]
+    },
+    {
+        "Id": 2,
+        "StageId": 20000101,
+        "Difficulty": 2,
+        "RecommendAbility": 2400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201102,
+        "FlopRewardId": 2,
+        "MonsterLevel": [
+            59,
+            59,
+            59,
+            2
+        ]
+    },
+    {
+        "Id": 3,
+        "StageId": 20000101,
+        "Difficulty": 3,
+        "RecommendAbility": 2600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201103,
+        "FlopRewardId": 3,
+        "MonsterLevel": [
+            76,
+            76,
+            76,
+            3
+        ]
+    },
+    {
+        "Id": 4,
+        "StageId": 20000102,
+        "Difficulty": 1,
+        "RecommendAbility": 2800,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201104,
+        "FlopRewardId": 4,
+        "MonsterLevel": [
+            92,
+            92,
+            92,
+            1
+        ]
+    },
+    {
+        "Id": 5,
+        "StageId": 20000102,
+        "Difficulty": 2,
+        "RecommendAbility": 3200,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201105,
+        "FlopRewardId": 5,
+        "MonsterLevel": [
+            121,
+            121,
+            121,
+            2
+        ]
+    },
+    {
+        "Id": 6,
+        "StageId": 20000102,
+        "Difficulty": 3,
+        "RecommendAbility": 3600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201106,
+        "FlopRewardId": 6,
+        "MonsterLevel": [
+            149,
+            149,
+            149,
+            3
+        ]
+    },
+    {
+        "Id": 7,
+        "StageId": 20000103,
+        "Difficulty": 1,
+        "RecommendAbility": 4000,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201107,
+        "FlopRewardId": 7,
+        "MonsterLevel": [
+            156,
+            156,
+            156,
+            1
+        ]
+    },
+    {
+        "Id": 8,
+        "StageId": 20000103,
+        "Difficulty": 2,
+        "RecommendAbility": 4400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201108,
+        "FlopRewardId": 8,
+        "MonsterLevel": [
+            185,
+            185,
+            185,
+            2
+        ]
+    },
+    {
+        "Id": 9,
+        "StageId": 20000103,
+        "Difficulty": 3,
+        "RecommendAbility": 4800,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201109,
+        "FlopRewardId": 9,
+        "MonsterLevel": [
+            213,
+            213,
+            213,
+            3
+        ]
+    },
+    {
+        "Id": 10,
+        "StageId": 20000104,
+        "Difficulty": 1,
+        "RecommendAbility": 5200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201110,
+        "FlopRewardId": 10,
+        "MonsterLevel": [
+            241,
+            241,
+            241,
+            1
+        ]
+    },
+    {
+        "Id": 11,
+        "StageId": 20000104,
+        "Difficulty": 2,
+        "RecommendAbility": 5600,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201111,
+        "FlopRewardId": 11,
+        "MonsterLevel": [
+            269,
+            269,
+            269,
+            2
+        ]
+    },
+    {
+        "Id": 12,
+        "StageId": 20000104,
+        "Difficulty": 3,
+        "RecommendAbility": 6000,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201112,
+        "FlopRewardId": 12,
+        "MonsterLevel": [
+            296,
+            296,
+            296,
+            3
+        ]
+    },
+    {
+        "Id": 19,
+        "StageId": 30030501,
+        "Difficulty": 1,
+        "AdditionDest": "Normal rewards",
+        "MonsterLevel": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 20,
+        "StageId": 30030501,
+        "Difficulty": 2,
+        "AdditionDest": "Better rewards",
+        "MonsterLevel": [
+            1,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "Id": 21,
+        "StageId": 30030501,
+        "Difficulty": 3,
+        "AdditionDest": "Significantly better rewards",
+        "MonsterLevel": [
+            1,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "Id": 22,
+        "StageId": 20000201,
+        "Difficulty": 1,
+        "RecommendAbility": 2200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201101,
+        "FlopRewardId": 1,
+        "MonsterLevel": [
+            30,
+            30,
+            30,
+            1
+        ]
+    },
+    {
+        "Id": 23,
+        "StageId": 20000201,
+        "Difficulty": 2,
+        "RecommendAbility": 2400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201102,
+        "FlopRewardId": 2,
+        "MonsterLevel": [
+            59,
+            59,
+            59,
+            2
+        ]
+    },
+    {
+        "Id": 24,
+        "StageId": 20000201,
+        "Difficulty": 3,
+        "RecommendAbility": 2600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201103,
+        "FlopRewardId": 3,
+        "MonsterLevel": [
+            76,
+            76,
+            76,
+            3
+        ]
+    },
+    {
+        "Id": 25,
+        "StageId": 20000202,
+        "Difficulty": 1,
+        "RecommendAbility": 2800,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201104,
+        "FlopRewardId": 4,
+        "MonsterLevel": [
+            92,
+            92,
+            92,
+            1
+        ]
+    },
+    {
+        "Id": 26,
+        "StageId": 20000202,
+        "Difficulty": 2,
+        "RecommendAbility": 3200,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201105,
+        "FlopRewardId": 5,
+        "MonsterLevel": [
+            121,
+            121,
+            121,
+            2
+        ]
+    },
+    {
+        "Id": 27,
+        "StageId": 20000202,
+        "Difficulty": 3,
+        "RecommendAbility": 3600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201106,
+        "FlopRewardId": 6,
+        "MonsterLevel": [
+            149,
+            149,
+            149,
+            3
+        ]
+    },
+    {
+        "Id": 28,
+        "StageId": 20000203,
+        "Difficulty": 1,
+        "RecommendAbility": 4000,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201107,
+        "FlopRewardId": 7,
+        "MonsterLevel": [
+            156,
+            156,
+            156,
+            1
+        ]
+    },
+    {
+        "Id": 29,
+        "StageId": 20000203,
+        "Difficulty": 2,
+        "RecommendAbility": 4400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201108,
+        "FlopRewardId": 8,
+        "MonsterLevel": [
+            185,
+            185,
+            185,
+            2
+        ]
+    },
+    {
+        "Id": 30,
+        "StageId": 20000203,
+        "Difficulty": 3,
+        "RecommendAbility": 4800,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201109,
+        "FlopRewardId": 9,
+        "MonsterLevel": [
+            213,
+            213,
+            213,
+            3
+        ]
+    },
+    {
+        "Id": 31,
+        "StageId": 20000204,
+        "Difficulty": 1,
+        "RecommendAbility": 5200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201110,
+        "FlopRewardId": 10,
+        "MonsterLevel": [
+            241,
+            241,
+            241,
+            1
+        ]
+    },
+    {
+        "Id": 32,
+        "StageId": 20000204,
+        "Difficulty": 2,
+        "RecommendAbility": 5600,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201111,
+        "FlopRewardId": 11,
+        "MonsterLevel": [
+            269,
+            269,
+            269,
+            2
+        ]
+    },
+    {
+        "Id": 33,
+        "StageId": 20000204,
+        "Difficulty": 3,
+        "RecommendAbility": 6000,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201112,
+        "FlopRewardId": 12,
+        "MonsterLevel": [
+            296,
+            296,
+            296,
+            3
+        ]
+    },
+    {
+        "Id": 34,
+        "StageId": 20000301,
+        "Difficulty": 1,
+        "RecommendAbility": 2200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201101,
+        "FlopRewardId": 1,
+        "MonsterLevel": [
+            30,
+            30,
+            30,
+            1
+        ]
+    },
+    {
+        "Id": 35,
+        "StageId": 20000301,
+        "Difficulty": 2,
+        "RecommendAbility": 2400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201102,
+        "FlopRewardId": 2,
+        "MonsterLevel": [
+            59,
+            59,
+            59,
+            2
+        ]
+    },
+    {
+        "Id": 36,
+        "StageId": 20000301,
+        "Difficulty": 3,
+        "RecommendAbility": 2600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201103,
+        "FlopRewardId": 3,
+        "MonsterLevel": [
+            76,
+            76,
+            76,
+            3
+        ]
+    },
+    {
+        "Id": 37,
+        "StageId": 20000302,
+        "Difficulty": 1,
+        "RecommendAbility": 2800,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201104,
+        "FlopRewardId": 4,
+        "MonsterLevel": [
+            92,
+            92,
+            92,
+            1
+        ]
+    },
+    {
+        "Id": 38,
+        "StageId": 20000302,
+        "Difficulty": 2,
+        "RecommendAbility": 3200,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201105,
+        "FlopRewardId": 5,
+        "MonsterLevel": [
+            121,
+            121,
+            121,
+            2
+        ]
+    },
+    {
+        "Id": 39,
+        "StageId": 20000302,
+        "Difficulty": 3,
+        "RecommendAbility": 3600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201106,
+        "FlopRewardId": 6,
+        "MonsterLevel": [
+            149,
+            149,
+            149,
+            3
+        ]
+    },
+    {
+        "Id": 40,
+        "StageId": 20000303,
+        "Difficulty": 1,
+        "RecommendAbility": 4000,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201107,
+        "FlopRewardId": 7,
+        "MonsterLevel": [
+            156,
+            156,
+            156,
+            1
+        ]
+    },
+    {
+        "Id": 41,
+        "StageId": 20000303,
+        "Difficulty": 2,
+        "RecommendAbility": 4400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201108,
+        "FlopRewardId": 8,
+        "MonsterLevel": [
+            185,
+            185,
+            185,
+            2
+        ]
+    },
+    {
+        "Id": 42,
+        "StageId": 20000303,
+        "Difficulty": 3,
+        "RecommendAbility": 4800,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201109,
+        "FlopRewardId": 9,
+        "MonsterLevel": [
+            213,
+            213,
+            213,
+            3
+        ]
+    },
+    {
+        "Id": 43,
+        "StageId": 20000304,
+        "Difficulty": 1,
+        "RecommendAbility": 5200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201110,
+        "FlopRewardId": 10,
+        "MonsterLevel": [
+            241,
+            241,
+            241,
+            1
+        ]
+    },
+    {
+        "Id": 44,
+        "StageId": 20000304,
+        "Difficulty": 2,
+        "RecommendAbility": 5600,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201111,
+        "FlopRewardId": 11,
+        "MonsterLevel": [
+            269,
+            269,
+            269,
+            2
+        ]
+    },
+    {
+        "Id": 45,
+        "StageId": 20000304,
+        "Difficulty": 3,
+        "RecommendAbility": 6000,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201112,
+        "FlopRewardId": 12,
+        "MonsterLevel": [
+            296,
+            296,
+            296,
+            3
+        ]
+    },
+    {
+        "Id": 46,
+        "StageId": 20000401,
+        "Difficulty": 1,
+        "RecommendAbility": 2200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201101,
+        "FlopRewardId": 1,
+        "MonsterLevel": [
+            30,
+            30,
+            30,
+            1
+        ]
+    },
+    {
+        "Id": 47,
+        "StageId": 20000401,
+        "Difficulty": 2,
+        "RecommendAbility": 2400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201102,
+        "FlopRewardId": 2,
+        "MonsterLevel": [
+            59,
+            59,
+            59,
+            2
+        ]
+    },
+    {
+        "Id": 48,
+        "StageId": 20000401,
+        "Difficulty": 3,
+        "RecommendAbility": 2600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201103,
+        "FlopRewardId": 3,
+        "MonsterLevel": [
+            76,
+            76,
+            76,
+            3
+        ]
+    },
+    {
+        "Id": 49,
+        "StageId": 20000402,
+        "Difficulty": 1,
+        "RecommendAbility": 2800,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201104,
+        "FlopRewardId": 4,
+        "MonsterLevel": [
+            92,
+            92,
+            92,
+            1
+        ]
+    },
+    {
+        "Id": 50,
+        "StageId": 20000402,
+        "Difficulty": 2,
+        "RecommendAbility": 3200,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201105,
+        "FlopRewardId": 5,
+        "MonsterLevel": [
+            121,
+            121,
+            121,
+            2
+        ]
+    },
+    {
+        "Id": 51,
+        "StageId": 20000402,
+        "Difficulty": 3,
+        "RecommendAbility": 3600,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201106,
+        "FlopRewardId": 6,
+        "MonsterLevel": [
+            149,
+            149,
+            149,
+            3
+        ]
+    },
+    {
+        "Id": 52,
+        "StageId": 20000403,
+        "Difficulty": 1,
+        "RecommendAbility": 4000,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201107,
+        "FlopRewardId": 7,
+        "MonsterLevel": [
+            156,
+            156,
+            156,
+            1
+        ]
+    },
+    {
+        "Id": 53,
+        "StageId": 20000403,
+        "Difficulty": 2,
+        "RecommendAbility": 4400,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201108,
+        "FlopRewardId": 8,
+        "MonsterLevel": [
+            185,
+            185,
+            185,
+            2
+        ]
+    },
+    {
+        "Id": 54,
+        "StageId": 20000403,
+        "Difficulty": 3,
+        "RecommendAbility": 4800,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201109,
+        "FlopRewardId": 9,
+        "MonsterLevel": [
+            213,
+            213,
+            213,
+            3
+        ]
+    },
+    {
+        "Id": 55,
+        "StageId": 20000404,
+        "Difficulty": 1,
+        "RecommendAbility": 5200,
+        "AdditionDest": "Normal rewards",
+        "FinishDropId": 201110,
+        "FlopRewardId": 10,
+        "MonsterLevel": [
+            241,
+            241,
+            241,
+            1
+        ]
+    },
+    {
+        "Id": 56,
+        "StageId": 20000404,
+        "Difficulty": 2,
+        "RecommendAbility": 5600,
+        "AdditionDest": "Better rewards",
+        "FinishDropId": 201111,
+        "FlopRewardId": 11,
+        "MonsterLevel": [
+            269,
+            269,
+            269,
+            2
+        ]
+    },
+    {
+        "Id": 57,
+        "StageId": 20000404,
+        "Difficulty": 3,
+        "RecommendAbility": 6000,
+        "AdditionDest": "Significantly better rewards",
+        "FinishDropId": 201112,
+        "FlopRewardId": 12,
+        "MonsterLevel": [
+            296,
+            296,
+            296,
+            3
+        ]
+    }
+]

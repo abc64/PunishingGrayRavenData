@@ -1,0 +1,756 @@
+Id	Key	Text
+0	Success	Success
+1	Fail	Failed
+2	ServerInternalError	Temporary unavailable due to game server error
+3	ServiceUnavailable	Temporary unavailable as the service is not yet launched
+4	ParamsError	Parameter error
+1001	GateServerNotOpen	Server is not yet available\nOpening time
+1002	GateServerUpperLimit	Server population has reached the limit
+1003	LoginApplicationVersionError	Application is not up to date
+1004	LoginDocumentVersionError	Source is not up to date
+1005	LoginMd5Error	Config table is not up to date, please restart to update.
+1006	LoginInvalidStatus	Login request error
+1007	LoginInvalidLoginToken	Account has expired, please login again.
+1008	LoginInvalidUserId	Account does not exist
+1009	LoginAccessDenied	Account has no permission
+1010	LoginLoadMemberFailed	Failed to load data
+1011	LoginServiceInvalidLoginType	Invalid login
+1012	LoginServiceInvalidToken	Invalid Token
+1013	LoginServiceRetry	Login again
+1014	LoginServiceAlreadyLogin	You have logged in already
+1015	LoginServiceInternalError	Game server distribution error
+1016	LoginServiceEnterGameServerFailed	Failed to login
+1017	LoginServiceLoadPlayerDataFailed	Failed to load user data
+1018	GateServerForceLogoutByAnotherLogin	Account has been logged in on another device
+1019	GateServerKcpSessionAlreadyCreated	
+1020	GameServerFullLoad	Server is full, please try again later.
+1021	KickOutByBanned	You're forced to log out due to improper behavior
+1022	ReconnectInvalidToken	Reconnection failed 1
+1023	ReconnectPlayerLogout	Reconnection failed 2
+1024	ReconnectInvalidSeqNo	Reconnection failed 3
+1025	ReconnectAgain	Reconnection failed 4
+20000001	PlayerFunctionNotOpen	Feature is not available yet
+20000002	PlayerFunctionClose	System has shut down
+20000003	PlayerChangeDisplayCharIdCharIsNotOwned	You do not own this Construct
+20000004	PlayerMedalIsNotOwned	You do not own this medal
+20002001	PlayerDataManagerGetPlayerMaxExpFail	Failed to obtain player's max EXP
+20002002	PlayerDataManagerChangeNameTimeLimit	You can change your name in {0} hr {1} min
+20002003	PlayerDataManagerChangeNameInvalid	Improper name, please check again.
+20002004	PlayerDataManagerChangeSignInvalid	Improper signature, please check again.
+20002005	PlayerDataManagerChangeMarkInvalid	Unable to edit record
+20002006	PlayerDataManagerAssistRoleIdIsSet	You cannot deploy a duplicate Construct
+20002007	PlayerDataManagerBirthdayInValid	Please fill in the correct date
+20002008	PlayerDataManagerBirthdayAlreadySet	You have set your birthday already
+20002009	PlayerDataManagerChangeCommunicationInvalid	Invalid change
+20002010	PlayerDataManagerReportTimeLimit	Report in cool down
+20002011	PlayerDataManagerReportTagInvalid	Invalid type of report
+20002012	PlayerDataManagerNameIsTooLong	Your name must not exceed 12 characters
+20003001	FubenManagerCheckTreasureIsGet	You have obtained the chapter chest reward already
+20003002	FubenManagerCheckPreMapNotFound	Chapter ID does not exist
+20003003	FubenManagerCheckPreMapNotPass	You have not completed the previous stage yet
+20003004	FubenManagerCheckLevelNotEnough	Insufficient level
+20003005	FubenManagerCheckActionPointNotEnough	Insufficient Serums
+20003006	FubenManagerCheckChallengeNumNotEnough	Insufficient attempts
+20003007	FubenManagerCheckTreasureSectionIdInvalid	Invalid chapter ID of the chest
+20003008	FubenManagerCheckTreasureIdInvalid	Invalid chest ID
+20003009	FubenManagerCheckTreasureStarsNotEnough	Insufficient stars to obtain the chest reward
+20003010	FubenManagerCheckTreasureRewardRepeat	Obtain the chest reward more than once
+20003011	FubenManagerCheckPreFightStageInfoNotFound	Failed to obtain StageInfo during the prebattle checking
+20003012	FubenManagerCheckPreFightUrgentEventMapNotOpen	The stage is not available yet
+20003013	FubenManagerChallengeWinFightIdNotMatch	Mission data mismatched(0)
+20003014	FubenManagerChallengeWinPreFightDataNotMatch	Mission data mismatched(1)
+20003015	FubenManagerChallengeLoseFightIdNotMatch	Mission data mismatched(2)
+20003016	FubenManagerChallengeLoseStageCfgNotFound	Mission data mismatched(3)
+20003017	FubenManagerChallengeLosePreFightDataNotMatch	Mission data mismatched(4)
+20003018	FubenManagerStageAllReadyMaxChallegeCount	Maximum quest attempt has been reached
+20003019	FubenManagerStageAllReadyMaxBuyCount	Maximum quest purchase limit has been reached
+20003020	FubenManagerFinishToStageStageNotFound	Mission does not exist
+20003021	FubenManagerFightIntervalFast	Please challenge at intervals
+20003022	FubenManagerRebootCountNotMatch	Number of quest revivals mismatched
+20003023	FubenManagerStageLocked	The stage has not been unlocked yet
+20003024	FubenControlPreFightParamsError	Team info error
+20003025	FubenManagerBfrtNotGroup	Stronghold does not exist
+20003026	FubenManagerBfrtPreIdNotFinish	Complete the previous stronghold first
+20003027	FubenManagerBfrtNotChallengeCount	Insufficient attempts
+20003028	FubenManagerBfrtEchelonNotFound	Team formation ID does not exist
+20003029	FubenManagerBfrtWinParamError	Stronghold result mismatched
+20003030	FubenManagerBfrtTeamError	Number of deployed team members error
+20003031	FubenManagerBfrtServerTeamError	Deployed team server error
+20003032	FubenManagerBfrtServerTeamNotEqualClientTeam	Number of deployed members error
+20003033	FubenManagerBfrtClientCharacterIdNotInServerTeam	Deployed Construct error
+20003034	FubenManagerBfrtStageNotFinish	Complete the previous stage first
+20003035	FubenManagerBfrtSetTeamFightInfoIdsNotEqualConfigIds	Number of deployed teams error
+20003036	FubenManagerBfrtSetTeamLogisticsNotEqualConfigIds	Number of logistics teams error
+20003037	FubenManagerFightRebootFightIdNotMatch	FightId of revival in battle mismatched
+20003038	FubenManagerFightRebootCountNotMatch	Number of revivals in battle mismatched
+20003039	FubenManagerFightRebootStageNotFound	Mission of revival in battle does not exist
+20003040	FubenManagerGetFightRebootTemplateNotFound	Settings of revival in battle does not exist
+20003041	FubenManagerGetFightRebootRebootCountIllegal	Invalid number of revivals in battle
+20003042	FubenBossSingleNotReset	Phantom Pain Cage has not been reset yet
+20003043	FubenBossSingleChallengeCountNotEnough	Insufficient attempts
+20003044	FubenBossSingleCharacterPointsNotEnough	Insufficient Stamina of Construct
+20003045	FubenBossSingleGetBossSingleDataLevelTypeIllegal	Invalid type of level
+20003046	FubenBossBossStageListNotFound	Phantom Pain Cage does not exist
+20003047	FubenBossSingleScoreRewardIsNotExist	Reward does not exist
+20003048	FubenBossSingleScoreRewardIsGot	Reward Claimed
+20003049	FubenBossSingleScoreRewardTypeError	Type of claimed reward error
+20003050	FubenBossSingleScoreIsNotEnough	Current points are insufficient to claim reward
+20003051	FubenBossSingleHistoryIsNotExist	History not found
+20003052	FubenBossSingleStageCanNotAutoFight	Auto Clear cannot be used in this stage
+20003053	FubenBossSingleStageIsNotExist	Stage does not exist
+20003054	FubenBossSingleSaveScoreIllegality	You cannot save more than once
+20003055	FubenBossSingleAutoFightCountNotEnough	Insufficient attempts
+20003056	FubenBossSingleCurScoreIsBigThanHistory	The progress of Auto Clear is lower than the current progress
+20003057	FubenBossOnlineSectionNotFound	Chapter info not found
+20003058	FubenBossOnlineNotInTime	Not the available hours of the Co-op.
+20003059	FubenMainLinePassTimesNotEnough	Insufficient Main Story attempts
+20003060	FubenMainLineChapterIsNotExist	Chapter does not exist
+20003061	FubenPrequelStageNotPass	The stage has not been cleared yet
+20003062	FubenPrequelStageRewardAlready	Rank reward claimed
+20003063	FubenPrequelStageIdError	Invalid Side Story stage
+20003064	FubenPrequelCoverIdError	Invalid Side Story cover ID
+20003065	FubenPrequelChallengeIdError	Invalid Side Story ID
+20003066	FubenPrequelChallengeLock	Side Story has not been unlocked yet
+20003067	FubenPrequelChallengeUnlockAlready	Side Story has been unlocked
+20003068	FubenPrequelChallengeCountLimit	Insufficient attempts
+20003069	FubenManagerAutoFightStageNotExist	Mission does not exist
+20003070	FubenManagerAutoFightStageInvalid	Invalid Side Story
+20003071	FubenManagerAutoFightHaventPassed	Side Story has not been cleared yet
+20003072	FubenManagerAutoFightPoolIsFull	Number of teams has reached the limit
+20003073	FubenManagerAutoFightAlreadyRunning	Auto Clearing
+20003074	FubenManagerAutoFightNotEnoughTimes	Insufficient attempts left
+20003075	FubenManagerAutoFightNotEnoughActionPoint	Insufficient Stamina
+20003076	FubenManagerAutoFightIndexInvalid	Invalid Auto Clear number
+20003077	FubenManagerAutoFightStageNotMatch	Auto Clear quest mismatched
+20003078	FubenManagerAutoFightNotComplete	Auto Clear not completed
+20003079	FubenManagerTrialIdIsNotFound	Trial Mission does not exist
+20003080	FubenManagerTrialPreIdIsNotPass	Complete the previous stage first
+20003081	FubenManagerTrialIdIsNotPass	Complete the stage first
+20003082	FubenManagerTrialPassRewardAlreadyGet	Clear reward claimed
+20003083	FubenManagerTrialTypeRewardIsNotExit	Reward does not exist
+20003084	FubenManagerTrialTypeRewardAlreadyGet	Reward Claimed
+20003085	FubenManagerTrialTypeRewardIsNotFinish	Stage not completed
+20003086	FubenManagerDailyChapterNotFound	Daily quest chapter not found
+20003087	FubenManagerDailySectionNotFound	Daily quest not found
+20003088	FubenManagerDailyConditionInvalid	Invalid daily quest requirement
+20003089	FubenManagerDailyTimeNotFit	Not open yet
+20003090	FubenManagerAutoFightTimesError	Auto Clear attempts error
+20003091	FubenManagerBossSingleResetCanNotSaveScore	Unable to save as the rules have been refreshed
+20003092	FubenManagerBossSingleDataIsRefresh	Side Story data has been refreshed, please reload the page.
+20003093	FubenManagerStartFightIntervalFast	You cannot challenge the quest yet
+20004001	TeamManagerGetTeamIdFail	Failed to obtain team ID
+20004002	TeamManagerPrefabExceedMax	Team default settings have reached the limit
+20004003	TeamManagerSetTeamParaError	Number of team settings error
+20007001	FightProxyManagerEnterIsExist	The player is already in another battle
+20007002	FightProxyManagerGetFightProxyFail	Failed to obtain battle proxy
+20007003	FightProxyManagerGetFightProxyForPlayerFail	Failed to obtain battle proxy (player)
+20007004	FightProxyManagerPlayerIdRepeat	Failed to obtain battle proxy (player)
+20007005	FightProxyManagerFightProxyNotFound	Failed to obtain battle proxy (player)
+20008001	FightProxyDoOperationNotRunning	Battle is not in progress
+20008002	FightProxyIsRunningFail	Battle is in progress
+20008003	FightProxyFightCompleteNotInFight	Battle has not ended yet
+20008004	FightProxyLoadCompleteFail	Battle is not loading
+20008005	FightProxyGetFightDataPlayerIdNotFound	Failed to obtain battle proxy and player info
+20008006	FightProxyDoOperationPlayerIdNotFound	Battle control error
+20008007	FightProxyLoadTimeout	Server loading timeout
+20008008	FightProxyFightTimeout	Battle server timeout
+20008009	FightProxySettleTimeout	Battle result timeout
+20008010	FightProxyJoinFightPlayerNotFound	Online player not found
+20008011	FightProxyGetFightPlayerNotFound	Failed to obtain player info
+20009001	CharacterManagerGetCharacterTemplateNotFound	Failed to obtain Construct template
+20009002	CharacterManagerGetLevelUpTemplateNotFound	Failed to obtain Construct upgrade template
+20009003	CharacterManagerGetGradeTemplateNotFound	Failed to obtain Construct Overclock template
+20009004	CharacterManagerGetQualityFragmentTemplateNotFound	Failed to obtain Construct class Shard template
+20009005	CharacterManagerGetQualityTemplateNotFound	Failed to obtain Construct class template
+20009006	CharacterManagerGetSkillUpgradeTemplateNotFound	Failed to obtain skill upgrade info
+20009007	CharacterManagerGetSkillTemplateNotFound	Failed to obtain Construct skill template
+20009008	CharacterManagerSkillNotFound	Skill not found
+20009009	CharacterManagerGetStarUseCountParamsError	Parameter error in obtaining evolution material
+20009010	CharacterManagerGetStarUseCountStarError	Evolution material error
+20009011	CharacterManagerGetCharacterByIdNotFound	Construct not found
+20009012	CharacterManagerCreateCharacterFail	Failed to create Construct
+20009013	CharacterManagerNewCharacterDataIsNil	Construct data not found
+20009014	CharacterManagerLevelUpMaxLevel	Construct level is capped
+20009015	CharacterManagerAddStarFail	Failed to increase star
+20009016	CharacterManagerMaxQuality	Construct class cap reached
+20009017	CharacterManagerActivateStarMaxStar	Already evolved to the highest level
+20009018	CharacterManagerPromoteQualityStarNotEnough	Evolution requirement not met
+20009019	CharacterManagerMaxGrade	Construct refit cap reached
+20009020	CharacterManagerExchangeCharacterAlreadyOwn	You own this Construct already
+20009021	CharacterManagerGetCharacterDataNotFound	Construct data not found
+20009022	CharacterManagerCreateCharacterAlreadyExist	Construct already exists
+20009023	CharacterManagerInformationNotFound	Data not found
+20009024	CharacterManagerRewardNotFound	Reward does not exist
+20009025	CharacterManagerStoryNotFound	Story does not exist
+20009026	CharacterManagerStrangeNewsNotFound	Episode does not exist
+20009027	CharacterManagerVoiceNotFound	Voice does not exist
+20009028	CharacterManagerTrustLvNotEnough	Insufficient Affection level
+20009029	CharacterManagerInformationAlreadyUnlock	Data has been unlocked
+20009030	CharacterManagerStoryAlreadyUnlock	Story has been unlocked
+20009031	CharacterManagerStrangeNewsAlreadyUnlock	Episode has been unlocked
+20009032	CharacterManagerStrangeNewsCanNotUnlock	Unlock requirement not met
+20009033	CharacterManagerVoiceAlreadyUnlock	Voice has been unlocked
+20009034	CharacterManagerRewardAlreadyUnlock	Reward has been obtained
+20009035	CharacterManagerRewardCanNotUnlock	Obtain requirement not met
+20009036	CharacterManagerTrustItemNotFound	Item does not exist
+20009037	CharacterManagerSendGiftParaError	Request parameter error
+20009038	CharacterManagerTrustLevelExpNotFound	Affection level error
+20009039	CharacterManagerTrustGameNotCount	Insufficient attempts
+20009040	CharacterManagerTrustGameIdNotFound	Game error
+20009041	CharacterManagerTrustGameRewardNotFound	Reward does not exist
+20009042	CharacterManagerTrustGameFinishNumError	Parameter error
+20009043	CharacterManagerTrustGameResultIllegal	Control error
+20009044	CharacterMinSkillLevelNotFound	Lowest skill level of Construct not found
+20009045	CharacterMaxSkillLevelNotFound	Highest skill level of Construct not found
+20009046	CharacterUnlockSkillNotNeed	No need to unlock Construct skill
+20009047	CharacterSkillUnlocked	Construct skill has been unlocked
+20009048	CharacterSkillIsNotFoundOrLock	Construct skill does not exist or is not unlocked yet
+20009049	CharacterSkillLevelIsMax	Highest level already
+20009050	CharacterSkillPoolTemplateNotFound	Construct skill settings not found
+20009051	CharacterSkillPoolIsEmpty	No skill is equipped
+20009052	CharacterSkillLevelEffectTemplateNotFound	Construct skill level effects not found
+20009053	CharacterExtraDataNotFound	Affection data not found
+20009054	FashionManagerGetFashionNotFound	Coating not found
+20009055	FashionIsUnOwned	You do not own this coating
+20009056	FashionIsLock	This coating has not been unlocked yet
+20009057	FashionIsUnLock	This coating has been unlocked
+20009058	CharacterGatherRewardHadGet	Reward has been claimed
+20009059	CharacterPreGatherRewardIsNotGet	Reward of the previous stage not claimed
+20012001	ItemManagerGetItemTableFailed	Failed to obtain item list
+20012002	ItemManagerGetItemNotFound	Target item not found
+20012003	ItemManagerCheckIdValidFail	Item ID does not exist
+20012004	ItemCountNotEnough	Insufficient items
+20012005	ItemCapacityNotEnough	Insufficient item space
+20012006	ItemAlreadyOwned	Item already exists
+20012007	ItemManagerGetBuyAssetTableFail	Failed to obtain purchase list
+20012008	ItemManagerBuyAssetMaxTimes	Purchase amount has reached the limit.
+20012009	ItemNotFound	Item does not exist
+20012010	ItemSellCountError	Amount of sold items error
+20012011	ItemSellFragmentLimit	You cannot sell the Shard
+20012012	ItemCannotSell	Item cannot be sold
+20012013	ItemCannotBuy	Item cannot be purchased
+20012014	ItemCannotConvertCharacterExp	Item cannot be converted into Construct EXP
+20012015	ItemCannotConvertFurnitureConfig	Item cannot be converted into Decor Blueprint
+20012016	ItemCannotUse	Item cannot be used
+20012017	ItemNotEffect	Item is not available yet
+20012018	ItemAlreadyInvalid	Item has expired
+20012019	ItemUseGiftSelectRewardIsEmpty	No reward can be selected
+20012020	ItemUseGiftSelectRewardAboveLimit	Selected rewards have exceeded the limit
+20012021	ItemUseGiftSelectRewardNotExist	No reward can be selected
+20012022	ItemCreateError	Failed to obtain item
+20012023	ItemCountException	Failed to create item
+20012024	ItemBatchCountNotEnough	Insufficient items
+20012025	ItemBatchNotFound	Item has expired
+20014001	ArrangeManagerCalTypeFail	Invalid ID, unable to identify the type.
+20017001	DropManagerGetDropGoodsFail	Failed to obtain dropped item
+20017002	DropManagerGetDropBottomTableListFail	Failed to obtain guarantee drop list
+20017003	DropManagerDropItemFailed	Failed to drop item
+20017004	DropManagerGetDropTableFail	Failed to obtain drop list
+20017005	DropManagerGetDropGroupTableFail	Failed to obtain drop group list
+20017006	DropManagerGetDropSetTableFail	Failed to obtain cluster list
+20018001	DrawManagerGetDrawGroupInfoNotFound	Research set info does not exist
+20018002	DrawManagerGetDrawInfoNotFound	Research info does not exist
+20018003	DrawManagerDrawCountError	Number of Researches error
+20018004	DrawManagerTodayTimesUseUp	Daily Research attempts have been expended
+20018005	DrawManagerTodayRemainTimesNotEnough	Insufficient daily Research attempts
+20018006	DrawManagerActivityTimesUseUp	Event Research attempts have been expended
+20018007	DrawManagerActivityRemainTimesNotEnough	Insufficient event Research attempts
+20018008	DrawManagerNotOptionalDrawId	Research ID is unable to select
+20018009	DrawManagerNotInValidTime	Expired
+20018010	DrawManagerDrawInfoNotFound	Research info not found
+20018011	DrawManagerDrawInfoAlreadyExist	Research info already exists
+20018012	DrawManagerDrawGroupInfoNotFound	Research set info not found
+20018013	DrawManagerDrawGroupAlreadyExist	Research set info already exists
+20018014	DrawManagerDrawGroupOptionalListIsEmpty	Research set info already exists
+20019001	GuideManagerGetGuideGroupTableNotFound	Research set info not found
+20019002	GuideManagerGetGuideCompleteTableNotFound	Unable to obtain guide completion list
+20019003	GuideManagerCompleteGuideErrorAlreadyCompleted	Guide error, it has been completed already.
+20019004	GuideManagerCompleteGuideErrorNotNeedReq	Guide error, no need to retry.
+20019005	GuildManagerGuildGroupIdNotFound	Guide group ID does not exist
+20020001	RewardManagerGetRewardTableFail	Failed to obtain reward list
+20020002	RewardManagerCreateRewardGoodsTypeNotSupport	Invalid type of reward
+20020003	RewardManagerGetRewardGoodsNotFound	Reward item not found
+20021001	EquipTemplateNotFound	Failed to obtain equipment info
+20021002	EquipBreakthroughTemplateNotFound	Unable to obtain equipment Overclock info
+20021003	EquipManagerGetLevelUpTemplateNotFound	Failed to obtain equipment upgrade template
+20021004	EquipManagerGetEquipNotFound	Add the cost first
+20021005	EquipManagerNewEquipFail	Failed to create equipment
+20021006	EquipManagerLevelUpMaxLevel	Equipment cap reached
+20021007	EquipManagerLevelUpLevelLimit	Equipment level limit
+20021008	EquipManagerAddBreakthroughFail	Overclock of the equipment failed
+20021009	EquipManagerBreakthroughOverstep	Overclock of the equipment exceeds the limit
+20021010	EquipManagerBreakthroughMaxBreakthrough	Overclock of the equipment is capped
+20021011	EquipManagerBreakthroughLevelNotEnough	Level of the equipment is insufficient for Overclock
+20021012	EquipManagerGetCharEquipBySiteNotFound	Equipment not found
+20021013	EquipManagerPutOnRepeat	Equipped already
+20021014	EquipManagerPutOnSiteError	Invalid grid to equip
+20021015	EquipManagerPutOnTypeError	Invalid type to equip
+20021016	EquipManagerTakeOffNotBeenWorn	Equipment has not been equipped yet
+20021017	EquipManagerTakeOffCanNotTakeOff	Equipment is unable to unequip
+20021018	EquipManagerDecomposeDoNot	You cannot recycle equipment in use
+20021019	EquipManagerDecomposeConfigNot	No corresponding term for the recycle list
+20021020	EquipWeaponCapacityNotEnough	Insufficient weapon space
+20021021	EquipChipCapacityNotEnough	Insufficient Memory space
+20021022	EquipManagerGetSuitTemplateNotFound	Failed to obtain equipment set settings
+20021023	EquipManagerGetSuitEffectTemplateNotFound	Failed to obtain equipment set bonus settings
+20021024	EquipIsLocked	Lock Equipment
+20021025	EquipIsUnLock	Unlock Equipment
+20021026	EquipCanNotPutOnByThisCharacter	It cannot be worn by the Construct
+20021027	EquipGetEatCostCoinNotFound	Failed to consume Cogs in equipment upgrade
+20021028	EquipLevelUpUseEquipListIsEmpty	No equipment is selected as the cost of enhancement
+20021029	EquipEatUseRepeatEquip	Consumed equipment ID duplicated
+20021030	EquipResonanceCanNotUseSelf	You cannot consume this equipment
+20021031	EquipResonanceCharacterNotOwned	You do not own any Construct with Resonance
+20021032	EquipResonanceUnconfirmedInfoUntreated	Resonance info not confirmed
+20021033	EquipResonanceUseEquipTypeNotSame	Type of Resonance cost mismatched
+20021034	EquipResonanceWeaponStarNotSame	Rank of Resonance cost mismatched
+20021035	EquipResonanceChipSuitIsNotSame	Set ID of Resonance cost mismatched
+20021036	EquipResonanceTemplateNotFound	Resonance settings not found
+20021037	EquipResonanceUseItemTemplateNotFound	Item used for Resonance not found
+20021038	EquipResonanceCanNotUseThisItem	The item cannot be used for Resonance
+20021039	EquipWeaponSkillTemplateNotFound	Skill settings of weapon not found
+20021040	EquipSkillPoolIsEmpty	No skill is equipped
+20021041	EquipResonanceSlotConfigIsEmpty	Resonance slot is empty
+20021042	EquipResonanceConfigError	Resonance settings error
+20021043	EquipResonanceConfirmInfoIsEmpty	Confirmation info of Resonance not found
+20021044	EquipLevelUpCanNotEatSelf	You cannot upgrade the weapon with itself
+20021045	EquipResonanceNeedSelectCharacter	Select the Construct to resonate
+20021046	EquipDecomposeListIsEmpty	Recycle list is empty
+20021047	EquipSuitNotFound	Unable to obtain Memory info
+20021048	EquipSuitCanNotTransform	The Memory set can no longer be refit.
+20021049	EquipSuitSiteError	Invalid grid for the Memory set
+20021050	EquipTransformChipUseEquipCountError	Amount of equipped items error
+20021051	EquipTransformChipUseEquipSuitError	Invalid grid to equip
+20021052	EquipSuitSiteConfigNotFound	Invalid info of obtained Memory set
+20021053	EquipResonancePoolIsEmpty	No Resonance is equipped
+20021054	EquipResonanceWeaponSkillPoolIsEmpty	No Resonance of weapon skill is equipped
+20021055	EquipResonanceCharacterSkillPoolIsEmpty	No Resonance of Construct skill is equipped
+20021056	EquipResonanceAttribGroupPoolIsEmpty	Resonance stats is empty
+20021057	EquipChipGroupCountLimit	The amount of Memory Set has exceeded the limit
+20021058	EquipChipGroupNameTooLong	Memory Set name is too long
+20021059	EquipChipGroupNameInvalid	Invalid Memory Set name
+20021060	EquipChipGroupEquipSiteError	Invalid type of Memory Set
+20021061	EquipChipGroupSiteRepeated	Duplicate grid in the Memory Set
+20021062	EquipChipGroupNotFound	Memory Set not found
+20026001	TaskManagerInitFail	Failed to initialize mission system
+20026002	TaskManagerInitTaskConfigFail	Failed to initialize mission settings
+20026003	TaskManagerGetTaskConditionFail	Failed to obtain mission requirement
+20026004	TaskManagerGetTaskTemplateFail	Failed to obtain mission template
+20026005	TaskManagerFinishTaskTaskNotFound	Mission not found
+20026006	TaskManagerFinishTaskTaskAlreadyFinish	Mission completed
+20026007	TaskManagerFinishTaskTaskNotAchieved	Mission has expired
+20026008	TaskManagerTaskNotExist	Mission does not exist
+20026009	TaskManagerGetActivenessStageRewardNotExist	Activity reward does not exist
+20026010	TaskManagerGetActivenessRewardUnknownType	Unknown type of activity
+20026011	TaskManagerGetActivenessRewardAlreadyGeted	Reward Claimed
+20026012	TaskManagerCourseRewardNotExist	Failed to obtain milestone reward info
+20026013	TaskManagerCourseRewardAlreadyGeted	Milestone reward claimed
+20026014	TaskManagerCourseStageAlreadyGeted	Milestone reward claimed
+20026015	TaskManagerTaskUnOpen	Mission has not been unlocked yet
+20026016	TaskManagerTaskClose	Mission has been closed
+20026017	TaskManagerTaskNotTimeLimit	Mission has expired
+20026018	TaskManagerNewPlayerActivenessIsNotExist	Reward does not exist
+20026019	TaskManagerNewPlayerActivenessRewardIsNotExist	Reward does not exist
+20026020	TaskManagerNewPlayerActivenessAlreadyGet	Reward Claimed
+20026021	TaskManagerNewPlayerActivenessIsNotEnough	Insufficient EXP to claim
+20026022	TaskManagerNewPlayerTaskTodayCanNotFinish	You cannot complete this mission today
+20027001	MailManagerGetMailFail	Failed to obtain mail
+20027002	MailManagerGetRewardIsEmpty	There is no mail reward
+20027003	MailManagerGetRewardRepeat	Mail reward claimed
+20027004	MailManagerMailNotEffect	Ineffective mail
+20027005	MailManagerMailWasInvalid	Invalid mail
+20027006	MailManagerGetRewardWasInvalidOrRewardEmpty	Mail has expired or there is no mail reward
+20027007	MailManagerMailIdInvalid	Invalid mail id
+20027008	MailManagerMailExist	Mail already exists
+20027009	MailManagerMailNotExist	Mail does not exist
+20027010	MailManagerGetMailRewardListNotFoundReward	Mail reward settings not found
+20027011	MailManagerGetMailRewardSomeGoodsMoreThanCapacity	Unable to obtain all the rewards as some of the items have exceeded the limit
+20027012	MailManagerIsDeleted	Mail has been deleted
+20027013	MailManagerIsRead	Mail has been read
+20027014	MailCapacityNotEnough	Mail limit reached
+20029001	AttribManagerGetAttribTemplateNotFound	Failed to obtain stats template
+20029002	AttribManagerGetPromotedAttribTemplateNotFound	Failed to obtain level upgrade stats template
+20029003	AttribManagerGetGrowRateAttribTemplateNotFound	Failed to obtain ration up stats template
+20029004	AttribManagerGetTotalPromotedAttribsParamArrayError	Failed to obtain ration up stats
+20029005	AttribManagerGetTotalPromotedAttribsLevelError	Failed to obtain the total level of level upgrade stats
+20029006	AttribManagerGetNpcAttribNpcNotFound	NPC not found
+20029007	AttribGroupPoolNotFound	Stats set not found
+20029008	AttribGroupNotFound	Stats set not found
+20029009	AttribReviseTemplateNotFound	Failed to obtain ratio change stats template
+20030002	ShopManagerAddGoodsInfoAlreadyExist	Product info has been imported
+20030003	ShopManagerShopUnOpen	Shop is not available yet
+20030004	ShopManagerShopClosed	Shop closed
+20030005	ShopManagerGoodsUnOpen	The product is not available yet
+20030006	ShopManagerGoodsClosed	The product is no longer sold
+20030007	ShopManagerShopNotExist	The shop is not on the list
+20030008	ShopManagerGoodsNotExist	The product is not on the list
+20030009	ShopManagerGoodsGroupNotExist	The product set is not on the list
+20030010	ShopManagerNotResetTimes	Insufficient reset attempts
+20030011	ShopManagerShopNotBuyTimes	Insufficient total purchase attempts in shop
+20030012	ShopManagerGoodsNotBuyTimes	Insufficient purchase attempts
+20030013	ShopGoodsAlreadyExist	Product already exists
+20030014	ShopIsUnShelve	Shop closed
+20030015	ShopGoodsIsUnShelve	The product is no longer sold
+20030016	ShopRequestParamsException	Shop request parameter error
+20030017	ShopBuyGoodsCountLimit	The purchase amount of products has exceeded the limit
+20030018	ShopKindIsNotReset	Unable to refresh the shop
+20031001	FriendManagerApplyFriendFailedIsRefused	Friend request has been rejected
+20031002	FriendManagerApplyFriendFailedIsDeleted	Failed to send friend request as you have unfriended the player
+20031003	FriendManagerApplyFriendFailedIsAlreadyFriend	Failed to send friend request as the player is already your friend
+20031004	FriendManagerApplyFriendFailedIsNotRepeatApply	Failed to send friend request as you have requested already
+20031005	FriendManagerAcceptFriendFailedApplyIsNotExist	Failed! Player does not exist or is your friend already!
+20031006	FriendManagerAcceptFriendFailedSelfFriendCountOutOfMaxCount	Failed to accept friend request as your friend list is full
+20031007	FriendManagerRecommendFriendFailedRecommendCoolDownTime	Friend recommendation failed due to cool down
+20031008	FriendManagerCanNotOperateSelf	Operation failed. You cannot operate yourself.
+20031009	FriendManagerGetPlayerInfosFailedReqListIsNull	Failed to obtain player info as the request list is empty
+20031010	FriendManagerDeleteFriendsFailedReqListIsNull	Failed to unfriend as the request list is empty
+20031011	FriendManagerApplySuccess	Application has been submitted
+20031012	FriendManagerDeleteSuccess	Unfriended
+20031013	FriendManagerCanNotPlayerForId	Player does not exist
+20031014	FriendManagerAcceptFriendFailedOtherFriendCountOutOfMaxCount	Failed to accept friend request as the player's friend list is full
+20031015	FriendManagerApplySelfFriendNumLimit	Failed to request as your friend list is full
+20031016	FriendManagerApplyOtherFriendNumLimit	Failed to request as the player's friend list is full
+20031017	FriendManagerApplyListFull	Failed to request as the player's friend request list is full
+20031018	FriendManagerMyFriendFull	Friend list is full
+20031019	FriendManagerOtherFriendFull	The player's friend list is full
+20031020	FriendManagerAgreeIsFriend	Failed to accept request as the player is already your friend
+20031021	FriendManagerIsNotFriend	Cannot add notes as the player is not your friend
+20031022	FriendManagerInvalidRemark	Invalid notes
+20032001	FightCheckManagerCodeNotMatch	Abnormal error in battle data (0)
+20032002	FightCheckManagerCodesTooLong	Abnormal error in battle data (1)
+20032003	FightCheckManagerCheckSkip	Abnormal error in battle data (2)
+20032004	FightCheckManagerSettleCodeNotMatch	Abnormal error in battle data (3)
+20032005	FightCheckManagerParamIllegal	Abnormal error in battle data (4)
+20032006	FightCheckManagerNotSettle	Abnormal error in battle data (5)
+20033001	ChatManagerSendChatErrorCannotSendGift	Error occurs when sending message
+20033002	ChatManagerChatContentCanNotBeNull	You cannot leave it blank
+20033003	ChatManagerGetGiftFailedInvalidGift	Invalid gift
+20033004	ChatManagerRefreshTimeCooling	Message in cool down
+20033005	ChatManagerGetGiftAlreadyMaxCount	The amount of received gifts has reached the daily limit
+20033006	ChatManagerGetGiftNotGift	No receivable gift
+20033007	ChatManagerSendMsgNotAllowed	Contains illegal characters
+20033008	ChatManagerNoSendGiftFriend	Presentation attempts reset at 07:00 (UTC)
+20033009	ChatManagerChatChannelInvalid	Failed to send message
+20033010	ChatManagerChatChannelIdInvalid	Illegal content
+20033011	ChatContentTooLong	Your message is too long
+20033012	ChatIsBanned	You have been muted
+20033013	ChatChannelNotExist	Channel has been disbanded
+20034001	ConditionManagerParamsError	Requirement parameter error
+20034002	ConditionManagerGetConditionTemplateNotFound	Requirement settings not found
+20034003	ConditionManagerPlayerLevelNotEnough	Insufficient player level
+20034004	ConditionManagerNotOwnCharacter	You does not own the specific Construct
+20034005	ConditionManagerOwnCharacterCanNotFight	Unable to deploy specific Constructs
+20034006	ConditionManagerCharacterCountNotEnough	You do not have enough Constructs
+20034007	ConditionManagerCharacterSexIsError	Construct gender does not meet the requirement
+20034008	ConditionManagerCharacterTypeIsError	Construct type does not meet the requirement
+20034009	ConditionManagerCharacterLevelIsError	Construct level does not meet the requirement
+20034010	ConditionManagerCharacterQualityIsError	Construct class does not meet the requirement
+20034011	ConditionManagerMapNotPassed	Stage not completed
+20034012	ConditionManagerCharacterSexNumIsError	Team member gender error
+20034013	ConditionManagerCharacterTypeNumIsError	Team member type error
+20034014	ConditionManagerCharacterQualityNumIsError	Team member class does not meet the requirement
+20034015	ConditionManagerCharacterLevelNumIsError	Team member level does not meet the requirement
+20034016	ConditionManagerCharacterIdNumIsError	You have not deployed the specific Construct as a team member
+20034017	ConditionManagerCharacterAbilityNotEnough	Construct's BR does not meet the requirement
+20034018	ConditionManagerCharacterResonanceNotEnough	Construct's Resonance does not meet the requirement
+20034019	ConditionManagerCharacterNumIsError	Number of deployed team members error
+20034020	ConditionManagerCharacterExhibitionLevelNotEnough	Awaken requirement of Construct not met
+20034021	ConditionManagerIsNotGetFirstPayReward	1st Recharge reward not claimed
+20034022	ConditionManagerIsNotOwnerFashion	You do not own the specific outfit
+20034023	ConditionManagerIsOwnerFashion	You have owned the specific outfit
+20034024	ConditionManagerExperimentIdIsNotFinish	Specific stage of trial area not completed
+20034025	ConditionManagerWeaponResonanceNotEnough	Insufficient equipment Resonance Skills
+20034026	ConditionManagerChipResonanceNotEnough	Insufficient Memory Resonance Skills
+20034027	ConditionManagerEquipResonanceNotEnough	Insufficient equipment Resonance Skills
+20034028	ConditionManagerRedEnvelopeNotEnough	Insufficient gifts claimed by Construct
+20036001	RobotManagerInitCharacterQualityFail	Robot class error
+20036002	RobotManagerInitCharacterLevelFail	Robot level error
+20036003	RobotManagerInitCharacterGradeFail	Robot rank error
+20036004	RobotManagerInitSkillLevelFail	Robot skill error
+20036005	RobotManagerInitWeapoonLevelFail	Invalid weapon level of robot
+20036006	RobotManagerInitWeapoonAweakenFail	Invalid robot weapon awakening
+20036007	RobotManagerInitWeapoonBreakThroughFail	Invalid robot weapon enhancement
+20036008	RobotManagerRobotNotExit	Robot not found
+20037001	PersonalInfoQueryPlayerDataFail	Failed to obtain personal info
+20038001	DailyGiveALikeFail	Failed to like
+20038002	DailyAddLikeSuccess	Liked
+20038003	DailyDelLikeSuccess	Failed to unlike
+20038004	DailyBanMsgFail	Failed to mute
+20039001	BaseEquipTemplateNoFound	HQ facility not found
+20039002	BaseEquipAttribPoolsNoFound	Stats Pool settings not found
+20039003	BaseEquipBottomPoolTemplateNoFound	Guarantee Pool settings not found
+20039004	BaseEquipNotFound	HQ facility not founded
+20039005	BaseEquipEvaluated	HQ facility has been evaluated
+20039006	BaseEquipNotEvaluate	HQ facility has not been evaluated yet
+20039007	BaseEquipWasPutOn	HQ facility is in use
+20039008	BaseEquipPutOnLevelLimit	Level requirement of floor equipment
+20040001	BountyTaskHaveNoTask	Mission does not exist
+20040002	BountyTaskUpperLimit	Unable to accept any more missions as the number of missions has reached the limit
+20040003	BountyTaskHasAccept	Mission accepted
+20040004	BountyTaskStatusError	Bounty Mission status error
+20040005	BountyTaskRefreshUpperLimit	Insufficient refresh attempts of Bounty Mission
+20040006	BountyTaskHaveNoTaskInTaskPool	There is no Bounty Mission at the moment
+20040007	BountyTaskRefreshFail	Failed to refresh Bounty Mission
+20041001	TaskForceTaskPoolIsFull	Mission list is full
+20041002	TaskForceCountLimit	Number of dispatch teams has reached the limit
+20041003	TaskForceHaveNoThisTaskInTaskPool	Mission does not exist
+20041004	TaskForceHaveNoThisTask	Mission does not exist
+20041005	TaskForceCharacterLevelLimit	Level of the dispatch team does not meet the requirement
+20041006	TaskForceTaskHasAccept	Mission has been accepted
+20041007	TaskForceHaveNoCharacter	Construct does not exist
+20041008	TaskForceCharacterHasBeenDispatched	Construct has been dispatched
+20041009	TaskForceNotAcceptThisTask	Mission unaccepted
+20041010	TaskForceTaskWasCompleted	Mission completed
+20041011	TaskForceTaskTheTaskIsNotCompleted	Mission not completed
+20043001	VoteGroupTemplateNotFound	Failed to obtain template data of the vote set
+20043002	VoteIsNotEffect	Vote info does not exist
+20043003	VoteIsInvalid	Failed to vote
+20043004	VoteIsClosed	Vote closed
+20043005	VoteTimesIsUseUp	Voted
+20043006	VoteIdUnknown	Failed to vote
+20044001	ArenaActivityNotFound	Event does not exist
+20044002	ArenaActivityIsLoading	Loading data
+20044003	ArenaActivityFuncIsNotOpen	Feature is not available yet
+20044004	ArenaActivityChallengeRegulatorNotFound	War Zone manager does not exist
+20044005	ArenaActivityPlayerNotFound	Player does not exist
+20044006	ArenaActivityPlayerHaveTeam	Player is in a team already
+20044007	ArenaActivityTeamIsFull	The team is full
+20044008	ArenaActivityPlayerIsInTeam	You are already in the team
+20044009	ArenaActivityPlayerNotHaveChallengeId	Suitable War Zone not found
+20044010	ArenaActivityArenaServiceIsNotFound	Server error
+20044011	ArenaActivityTeamIsNotFound	Team does not exist
+20044012	ArenaActivityTeamIsAlreadyApply	Request Sent
+20044013	ArenaActivityIsNotCaptain	Only team leader can do this
+20044014	ArenaActivityPlayerIsNotApply	Not applied yet
+20044015	ArenaActivityPlayerIsNotInTeam	You are not in a team
+20044016	ArenaActivityTargetIsNotFound	Target does not exist
+20044017	ArenaActivityTargetHaveTeam	The player is already in a team
+20044018	ArenaActivityPlayerIsNotInviter	You are not invited
+20044019	ArenaActivityPlayerGroupNotFound	Challenge team does not exist
+20044020	ArenaActivityAreaIsNotOpen	The area is not available yet
+20044021	ArenaActivityAreaIsAlreadyUnlock	The area has been unlocked
+20044022	ArenaActivityPlayerAlreadyJoin	Joined
+20044023	ArenaActivityPlayerJoinFail	Failed to join
+20044024	ArenaActivityStageIsError	Stage error
+20044025	ArenaActivityChallengeIdIsNotExist	War Zone ID does not exist
+20044026	ArenaActivityAreaIsNotUnlock	Area has not been unlocked yet
+20044027	ArenaActivityAreaIdIsNotFound	Area does not exist
+20044028	ArenaActivityPreStageIsNotFinish	You have not completed the previous stage yet
+20044029	ArenaActivityPlayerIsNotJoin	You have not participated in the current event
+20044030	ArenaActivityPlayerIsNotJoinBefore	You did not participate in the previous event
+20044031	ArenaActivityStatusIsCanNotOprea	You cannot do this under the current state
+20044032	ArenaActivityStatusCanNotFight	You cannot battle under the current state
+20044033	ArenaActivityNotHaveUnlockCount	No unlock attempts
+20044034	ArenaActivityActivityRegulatorNotFound	War Zone event does not exist
+20044035	ArenaActivityStageError	Stage ID of War Zone error
+20044036	ArenaActivityOperateFail	Operation failed
+20044037	ArenaActivityInviteTargetIsNotJoin	Invitation failed as the player has not entered the War Zone yet
+20045001	MatchCreateRoomFailed	Failed to create room
+20045002	MatchLevelLimit	Insufficient level
+20045003	MatchInvalidStageId	Failed to create room
+20045004	MatchRoomIsFull	The room is full
+20045005	MatchInvalidRoomId	Invalid room Id
+20045006	MatchRoomNotFound	Target room not found
+20045007	MatchRoomNotReady	The room is not ready
+20045008	MatchRoomInFight	Battle has started
+20045009	MatchPlayerAlreadyInMatchPool	Matching
+20045010	MatchPlayerNotInMatchPool	Not matching
+20045011	MatchPlayerAlreadyInRoom	You are in a room already
+20045012	MatchPlayerNotInRoom	You are not in a room
+20045013	MatchPlayerNotInThisRoom	You are not in the room
+20045014	MatchPlayerStateError	Status error
+20045015	MatchPlayerNotLeader	You are not the Host
+20045016	MatchCanNotTransferLeaderToYourSelf	You cannot appoint yourself as the Host
+20045017	MatchPlayerNotFound	Target player not found
+20045018	MatchRoomLeaderForceLeave	You were kicked out by the Host
+20045019	MatchRoomClose	Room has been disbanded
+20045020	MatchStartTimeout	You were kicked out due to long standby time
+20045021	MatchCharacterNotUnique	Duplicate Constructs in the team
+20045022	MatchPlayerOffline	Player is offline
+20046001	ExploreChapterIsNotExist	Exploration chapter does not exist
+20046002	ExploreChapterIsNotFinished	Chapter not completed
+20046003	ExplorePreChapterIsNotFinished	You have not completed the previous chapter yet
+20046004	ExploreChapterRewardIsGot	Reward Claimed
+20046005	ExploreChapterNodeIsNotExist	Exploration point does not exist
+20046006	ExplorePreNodeIsNotFinished	Complete the previous point first
+20046007	ExploreNodeIsFinished	Stage completed
+20046008	ExploreEnduranceIsNotEnough	Insufficient Stamina
+20047001	PayManagerGetPayTemplateNotFound	Unable to find the corresponding recharge settings
+20047002	PayInsertReceiptFail	Recharge error
+20048001	BranchChallengeIsNotExist	Challenge ID does not exist
+20048002	BranchPreStageNotFinish	You have not completed the previous stage yet
+20048003	BranchFightIsEnd	Battle time is over
+20048004	BranchSectionIdNotFound	Side Challenge ID does not exist
+20048005	BranchDifficultStageNotOpen	Challenge difficulty is not available yet
+20049001	BossActivitySectionIsNotExist	Boss chapter does not exist
+20049002	BossActivitySectionIsNotHaveStage	The stage does not exist in this chapter
+20049003	BossActivitySectionPreStageNotFinish	You have not completed the previous stage yet
+20049004	BossActivityIsEnd	Battle period is over
+20050001	SignIdIsNotExist	Sign-in ID does not exist
+20050002	SignIdIsClose	Sign-in is over
+20050003	SignInfoNotFound	Sign-in failed
+20050004	SignRewardIsGot	Signed in
+20050005	SignRewardIsNotExist	Sign-in reward does not exist
+20051001	ExperimentGroupIsEnd	Trial is over
+20051002	ExperimentLevelIdError	Invalid trial area Id
+20051003	ExperimentGroupNotOpen	Trial is not available yet
+20052001	PracticeChapterIsNotFound	Chapter does not exist
+20052002	PracticeChapterStageIsError	Stage does not exist
+20052003	PracticePreStageNotFinish	Previous stage completed
+20053001	PurchaseTemplateNotFound	Pack settings not found
+20053002	PurchaseTimeNotEffect	The pack is not available yet
+20053003	PurchaseTimeWasInvalid	Invalid pack
+20053004	PurchaseWasUnShelve	The pack is no longer available
+20053005	PurchaseBuyTimesLimit	Purchase attempts have been expended
+20053006	PurchaseRemainDayLimit	Remaining days until the next purchase
+20053007	PurchaseIntervalDayLimit	The pack is not available yet
+20053008	PurchasePrePurchaseLimit	Purchase requirement
+20053009	PurchasePrePurchaseIsOnSale	You need to purchase the previous pack first
+20053010	PurchaseRecordNotFound	Monthly Pass not purchased
+20053011	PurchaseDailyRewardAlreadyGet	Daily reward claimed
+20053012	PurchaseDailyRewardExpire	Monthly Pass expired
+20053013	PurchaseNotContainDailyReward	Purchased item does not include daily reward
+20053101	PurchaseExistMutexItem	Already own a conflicting product. Cannot purchase and replace it now.
+20054001	CdKeyInvalid	Invalid gift code, please check again.
+20054002	CdKeyNotTimeYet	Out of exchange period, please check again.
+20054003	CdKeyTotalCountFull	Gift code has been used, please check again.
+20054004	CdKeyChannelWrong	Invalid channel, please check again.
+20054005	CdKeyPlayerCountFull	You have claimed the reward already
+20054006	CdKeyTimeOut	Gift code has expired, please check again.
+20055001	HeadPortraitTemplateNotFound	Portrait settings not found
+20055002	HeadPortraitNotOwned	You do not own this portrait
+20057001	FestivalActivityIsNotOpen	Event is not available yet
+20057002	FestivalActivityIsOver	Event is over
+20057003	FestivalActivityIdNotFount	Event is over
+20058001	RedEnvelopeActivityInvalid	Invalid Gift Event
+20058002	RedEnvelopeActivityNotOpen	Event is not available yet
+20058003	RedEnvelopeActivityHaveClose	Event is over
+20059001	BabelTowerActivityNotOpen	Event is not available yet
+20059002	BabelTowerActivityIsOver	Event is over
+20059003	BabelTowerFightIsEnd	Battle over
+20059004	BabelTowerStageIdError	Stage ID error
+20059005	BabelTowerCharacterIsInOtherStage	Construct has been locked in another stage
+20059006	BabelTowerSupportPointIsNotEnough	Insufficient Support Points
+20059007	BabelTowerStageGuideIdError	Stage Guide ID error
+20059008	BabelTowerPreGuideInNotFinish	Complete the previous tutorial stage first
+20059009	BabelTowerGuideChallengeBuffError	Challenge Buff setting error
+20059010	BabelTowerSelectChallengeBuffGroupError	Challenge Buff Set setting error
+20059011	BabelTowerSelectChallengeBuffNotInGroup	Challenge Buff not found
+20059012	BabelTowerSelectChallengeBuffGroupNotRepeat	Cannot set duplicate Challenge Buff Set
+20059013	BabelTowerSelectSupportBuffGroupError	Support Buff Set error
+20059014	BabelTowerSelectSupportBuffNotInGroup	Support Buff not found
+20059015	BabelTowerSelectSupportBuffGroupNotRepeat	Cannot set duplicate Support Buff Set
+20059016	BabelTowerCacheDataIsNull	Please select stage data first
+20059017	BabelTowerStageIdIsNotSameCacheData	Stage error
+20059018	BabelTowerPreStageIsNotFinished	You have not completed the previous stage yet
+20059019	BabelTowerPreStageScoreNotEnough	Insufficient points from previous stage
+20059020	BabelTowerStageNotOpen	The stage is not available yet
+20059021	BabelTowerPreFightTeamError	Deployed team error
+20059022	BabelTowerTowerStageInfoIsNull	Stage not completed
+20059023	BabelTowerTowerStageIsAlreadyReset	Stage record deleted
+20059024	BabelTowerTowerStageIsNotReset	Stage record not deleted
+20059025	BabelTowerTeamCharacterIdIsBanned	Forbidden characters in team
+20060001	DormDormitoryHasActivated	The room has been activated
+20060002	DormCannotFindDormitoryTemplate	Room settings not found
+20060003	DormItemNotEnough	Insufficient items
+20060004	DormDormitoryNotActivated	The room has not been activated yet
+20060005	DormInvalidFurnitureId	Invalid decor ID
+20060006	DormGetRandomFurnitureConfigIdFails	Failed to obtain decor settings ID randomly
+20060007	DormGetFurnitureTemplateFails	Failed to obtain decor settings
+20060008	DormStringInvalid	Contains illegal characters
+20060009	DormCharacterIdInvalid	Invalid Construct id
+20060010	DormCharacterEventTemplateIdInvalid	Construct event not found
+20060011	DormCharacterEventTypeTemplateIdInvalid	Type of Construct event not found
+20060012	DormCharacterEventNotExist	Construct event does not exist
+20060013	DormGetFurnitureReturnFails	Failed to recycle decor
+20060014	DormGetFurnitureLevelReturnFails	Failed to recycle decor level
+20060015	DormGetFurnitureRandomAdditionAttrFails	Failed to obtain extra random boosts of decor stats
+20060016	DormEventRateFails	Dormitory event rate not met
+20060017	DormEventCdFails	Dormitory event in cool down
+20060018	DormEventDailyCountFails	Dormitory event has reached the daily limit
+20060019	DormEventWeekCountFails	Dormitory event has reached the weekly limit
+20060020	DormEventMoodNotFit	Required Mood for dormitory event not met
+20060021	DormEventVitalityNotFit	Required Stamina for dormitory event not met
+20060022	DormCreateFurnitureBaseDataFails	Insert at least 3 Decor Coin
+20060023	DormVisitSelfDorm	You cannot visit your own dormitory
+20060024	DormRecommendCd	Refresh in cool down
+20060025	DormCharacterWorking	Construct is working
+20060026	DormCharacterVitalityNotEnough	Stamina of the Construct is insufficient
+20060027	DormCharacterNotWorking	Construct is at leisure
+20060028	DormFurnitureCreating	There has been a decor under construction
+20060029	DormFurnitureCreatePosInvalid	Invalid position to build
+20060030	DormNoFurnitureCreating	No decor is under construction
+20060031	DormFurnitureCreateNotComplete	Decor is still under construction
+20060032	DormCharacterFull	Dormitory is full
+20060033	DormCharacterNotInDormitory	Construct is not in the room
+20060034	DormCharacterNotEnough	Insufficient dormitory residents
+20060035	DormInvalidFurnitureAttrType	Invalid type
+20060036	DormFurnitureAttrNotEnough	Insufficient room decor stats
+20060037	DormFurnitureTypeNotSame	Type of decor to refit mismatched
+20060038	DormCannotFindWorkTemplate	Working settings not found
+20060039	DormWorkSeatNotEnough	Working spaces are full
+20060040	DormRequestDataInvalid	Invalid request protocol
+20060041	DormCharacterHaveInDormitory	Construct is already in the dormitory
+20060042	DormWorkPosIsUsing	The working space has been occupied
+20060043	DormLoadPlayerFails	Failed to load data of visiting player
+20060044	DormCharacterRewardTemplateNotFound	Dormitory Corrupted reward settings not found
+20060045	DormCharacterMoodNotEnough	Resident's Mood too low
+20060046	DormNoCharacterCanVisit	No Constructs can be visited
+20060047	DormGetFurnitureRewardTemplateFails	Dormitory Decor reward settings not found
+20061001	GachaTemplateNotFound	Gacha configuration not found
+20061002	GachaRewardUseUp	No Gacha rewards left
+20061003	GachaNotOpen	Event is not available yet
+20061004	GachaClosed	Gacha closed
+20061005	GachaTimesUseUp	No Gacha attempts left
+20061006	GachaTimesNotEnough	Not enough Gacha attempts
+20081001	DailyLotteryInvalidId	Event ID not found
+20081002	DailyLotteryIdIsClosed	Event is not available yet
+20081003	DailyLotteryDataNotFound	Event data not found
+20081004	DailyLotteryRewardIsGot	Insufficient Main Story attempts
+20081005	DailyLotteryInvalidLotteryRewardId	Invalid event reward ID
+20140001	SlotMachinesTemplateNotFound	detector settings not found
+20140002	SlotMachinesIconTemplateNotFound	detector symbol settings not found
+20140003	SlotMachinesActivityTemplateCanNotFound	detector event not found
+20140004	SlotMachinesTemplateIconNotFound	detector symbols not found
+20140005	SlotMachinesActivityNotOpen	Event is not available yet
+20140006	SlotMachinesActivityIsNotFound	Event is over
+20140007	SlotMachinesScoreAlreadyFull	Points full
+20140008	SlotMachinesStartConfigNeedPerUnlock	Need?to?complete?the?Common?Detector?before?unlocking?the?Wide-Range?Detector
+20140009	SlotMachinesPerDataIsNull	No prerequisite detector data
+20140010	SlotMachinesNeedAchievePerUnlockScore	Points must reach unlock prerequisite
+20140011	SlotMachinesReceiveRewardNotExist	Rewards to claim does not exist
+20140012	SlotMachinesScoreIsNotEnough	Not enough points. Cannot claim.
+20140013	SlotMachinesRewardIsAlreadyReceive	Reward claimed
+20140014	SlotMachinesRockTypeNotFound	detector error
+20140015	SlotMachinesCoinEnoughNotNeedBuy	Enough Cell Battery, no need to purchase
+20140016	SlotMachinesBuyNumNoMatchNeedNum	The quantity purchased don't match the quantity required
+30002001	PlayerNotExist	Player does not exist
+30002002	ServerNodeNotFound	Server not found
+30002003	RequestError	Request error
+40001001	PayLoginTypeNonsupport	Invalid type of recharge
+40001002	PayCheckSignUnMatch	Invalid type of recharge
+40001003	PayDecodeSignException	
+40001004	PayGetOrderInfoError	Failed to obtain recharge order
+40001005	PayCheckReceiptGameNoIsNullOrEmpty	Recharge info not found
+40001006	PayCheckReceiptGameOrderIsNullOrEmpty	Recharge info not found
+40001007	PayReceiptNotFound	Recharge permit not found
+40001008	PayCheckReceiptGoodsIdUnMatch	Product ID on the recharge permit mismatched
+40001009	PayCheckReceiptAmountUnMatch	Price on the recharge permit mismatched
+40001010	PayCheckReceiptChannelIdUnMatch	Channel on the recharge permit mismatched
+40001011	PayCheckReceiptChannelUidUnMatch	User ID on the recharge permit mismatched
+40001012	PayUpdateReceiptStatusFail	Failed to refresh the recharge permit
+40001013	PayFirstPayRewardIsGet	1st Recharge reward claimed
+40001014	PayTotalPayMoneyNotEnough	Insufficient total recharge
+40001015	PayOrderAlreadyRefund	
+40001016	PayUseKeyPlatformError	
+40001017	AccumulatedPayIdIsError	Total Recharge ID error
+40001018	AccumulatedPayIdIsNotExist	Total Recharge ID does not exist
+40001019	AccumulatedPayIdNotInOpenTime	Total Recharge event is not available yet
+40001020	AccumulatedPayRewardIdIsError	Total Recharge reward ID error
+40001021	AccumulatedPayRewardIdIsNotExist	Total Recharge reward ID does not exist
+40001022	AccumulatePayRewardIdIsGot	Reward Claimed
+40001023	AccumulatePayRewardMoneyNotEnough	Insufficient recharge amount
+40001024	PayUnsupportedTargetType	
+40001025	PayInvalidPlatformForPay	
+40001026	PayPlatformPayKeyNotMatch	
+40001027	PayModuleNotHandled	

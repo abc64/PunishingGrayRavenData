@@ -1,0 +1,3769 @@
+[
+    {
+        "Id": 0,
+        "Key": "Success",
+        "Text": "Success"
+    },
+    {
+        "Id": 1,
+        "Key": "Fail",
+        "Text": "Failed"
+    },
+    {
+        "Id": 2,
+        "Key": "ServerInternalError",
+        "Text": "Temporary unavailable due to game server error"
+    },
+    {
+        "Id": 3,
+        "Key": "ServiceUnavailable",
+        "Text": "Temporary unavailable as the service is not yet launched"
+    },
+    {
+        "Id": 4,
+        "Key": "ParamsError",
+        "Text": "Parameter error"
+    },
+    {
+        "Id": 1001,
+        "Key": "GateServerNotOpen",
+        "Text": "Server is not yet available\\nOpening time"
+    },
+    {
+        "Id": 1002,
+        "Key": "GateServerUpperLimit",
+        "Text": "Server population has reached the limit"
+    },
+    {
+        "Id": 1003,
+        "Key": "LoginApplicationVersionError",
+        "Text": "Application is not up to date"
+    },
+    {
+        "Id": 1004,
+        "Key": "LoginDocumentVersionError",
+        "Text": "Source is not up to date"
+    },
+    {
+        "Id": 1005,
+        "Key": "LoginMd5Error",
+        "Text": "Config table is not up to date, please restart to update."
+    },
+    {
+        "Id": 1006,
+        "Key": "LoginInvalidStatus",
+        "Text": "Login request error"
+    },
+    {
+        "Id": 1007,
+        "Key": "LoginInvalidLoginToken",
+        "Text": "Account has expired, please login again."
+    },
+    {
+        "Id": 1008,
+        "Key": "LoginInvalidUserId",
+        "Text": "Account does not exist"
+    },
+    {
+        "Id": 1009,
+        "Key": "LoginAccessDenied",
+        "Text": "Account has no permission"
+    },
+    {
+        "Id": 1010,
+        "Key": "LoginLoadMemberFailed",
+        "Text": "Failed to load data"
+    },
+    {
+        "Id": 1011,
+        "Key": "LoginServiceInvalidLoginType",
+        "Text": "Invalid login"
+    },
+    {
+        "Id": 1012,
+        "Key": "LoginServiceInvalidToken",
+        "Text": "Invalid Token"
+    },
+    {
+        "Id": 1013,
+        "Key": "LoginServiceRetry",
+        "Text": "Login again"
+    },
+    {
+        "Id": 1014,
+        "Key": "LoginServiceAlreadyLogin",
+        "Text": "You have logged in already"
+    },
+    {
+        "Id": 1015,
+        "Key": "LoginServiceInternalError",
+        "Text": "Game server distribution error"
+    },
+    {
+        "Id": 1016,
+        "Key": "LoginServiceEnterGameServerFailed",
+        "Text": "Failed to login"
+    },
+    {
+        "Id": 1017,
+        "Key": "LoginServiceLoadPlayerDataFailed",
+        "Text": "Failed to load user data"
+    },
+    {
+        "Id": 1018,
+        "Key": "GateServerForceLogoutByAnotherLogin",
+        "Text": "Account has been logged in on another device"
+    },
+    {
+        "Id": 1019,
+        "Key": "GateServerKcpSessionAlreadyCreated"
+    },
+    {
+        "Id": 1020,
+        "Key": "GameServerFullLoad",
+        "Text": "Server is full, please try again later."
+    },
+    {
+        "Id": 1021,
+        "Key": "KickOutByBanned",
+        "Text": "You're forced to log out due to improper behavior"
+    },
+    {
+        "Id": 1022,
+        "Key": "ReconnectInvalidToken",
+        "Text": "Reconnection failed 1"
+    },
+    {
+        "Id": 1023,
+        "Key": "ReconnectPlayerLogout",
+        "Text": "Reconnection failed 2"
+    },
+    {
+        "Id": 1024,
+        "Key": "ReconnectInvalidSeqNo",
+        "Text": "Reconnection failed 3"
+    },
+    {
+        "Id": 1025,
+        "Key": "ReconnectAgain",
+        "Text": "Reconnection failed 4"
+    },
+    {
+        "Id": 20000001,
+        "Key": "PlayerFunctionNotOpen",
+        "Text": "Feature is not available yet"
+    },
+    {
+        "Id": 20000002,
+        "Key": "PlayerFunctionClose",
+        "Text": "System has shut down"
+    },
+    {
+        "Id": 20000003,
+        "Key": "PlayerChangeDisplayCharIdCharIsNotOwned",
+        "Text": "You do not own this Construct"
+    },
+    {
+        "Id": 20000004,
+        "Key": "PlayerMedalIsNotOwned",
+        "Text": "You do not own this medal"
+    },
+    {
+        "Id": 20002001,
+        "Key": "PlayerDataManagerGetPlayerMaxExpFail",
+        "Text": "Failed to obtain player's max EXP"
+    },
+    {
+        "Id": 20002002,
+        "Key": "PlayerDataManagerChangeNameTimeLimit",
+        "Text": "You can change your name in {0} hr {1} min"
+    },
+    {
+        "Id": 20002003,
+        "Key": "PlayerDataManagerChangeNameInvalid",
+        "Text": "Improper name, please check again."
+    },
+    {
+        "Id": 20002004,
+        "Key": "PlayerDataManagerChangeSignInvalid",
+        "Text": "Improper signature, please check again."
+    },
+    {
+        "Id": 20002005,
+        "Key": "PlayerDataManagerChangeMarkInvalid",
+        "Text": "Unable to edit record"
+    },
+    {
+        "Id": 20002006,
+        "Key": "PlayerDataManagerAssistRoleIdIsSet",
+        "Text": "You cannot deploy a duplicate Construct"
+    },
+    {
+        "Id": 20002007,
+        "Key": "PlayerDataManagerBirthdayInValid",
+        "Text": "Please fill in the correct date"
+    },
+    {
+        "Id": 20002008,
+        "Key": "PlayerDataManagerBirthdayAlreadySet",
+        "Text": "You have set your birthday already"
+    },
+    {
+        "Id": 20002009,
+        "Key": "PlayerDataManagerChangeCommunicationInvalid",
+        "Text": "Invalid change"
+    },
+    {
+        "Id": 20002010,
+        "Key": "PlayerDataManagerReportTimeLimit",
+        "Text": "Report in cool down"
+    },
+    {
+        "Id": 20002011,
+        "Key": "PlayerDataManagerReportTagInvalid",
+        "Text": "Invalid type of report"
+    },
+    {
+        "Id": 20002012,
+        "Key": "PlayerDataManagerNameIsTooLong",
+        "Text": "Your name must not exceed 12 characters"
+    },
+    {
+        "Id": 20003001,
+        "Key": "FubenManagerCheckTreasureIsGet",
+        "Text": "You have obtained the chapter chest reward already"
+    },
+    {
+        "Id": 20003002,
+        "Key": "FubenManagerCheckPreMapNotFound",
+        "Text": "Chapter ID does not exist"
+    },
+    {
+        "Id": 20003003,
+        "Key": "FubenManagerCheckPreMapNotPass",
+        "Text": "You have not completed the previous stage yet"
+    },
+    {
+        "Id": 20003004,
+        "Key": "FubenManagerCheckLevelNotEnough",
+        "Text": "Insufficient level"
+    },
+    {
+        "Id": 20003005,
+        "Key": "FubenManagerCheckActionPointNotEnough",
+        "Text": "Insufficient Serums"
+    },
+    {
+        "Id": 20003006,
+        "Key": "FubenManagerCheckChallengeNumNotEnough",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20003007,
+        "Key": "FubenManagerCheckTreasureSectionIdInvalid",
+        "Text": "Invalid chapter ID of the chest"
+    },
+    {
+        "Id": 20003008,
+        "Key": "FubenManagerCheckTreasureIdInvalid",
+        "Text": "Invalid chest ID"
+    },
+    {
+        "Id": 20003009,
+        "Key": "FubenManagerCheckTreasureStarsNotEnough",
+        "Text": "Insufficient stars to obtain the chest reward"
+    },
+    {
+        "Id": 20003010,
+        "Key": "FubenManagerCheckTreasureRewardRepeat",
+        "Text": "Obtain the chest reward more than once"
+    },
+    {
+        "Id": 20003011,
+        "Key": "FubenManagerCheckPreFightStageInfoNotFound",
+        "Text": "Failed to obtain StageInfo during the prebattle checking"
+    },
+    {
+        "Id": 20003012,
+        "Key": "FubenManagerCheckPreFightUrgentEventMapNotOpen",
+        "Text": "The stage is not available yet"
+    },
+    {
+        "Id": 20003013,
+        "Key": "FubenManagerChallengeWinFightIdNotMatch",
+        "Text": "Mission data mismatched(0)"
+    },
+    {
+        "Id": 20003014,
+        "Key": "FubenManagerChallengeWinPreFightDataNotMatch",
+        "Text": "Mission data mismatched(1)"
+    },
+    {
+        "Id": 20003015,
+        "Key": "FubenManagerChallengeLoseFightIdNotMatch",
+        "Text": "Mission data mismatched(2)"
+    },
+    {
+        "Id": 20003016,
+        "Key": "FubenManagerChallengeLoseStageCfgNotFound",
+        "Text": "Mission data mismatched(3)"
+    },
+    {
+        "Id": 20003017,
+        "Key": "FubenManagerChallengeLosePreFightDataNotMatch",
+        "Text": "Mission data mismatched(4)"
+    },
+    {
+        "Id": 20003018,
+        "Key": "FubenManagerStageAllReadyMaxChallegeCount",
+        "Text": "Maximum quest attempt has been reached"
+    },
+    {
+        "Id": 20003019,
+        "Key": "FubenManagerStageAllReadyMaxBuyCount",
+        "Text": "Maximum quest purchase limit has been reached"
+    },
+    {
+        "Id": 20003020,
+        "Key": "FubenManagerFinishToStageStageNotFound",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20003021,
+        "Key": "FubenManagerFightIntervalFast",
+        "Text": "Please challenge at intervals"
+    },
+    {
+        "Id": 20003022,
+        "Key": "FubenManagerRebootCountNotMatch",
+        "Text": "Number of quest revivals mismatched"
+    },
+    {
+        "Id": 20003023,
+        "Key": "FubenManagerStageLocked",
+        "Text": "The stage has not been unlocked yet"
+    },
+    {
+        "Id": 20003024,
+        "Key": "FubenControlPreFightParamsError",
+        "Text": "Team info error"
+    },
+    {
+        "Id": 20003025,
+        "Key": "FubenManagerBfrtNotGroup",
+        "Text": "Stronghold does not exist"
+    },
+    {
+        "Id": 20003026,
+        "Key": "FubenManagerBfrtPreIdNotFinish",
+        "Text": "Complete the previous stronghold first"
+    },
+    {
+        "Id": 20003027,
+        "Key": "FubenManagerBfrtNotChallengeCount",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20003028,
+        "Key": "FubenManagerBfrtEchelonNotFound",
+        "Text": "Team formation ID does not exist"
+    },
+    {
+        "Id": 20003029,
+        "Key": "FubenManagerBfrtWinParamError",
+        "Text": "Stronghold result mismatched"
+    },
+    {
+        "Id": 20003030,
+        "Key": "FubenManagerBfrtTeamError",
+        "Text": "Number of deployed team members error"
+    },
+    {
+        "Id": 20003031,
+        "Key": "FubenManagerBfrtServerTeamError",
+        "Text": "Deployed team server error"
+    },
+    {
+        "Id": 20003032,
+        "Key": "FubenManagerBfrtServerTeamNotEqualClientTeam",
+        "Text": "Number of deployed members error"
+    },
+    {
+        "Id": 20003033,
+        "Key": "FubenManagerBfrtClientCharacterIdNotInServerTeam",
+        "Text": "Deployed Construct error"
+    },
+    {
+        "Id": 20003034,
+        "Key": "FubenManagerBfrtStageNotFinish",
+        "Text": "Complete the previous stage first"
+    },
+    {
+        "Id": 20003035,
+        "Key": "FubenManagerBfrtSetTeamFightInfoIdsNotEqualConfigIds",
+        "Text": "Number of deployed teams error"
+    },
+    {
+        "Id": 20003036,
+        "Key": "FubenManagerBfrtSetTeamLogisticsNotEqualConfigIds",
+        "Text": "Number of logistics teams error"
+    },
+    {
+        "Id": 20003037,
+        "Key": "FubenManagerFightRebootFightIdNotMatch",
+        "Text": "FightId of revival in battle mismatched"
+    },
+    {
+        "Id": 20003038,
+        "Key": "FubenManagerFightRebootCountNotMatch",
+        "Text": "Number of revivals in battle mismatched"
+    },
+    {
+        "Id": 20003039,
+        "Key": "FubenManagerFightRebootStageNotFound",
+        "Text": "Mission of revival in battle does not exist"
+    },
+    {
+        "Id": 20003040,
+        "Key": "FubenManagerGetFightRebootTemplateNotFound",
+        "Text": "Settings of revival in battle does not exist"
+    },
+    {
+        "Id": 20003041,
+        "Key": "FubenManagerGetFightRebootRebootCountIllegal",
+        "Text": "Invalid number of revivals in battle"
+    },
+    {
+        "Id": 20003042,
+        "Key": "FubenBossSingleNotReset",
+        "Text": "Phantom Pain Cage has not been reset yet"
+    },
+    {
+        "Id": 20003043,
+        "Key": "FubenBossSingleChallengeCountNotEnough",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20003044,
+        "Key": "FubenBossSingleCharacterPointsNotEnough",
+        "Text": "Insufficient Stamina of Construct"
+    },
+    {
+        "Id": 20003045,
+        "Key": "FubenBossSingleGetBossSingleDataLevelTypeIllegal",
+        "Text": "Invalid type of level"
+    },
+    {
+        "Id": 20003046,
+        "Key": "FubenBossBossStageListNotFound",
+        "Text": "Phantom Pain Cage does not exist"
+    },
+    {
+        "Id": 20003047,
+        "Key": "FubenBossSingleScoreRewardIsNotExist",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20003048,
+        "Key": "FubenBossSingleScoreRewardIsGot",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 20003049,
+        "Key": "FubenBossSingleScoreRewardTypeError",
+        "Text": "Type of claimed reward error"
+    },
+    {
+        "Id": 20003050,
+        "Key": "FubenBossSingleScoreIsNotEnough",
+        "Text": "Current points are insufficient to claim reward"
+    },
+    {
+        "Id": 20003051,
+        "Key": "FubenBossSingleHistoryIsNotExist",
+        "Text": "History not found"
+    },
+    {
+        "Id": 20003052,
+        "Key": "FubenBossSingleStageCanNotAutoFight",
+        "Text": "Auto Clear cannot be used in this stage"
+    },
+    {
+        "Id": 20003053,
+        "Key": "FubenBossSingleStageIsNotExist",
+        "Text": "Stage does not exist"
+    },
+    {
+        "Id": 20003054,
+        "Key": "FubenBossSingleSaveScoreIllegality",
+        "Text": "You cannot save more than once"
+    },
+    {
+        "Id": 20003055,
+        "Key": "FubenBossSingleAutoFightCountNotEnough",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20003056,
+        "Key": "FubenBossSingleCurScoreIsBigThanHistory",
+        "Text": "The progress of Auto Clear is lower than the current progress"
+    },
+    {
+        "Id": 20003057,
+        "Key": "FubenBossOnlineSectionNotFound",
+        "Text": "Chapter info not found"
+    },
+    {
+        "Id": 20003058,
+        "Key": "FubenBossOnlineNotInTime",
+        "Text": "Not the available hours of the Co-op."
+    },
+    {
+        "Id": 20003059,
+        "Key": "FubenMainLinePassTimesNotEnough",
+        "Text": "Insufficient Main Story attempts"
+    },
+    {
+        "Id": 20003060,
+        "Key": "FubenMainLineChapterIsNotExist",
+        "Text": "Chapter does not exist"
+    },
+    {
+        "Id": 20003061,
+        "Key": "FubenPrequelStageNotPass",
+        "Text": "The stage has not been cleared yet"
+    },
+    {
+        "Id": 20003062,
+        "Key": "FubenPrequelStageRewardAlready",
+        "Text": "Rank reward claimed"
+    },
+    {
+        "Id": 20003063,
+        "Key": "FubenPrequelStageIdError",
+        "Text": "Invalid Side Story stage"
+    },
+    {
+        "Id": 20003064,
+        "Key": "FubenPrequelCoverIdError",
+        "Text": "Invalid Side Story cover ID"
+    },
+    {
+        "Id": 20003065,
+        "Key": "FubenPrequelChallengeIdError",
+        "Text": "Invalid Side Story ID"
+    },
+    {
+        "Id": 20003066,
+        "Key": "FubenPrequelChallengeLock",
+        "Text": "Side Story has not been unlocked yet"
+    },
+    {
+        "Id": 20003067,
+        "Key": "FubenPrequelChallengeUnlockAlready",
+        "Text": "Side Story has been unlocked"
+    },
+    {
+        "Id": 20003068,
+        "Key": "FubenPrequelChallengeCountLimit",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20003069,
+        "Key": "FubenManagerAutoFightStageNotExist",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20003070,
+        "Key": "FubenManagerAutoFightStageInvalid",
+        "Text": "Invalid Side Story"
+    },
+    {
+        "Id": 20003071,
+        "Key": "FubenManagerAutoFightHaventPassed",
+        "Text": "Side Story has not been cleared yet"
+    },
+    {
+        "Id": 20003072,
+        "Key": "FubenManagerAutoFightPoolIsFull",
+        "Text": "Number of teams has reached the limit"
+    },
+    {
+        "Id": 20003073,
+        "Key": "FubenManagerAutoFightAlreadyRunning",
+        "Text": "Auto Clearing"
+    },
+    {
+        "Id": 20003074,
+        "Key": "FubenManagerAutoFightNotEnoughTimes",
+        "Text": "Insufficient attempts left"
+    },
+    {
+        "Id": 20003075,
+        "Key": "FubenManagerAutoFightNotEnoughActionPoint",
+        "Text": "Insufficient Stamina"
+    },
+    {
+        "Id": 20003076,
+        "Key": "FubenManagerAutoFightIndexInvalid",
+        "Text": "Invalid Auto Clear number"
+    },
+    {
+        "Id": 20003077,
+        "Key": "FubenManagerAutoFightStageNotMatch",
+        "Text": "Auto Clear quest mismatched"
+    },
+    {
+        "Id": 20003078,
+        "Key": "FubenManagerAutoFightNotComplete",
+        "Text": "Auto Clear not completed"
+    },
+    {
+        "Id": 20003079,
+        "Key": "FubenManagerTrialIdIsNotFound",
+        "Text": "Trial Mission does not exist"
+    },
+    {
+        "Id": 20003080,
+        "Key": "FubenManagerTrialPreIdIsNotPass",
+        "Text": "Complete the previous stage first"
+    },
+    {
+        "Id": 20003081,
+        "Key": "FubenManagerTrialIdIsNotPass",
+        "Text": "Complete the stage first"
+    },
+    {
+        "Id": 20003082,
+        "Key": "FubenManagerTrialPassRewardAlreadyGet",
+        "Text": "Clear reward claimed"
+    },
+    {
+        "Id": 20003083,
+        "Key": "FubenManagerTrialTypeRewardIsNotExit",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20003084,
+        "Key": "FubenManagerTrialTypeRewardAlreadyGet",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 20003085,
+        "Key": "FubenManagerTrialTypeRewardIsNotFinish",
+        "Text": "Stage not completed"
+    },
+    {
+        "Id": 20003086,
+        "Key": "FubenManagerDailyChapterNotFound",
+        "Text": "Daily quest chapter not found"
+    },
+    {
+        "Id": 20003087,
+        "Key": "FubenManagerDailySectionNotFound",
+        "Text": "Daily quest not found"
+    },
+    {
+        "Id": 20003088,
+        "Key": "FubenManagerDailyConditionInvalid",
+        "Text": "Invalid daily quest requirement"
+    },
+    {
+        "Id": 20003089,
+        "Key": "FubenManagerDailyTimeNotFit",
+        "Text": "Not open yet"
+    },
+    {
+        "Id": 20003090,
+        "Key": "FubenManagerAutoFightTimesError",
+        "Text": "Auto Clear attempts error"
+    },
+    {
+        "Id": 20003091,
+        "Key": "FubenManagerBossSingleResetCanNotSaveScore",
+        "Text": "Unable to save as the rules have been refreshed"
+    },
+    {
+        "Id": 20003092,
+        "Key": "FubenManagerBossSingleDataIsRefresh",
+        "Text": "Side Story data has been refreshed, please reload the page."
+    },
+    {
+        "Id": 20003093,
+        "Key": "FubenManagerStartFightIntervalFast",
+        "Text": "You cannot challenge the quest yet"
+    },
+    {
+        "Id": 20004001,
+        "Key": "TeamManagerGetTeamIdFail",
+        "Text": "Failed to obtain team ID"
+    },
+    {
+        "Id": 20004002,
+        "Key": "TeamManagerPrefabExceedMax",
+        "Text": "Team default settings have reached the limit"
+    },
+    {
+        "Id": 20004003,
+        "Key": "TeamManagerSetTeamParaError",
+        "Text": "Number of team settings error"
+    },
+    {
+        "Id": 20007001,
+        "Key": "FightProxyManagerEnterIsExist",
+        "Text": "The player is already in another battle"
+    },
+    {
+        "Id": 20007002,
+        "Key": "FightProxyManagerGetFightProxyFail",
+        "Text": "Failed to obtain battle proxy"
+    },
+    {
+        "Id": 20007003,
+        "Key": "FightProxyManagerGetFightProxyForPlayerFail",
+        "Text": "Failed to obtain battle proxy (player)"
+    },
+    {
+        "Id": 20007004,
+        "Key": "FightProxyManagerPlayerIdRepeat",
+        "Text": "Failed to obtain battle proxy (player)"
+    },
+    {
+        "Id": 20007005,
+        "Key": "FightProxyManagerFightProxyNotFound",
+        "Text": "Failed to obtain battle proxy (player)"
+    },
+    {
+        "Id": 20008001,
+        "Key": "FightProxyDoOperationNotRunning",
+        "Text": "Battle is not in progress"
+    },
+    {
+        "Id": 20008002,
+        "Key": "FightProxyIsRunningFail",
+        "Text": "Battle is in progress"
+    },
+    {
+        "Id": 20008003,
+        "Key": "FightProxyFightCompleteNotInFight",
+        "Text": "Battle has not ended yet"
+    },
+    {
+        "Id": 20008004,
+        "Key": "FightProxyLoadCompleteFail",
+        "Text": "Battle is not loading"
+    },
+    {
+        "Id": 20008005,
+        "Key": "FightProxyGetFightDataPlayerIdNotFound",
+        "Text": "Failed to obtain battle proxy and player info"
+    },
+    {
+        "Id": 20008006,
+        "Key": "FightProxyDoOperationPlayerIdNotFound",
+        "Text": "Battle control error"
+    },
+    {
+        "Id": 20008007,
+        "Key": "FightProxyLoadTimeout",
+        "Text": "Server loading timeout"
+    },
+    {
+        "Id": 20008008,
+        "Key": "FightProxyFightTimeout",
+        "Text": "Battle server timeout"
+    },
+    {
+        "Id": 20008009,
+        "Key": "FightProxySettleTimeout",
+        "Text": "Battle result timeout"
+    },
+    {
+        "Id": 20008010,
+        "Key": "FightProxyJoinFightPlayerNotFound",
+        "Text": "Online player not found"
+    },
+    {
+        "Id": 20008011,
+        "Key": "FightProxyGetFightPlayerNotFound",
+        "Text": "Failed to obtain player info"
+    },
+    {
+        "Id": 20009001,
+        "Key": "CharacterManagerGetCharacterTemplateNotFound",
+        "Text": "Failed to obtain Construct template"
+    },
+    {
+        "Id": 20009002,
+        "Key": "CharacterManagerGetLevelUpTemplateNotFound",
+        "Text": "Failed to obtain Construct upgrade template"
+    },
+    {
+        "Id": 20009003,
+        "Key": "CharacterManagerGetGradeTemplateNotFound",
+        "Text": "Failed to obtain Construct Overclock template"
+    },
+    {
+        "Id": 20009004,
+        "Key": "CharacterManagerGetQualityFragmentTemplateNotFound",
+        "Text": "Failed to obtain Construct class Shard template"
+    },
+    {
+        "Id": 20009005,
+        "Key": "CharacterManagerGetQualityTemplateNotFound",
+        "Text": "Failed to obtain Construct class template"
+    },
+    {
+        "Id": 20009006,
+        "Key": "CharacterManagerGetSkillUpgradeTemplateNotFound",
+        "Text": "Failed to obtain skill upgrade info"
+    },
+    {
+        "Id": 20009007,
+        "Key": "CharacterManagerGetSkillTemplateNotFound",
+        "Text": "Failed to obtain Construct skill template"
+    },
+    {
+        "Id": 20009008,
+        "Key": "CharacterManagerSkillNotFound",
+        "Text": "Skill not found"
+    },
+    {
+        "Id": 20009009,
+        "Key": "CharacterManagerGetStarUseCountParamsError",
+        "Text": "Parameter error in obtaining evolution material"
+    },
+    {
+        "Id": 20009010,
+        "Key": "CharacterManagerGetStarUseCountStarError",
+        "Text": "Evolution material error"
+    },
+    {
+        "Id": 20009011,
+        "Key": "CharacterManagerGetCharacterByIdNotFound",
+        "Text": "Construct not found"
+    },
+    {
+        "Id": 20009012,
+        "Key": "CharacterManagerCreateCharacterFail",
+        "Text": "Failed to create Construct"
+    },
+    {
+        "Id": 20009013,
+        "Key": "CharacterManagerNewCharacterDataIsNil",
+        "Text": "Construct data not found"
+    },
+    {
+        "Id": 20009014,
+        "Key": "CharacterManagerLevelUpMaxLevel",
+        "Text": "Construct level is capped"
+    },
+    {
+        "Id": 20009015,
+        "Key": "CharacterManagerAddStarFail",
+        "Text": "Failed to increase star"
+    },
+    {
+        "Id": 20009016,
+        "Key": "CharacterManagerMaxQuality",
+        "Text": "Construct class cap reached"
+    },
+    {
+        "Id": 20009017,
+        "Key": "CharacterManagerActivateStarMaxStar",
+        "Text": "Already evolved to the highest level"
+    },
+    {
+        "Id": 20009018,
+        "Key": "CharacterManagerPromoteQualityStarNotEnough",
+        "Text": "Evolution requirement not met"
+    },
+    {
+        "Id": 20009019,
+        "Key": "CharacterManagerMaxGrade",
+        "Text": "Construct refit cap reached"
+    },
+    {
+        "Id": 20009020,
+        "Key": "CharacterManagerExchangeCharacterAlreadyOwn",
+        "Text": "You own this Construct already"
+    },
+    {
+        "Id": 20009021,
+        "Key": "CharacterManagerGetCharacterDataNotFound",
+        "Text": "Construct data not found"
+    },
+    {
+        "Id": 20009022,
+        "Key": "CharacterManagerCreateCharacterAlreadyExist",
+        "Text": "Construct already exists"
+    },
+    {
+        "Id": 20009023,
+        "Key": "CharacterManagerInformationNotFound",
+        "Text": "Data not found"
+    },
+    {
+        "Id": 20009024,
+        "Key": "CharacterManagerRewardNotFound",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20009025,
+        "Key": "CharacterManagerStoryNotFound",
+        "Text": "Story does not exist"
+    },
+    {
+        "Id": 20009026,
+        "Key": "CharacterManagerStrangeNewsNotFound",
+        "Text": "Episode does not exist"
+    },
+    {
+        "Id": 20009027,
+        "Key": "CharacterManagerVoiceNotFound",
+        "Text": "Voice does not exist"
+    },
+    {
+        "Id": 20009028,
+        "Key": "CharacterManagerTrustLvNotEnough",
+        "Text": "Insufficient Affection level"
+    },
+    {
+        "Id": 20009029,
+        "Key": "CharacterManagerInformationAlreadyUnlock",
+        "Text": "Data has been unlocked"
+    },
+    {
+        "Id": 20009030,
+        "Key": "CharacterManagerStoryAlreadyUnlock",
+        "Text": "Story has been unlocked"
+    },
+    {
+        "Id": 20009031,
+        "Key": "CharacterManagerStrangeNewsAlreadyUnlock",
+        "Text": "Episode has been unlocked"
+    },
+    {
+        "Id": 20009032,
+        "Key": "CharacterManagerStrangeNewsCanNotUnlock",
+        "Text": "Unlock requirement not met"
+    },
+    {
+        "Id": 20009033,
+        "Key": "CharacterManagerVoiceAlreadyUnlock",
+        "Text": "Voice has been unlocked"
+    },
+    {
+        "Id": 20009034,
+        "Key": "CharacterManagerRewardAlreadyUnlock",
+        "Text": "Reward has been obtained"
+    },
+    {
+        "Id": 20009035,
+        "Key": "CharacterManagerRewardCanNotUnlock",
+        "Text": "Obtain requirement not met"
+    },
+    {
+        "Id": 20009036,
+        "Key": "CharacterManagerTrustItemNotFound",
+        "Text": "Item does not exist"
+    },
+    {
+        "Id": 20009037,
+        "Key": "CharacterManagerSendGiftParaError",
+        "Text": "Request parameter error"
+    },
+    {
+        "Id": 20009038,
+        "Key": "CharacterManagerTrustLevelExpNotFound",
+        "Text": "Affection level error"
+    },
+    {
+        "Id": 20009039,
+        "Key": "CharacterManagerTrustGameNotCount",
+        "Text": "Insufficient attempts"
+    },
+    {
+        "Id": 20009040,
+        "Key": "CharacterManagerTrustGameIdNotFound",
+        "Text": "Game error"
+    },
+    {
+        "Id": 20009041,
+        "Key": "CharacterManagerTrustGameRewardNotFound",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20009042,
+        "Key": "CharacterManagerTrustGameFinishNumError",
+        "Text": "Parameter error"
+    },
+    {
+        "Id": 20009043,
+        "Key": "CharacterManagerTrustGameResultIllegal",
+        "Text": "Control error"
+    },
+    {
+        "Id": 20009044,
+        "Key": "CharacterMinSkillLevelNotFound",
+        "Text": "Lowest skill level of Construct not found"
+    },
+    {
+        "Id": 20009045,
+        "Key": "CharacterMaxSkillLevelNotFound",
+        "Text": "Highest skill level of Construct not found"
+    },
+    {
+        "Id": 20009046,
+        "Key": "CharacterUnlockSkillNotNeed",
+        "Text": "No need to unlock Construct skill"
+    },
+    {
+        "Id": 20009047,
+        "Key": "CharacterSkillUnlocked",
+        "Text": "Construct skill has been unlocked"
+    },
+    {
+        "Id": 20009048,
+        "Key": "CharacterSkillIsNotFoundOrLock",
+        "Text": "Construct skill does not exist or is not unlocked yet"
+    },
+    {
+        "Id": 20009049,
+        "Key": "CharacterSkillLevelIsMax",
+        "Text": "Highest level already"
+    },
+    {
+        "Id": 20009050,
+        "Key": "CharacterSkillPoolTemplateNotFound",
+        "Text": "Construct skill settings not found"
+    },
+    {
+        "Id": 20009051,
+        "Key": "CharacterSkillPoolIsEmpty",
+        "Text": "No skill is equipped"
+    },
+    {
+        "Id": 20009052,
+        "Key": "CharacterSkillLevelEffectTemplateNotFound",
+        "Text": "Construct skill level effects not found"
+    },
+    {
+        "Id": 20009053,
+        "Key": "CharacterExtraDataNotFound",
+        "Text": "Affection data not found"
+    },
+    {
+        "Id": 20009054,
+        "Key": "FashionManagerGetFashionNotFound",
+        "Text": "Coating not found"
+    },
+    {
+        "Id": 20009055,
+        "Key": "FashionIsUnOwned",
+        "Text": "You do not own this coating"
+    },
+    {
+        "Id": 20009056,
+        "Key": "FashionIsLock",
+        "Text": "This coating has not been unlocked yet"
+    },
+    {
+        "Id": 20009057,
+        "Key": "FashionIsUnLock",
+        "Text": "This coating has been unlocked"
+    },
+    {
+        "Id": 20009058,
+        "Key": "CharacterGatherRewardHadGet",
+        "Text": "Reward has been claimed"
+    },
+    {
+        "Id": 20009059,
+        "Key": "CharacterPreGatherRewardIsNotGet",
+        "Text": "Reward of the previous stage not claimed"
+    },
+    {
+        "Id": 20012001,
+        "Key": "ItemManagerGetItemTableFailed",
+        "Text": "Failed to obtain item list"
+    },
+    {
+        "Id": 20012002,
+        "Key": "ItemManagerGetItemNotFound",
+        "Text": "Target item not found"
+    },
+    {
+        "Id": 20012003,
+        "Key": "ItemManagerCheckIdValidFail",
+        "Text": "Item ID does not exist"
+    },
+    {
+        "Id": 20012004,
+        "Key": "ItemCountNotEnough",
+        "Text": "Insufficient items"
+    },
+    {
+        "Id": 20012005,
+        "Key": "ItemCapacityNotEnough",
+        "Text": "Insufficient item space"
+    },
+    {
+        "Id": 20012006,
+        "Key": "ItemAlreadyOwned",
+        "Text": "Item already exists"
+    },
+    {
+        "Id": 20012007,
+        "Key": "ItemManagerGetBuyAssetTableFail",
+        "Text": "Failed to obtain purchase list"
+    },
+    {
+        "Id": 20012008,
+        "Key": "ItemManagerBuyAssetMaxTimes",
+        "Text": "Purchase amount has reached the limit."
+    },
+    {
+        "Id": 20012009,
+        "Key": "ItemNotFound",
+        "Text": "Item does not exist"
+    },
+    {
+        "Id": 20012010,
+        "Key": "ItemSellCountError",
+        "Text": "Amount of sold items error"
+    },
+    {
+        "Id": 20012011,
+        "Key": "ItemSellFragmentLimit",
+        "Text": "You cannot sell the Shard"
+    },
+    {
+        "Id": 20012012,
+        "Key": "ItemCannotSell",
+        "Text": "Item cannot be sold"
+    },
+    {
+        "Id": 20012013,
+        "Key": "ItemCannotBuy",
+        "Text": "Item cannot be purchased"
+    },
+    {
+        "Id": 20012014,
+        "Key": "ItemCannotConvertCharacterExp",
+        "Text": "Item cannot be converted into Construct EXP"
+    },
+    {
+        "Id": 20012015,
+        "Key": "ItemCannotConvertFurnitureConfig",
+        "Text": "Item cannot be converted into Decor Blueprint"
+    },
+    {
+        "Id": 20012016,
+        "Key": "ItemCannotUse",
+        "Text": "Item cannot be used"
+    },
+    {
+        "Id": 20012017,
+        "Key": "ItemNotEffect",
+        "Text": "Item is not available yet"
+    },
+    {
+        "Id": 20012018,
+        "Key": "ItemAlreadyInvalid",
+        "Text": "Item has expired"
+    },
+    {
+        "Id": 20012019,
+        "Key": "ItemUseGiftSelectRewardIsEmpty",
+        "Text": "No reward can be selected"
+    },
+    {
+        "Id": 20012020,
+        "Key": "ItemUseGiftSelectRewardAboveLimit",
+        "Text": "Selected rewards have exceeded the limit"
+    },
+    {
+        "Id": 20012021,
+        "Key": "ItemUseGiftSelectRewardNotExist",
+        "Text": "No reward can be selected"
+    },
+    {
+        "Id": 20012022,
+        "Key": "ItemCreateError",
+        "Text": "Failed to obtain item"
+    },
+    {
+        "Id": 20012023,
+        "Key": "ItemCountException",
+        "Text": "Failed to create item"
+    },
+    {
+        "Id": 20012024,
+        "Key": "ItemBatchCountNotEnough",
+        "Text": "Insufficient items"
+    },
+    {
+        "Id": 20012025,
+        "Key": "ItemBatchNotFound",
+        "Text": "Item has expired"
+    },
+    {
+        "Id": 20014001,
+        "Key": "ArrangeManagerCalTypeFail",
+        "Text": "Invalid ID, unable to identify the type."
+    },
+    {
+        "Id": 20017001,
+        "Key": "DropManagerGetDropGoodsFail",
+        "Text": "Failed to obtain dropped item"
+    },
+    {
+        "Id": 20017002,
+        "Key": "DropManagerGetDropBottomTableListFail",
+        "Text": "Failed to obtain guarantee drop list"
+    },
+    {
+        "Id": 20017003,
+        "Key": "DropManagerDropItemFailed",
+        "Text": "Failed to drop item"
+    },
+    {
+        "Id": 20017004,
+        "Key": "DropManagerGetDropTableFail",
+        "Text": "Failed to obtain drop list"
+    },
+    {
+        "Id": 20017005,
+        "Key": "DropManagerGetDropGroupTableFail",
+        "Text": "Failed to obtain drop group list"
+    },
+    {
+        "Id": 20017006,
+        "Key": "DropManagerGetDropSetTableFail",
+        "Text": "Failed to obtain cluster list"
+    },
+    {
+        "Id": 20018001,
+        "Key": "DrawManagerGetDrawGroupInfoNotFound",
+        "Text": "Research set info does not exist"
+    },
+    {
+        "Id": 20018002,
+        "Key": "DrawManagerGetDrawInfoNotFound",
+        "Text": "Research info does not exist"
+    },
+    {
+        "Id": 20018003,
+        "Key": "DrawManagerDrawCountError",
+        "Text": "Number of Researches error"
+    },
+    {
+        "Id": 20018004,
+        "Key": "DrawManagerTodayTimesUseUp",
+        "Text": "Daily Research attempts have been expended"
+    },
+    {
+        "Id": 20018005,
+        "Key": "DrawManagerTodayRemainTimesNotEnough",
+        "Text": "Insufficient daily Research attempts"
+    },
+    {
+        "Id": 20018006,
+        "Key": "DrawManagerActivityTimesUseUp",
+        "Text": "Event Research attempts have been expended"
+    },
+    {
+        "Id": 20018007,
+        "Key": "DrawManagerActivityRemainTimesNotEnough",
+        "Text": "Insufficient event Research attempts"
+    },
+    {
+        "Id": 20018008,
+        "Key": "DrawManagerNotOptionalDrawId",
+        "Text": "Research ID is unable to select"
+    },
+    {
+        "Id": 20018009,
+        "Key": "DrawManagerNotInValidTime",
+        "Text": "Expired"
+    },
+    {
+        "Id": 20018010,
+        "Key": "DrawManagerDrawInfoNotFound",
+        "Text": "Research info not found"
+    },
+    {
+        "Id": 20018011,
+        "Key": "DrawManagerDrawInfoAlreadyExist",
+        "Text": "Research info already exists"
+    },
+    {
+        "Id": 20018012,
+        "Key": "DrawManagerDrawGroupInfoNotFound",
+        "Text": "Research set info not found"
+    },
+    {
+        "Id": 20018013,
+        "Key": "DrawManagerDrawGroupAlreadyExist",
+        "Text": "Research set info already exists"
+    },
+    {
+        "Id": 20018014,
+        "Key": "DrawManagerDrawGroupOptionalListIsEmpty",
+        "Text": "Research set info already exists"
+    },
+    {
+        "Id": 20019001,
+        "Key": "GuideManagerGetGuideGroupTableNotFound",
+        "Text": "Research set info not found"
+    },
+    {
+        "Id": 20019002,
+        "Key": "GuideManagerGetGuideCompleteTableNotFound",
+        "Text": "Unable to obtain guide completion list"
+    },
+    {
+        "Id": 20019003,
+        "Key": "GuideManagerCompleteGuideErrorAlreadyCompleted",
+        "Text": "Guide error, it has been completed already."
+    },
+    {
+        "Id": 20019004,
+        "Key": "GuideManagerCompleteGuideErrorNotNeedReq",
+        "Text": "Guide error, no need to retry."
+    },
+    {
+        "Id": 20019005,
+        "Key": "GuildManagerGuildGroupIdNotFound",
+        "Text": "Guide group ID does not exist"
+    },
+    {
+        "Id": 20020001,
+        "Key": "RewardManagerGetRewardTableFail",
+        "Text": "Failed to obtain reward list"
+    },
+    {
+        "Id": 20020002,
+        "Key": "RewardManagerCreateRewardGoodsTypeNotSupport",
+        "Text": "Invalid type of reward"
+    },
+    {
+        "Id": 20020003,
+        "Key": "RewardManagerGetRewardGoodsNotFound",
+        "Text": "Reward item not found"
+    },
+    {
+        "Id": 20021001,
+        "Key": "EquipTemplateNotFound",
+        "Text": "Failed to obtain equipment info"
+    },
+    {
+        "Id": 20021002,
+        "Key": "EquipBreakthroughTemplateNotFound",
+        "Text": "Unable to obtain equipment Overclock info"
+    },
+    {
+        "Id": 20021003,
+        "Key": "EquipManagerGetLevelUpTemplateNotFound",
+        "Text": "Failed to obtain equipment upgrade template"
+    },
+    {
+        "Id": 20021004,
+        "Key": "EquipManagerGetEquipNotFound",
+        "Text": "Add the cost first"
+    },
+    {
+        "Id": 20021005,
+        "Key": "EquipManagerNewEquipFail",
+        "Text": "Failed to create equipment"
+    },
+    {
+        "Id": 20021006,
+        "Key": "EquipManagerLevelUpMaxLevel",
+        "Text": "Equipment cap reached"
+    },
+    {
+        "Id": 20021007,
+        "Key": "EquipManagerLevelUpLevelLimit",
+        "Text": "Equipment level limit"
+    },
+    {
+        "Id": 20021008,
+        "Key": "EquipManagerAddBreakthroughFail",
+        "Text": "Overclock of the equipment failed"
+    },
+    {
+        "Id": 20021009,
+        "Key": "EquipManagerBreakthroughOverstep",
+        "Text": "Overclock of the equipment exceeds the limit"
+    },
+    {
+        "Id": 20021010,
+        "Key": "EquipManagerBreakthroughMaxBreakthrough",
+        "Text": "Overclock of the equipment is capped"
+    },
+    {
+        "Id": 20021011,
+        "Key": "EquipManagerBreakthroughLevelNotEnough",
+        "Text": "Level of the equipment is insufficient for Overclock"
+    },
+    {
+        "Id": 20021012,
+        "Key": "EquipManagerGetCharEquipBySiteNotFound",
+        "Text": "Equipment not found"
+    },
+    {
+        "Id": 20021013,
+        "Key": "EquipManagerPutOnRepeat",
+        "Text": "Equipped already"
+    },
+    {
+        "Id": 20021014,
+        "Key": "EquipManagerPutOnSiteError",
+        "Text": "Invalid grid to equip"
+    },
+    {
+        "Id": 20021015,
+        "Key": "EquipManagerPutOnTypeError",
+        "Text": "Invalid type to equip"
+    },
+    {
+        "Id": 20021016,
+        "Key": "EquipManagerTakeOffNotBeenWorn",
+        "Text": "Equipment has not been equipped yet"
+    },
+    {
+        "Id": 20021017,
+        "Key": "EquipManagerTakeOffCanNotTakeOff",
+        "Text": "Equipment is unable to unequip"
+    },
+    {
+        "Id": 20021018,
+        "Key": "EquipManagerDecomposeDoNot",
+        "Text": "You cannot recycle equipment in use"
+    },
+    {
+        "Id": 20021019,
+        "Key": "EquipManagerDecomposeConfigNot",
+        "Text": "No corresponding term for the recycle list"
+    },
+    {
+        "Id": 20021020,
+        "Key": "EquipWeaponCapacityNotEnough",
+        "Text": "Insufficient weapon space"
+    },
+    {
+        "Id": 20021021,
+        "Key": "EquipChipCapacityNotEnough",
+        "Text": "Insufficient Memory space"
+    },
+    {
+        "Id": 20021022,
+        "Key": "EquipManagerGetSuitTemplateNotFound",
+        "Text": "Failed to obtain equipment set settings"
+    },
+    {
+        "Id": 20021023,
+        "Key": "EquipManagerGetSuitEffectTemplateNotFound",
+        "Text": "Failed to obtain equipment set bonus settings"
+    },
+    {
+        "Id": 20021024,
+        "Key": "EquipIsLocked",
+        "Text": "Lock Equipment"
+    },
+    {
+        "Id": 20021025,
+        "Key": "EquipIsUnLock",
+        "Text": "Unlock Equipment"
+    },
+    {
+        "Id": 20021026,
+        "Key": "EquipCanNotPutOnByThisCharacter",
+        "Text": "It cannot be worn by the Construct"
+    },
+    {
+        "Id": 20021027,
+        "Key": "EquipGetEatCostCoinNotFound",
+        "Text": "Failed to consume Cogs in equipment upgrade"
+    },
+    {
+        "Id": 20021028,
+        "Key": "EquipLevelUpUseEquipListIsEmpty",
+        "Text": "No equipment is selected as the cost of enhancement"
+    },
+    {
+        "Id": 20021029,
+        "Key": "EquipEatUseRepeatEquip",
+        "Text": "Consumed equipment ID duplicated"
+    },
+    {
+        "Id": 20021030,
+        "Key": "EquipResonanceCanNotUseSelf",
+        "Text": "You cannot consume this equipment"
+    },
+    {
+        "Id": 20021031,
+        "Key": "EquipResonanceCharacterNotOwned",
+        "Text": "You do not own any Construct with Resonance"
+    },
+    {
+        "Id": 20021032,
+        "Key": "EquipResonanceUnconfirmedInfoUntreated",
+        "Text": "Resonance info not confirmed"
+    },
+    {
+        "Id": 20021033,
+        "Key": "EquipResonanceUseEquipTypeNotSame",
+        "Text": "Type of Resonance cost mismatched"
+    },
+    {
+        "Id": 20021034,
+        "Key": "EquipResonanceWeaponStarNotSame",
+        "Text": "Rank of Resonance cost mismatched"
+    },
+    {
+        "Id": 20021035,
+        "Key": "EquipResonanceChipSuitIsNotSame",
+        "Text": "Set ID of Resonance cost mismatched"
+    },
+    {
+        "Id": 20021036,
+        "Key": "EquipResonanceTemplateNotFound",
+        "Text": "Resonance settings not found"
+    },
+    {
+        "Id": 20021037,
+        "Key": "EquipResonanceUseItemTemplateNotFound",
+        "Text": "Item used for Resonance not found"
+    },
+    {
+        "Id": 20021038,
+        "Key": "EquipResonanceCanNotUseThisItem",
+        "Text": "The item cannot be used for Resonance"
+    },
+    {
+        "Id": 20021039,
+        "Key": "EquipWeaponSkillTemplateNotFound",
+        "Text": "Skill settings of weapon not found"
+    },
+    {
+        "Id": 20021040,
+        "Key": "EquipSkillPoolIsEmpty",
+        "Text": "No skill is equipped"
+    },
+    {
+        "Id": 20021041,
+        "Key": "EquipResonanceSlotConfigIsEmpty",
+        "Text": "Resonance slot is empty"
+    },
+    {
+        "Id": 20021042,
+        "Key": "EquipResonanceConfigError",
+        "Text": "Resonance settings error"
+    },
+    {
+        "Id": 20021043,
+        "Key": "EquipResonanceConfirmInfoIsEmpty",
+        "Text": "Confirmation info of Resonance not found"
+    },
+    {
+        "Id": 20021044,
+        "Key": "EquipLevelUpCanNotEatSelf",
+        "Text": "You cannot upgrade the weapon with itself"
+    },
+    {
+        "Id": 20021045,
+        "Key": "EquipResonanceNeedSelectCharacter",
+        "Text": "Select the Construct to resonate"
+    },
+    {
+        "Id": 20021046,
+        "Key": "EquipDecomposeListIsEmpty",
+        "Text": "Recycle list is empty"
+    },
+    {
+        "Id": 20021047,
+        "Key": "EquipSuitNotFound",
+        "Text": "Unable to obtain Memory info"
+    },
+    {
+        "Id": 20021048,
+        "Key": "EquipSuitCanNotTransform",
+        "Text": "The Memory set can no longer be refit."
+    },
+    {
+        "Id": 20021049,
+        "Key": "EquipSuitSiteError",
+        "Text": "Invalid grid for the Memory set"
+    },
+    {
+        "Id": 20021050,
+        "Key": "EquipTransformChipUseEquipCountError",
+        "Text": "Amount of equipped items error"
+    },
+    {
+        "Id": 20021051,
+        "Key": "EquipTransformChipUseEquipSuitError",
+        "Text": "Invalid grid to equip"
+    },
+    {
+        "Id": 20021052,
+        "Key": "EquipSuitSiteConfigNotFound",
+        "Text": "Invalid info of obtained Memory set"
+    },
+    {
+        "Id": 20021053,
+        "Key": "EquipResonancePoolIsEmpty",
+        "Text": "No Resonance is equipped"
+    },
+    {
+        "Id": 20021054,
+        "Key": "EquipResonanceWeaponSkillPoolIsEmpty",
+        "Text": "No Resonance of weapon skill is equipped"
+    },
+    {
+        "Id": 20021055,
+        "Key": "EquipResonanceCharacterSkillPoolIsEmpty",
+        "Text": "No Resonance of Construct skill is equipped"
+    },
+    {
+        "Id": 20021056,
+        "Key": "EquipResonanceAttribGroupPoolIsEmpty",
+        "Text": "Resonance stats is empty"
+    },
+    {
+        "Id": 20021057,
+        "Key": "EquipChipGroupCountLimit",
+        "Text": "The amount of Memory Set has exceeded the limit"
+    },
+    {
+        "Id": 20021058,
+        "Key": "EquipChipGroupNameTooLong",
+        "Text": "Memory Set name is too long"
+    },
+    {
+        "Id": 20021059,
+        "Key": "EquipChipGroupNameInvalid",
+        "Text": "Invalid Memory Set name"
+    },
+    {
+        "Id": 20021060,
+        "Key": "EquipChipGroupEquipSiteError",
+        "Text": "Invalid type of Memory Set"
+    },
+    {
+        "Id": 20021061,
+        "Key": "EquipChipGroupSiteRepeated",
+        "Text": "Duplicate grid in the Memory Set"
+    },
+    {
+        "Id": 20021062,
+        "Key": "EquipChipGroupNotFound",
+        "Text": "Memory Set not found"
+    },
+    {
+        "Id": 20026001,
+        "Key": "TaskManagerInitFail",
+        "Text": "Failed to initialize mission system"
+    },
+    {
+        "Id": 20026002,
+        "Key": "TaskManagerInitTaskConfigFail",
+        "Text": "Failed to initialize mission settings"
+    },
+    {
+        "Id": 20026003,
+        "Key": "TaskManagerGetTaskConditionFail",
+        "Text": "Failed to obtain mission requirement"
+    },
+    {
+        "Id": 20026004,
+        "Key": "TaskManagerGetTaskTemplateFail",
+        "Text": "Failed to obtain mission template"
+    },
+    {
+        "Id": 20026005,
+        "Key": "TaskManagerFinishTaskTaskNotFound",
+        "Text": "Mission not found"
+    },
+    {
+        "Id": 20026006,
+        "Key": "TaskManagerFinishTaskTaskAlreadyFinish",
+        "Text": "Mission completed"
+    },
+    {
+        "Id": 20026007,
+        "Key": "TaskManagerFinishTaskTaskNotAchieved",
+        "Text": "Mission has expired"
+    },
+    {
+        "Id": 20026008,
+        "Key": "TaskManagerTaskNotExist",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20026009,
+        "Key": "TaskManagerGetActivenessStageRewardNotExist",
+        "Text": "Activity reward does not exist"
+    },
+    {
+        "Id": 20026010,
+        "Key": "TaskManagerGetActivenessRewardUnknownType",
+        "Text": "Unknown type of activity"
+    },
+    {
+        "Id": 20026011,
+        "Key": "TaskManagerGetActivenessRewardAlreadyGeted",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 20026012,
+        "Key": "TaskManagerCourseRewardNotExist",
+        "Text": "Failed to obtain milestone reward info"
+    },
+    {
+        "Id": 20026013,
+        "Key": "TaskManagerCourseRewardAlreadyGeted",
+        "Text": "Milestone reward claimed"
+    },
+    {
+        "Id": 20026014,
+        "Key": "TaskManagerCourseStageAlreadyGeted",
+        "Text": "Milestone reward claimed"
+    },
+    {
+        "Id": 20026015,
+        "Key": "TaskManagerTaskUnOpen",
+        "Text": "Mission has not been unlocked yet"
+    },
+    {
+        "Id": 20026016,
+        "Key": "TaskManagerTaskClose",
+        "Text": "Mission has been closed"
+    },
+    {
+        "Id": 20026017,
+        "Key": "TaskManagerTaskNotTimeLimit",
+        "Text": "Mission has expired"
+    },
+    {
+        "Id": 20026018,
+        "Key": "TaskManagerNewPlayerActivenessIsNotExist",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20026019,
+        "Key": "TaskManagerNewPlayerActivenessRewardIsNotExist",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20026020,
+        "Key": "TaskManagerNewPlayerActivenessAlreadyGet",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 20026021,
+        "Key": "TaskManagerNewPlayerActivenessIsNotEnough",
+        "Text": "Insufficient EXP to claim"
+    },
+    {
+        "Id": 20026022,
+        "Key": "TaskManagerNewPlayerTaskTodayCanNotFinish",
+        "Text": "You cannot complete this mission today"
+    },
+    {
+        "Id": 20027001,
+        "Key": "MailManagerGetMailFail",
+        "Text": "Failed to obtain mail"
+    },
+    {
+        "Id": 20027002,
+        "Key": "MailManagerGetRewardIsEmpty",
+        "Text": "There is no mail reward"
+    },
+    {
+        "Id": 20027003,
+        "Key": "MailManagerGetRewardRepeat",
+        "Text": "Mail reward claimed"
+    },
+    {
+        "Id": 20027004,
+        "Key": "MailManagerMailNotEffect",
+        "Text": "Ineffective mail"
+    },
+    {
+        "Id": 20027005,
+        "Key": "MailManagerMailWasInvalid",
+        "Text": "Invalid mail"
+    },
+    {
+        "Id": 20027006,
+        "Key": "MailManagerGetRewardWasInvalidOrRewardEmpty",
+        "Text": "Mail has expired or there is no mail reward"
+    },
+    {
+        "Id": 20027007,
+        "Key": "MailManagerMailIdInvalid",
+        "Text": "Invalid mail id"
+    },
+    {
+        "Id": 20027008,
+        "Key": "MailManagerMailExist",
+        "Text": "Mail already exists"
+    },
+    {
+        "Id": 20027009,
+        "Key": "MailManagerMailNotExist",
+        "Text": "Mail does not exist"
+    },
+    {
+        "Id": 20027010,
+        "Key": "MailManagerGetMailRewardListNotFoundReward",
+        "Text": "Mail reward settings not found"
+    },
+    {
+        "Id": 20027011,
+        "Key": "MailManagerGetMailRewardSomeGoodsMoreThanCapacity",
+        "Text": "Unable to obtain all the rewards as some of the items have exceeded the limit"
+    },
+    {
+        "Id": 20027012,
+        "Key": "MailManagerIsDeleted",
+        "Text": "Mail has been deleted"
+    },
+    {
+        "Id": 20027013,
+        "Key": "MailManagerIsRead",
+        "Text": "Mail has been read"
+    },
+    {
+        "Id": 20027014,
+        "Key": "MailCapacityNotEnough",
+        "Text": "Mail limit reached"
+    },
+    {
+        "Id": 20029001,
+        "Key": "AttribManagerGetAttribTemplateNotFound",
+        "Text": "Failed to obtain stats template"
+    },
+    {
+        "Id": 20029002,
+        "Key": "AttribManagerGetPromotedAttribTemplateNotFound",
+        "Text": "Failed to obtain level upgrade stats template"
+    },
+    {
+        "Id": 20029003,
+        "Key": "AttribManagerGetGrowRateAttribTemplateNotFound",
+        "Text": "Failed to obtain ration up stats template"
+    },
+    {
+        "Id": 20029004,
+        "Key": "AttribManagerGetTotalPromotedAttribsParamArrayError",
+        "Text": "Failed to obtain ration up stats"
+    },
+    {
+        "Id": 20029005,
+        "Key": "AttribManagerGetTotalPromotedAttribsLevelError",
+        "Text": "Failed to obtain the total level of level upgrade stats"
+    },
+    {
+        "Id": 20029006,
+        "Key": "AttribManagerGetNpcAttribNpcNotFound",
+        "Text": "NPC not found"
+    },
+    {
+        "Id": 20029007,
+        "Key": "AttribGroupPoolNotFound",
+        "Text": "Stats set not found"
+    },
+    {
+        "Id": 20029008,
+        "Key": "AttribGroupNotFound",
+        "Text": "Stats set not found"
+    },
+    {
+        "Id": 20029009,
+        "Key": "AttribReviseTemplateNotFound",
+        "Text": "Failed to obtain ratio change stats template"
+    },
+    {
+        "Id": 20030002,
+        "Key": "ShopManagerAddGoodsInfoAlreadyExist",
+        "Text": "Product info has been imported"
+    },
+    {
+        "Id": 20030003,
+        "Key": "ShopManagerShopUnOpen",
+        "Text": "Shop is not available yet"
+    },
+    {
+        "Id": 20030004,
+        "Key": "ShopManagerShopClosed",
+        "Text": "Shop closed"
+    },
+    {
+        "Id": 20030005,
+        "Key": "ShopManagerGoodsUnOpen",
+        "Text": "The product is not available yet"
+    },
+    {
+        "Id": 20030006,
+        "Key": "ShopManagerGoodsClosed",
+        "Text": "The product is no longer sold"
+    },
+    {
+        "Id": 20030007,
+        "Key": "ShopManagerShopNotExist",
+        "Text": "The shop is not on the list"
+    },
+    {
+        "Id": 20030008,
+        "Key": "ShopManagerGoodsNotExist",
+        "Text": "The product is not on the list"
+    },
+    {
+        "Id": 20030009,
+        "Key": "ShopManagerGoodsGroupNotExist",
+        "Text": "The product set is not on the list"
+    },
+    {
+        "Id": 20030010,
+        "Key": "ShopManagerNotResetTimes",
+        "Text": "Insufficient reset attempts"
+    },
+    {
+        "Id": 20030011,
+        "Key": "ShopManagerShopNotBuyTimes",
+        "Text": "Insufficient total purchase attempts in shop"
+    },
+    {
+        "Id": 20030012,
+        "Key": "ShopManagerGoodsNotBuyTimes",
+        "Text": "Insufficient purchase attempts"
+    },
+    {
+        "Id": 20030013,
+        "Key": "ShopGoodsAlreadyExist",
+        "Text": "Product already exists"
+    },
+    {
+        "Id": 20030014,
+        "Key": "ShopIsUnShelve",
+        "Text": "Shop closed"
+    },
+    {
+        "Id": 20030015,
+        "Key": "ShopGoodsIsUnShelve",
+        "Text": "The product is no longer sold"
+    },
+    {
+        "Id": 20030016,
+        "Key": "ShopRequestParamsException",
+        "Text": "Shop request parameter error"
+    },
+    {
+        "Id": 20030017,
+        "Key": "ShopBuyGoodsCountLimit",
+        "Text": "The purchase amount of products has exceeded the limit"
+    },
+    {
+        "Id": 20030018,
+        "Key": "ShopKindIsNotReset",
+        "Text": "Unable to refresh the shop"
+    },
+    {
+        "Id": 20031001,
+        "Key": "FriendManagerApplyFriendFailedIsRefused",
+        "Text": "Friend request has been rejected"
+    },
+    {
+        "Id": 20031002,
+        "Key": "FriendManagerApplyFriendFailedIsDeleted",
+        "Text": "Failed to send friend request as you have unfriended the player"
+    },
+    {
+        "Id": 20031003,
+        "Key": "FriendManagerApplyFriendFailedIsAlreadyFriend",
+        "Text": "Failed to send friend request as the player is already your friend"
+    },
+    {
+        "Id": 20031004,
+        "Key": "FriendManagerApplyFriendFailedIsNotRepeatApply",
+        "Text": "Failed to send friend request as you have requested already"
+    },
+    {
+        "Id": 20031005,
+        "Key": "FriendManagerAcceptFriendFailedApplyIsNotExist",
+        "Text": "Failed! Player does not exist or is your friend already!"
+    },
+    {
+        "Id": 20031006,
+        "Key": "FriendManagerAcceptFriendFailedSelfFriendCountOutOfMaxCount",
+        "Text": "Failed to accept friend request as your friend list is full"
+    },
+    {
+        "Id": 20031007,
+        "Key": "FriendManagerRecommendFriendFailedRecommendCoolDownTime",
+        "Text": "Friend recommendation failed due to cool down"
+    },
+    {
+        "Id": 20031008,
+        "Key": "FriendManagerCanNotOperateSelf",
+        "Text": "Operation failed. You cannot operate yourself."
+    },
+    {
+        "Id": 20031009,
+        "Key": "FriendManagerGetPlayerInfosFailedReqListIsNull",
+        "Text": "Failed to obtain player info as the request list is empty"
+    },
+    {
+        "Id": 20031010,
+        "Key": "FriendManagerDeleteFriendsFailedReqListIsNull",
+        "Text": "Failed to unfriend as the request list is empty"
+    },
+    {
+        "Id": 20031011,
+        "Key": "FriendManagerApplySuccess",
+        "Text": "Application has been submitted"
+    },
+    {
+        "Id": 20031012,
+        "Key": "FriendManagerDeleteSuccess",
+        "Text": "Unfriended"
+    },
+    {
+        "Id": 20031013,
+        "Key": "FriendManagerCanNotPlayerForId",
+        "Text": "Player does not exist"
+    },
+    {
+        "Id": 20031014,
+        "Key": "FriendManagerAcceptFriendFailedOtherFriendCountOutOfMaxCount",
+        "Text": "Failed to accept friend request as the player's friend list is full"
+    },
+    {
+        "Id": 20031015,
+        "Key": "FriendManagerApplySelfFriendNumLimit",
+        "Text": "Failed to request as your friend list is full"
+    },
+    {
+        "Id": 20031016,
+        "Key": "FriendManagerApplyOtherFriendNumLimit",
+        "Text": "Failed to request as the player's friend list is full"
+    },
+    {
+        "Id": 20031017,
+        "Key": "FriendManagerApplyListFull",
+        "Text": "Failed to request as the player's friend request list is full"
+    },
+    {
+        "Id": 20031018,
+        "Key": "FriendManagerMyFriendFull",
+        "Text": "Friend list is full"
+    },
+    {
+        "Id": 20031019,
+        "Key": "FriendManagerOtherFriendFull",
+        "Text": "The player's friend list is full"
+    },
+    {
+        "Id": 20031020,
+        "Key": "FriendManagerAgreeIsFriend",
+        "Text": "Failed to accept request as the player is already your friend"
+    },
+    {
+        "Id": 20031021,
+        "Key": "FriendManagerIsNotFriend",
+        "Text": "Cannot add notes as the player is not your friend"
+    },
+    {
+        "Id": 20031022,
+        "Key": "FriendManagerInvalidRemark",
+        "Text": "Invalid notes"
+    },
+    {
+        "Id": 20032001,
+        "Key": "FightCheckManagerCodeNotMatch",
+        "Text": "Abnormal error in battle data (0)"
+    },
+    {
+        "Id": 20032002,
+        "Key": "FightCheckManagerCodesTooLong",
+        "Text": "Abnormal error in battle data (1)"
+    },
+    {
+        "Id": 20032003,
+        "Key": "FightCheckManagerCheckSkip",
+        "Text": "Abnormal error in battle data (2)"
+    },
+    {
+        "Id": 20032004,
+        "Key": "FightCheckManagerSettleCodeNotMatch",
+        "Text": "Abnormal error in battle data (3)"
+    },
+    {
+        "Id": 20032005,
+        "Key": "FightCheckManagerParamIllegal",
+        "Text": "Abnormal error in battle data (4)"
+    },
+    {
+        "Id": 20032006,
+        "Key": "FightCheckManagerNotSettle",
+        "Text": "Abnormal error in battle data (5)"
+    },
+    {
+        "Id": 20033001,
+        "Key": "ChatManagerSendChatErrorCannotSendGift",
+        "Text": "Error occurs when sending message"
+    },
+    {
+        "Id": 20033002,
+        "Key": "ChatManagerChatContentCanNotBeNull",
+        "Text": "You cannot leave it blank"
+    },
+    {
+        "Id": 20033003,
+        "Key": "ChatManagerGetGiftFailedInvalidGift",
+        "Text": "Invalid gift"
+    },
+    {
+        "Id": 20033004,
+        "Key": "ChatManagerRefreshTimeCooling",
+        "Text": "Message in cool down"
+    },
+    {
+        "Id": 20033005,
+        "Key": "ChatManagerGetGiftAlreadyMaxCount",
+        "Text": "The amount of received gifts has reached the daily limit"
+    },
+    {
+        "Id": 20033006,
+        "Key": "ChatManagerGetGiftNotGift",
+        "Text": "No receivable gift"
+    },
+    {
+        "Id": 20033007,
+        "Key": "ChatManagerSendMsgNotAllowed",
+        "Text": "Contains illegal characters"
+    },
+    {
+        "Id": 20033008,
+        "Key": "ChatManagerNoSendGiftFriend",
+        "Text": "Presentation attempts reset at 07:00 (UTC)"
+    },
+    {
+        "Id": 20033009,
+        "Key": "ChatManagerChatChannelInvalid",
+        "Text": "Failed to send message"
+    },
+    {
+        "Id": 20033010,
+        "Key": "ChatManagerChatChannelIdInvalid",
+        "Text": "Illegal content"
+    },
+    {
+        "Id": 20033011,
+        "Key": "ChatContentTooLong",
+        "Text": "Your message is too long"
+    },
+    {
+        "Id": 20033012,
+        "Key": "ChatIsBanned",
+        "Text": "You have been muted"
+    },
+    {
+        "Id": 20033013,
+        "Key": "ChatChannelNotExist",
+        "Text": "Channel has been disbanded"
+    },
+    {
+        "Id": 20034001,
+        "Key": "ConditionManagerParamsError",
+        "Text": "Requirement parameter error"
+    },
+    {
+        "Id": 20034002,
+        "Key": "ConditionManagerGetConditionTemplateNotFound",
+        "Text": "Requirement settings not found"
+    },
+    {
+        "Id": 20034003,
+        "Key": "ConditionManagerPlayerLevelNotEnough",
+        "Text": "Insufficient player level"
+    },
+    {
+        "Id": 20034004,
+        "Key": "ConditionManagerNotOwnCharacter",
+        "Text": "You does not own the specific Construct"
+    },
+    {
+        "Id": 20034005,
+        "Key": "ConditionManagerOwnCharacterCanNotFight",
+        "Text": "Unable to deploy specific Constructs"
+    },
+    {
+        "Id": 20034006,
+        "Key": "ConditionManagerCharacterCountNotEnough",
+        "Text": "You do not have enough Constructs"
+    },
+    {
+        "Id": 20034007,
+        "Key": "ConditionManagerCharacterSexIsError",
+        "Text": "Construct gender does not meet the requirement"
+    },
+    {
+        "Id": 20034008,
+        "Key": "ConditionManagerCharacterTypeIsError",
+        "Text": "Construct type does not meet the requirement"
+    },
+    {
+        "Id": 20034009,
+        "Key": "ConditionManagerCharacterLevelIsError",
+        "Text": "Construct level does not meet the requirement"
+    },
+    {
+        "Id": 20034010,
+        "Key": "ConditionManagerCharacterQualityIsError",
+        "Text": "Construct class does not meet the requirement"
+    },
+    {
+        "Id": 20034011,
+        "Key": "ConditionManagerMapNotPassed",
+        "Text": "Stage not completed"
+    },
+    {
+        "Id": 20034012,
+        "Key": "ConditionManagerCharacterSexNumIsError",
+        "Text": "Team member gender error"
+    },
+    {
+        "Id": 20034013,
+        "Key": "ConditionManagerCharacterTypeNumIsError",
+        "Text": "Team member type error"
+    },
+    {
+        "Id": 20034014,
+        "Key": "ConditionManagerCharacterQualityNumIsError",
+        "Text": "Team member class does not meet the requirement"
+    },
+    {
+        "Id": 20034015,
+        "Key": "ConditionManagerCharacterLevelNumIsError",
+        "Text": "Team member level does not meet the requirement"
+    },
+    {
+        "Id": 20034016,
+        "Key": "ConditionManagerCharacterIdNumIsError",
+        "Text": "You have not deployed the specific Construct as a team member"
+    },
+    {
+        "Id": 20034017,
+        "Key": "ConditionManagerCharacterAbilityNotEnough",
+        "Text": "Construct's BR does not meet the requirement"
+    },
+    {
+        "Id": 20034018,
+        "Key": "ConditionManagerCharacterResonanceNotEnough",
+        "Text": "Construct's Resonance does not meet the requirement"
+    },
+    {
+        "Id": 20034019,
+        "Key": "ConditionManagerCharacterNumIsError",
+        "Text": "Number of deployed team members error"
+    },
+    {
+        "Id": 20034020,
+        "Key": "ConditionManagerCharacterExhibitionLevelNotEnough",
+        "Text": "Awaken requirement of Construct not met"
+    },
+    {
+        "Id": 20034021,
+        "Key": "ConditionManagerIsNotGetFirstPayReward",
+        "Text": "1st Recharge reward not claimed"
+    },
+    {
+        "Id": 20034022,
+        "Key": "ConditionManagerIsNotOwnerFashion",
+        "Text": "You do not own the specific outfit"
+    },
+    {
+        "Id": 20034023,
+        "Key": "ConditionManagerIsOwnerFashion",
+        "Text": "You have owned the specific outfit"
+    },
+    {
+        "Id": 20034024,
+        "Key": "ConditionManagerExperimentIdIsNotFinish",
+        "Text": "Specific stage of trial area not completed"
+    },
+    {
+        "Id": 20034025,
+        "Key": "ConditionManagerWeaponResonanceNotEnough",
+        "Text": "Insufficient equipment Resonance Skills"
+    },
+    {
+        "Id": 20034026,
+        "Key": "ConditionManagerChipResonanceNotEnough",
+        "Text": "Insufficient Memory Resonance Skills"
+    },
+    {
+        "Id": 20034027,
+        "Key": "ConditionManagerEquipResonanceNotEnough",
+        "Text": "Insufficient equipment Resonance Skills"
+    },
+    {
+        "Id": 20034028,
+        "Key": "ConditionManagerRedEnvelopeNotEnough",
+        "Text": "Insufficient gifts claimed by Construct"
+    },
+    {
+        "Id": 20036001,
+        "Key": "RobotManagerInitCharacterQualityFail",
+        "Text": "Robot class error"
+    },
+    {
+        "Id": 20036002,
+        "Key": "RobotManagerInitCharacterLevelFail",
+        "Text": "Robot level error"
+    },
+    {
+        "Id": 20036003,
+        "Key": "RobotManagerInitCharacterGradeFail",
+        "Text": "Robot rank error"
+    },
+    {
+        "Id": 20036004,
+        "Key": "RobotManagerInitSkillLevelFail",
+        "Text": "Robot skill error"
+    },
+    {
+        "Id": 20036005,
+        "Key": "RobotManagerInitWeapoonLevelFail",
+        "Text": "Invalid weapon level of robot"
+    },
+    {
+        "Id": 20036006,
+        "Key": "RobotManagerInitWeapoonAweakenFail",
+        "Text": "Invalid robot weapon awakening"
+    },
+    {
+        "Id": 20036007,
+        "Key": "RobotManagerInitWeapoonBreakThroughFail",
+        "Text": "Invalid robot weapon enhancement"
+    },
+    {
+        "Id": 20036008,
+        "Key": "RobotManagerRobotNotExit",
+        "Text": "Robot not found"
+    },
+    {
+        "Id": 20037001,
+        "Key": "PersonalInfoQueryPlayerDataFail",
+        "Text": "Failed to obtain personal info"
+    },
+    {
+        "Id": 20038001,
+        "Key": "DailyGiveALikeFail",
+        "Text": "Failed to like"
+    },
+    {
+        "Id": 20038002,
+        "Key": "DailyAddLikeSuccess",
+        "Text": "Liked"
+    },
+    {
+        "Id": 20038003,
+        "Key": "DailyDelLikeSuccess",
+        "Text": "Failed to unlike"
+    },
+    {
+        "Id": 20038004,
+        "Key": "DailyBanMsgFail",
+        "Text": "Failed to mute"
+    },
+    {
+        "Id": 20039001,
+        "Key": "BaseEquipTemplateNoFound",
+        "Text": "HQ facility not found"
+    },
+    {
+        "Id": 20039002,
+        "Key": "BaseEquipAttribPoolsNoFound",
+        "Text": "Stats Pool settings not found"
+    },
+    {
+        "Id": 20039003,
+        "Key": "BaseEquipBottomPoolTemplateNoFound",
+        "Text": "Guarantee Pool settings not found"
+    },
+    {
+        "Id": 20039004,
+        "Key": "BaseEquipNotFound",
+        "Text": "HQ facility not founded"
+    },
+    {
+        "Id": 20039005,
+        "Key": "BaseEquipEvaluated",
+        "Text": "HQ facility has been evaluated"
+    },
+    {
+        "Id": 20039006,
+        "Key": "BaseEquipNotEvaluate",
+        "Text": "HQ facility has not been evaluated yet"
+    },
+    {
+        "Id": 20039007,
+        "Key": "BaseEquipWasPutOn",
+        "Text": "HQ facility is in use"
+    },
+    {
+        "Id": 20039008,
+        "Key": "BaseEquipPutOnLevelLimit",
+        "Text": "Level requirement of floor equipment"
+    },
+    {
+        "Id": 20040001,
+        "Key": "BountyTaskHaveNoTask",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20040002,
+        "Key": "BountyTaskUpperLimit",
+        "Text": "Unable to accept any more missions as the number of missions has reached the limit"
+    },
+    {
+        "Id": 20040003,
+        "Key": "BountyTaskHasAccept",
+        "Text": "Mission accepted"
+    },
+    {
+        "Id": 20040004,
+        "Key": "BountyTaskStatusError",
+        "Text": "Bounty Mission status error"
+    },
+    {
+        "Id": 20040005,
+        "Key": "BountyTaskRefreshUpperLimit",
+        "Text": "Insufficient refresh attempts of Bounty Mission"
+    },
+    {
+        "Id": 20040006,
+        "Key": "BountyTaskHaveNoTaskInTaskPool",
+        "Text": "There is no Bounty Mission at the moment"
+    },
+    {
+        "Id": 20040007,
+        "Key": "BountyTaskRefreshFail",
+        "Text": "Failed to refresh Bounty Mission"
+    },
+    {
+        "Id": 20041001,
+        "Key": "TaskForceTaskPoolIsFull",
+        "Text": "Mission list is full"
+    },
+    {
+        "Id": 20041002,
+        "Key": "TaskForceCountLimit",
+        "Text": "Number of dispatch teams has reached the limit"
+    },
+    {
+        "Id": 20041003,
+        "Key": "TaskForceHaveNoThisTaskInTaskPool",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20041004,
+        "Key": "TaskForceHaveNoThisTask",
+        "Text": "Mission does not exist"
+    },
+    {
+        "Id": 20041005,
+        "Key": "TaskForceCharacterLevelLimit",
+        "Text": "Level of the dispatch team does not meet the requirement"
+    },
+    {
+        "Id": 20041006,
+        "Key": "TaskForceTaskHasAccept",
+        "Text": "Mission has been accepted"
+    },
+    {
+        "Id": 20041007,
+        "Key": "TaskForceHaveNoCharacter",
+        "Text": "Construct does not exist"
+    },
+    {
+        "Id": 20041008,
+        "Key": "TaskForceCharacterHasBeenDispatched",
+        "Text": "Construct has been dispatched"
+    },
+    {
+        "Id": 20041009,
+        "Key": "TaskForceNotAcceptThisTask",
+        "Text": "Mission unaccepted"
+    },
+    {
+        "Id": 20041010,
+        "Key": "TaskForceTaskWasCompleted",
+        "Text": "Mission completed"
+    },
+    {
+        "Id": 20041011,
+        "Key": "TaskForceTaskTheTaskIsNotCompleted",
+        "Text": "Mission not completed"
+    },
+    {
+        "Id": 20043001,
+        "Key": "VoteGroupTemplateNotFound",
+        "Text": "Failed to obtain template data of the vote set"
+    },
+    {
+        "Id": 20043002,
+        "Key": "VoteIsNotEffect",
+        "Text": "Vote info does not exist"
+    },
+    {
+        "Id": 20043003,
+        "Key": "VoteIsInvalid",
+        "Text": "Failed to vote"
+    },
+    {
+        "Id": 20043004,
+        "Key": "VoteIsClosed",
+        "Text": "Vote closed"
+    },
+    {
+        "Id": 20043005,
+        "Key": "VoteTimesIsUseUp",
+        "Text": "Voted"
+    },
+    {
+        "Id": 20043006,
+        "Key": "VoteIdUnknown",
+        "Text": "Failed to vote"
+    },
+    {
+        "Id": 20044001,
+        "Key": "ArenaActivityNotFound",
+        "Text": "Event does not exist"
+    },
+    {
+        "Id": 20044002,
+        "Key": "ArenaActivityIsLoading",
+        "Text": "Loading data"
+    },
+    {
+        "Id": 20044003,
+        "Key": "ArenaActivityFuncIsNotOpen",
+        "Text": "Feature is not available yet"
+    },
+    {
+        "Id": 20044004,
+        "Key": "ArenaActivityChallengeRegulatorNotFound",
+        "Text": "War Zone manager does not exist"
+    },
+    {
+        "Id": 20044005,
+        "Key": "ArenaActivityPlayerNotFound",
+        "Text": "Player does not exist"
+    },
+    {
+        "Id": 20044006,
+        "Key": "ArenaActivityPlayerHaveTeam",
+        "Text": "Player is in a team already"
+    },
+    {
+        "Id": 20044007,
+        "Key": "ArenaActivityTeamIsFull",
+        "Text": "The team is full"
+    },
+    {
+        "Id": 20044008,
+        "Key": "ArenaActivityPlayerIsInTeam",
+        "Text": "You are already in the team"
+    },
+    {
+        "Id": 20044009,
+        "Key": "ArenaActivityPlayerNotHaveChallengeId",
+        "Text": "Suitable War Zone not found"
+    },
+    {
+        "Id": 20044010,
+        "Key": "ArenaActivityArenaServiceIsNotFound",
+        "Text": "Server error"
+    },
+    {
+        "Id": 20044011,
+        "Key": "ArenaActivityTeamIsNotFound",
+        "Text": "Team does not exist"
+    },
+    {
+        "Id": 20044012,
+        "Key": "ArenaActivityTeamIsAlreadyApply",
+        "Text": "Request Sent"
+    },
+    {
+        "Id": 20044013,
+        "Key": "ArenaActivityIsNotCaptain",
+        "Text": "Only team leader can do this"
+    },
+    {
+        "Id": 20044014,
+        "Key": "ArenaActivityPlayerIsNotApply",
+        "Text": "Not applied yet"
+    },
+    {
+        "Id": 20044015,
+        "Key": "ArenaActivityPlayerIsNotInTeam",
+        "Text": "You are not in a team"
+    },
+    {
+        "Id": 20044016,
+        "Key": "ArenaActivityTargetIsNotFound",
+        "Text": "Target does not exist"
+    },
+    {
+        "Id": 20044017,
+        "Key": "ArenaActivityTargetHaveTeam",
+        "Text": "The player is already in a team"
+    },
+    {
+        "Id": 20044018,
+        "Key": "ArenaActivityPlayerIsNotInviter",
+        "Text": "You are not invited"
+    },
+    {
+        "Id": 20044019,
+        "Key": "ArenaActivityPlayerGroupNotFound",
+        "Text": "Challenge team does not exist"
+    },
+    {
+        "Id": 20044020,
+        "Key": "ArenaActivityAreaIsNotOpen",
+        "Text": "The area is not available yet"
+    },
+    {
+        "Id": 20044021,
+        "Key": "ArenaActivityAreaIsAlreadyUnlock",
+        "Text": "The area has been unlocked"
+    },
+    {
+        "Id": 20044022,
+        "Key": "ArenaActivityPlayerAlreadyJoin",
+        "Text": "Joined"
+    },
+    {
+        "Id": 20044023,
+        "Key": "ArenaActivityPlayerJoinFail",
+        "Text": "Failed to join"
+    },
+    {
+        "Id": 20044024,
+        "Key": "ArenaActivityStageIsError",
+        "Text": "Stage error"
+    },
+    {
+        "Id": 20044025,
+        "Key": "ArenaActivityChallengeIdIsNotExist",
+        "Text": "War Zone ID does not exist"
+    },
+    {
+        "Id": 20044026,
+        "Key": "ArenaActivityAreaIsNotUnlock",
+        "Text": "Area has not been unlocked yet"
+    },
+    {
+        "Id": 20044027,
+        "Key": "ArenaActivityAreaIdIsNotFound",
+        "Text": "Area does not exist"
+    },
+    {
+        "Id": 20044028,
+        "Key": "ArenaActivityPreStageIsNotFinish",
+        "Text": "You have not completed the previous stage yet"
+    },
+    {
+        "Id": 20044029,
+        "Key": "ArenaActivityPlayerIsNotJoin",
+        "Text": "You have not participated in the current event"
+    },
+    {
+        "Id": 20044030,
+        "Key": "ArenaActivityPlayerIsNotJoinBefore",
+        "Text": "You did not participate in the previous event"
+    },
+    {
+        "Id": 20044031,
+        "Key": "ArenaActivityStatusIsCanNotOprea",
+        "Text": "You cannot do this under the current state"
+    },
+    {
+        "Id": 20044032,
+        "Key": "ArenaActivityStatusCanNotFight",
+        "Text": "You cannot battle under the current state"
+    },
+    {
+        "Id": 20044033,
+        "Key": "ArenaActivityNotHaveUnlockCount",
+        "Text": "No unlock attempts"
+    },
+    {
+        "Id": 20044034,
+        "Key": "ArenaActivityActivityRegulatorNotFound",
+        "Text": "War Zone event does not exist"
+    },
+    {
+        "Id": 20044035,
+        "Key": "ArenaActivityStageError",
+        "Text": "Stage ID of War Zone error"
+    },
+    {
+        "Id": 20044036,
+        "Key": "ArenaActivityOperateFail",
+        "Text": "Operation failed"
+    },
+    {
+        "Id": 20044037,
+        "Key": "ArenaActivityInviteTargetIsNotJoin",
+        "Text": "Invitation failed as the player has not entered the War Zone yet"
+    },
+    {
+        "Id": 20045001,
+        "Key": "MatchCreateRoomFailed",
+        "Text": "Failed to create room"
+    },
+    {
+        "Id": 20045002,
+        "Key": "MatchLevelLimit",
+        "Text": "Insufficient level"
+    },
+    {
+        "Id": 20045003,
+        "Key": "MatchInvalidStageId",
+        "Text": "Failed to create room"
+    },
+    {
+        "Id": 20045004,
+        "Key": "MatchRoomIsFull",
+        "Text": "The room is full"
+    },
+    {
+        "Id": 20045005,
+        "Key": "MatchInvalidRoomId",
+        "Text": "Invalid room Id"
+    },
+    {
+        "Id": 20045006,
+        "Key": "MatchRoomNotFound",
+        "Text": "Target room not found"
+    },
+    {
+        "Id": 20045007,
+        "Key": "MatchRoomNotReady",
+        "Text": "The room is not ready"
+    },
+    {
+        "Id": 20045008,
+        "Key": "MatchRoomInFight",
+        "Text": "Battle has started"
+    },
+    {
+        "Id": 20045009,
+        "Key": "MatchPlayerAlreadyInMatchPool",
+        "Text": "Matching"
+    },
+    {
+        "Id": 20045010,
+        "Key": "MatchPlayerNotInMatchPool",
+        "Text": "Not matching"
+    },
+    {
+        "Id": 20045011,
+        "Key": "MatchPlayerAlreadyInRoom",
+        "Text": "You are in a room already"
+    },
+    {
+        "Id": 20045012,
+        "Key": "MatchPlayerNotInRoom",
+        "Text": "You are not in a room"
+    },
+    {
+        "Id": 20045013,
+        "Key": "MatchPlayerNotInThisRoom",
+        "Text": "You are not in the room"
+    },
+    {
+        "Id": 20045014,
+        "Key": "MatchPlayerStateError",
+        "Text": "Status error"
+    },
+    {
+        "Id": 20045015,
+        "Key": "MatchPlayerNotLeader",
+        "Text": "You are not the Host"
+    },
+    {
+        "Id": 20045016,
+        "Key": "MatchCanNotTransferLeaderToYourSelf",
+        "Text": "You cannot appoint yourself as the Host"
+    },
+    {
+        "Id": 20045017,
+        "Key": "MatchPlayerNotFound",
+        "Text": "Target player not found"
+    },
+    {
+        "Id": 20045018,
+        "Key": "MatchRoomLeaderForceLeave",
+        "Text": "You were kicked out by the Host"
+    },
+    {
+        "Id": 20045019,
+        "Key": "MatchRoomClose",
+        "Text": "Room has been disbanded"
+    },
+    {
+        "Id": 20045020,
+        "Key": "MatchStartTimeout",
+        "Text": "You were kicked out due to long standby time"
+    },
+    {
+        "Id": 20045021,
+        "Key": "MatchCharacterNotUnique",
+        "Text": "Duplicate Constructs in the team"
+    },
+    {
+        "Id": 20045022,
+        "Key": "MatchPlayerOffline",
+        "Text": "Player is offline"
+    },
+    {
+        "Id": 20046001,
+        "Key": "ExploreChapterIsNotExist",
+        "Text": "Exploration chapter does not exist"
+    },
+    {
+        "Id": 20046002,
+        "Key": "ExploreChapterIsNotFinished",
+        "Text": "Chapter not completed"
+    },
+    {
+        "Id": 20046003,
+        "Key": "ExplorePreChapterIsNotFinished",
+        "Text": "You have not completed the previous chapter yet"
+    },
+    {
+        "Id": 20046004,
+        "Key": "ExploreChapterRewardIsGot",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 20046005,
+        "Key": "ExploreChapterNodeIsNotExist",
+        "Text": "Exploration point does not exist"
+    },
+    {
+        "Id": 20046006,
+        "Key": "ExplorePreNodeIsNotFinished",
+        "Text": "Complete the previous point first"
+    },
+    {
+        "Id": 20046007,
+        "Key": "ExploreNodeIsFinished",
+        "Text": "Stage completed"
+    },
+    {
+        "Id": 20046008,
+        "Key": "ExploreEnduranceIsNotEnough",
+        "Text": "Insufficient Stamina"
+    },
+    {
+        "Id": 20047001,
+        "Key": "PayManagerGetPayTemplateNotFound",
+        "Text": "Unable to find the corresponding recharge settings"
+    },
+    {
+        "Id": 20047002,
+        "Key": "PayInsertReceiptFail",
+        "Text": "Recharge error"
+    },
+    {
+        "Id": 20048001,
+        "Key": "BranchChallengeIsNotExist",
+        "Text": "Challenge ID does not exist"
+    },
+    {
+        "Id": 20048002,
+        "Key": "BranchPreStageNotFinish",
+        "Text": "You have not completed the previous stage yet"
+    },
+    {
+        "Id": 20048003,
+        "Key": "BranchFightIsEnd",
+        "Text": "Battle time is over"
+    },
+    {
+        "Id": 20048004,
+        "Key": "BranchSectionIdNotFound",
+        "Text": "Side Challenge ID does not exist"
+    },
+    {
+        "Id": 20048005,
+        "Key": "BranchDifficultStageNotOpen",
+        "Text": "Challenge difficulty is not available yet"
+    },
+    {
+        "Id": 20049001,
+        "Key": "BossActivitySectionIsNotExist",
+        "Text": "Boss chapter does not exist"
+    },
+    {
+        "Id": 20049002,
+        "Key": "BossActivitySectionIsNotHaveStage",
+        "Text": "The stage does not exist in this chapter"
+    },
+    {
+        "Id": 20049003,
+        "Key": "BossActivitySectionPreStageNotFinish",
+        "Text": "You have not completed the previous stage yet"
+    },
+    {
+        "Id": 20049004,
+        "Key": "BossActivityIsEnd",
+        "Text": "Battle period is over"
+    },
+    {
+        "Id": 20050001,
+        "Key": "SignIdIsNotExist",
+        "Text": "Sign-in ID does not exist"
+    },
+    {
+        "Id": 20050002,
+        "Key": "SignIdIsClose",
+        "Text": "Sign-in is over"
+    },
+    {
+        "Id": 20050003,
+        "Key": "SignInfoNotFound",
+        "Text": "Sign-in failed"
+    },
+    {
+        "Id": 20050004,
+        "Key": "SignRewardIsGot",
+        "Text": "Signed in"
+    },
+    {
+        "Id": 20050005,
+        "Key": "SignRewardIsNotExist",
+        "Text": "Sign-in reward does not exist"
+    },
+    {
+        "Id": 20051001,
+        "Key": "ExperimentGroupIsEnd",
+        "Text": "Trial is over"
+    },
+    {
+        "Id": 20051002,
+        "Key": "ExperimentLevelIdError",
+        "Text": "Invalid trial area Id"
+    },
+    {
+        "Id": 20051003,
+        "Key": "ExperimentGroupNotOpen",
+        "Text": "Trial is not available yet"
+    },
+    {
+        "Id": 20052001,
+        "Key": "PracticeChapterIsNotFound",
+        "Text": "Chapter does not exist"
+    },
+    {
+        "Id": 20052002,
+        "Key": "PracticeChapterStageIsError",
+        "Text": "Stage does not exist"
+    },
+    {
+        "Id": 20052003,
+        "Key": "PracticePreStageNotFinish",
+        "Text": "Previous stage completed"
+    },
+    {
+        "Id": 20053001,
+        "Key": "PurchaseTemplateNotFound",
+        "Text": "Pack settings not found"
+    },
+    {
+        "Id": 20053002,
+        "Key": "PurchaseTimeNotEffect",
+        "Text": "The pack is not available yet"
+    },
+    {
+        "Id": 20053003,
+        "Key": "PurchaseTimeWasInvalid",
+        "Text": "Invalid pack"
+    },
+    {
+        "Id": 20053004,
+        "Key": "PurchaseWasUnShelve",
+        "Text": "The pack is no longer available"
+    },
+    {
+        "Id": 20053005,
+        "Key": "PurchaseBuyTimesLimit",
+        "Text": "Purchase attempts have been expended"
+    },
+    {
+        "Id": 20053006,
+        "Key": "PurchaseRemainDayLimit",
+        "Text": "Remaining days until the next purchase"
+    },
+    {
+        "Id": 20053007,
+        "Key": "PurchaseIntervalDayLimit",
+        "Text": "The pack is not available yet"
+    },
+    {
+        "Id": 20053008,
+        "Key": "PurchasePrePurchaseLimit",
+        "Text": "Purchase requirement"
+    },
+    {
+        "Id": 20053009,
+        "Key": "PurchasePrePurchaseIsOnSale",
+        "Text": "You need to purchase the previous pack first"
+    },
+    {
+        "Id": 20053010,
+        "Key": "PurchaseRecordNotFound",
+        "Text": "Monthly Pass not purchased"
+    },
+    {
+        "Id": 20053011,
+        "Key": "PurchaseDailyRewardAlreadyGet",
+        "Text": "Daily reward claimed"
+    },
+    {
+        "Id": 20053012,
+        "Key": "PurchaseDailyRewardExpire",
+        "Text": "Monthly Pass expired"
+    },
+    {
+        "Id": 20053013,
+        "Key": "PurchaseNotContainDailyReward",
+        "Text": "Purchased item does not include daily reward"
+    },
+    {
+        "Id": 20053101,
+        "Key": "PurchaseExistMutexItem",
+        "Text": "Already own a conflicting product. Cannot purchase and replace it now."
+    },
+    {
+        "Id": 20054001,
+        "Key": "CdKeyInvalid",
+        "Text": "Invalid gift code, please check again."
+    },
+    {
+        "Id": 20054002,
+        "Key": "CdKeyNotTimeYet",
+        "Text": "Out of exchange period, please check again."
+    },
+    {
+        "Id": 20054003,
+        "Key": "CdKeyTotalCountFull",
+        "Text": "Gift code has been used, please check again."
+    },
+    {
+        "Id": 20054004,
+        "Key": "CdKeyChannelWrong",
+        "Text": "Invalid channel, please check again."
+    },
+    {
+        "Id": 20054005,
+        "Key": "CdKeyPlayerCountFull",
+        "Text": "You have claimed the reward already"
+    },
+    {
+        "Id": 20054006,
+        "Key": "CdKeyTimeOut",
+        "Text": "Gift code has expired, please check again."
+    },
+    {
+        "Id": 20055001,
+        "Key": "HeadPortraitTemplateNotFound",
+        "Text": "Portrait settings not found"
+    },
+    {
+        "Id": 20055002,
+        "Key": "HeadPortraitNotOwned",
+        "Text": "You do not own this portrait"
+    },
+    {
+        "Id": 20057001,
+        "Key": "FestivalActivityIsNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20057002,
+        "Key": "FestivalActivityIsOver",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20057003,
+        "Key": "FestivalActivityIdNotFount",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20058001,
+        "Key": "RedEnvelopeActivityInvalid",
+        "Text": "Invalid Gift Event"
+    },
+    {
+        "Id": 20058002,
+        "Key": "RedEnvelopeActivityNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20058003,
+        "Key": "RedEnvelopeActivityHaveClose",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20059001,
+        "Key": "BabelTowerActivityNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20059002,
+        "Key": "BabelTowerActivityIsOver",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20059003,
+        "Key": "BabelTowerFightIsEnd",
+        "Text": "Battle over"
+    },
+    {
+        "Id": 20059004,
+        "Key": "BabelTowerStageIdError",
+        "Text": "Stage ID error"
+    },
+    {
+        "Id": 20059005,
+        "Key": "BabelTowerCharacterIsInOtherStage",
+        "Text": "Construct has been locked in another stage"
+    },
+    {
+        "Id": 20059006,
+        "Key": "BabelTowerSupportPointIsNotEnough",
+        "Text": "Insufficient Support Points"
+    },
+    {
+        "Id": 20059007,
+        "Key": "BabelTowerStageGuideIdError",
+        "Text": "Stage Guide ID error"
+    },
+    {
+        "Id": 20059008,
+        "Key": "BabelTowerPreGuideInNotFinish",
+        "Text": "Complete the previous tutorial stage first"
+    },
+    {
+        "Id": 20059009,
+        "Key": "BabelTowerGuideChallengeBuffError",
+        "Text": "Challenge Buff setting error"
+    },
+    {
+        "Id": 20059010,
+        "Key": "BabelTowerSelectChallengeBuffGroupError",
+        "Text": "Challenge Buff Set setting error"
+    },
+    {
+        "Id": 20059011,
+        "Key": "BabelTowerSelectChallengeBuffNotInGroup",
+        "Text": "Challenge Buff not found"
+    },
+    {
+        "Id": 20059012,
+        "Key": "BabelTowerSelectChallengeBuffGroupNotRepeat",
+        "Text": "Cannot set duplicate Challenge Buff Set"
+    },
+    {
+        "Id": 20059013,
+        "Key": "BabelTowerSelectSupportBuffGroupError",
+        "Text": "Support Buff Set error"
+    },
+    {
+        "Id": 20059014,
+        "Key": "BabelTowerSelectSupportBuffNotInGroup",
+        "Text": "Support Buff not found"
+    },
+    {
+        "Id": 20059015,
+        "Key": "BabelTowerSelectSupportBuffGroupNotRepeat",
+        "Text": "Cannot set duplicate Support Buff Set"
+    },
+    {
+        "Id": 20059016,
+        "Key": "BabelTowerCacheDataIsNull",
+        "Text": "Please select stage data first"
+    },
+    {
+        "Id": 20059017,
+        "Key": "BabelTowerStageIdIsNotSameCacheData",
+        "Text": "Stage error"
+    },
+    {
+        "Id": 20059018,
+        "Key": "BabelTowerPreStageIsNotFinished",
+        "Text": "You have not completed the previous stage yet"
+    },
+    {
+        "Id": 20059019,
+        "Key": "BabelTowerPreStageScoreNotEnough",
+        "Text": "Insufficient points from previous stage"
+    },
+    {
+        "Id": 20059020,
+        "Key": "BabelTowerStageNotOpen",
+        "Text": "The stage is not available yet"
+    },
+    {
+        "Id": 20059021,
+        "Key": "BabelTowerPreFightTeamError",
+        "Text": "Deployed team error"
+    },
+    {
+        "Id": 20059022,
+        "Key": "BabelTowerTowerStageInfoIsNull",
+        "Text": "Stage not completed"
+    },
+    {
+        "Id": 20059023,
+        "Key": "BabelTowerTowerStageIsAlreadyReset",
+        "Text": "Stage record deleted"
+    },
+    {
+        "Id": 20059024,
+        "Key": "BabelTowerTowerStageIsNotReset",
+        "Text": "Stage record not deleted"
+    },
+    {
+        "Id": 20059025,
+        "Key": "BabelTowerTeamCharacterIdIsBanned",
+        "Text": "Forbidden characters in team"
+    },
+    {
+        "Id": 20060001,
+        "Key": "DormDormitoryHasActivated",
+        "Text": "The room has been activated"
+    },
+    {
+        "Id": 20060002,
+        "Key": "DormCannotFindDormitoryTemplate",
+        "Text": "Room settings not found"
+    },
+    {
+        "Id": 20060003,
+        "Key": "DormItemNotEnough",
+        "Text": "Insufficient items"
+    },
+    {
+        "Id": 20060004,
+        "Key": "DormDormitoryNotActivated",
+        "Text": "The room has not been activated yet"
+    },
+    {
+        "Id": 20060005,
+        "Key": "DormInvalidFurnitureId",
+        "Text": "Invalid decor ID"
+    },
+    {
+        "Id": 20060006,
+        "Key": "DormGetRandomFurnitureConfigIdFails",
+        "Text": "Failed to obtain decor settings ID randomly"
+    },
+    {
+        "Id": 20060007,
+        "Key": "DormGetFurnitureTemplateFails",
+        "Text": "Failed to obtain decor settings"
+    },
+    {
+        "Id": 20060008,
+        "Key": "DormStringInvalid",
+        "Text": "Contains illegal characters"
+    },
+    {
+        "Id": 20060009,
+        "Key": "DormCharacterIdInvalid",
+        "Text": "Invalid Construct id"
+    },
+    {
+        "Id": 20060010,
+        "Key": "DormCharacterEventTemplateIdInvalid",
+        "Text": "Construct event not found"
+    },
+    {
+        "Id": 20060011,
+        "Key": "DormCharacterEventTypeTemplateIdInvalid",
+        "Text": "Type of Construct event not found"
+    },
+    {
+        "Id": 20060012,
+        "Key": "DormCharacterEventNotExist",
+        "Text": "Construct event does not exist"
+    },
+    {
+        "Id": 20060013,
+        "Key": "DormGetFurnitureReturnFails",
+        "Text": "Failed to recycle decor"
+    },
+    {
+        "Id": 20060014,
+        "Key": "DormGetFurnitureLevelReturnFails",
+        "Text": "Failed to recycle decor level"
+    },
+    {
+        "Id": 20060015,
+        "Key": "DormGetFurnitureRandomAdditionAttrFails",
+        "Text": "Failed to obtain extra random boosts of decor stats"
+    },
+    {
+        "Id": 20060016,
+        "Key": "DormEventRateFails",
+        "Text": "Dormitory event rate not met"
+    },
+    {
+        "Id": 20060017,
+        "Key": "DormEventCdFails",
+        "Text": "Dormitory event in cool down"
+    },
+    {
+        "Id": 20060018,
+        "Key": "DormEventDailyCountFails",
+        "Text": "Dormitory event has reached the daily limit"
+    },
+    {
+        "Id": 20060019,
+        "Key": "DormEventWeekCountFails",
+        "Text": "Dormitory event has reached the weekly limit"
+    },
+    {
+        "Id": 20060020,
+        "Key": "DormEventMoodNotFit",
+        "Text": "Required Mood for dormitory event not met"
+    },
+    {
+        "Id": 20060021,
+        "Key": "DormEventVitalityNotFit",
+        "Text": "Required Stamina for dormitory event not met"
+    },
+    {
+        "Id": 20060022,
+        "Key": "DormCreateFurnitureBaseDataFails",
+        "Text": "Insert at least 3 Decor Coin"
+    },
+    {
+        "Id": 20060023,
+        "Key": "DormVisitSelfDorm",
+        "Text": "You cannot visit your own dormitory"
+    },
+    {
+        "Id": 20060024,
+        "Key": "DormRecommendCd",
+        "Text": "Refresh in cool down"
+    },
+    {
+        "Id": 20060025,
+        "Key": "DormCharacterWorking",
+        "Text": "Construct is working"
+    },
+    {
+        "Id": 20060026,
+        "Key": "DormCharacterVitalityNotEnough",
+        "Text": "Stamina of the Construct is insufficient"
+    },
+    {
+        "Id": 20060027,
+        "Key": "DormCharacterNotWorking",
+        "Text": "Construct is at leisure"
+    },
+    {
+        "Id": 20060028,
+        "Key": "DormFurnitureCreating",
+        "Text": "There has been a decor under construction"
+    },
+    {
+        "Id": 20060029,
+        "Key": "DormFurnitureCreatePosInvalid",
+        "Text": "Invalid position to build"
+    },
+    {
+        "Id": 20060030,
+        "Key": "DormNoFurnitureCreating",
+        "Text": "No decor is under construction"
+    },
+    {
+        "Id": 20060031,
+        "Key": "DormFurnitureCreateNotComplete",
+        "Text": "Decor is still under construction"
+    },
+    {
+        "Id": 20060032,
+        "Key": "DormCharacterFull",
+        "Text": "Dormitory is full"
+    },
+    {
+        "Id": 20060033,
+        "Key": "DormCharacterNotInDormitory",
+        "Text": "Construct is not in the room"
+    },
+    {
+        "Id": 20060034,
+        "Key": "DormCharacterNotEnough",
+        "Text": "Insufficient dormitory residents"
+    },
+    {
+        "Id": 20060035,
+        "Key": "DormInvalidFurnitureAttrType",
+        "Text": "Invalid type"
+    },
+    {
+        "Id": 20060036,
+        "Key": "DormFurnitureAttrNotEnough",
+        "Text": "Insufficient room decor stats"
+    },
+    {
+        "Id": 20060037,
+        "Key": "DormFurnitureTypeNotSame",
+        "Text": "Type of decor to refit mismatched"
+    },
+    {
+        "Id": 20060038,
+        "Key": "DormCannotFindWorkTemplate",
+        "Text": "Working settings not found"
+    },
+    {
+        "Id": 20060039,
+        "Key": "DormWorkSeatNotEnough",
+        "Text": "Working spaces are full"
+    },
+    {
+        "Id": 20060040,
+        "Key": "DormRequestDataInvalid",
+        "Text": "Invalid request protocol"
+    },
+    {
+        "Id": 20060041,
+        "Key": "DormCharacterHaveInDormitory",
+        "Text": "Construct is already in the dormitory"
+    },
+    {
+        "Id": 20060042,
+        "Key": "DormWorkPosIsUsing",
+        "Text": "The working space has been occupied"
+    },
+    {
+        "Id": 20060043,
+        "Key": "DormLoadPlayerFails",
+        "Text": "Failed to load data of visiting player"
+    },
+    {
+        "Id": 20060044,
+        "Key": "DormCharacterRewardTemplateNotFound",
+        "Text": "Dormitory Corrupted reward settings not found"
+    },
+    {
+        "Id": 20060045,
+        "Key": "DormCharacterMoodNotEnough",
+        "Text": "Resident's Mood too low"
+    },
+    {
+        "Id": 20060046,
+        "Key": "DormNoCharacterCanVisit",
+        "Text": "No Constructs can be visited"
+    },
+    {
+        "Id": 20060047,
+        "Key": "DormGetFurnitureRewardTemplateFails",
+        "Text": "Dormitory Decor reward settings not found"
+    },
+    {
+        "Id": 20061001,
+        "Key": "GachaTemplateNotFound",
+        "Text": "Gacha configuration not found"
+    },
+    {
+        "Id": 20061002,
+        "Key": "GachaRewardUseUp",
+        "Text": "No Gacha rewards left"
+    },
+    {
+        "Id": 20061003,
+        "Key": "GachaNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20061004,
+        "Key": "GachaClosed",
+        "Text": "Gacha closed"
+    },
+    {
+        "Id": 20061005,
+        "Key": "GachaTimesUseUp",
+        "Text": "No Gacha attempts left"
+    },
+    {
+        "Id": 20061006,
+        "Key": "GachaTimesNotEnough",
+        "Text": "Not enough Gacha attempts"
+    },
+    {
+        "Id": 20081001,
+        "Key": "DailyLotteryInvalidId",
+        "Text": "Event ID not found"
+    },
+    {
+        "Id": 20081002,
+        "Key": "DailyLotteryIdIsClosed",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20081003,
+        "Key": "DailyLotteryDataNotFound",
+        "Text": "Event data not found"
+    },
+    {
+        "Id": 20081004,
+        "Key": "DailyLotteryRewardIsGot",
+        "Text": "Insufficient Main Story attempts"
+    },
+    {
+        "Id": 20081005,
+        "Key": "DailyLotteryInvalidLotteryRewardId",
+        "Text": "Invalid event reward ID"
+    },
+    {
+        "Id": 20140001,
+        "Key": "SlotMachinesTemplateNotFound",
+        "Text": "detector settings not found"
+    },
+    {
+        "Id": 20140002,
+        "Key": "SlotMachinesIconTemplateNotFound",
+        "Text": "detector symbol settings not found"
+    },
+    {
+        "Id": 20140003,
+        "Key": "SlotMachinesActivityTemplateCanNotFound",
+        "Text": "detector event not found"
+    },
+    {
+        "Id": 20140004,
+        "Key": "SlotMachinesTemplateIconNotFound",
+        "Text": "detector symbols not found"
+    },
+    {
+        "Id": 20140005,
+        "Key": "SlotMachinesActivityNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20140006,
+        "Key": "SlotMachinesActivityIsNotFound",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20140007,
+        "Key": "SlotMachinesScoreAlreadyFull",
+        "Text": "Points full"
+    },
+    {
+        "Id": 20140008,
+        "Key": "SlotMachinesStartConfigNeedPerUnlock",
+        "Text": "Need?to?complete?the?Common?Detector?before?unlocking?the?Wide-Range?Detector"
+    },
+    {
+        "Id": 20140009,
+        "Key": "SlotMachinesPerDataIsNull",
+        "Text": "No prerequisite detector data"
+    },
+    {
+        "Id": 20140010,
+        "Key": "SlotMachinesNeedAchievePerUnlockScore",
+        "Text": "Points must reach unlock prerequisite"
+    },
+    {
+        "Id": 20140011,
+        "Key": "SlotMachinesReceiveRewardNotExist",
+        "Text": "Rewards to claim does not exist"
+    },
+    {
+        "Id": 20140012,
+        "Key": "SlotMachinesScoreIsNotEnough",
+        "Text": "Not enough points. Cannot claim."
+    },
+    {
+        "Id": 20140013,
+        "Key": "SlotMachinesRewardIsAlreadyReceive",
+        "Text": "Reward claimed"
+    },
+    {
+        "Id": 20140014,
+        "Key": "SlotMachinesRockTypeNotFound",
+        "Text": "detector error"
+    },
+    {
+        "Id": 20140015,
+        "Key": "SlotMachinesCoinEnoughNotNeedBuy",
+        "Text": "Enough Cell Battery, no need to purchase"
+    },
+    {
+        "Id": 20140016,
+        "Key": "SlotMachinesBuyNumNoMatchNeedNum",
+        "Text": "The quantity purchased don't match the quantity required"
+    },
+    {
+        "Id": 30002001,
+        "Key": "PlayerNotExist",
+        "Text": "Player does not exist"
+    },
+    {
+        "Id": 30002002,
+        "Key": "ServerNodeNotFound",
+        "Text": "Server not found"
+    },
+    {
+        "Id": 30002003,
+        "Key": "RequestError",
+        "Text": "Request error"
+    },
+    {
+        "Id": 40001001,
+        "Key": "PayLoginTypeNonsupport",
+        "Text": "Invalid type of recharge"
+    },
+    {
+        "Id": 40001002,
+        "Key": "PayCheckSignUnMatch",
+        "Text": "Invalid type of recharge"
+    },
+    {
+        "Id": 40001003,
+        "Key": "PayDecodeSignException"
+    },
+    {
+        "Id": 40001004,
+        "Key": "PayGetOrderInfoError",
+        "Text": "Failed to obtain recharge order"
+    },
+    {
+        "Id": 40001005,
+        "Key": "PayCheckReceiptGameNoIsNullOrEmpty",
+        "Text": "Recharge info not found"
+    },
+    {
+        "Id": 40001006,
+        "Key": "PayCheckReceiptGameOrderIsNullOrEmpty",
+        "Text": "Recharge info not found"
+    },
+    {
+        "Id": 40001007,
+        "Key": "PayReceiptNotFound",
+        "Text": "Recharge permit not found"
+    },
+    {
+        "Id": 40001008,
+        "Key": "PayCheckReceiptGoodsIdUnMatch",
+        "Text": "Product ID on the recharge permit mismatched"
+    },
+    {
+        "Id": 40001009,
+        "Key": "PayCheckReceiptAmountUnMatch",
+        "Text": "Price on the recharge permit mismatched"
+    },
+    {
+        "Id": 40001010,
+        "Key": "PayCheckReceiptChannelIdUnMatch",
+        "Text": "Channel on the recharge permit mismatched"
+    },
+    {
+        "Id": 40001011,
+        "Key": "PayCheckReceiptChannelUidUnMatch",
+        "Text": "User ID on the recharge permit mismatched"
+    },
+    {
+        "Id": 40001012,
+        "Key": "PayUpdateReceiptStatusFail",
+        "Text": "Failed to refresh the recharge permit"
+    },
+    {
+        "Id": 40001013,
+        "Key": "PayFirstPayRewardIsGet",
+        "Text": "1st Recharge reward claimed"
+    },
+    {
+        "Id": 40001014,
+        "Key": "PayTotalPayMoneyNotEnough",
+        "Text": "Insufficient total recharge"
+    },
+    {
+        "Id": 40001015,
+        "Key": "PayOrderAlreadyRefund"
+    },
+    {
+        "Id": 40001016,
+        "Key": "PayUseKeyPlatformError"
+    },
+    {
+        "Id": 40001017,
+        "Key": "AccumulatedPayIdIsError",
+        "Text": "Total Recharge ID error"
+    },
+    {
+        "Id": 40001018,
+        "Key": "AccumulatedPayIdIsNotExist",
+        "Text": "Total Recharge ID does not exist"
+    },
+    {
+        "Id": 40001019,
+        "Key": "AccumulatedPayIdNotInOpenTime",
+        "Text": "Total Recharge event is not available yet"
+    },
+    {
+        "Id": 40001020,
+        "Key": "AccumulatedPayRewardIdIsError",
+        "Text": "Total Recharge reward ID error"
+    },
+    {
+        "Id": 40001021,
+        "Key": "AccumulatedPayRewardIdIsNotExist",
+        "Text": "Total Recharge reward ID does not exist"
+    },
+    {
+        "Id": 40001022,
+        "Key": "AccumulatePayRewardIdIsGot",
+        "Text": "Reward Claimed"
+    },
+    {
+        "Id": 40001023,
+        "Key": "AccumulatePayRewardMoneyNotEnough",
+        "Text": "Insufficient recharge amount"
+    },
+    {
+        "Id": 40001024,
+        "Key": "PayUnsupportedTargetType"
+    },
+    {
+        "Id": 40001025,
+        "Key": "PayInvalidPlatformForPay"
+    },
+    {
+        "Id": 40001026,
+        "Key": "PayPlatformPayKeyNotMatch"
+    },
+    {
+        "Id": 40001027,
+        "Key": "PayModuleNotHandled"
+    }
+]

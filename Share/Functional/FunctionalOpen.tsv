@@ -1,0 +1,98 @@
+Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
+1	Target	1	1	770100			1
+2	Reserve	2	0				1
+3	Recharge	3	0				1
+4	Settings	4	0				1
+5	Sign-in	4	0	770200			1
+6	Feedback	6	0				1
+7	Reward	5	0				1
+8	Gift Code	6	0				1
+101	Construct	7	0				1
+102	Construct - Promote	8	1	770300			1
+103	Construct - Evolve	9	1				1
+104	Construct - Skill	10	1				1
+201	Equip	11	1				1
+202	Equipment - Enhance	12	1				1
+203	Equipment - Resonance	13	1				1
+204	Gear - Quick Enhance	14	1	770400			1
+301	Warehouse	15	1				1
+401	Research	16	1	770400			1
+402	Research - Equipment	17	1				1
+403	Research - Event	17	1	772270			1
+501	Mission	18	1				1
+502	Mission - Story	19	1				1
+503	Mission - Daily	20	1	770500			1
+504	Mission - Event	21	1				1
+505	Mission - Weekly	22	1	770500			1
+601	Team	23	1				1
+602	Team - Mark	24	0	770600			1
+603	Team - Achievement	25	1				1
+701	Mail	26	1				1
+801	Friends	27	0	770700			1
+802	Chat Channel	28	0	770700			1
+901	Foundations - Floor Equipment	29	0	770800			1
+902	Dormitory	30	1	770900			1
+1001	Regular Shop	31	1	771000			1
+1002	Event Shop	37	1	771100			1
+1201	Dispatch	38	0	771200			1
+2001	Support	39	1	771300			1
+10101	Normal Story	40	0				1
+10102	Hidden Story	41	1	771400			1
+10103	Stronghold	35	1	771500			1
+10201	Challenge Stage	35	0				1
+10202	Challenge - Lemegeton	35	0	771600			1
+10203	Challenge - Phantom Pain Cage	35	1	771700			1
+10204	Challenge - War Zone	43	1	771800			1
+10300	Event Info	44	0				1
+10301	Event Quest	44	0				1
+10302	Co-op	44	1	772000			1
+10303	Event [Mass Deterioration]	44	0	772100			1
+10304	Event [Azure Scar]	44	0	772200			1
+10305	Test Area	45	0	772300			1
+10306	Festival Stage	46	0	772250			1
+10307	Babel Tower	47	0	772280			1
+10308	Main Story	48	0	772260			1
+10401	Resource Mission	33	0	772400			1
+10402	Resource - N/A 1	34	0	772500			1
+10403	Resource - N/A 2	36	0	772600			1
+10404	Resource - N/A 3	37	0	772700			1
+10406	Resource - Special Training	38	1	772800			1
+10407	Resource - Combat Supply	39	1	772900			1
+10408	Resource - Military Hardware	40	1	773000			1
+10409	Resource - Logistics Maintenance	41	1	773100			1
+10410	Resource - Cogs Galore	42	1	773200			1
+10411	Resource - Battle Exercise	46	1	773300			1
+1301	Bounty Mission	47	1	773400			1
+1400	Affection	48	0	773500			1
+1401	Affection - File	49	0	773600			1
+1402	Affection - Story	50	0	773700			1
+1403	Affection - Gift	51	0	773800			1
+1404	Affection - Encounter	52	0	773900			1
+1501	Customize Control	46	0	774000			1
+1601	Memory Rescue	53	1	774100			1
+1701	Interlude	35	1	774200			1
+10405	Golden Vortex	54	1	774300			1
+105	Construct Army	55	1	774400			1
+1800	Celica's Class	80	1	774500			1
+109001	Special Training RS-2	81	1	9001			2
+109002	Special Training RS-3	82	1	9002			2
+109003	Special Training RS-4	83	1	9003			2
+109101	Combat Supply AE-2	84	1	9101			2
+109102	Combat Supply AE-3	85	1	9102			2
+109103	Combat Supply AE-4	86	1	9002			2
+109201	Military Hardware AB-2	87	1	9201			2
+109202	Military Hardware AB-3	88	1	9202			2
+109203	Military Hardware AB-4	89	1	9203			2
+109301	Logistics Maintenance LM-2	90	1	9101			2
+109302	Logistics Maintenance LM-3	91	1	9102			2
+109303	Logistics Maintenance LM-4	92	1	9103			2
+109401	Cogs Galore NF-2	93	1	9401			2
+109402	Cogs Galore NF-3	94	1	9402			2
+109403	Cogs Galore NF-4	95	1	9403			2
+109501	Battle Exercise BE-2	96	1	9401			2
+109502	Battle Exercise BE-3	97	1	9402			2
+109503	Battle Exercise BE-4	98	1	9403			2
+2100	Collection	99	1	774600			1
+2101	Medal List	100	1	774600			1
+3000	Total Recharge	101	0				1
+4000	Straylight Terminal	102	0	30404			1

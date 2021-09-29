@@ -1,0 +1,744 @@
+[
+    {
+        "Id": 1,
+        "GroupID": 1,
+        "Name": "Dummy Training",
+        "RecommendLevel": 1,
+        "Order": 100,
+        "Type": 3,
+        "ConditionId": [],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenmuzhaung1.png",
+        "TrialID": 1,
+        "TrialStatus": 2,
+        "SingStageId": 30030301,
+        "MultStageId": 30030401,
+        "SingleDescription": "No Stamina cost\\nMonsters will not attack\\nMonsters will always revive after death",
+        "MultDescription": "No Stamina cost\\nMonsters will not attack\\nMonsters will always revive after death",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenmuzhuang001.png"
+    },
+    {
+        "Id": 2,
+        "GroupID": 1,
+        "Name": "Combat Training",
+        "RecommendLevel": 1,
+        "Order": 101,
+        "Type": 3,
+        "ConditionId": [],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenduizhan1.png",
+        "TrialID": 2,
+        "TrialStatus": 2,
+        "SingStageId": 30030302,
+        "MultStageId": 30030402,
+        "SingleDescription": "No Stamina cost\\nMonsters will always revive after death",
+        "MultDescription": "No Stamina cost\\nMonsters will always revive after death",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenduizhan001.png"
+    },
+    {
+        "Id": 3,
+        "GroupID": 2,
+        "Name": "Tank War",
+        "RecommendLevel": 1,
+        "Order": 102,
+        "Type": 2,
+        "ConditionId": [],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubentanke1.png",
+        "TrialID": 1,
+        "TrialStatus": 2,
+        "MultStageId": 30030501,
+        "MultDescription": "No Stamina cost\\nCo-op mode",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubentanke001.png"
+    },
+    {
+        "Id": 4,
+        "GroupID": 5,
+        "Name": "3-2 Terminal",
+        "RecommendLevel": 60,
+        "Order": 1000,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian1.png",
+        "SingStageId": 10030402,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nHassen gave you a priority mission. Before joining Strike Hawk, you need to retrieve the Constructs in the subway station with Gray Raven.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian001.png"
+    },
+    {
+        "Id": 5,
+        "GroupID": 5,
+        "Name": "3-3 Driven by Instinct",
+        "RecommendLevel": 60,
+        "Order": 1001,
+        "Type": 1,
+        "ConditionId": [
+            30500,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian2.png",
+        "SingStageId": 10030403,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nTifa was also one of the \"new variants\". How the Corrupted suddenly gained the ability to think was still unknown, but they quickly occupied the subway station after she was gone.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian002.png"
+    },
+    {
+        "Id": 6,
+        "GroupID": 5,
+        "Name": "3-4 Good Samaritan",
+        "RecommendLevel": 60,
+        "Order": 1002,
+        "Type": 1,
+        "ConditionId": [
+            30501,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian3.png",
+        "SingStageId": 10030404,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe Corrupted significantly impacted the retrieval of Constructs. Gray Raven decided to split into two groups; one would continue working on the retrieval, while the other would focus on fighting the Corrupted.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian003.png"
+    },
+    {
+        "Id": 7,
+        "GroupID": 5,
+        "Name": "3-5 Trespassing",
+        "RecommendLevel": 60,
+        "Order": 1003,
+        "Type": 1,
+        "ConditionId": [
+            30502,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian4.png",
+        "SingStageId": 10030501,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nOperation Portal was run by Strike Hawk. After joining forces with them, Gray Raven was assigned the task of scouting in the Estate where the portal was located.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian004.png"
+    },
+    {
+        "Id": 8,
+        "GroupID": 5,
+        "Name": "3-6 Traps",
+        "RecommendLevel": 60,
+        "Order": 1004,
+        "Type": 1,
+        "ConditionId": [
+            30503,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian5.png",
+        "SingStageId": 10030502,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nAfter scouting, Gray Raven's next task is night patrol.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian005.png"
+    },
+    {
+        "Id": 9,
+        "GroupID": 5,
+        "Name": "3-7 Final Warning",
+        "RecommendLevel": 60,
+        "Order": 1005,
+        "Type": 1,
+        "ConditionId": [
+            30504,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian6.png",
+        "SingStageId": 10030503,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nOperation Portal is about to start. Gray Raven and Strike Hawk will launch a joint attack on the Estate.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian006.png"
+    },
+    {
+        "Id": 10,
+        "GroupID": 5,
+        "Name": "3-8 Take Caution",
+        "RecommendLevel": 60,
+        "Order": 1006,
+        "Type": 1,
+        "ConditionId": [
+            30505,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian7.png",
+        "SingStageId": 10030504,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nA new variant, along with many Corrupted reinforcements, suddenly appeared in the Estate. Defeat the new variant and evacuate ASAP.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian007.png"
+    },
+    {
+        "Id": 11,
+        "GroupID": 5,
+        "Name": "3-10 A Twisted Hobby",
+        "RecommendLevel": 60,
+        "Order": 1007,
+        "Type": 1,
+        "ConditionId": [
+            30506,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian8.png",
+        "SingStageId": 10030602,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe operation has started again. Gray Raven will distract the enemy so Strike Hawk can infiltrate the Estate.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian008.png"
+    },
+    {
+        "Id": 12,
+        "GroupID": 5,
+        "Name": "3-11 Loyalty",
+        "RecommendLevel": 60,
+        "Order": 1008,
+        "Type": 1,
+        "ConditionId": [
+            30507,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian9.png",
+        "SingStageId": 10030603,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nTo attract as much firepower as possible, Gray Raven decided to enter the Estate building.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian009.png"
+    },
+    {
+        "Id": 13,
+        "GroupID": 5,
+        "Name": "3-12 A New Seed",
+        "RecommendLevel": 60,
+        "Order": 1009,
+        "Type": 1,
+        "ConditionId": [
+            30508,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian10.png",
+        "SingStageId": 10030604,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nFor some unknown reason, Gray Raven lost contact with Strike Hawk. The priority now is to get out of this place.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian010.png"
+    },
+    {
+        "Id": 14,
+        "GroupID": 6,
+        "Name": "4-1 Night Escape",
+        "RecommendLevel": 65,
+        "Order": 1010,
+        "Type": 1,
+        "ConditionId": [
+            30509,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian11.png",
+        "SingStageId": 10040401,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nStrike Hawk suffered a heavy loss, so Kamui was reassigned to Gray Raven, whose last task here is to establish a safe zone.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian011.png"
+    },
+    {
+        "Id": 15,
+        "GroupID": 6,
+        "Name": "4-2 Elimination",
+        "RecommendLevel": 65,
+        "Order": 1011,
+        "Type": 1,
+        "ConditionId": [
+            30510,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian12.png",
+        "SingStageId": 10040402,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nCover Lee so he could set up the Iso-Device outside the Estate and hence establish a safe route between the base and the portal.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian012.png"
+    },
+    {
+        "Id": 16,
+        "GroupID": 6,
+        "Name": "4-3 Broken Chain",
+        "RecommendLevel": 65,
+        "Order": 1012,
+        "Type": 1,
+        "ConditionId": [
+            30511,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian13.png",
+        "SingStageId": 10040403,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nA siren suddenly went off in the Estate. Check it out and ensure the portal is safe.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian013.png"
+    },
+    {
+        "Id": 17,
+        "GroupID": 6,
+        "Name": "4-4 Zack",
+        "RecommendLevel": 65,
+        "Order": 1013,
+        "Type": 1,
+        "ConditionId": [
+            30512,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian14.png",
+        "SingStageId": 10040404,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nTurned out it was some Corrupted that triggered the safety robots. Destroy the Corrupted and the robots.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian014.png"
+    },
+    {
+        "Id": 18,
+        "GroupID": 6,
+        "Name": "4-5 Raging Sand",
+        "RecommendLevel": 65,
+        "Order": 1014,
+        "Type": 1,
+        "ConditionId": [
+            30513,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian15.png",
+        "SingStageId": 10040501,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe portal was tampered by Roland and failed to send you to the designated location. After some discussion, you decided to walk there.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian015.png"
+    },
+    {
+        "Id": 19,
+        "GroupID": 6,
+        "Name": "4-6 Panic Dive",
+        "RecommendLevel": 65,
+        "Order": 1015,
+        "Type": 1,
+        "ConditionId": [
+            30514,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian16.png",
+        "SingStageId": 10040502,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nKamui seemed to have this desert's information. Gray Raven headed toward the desert base for supplies and Construct maintenance.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian016.png"
+    },
+    {
+        "Id": 20,
+        "GroupID": 6,
+        "Name": "4-7 Forsaken",
+        "RecommendLevel": 65,
+        "Order": 1016,
+        "Type": 1,
+        "ConditionId": [
+            30515,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian17.png",
+        "SingStageId": 10040503,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe desert base was under attack of the Corrupted. Defeat them to protect the base.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian017.png"
+    },
+    {
+        "Id": 21,
+        "GroupID": 6,
+        "Name": "4-8 Reinforcement",
+        "RecommendLevel": 65,
+        "Order": 1017,
+        "Type": 1,
+        "ConditionId": [
+            30516,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian18.png",
+        "SingStageId": 10040504,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nGray Raven was met with some uninvited guests who called themselves the \"Forsaken\", and was attacked by one of the male Constructs.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian018.png"
+    },
+    {
+        "Id": 22,
+        "GroupID": 6,
+        "Name": "4-9 None Shall Pass",
+        "RecommendLevel": 65,
+        "Order": 1018,
+        "Type": 1,
+        "ConditionId": [
+            30517,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian19.png",
+        "SingStageId": 10040601,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe \"Forsaken\" Constructs seemed to know Lucia and Kamui. Gray Raven set off once again to seize the base and find out the truth.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian019.png"
+    },
+    {
+        "Id": 23,
+        "GroupID": 6,
+        "Name": "4-10 Silent Night",
+        "RecommendLevel": 65,
+        "Order": 1019,
+        "Type": 1,
+        "ConditionId": [
+            30518,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian20.png",
+        "SingStageId": 10040602,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe mysterious Construct who clearly disliked humans appeared again. He was upset by Gray Raven as they were taking orders from you. A battle is imminent.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian020.png"
+    },
+    {
+        "Id": 24,
+        "GroupID": 6,
+        "Name": "4-11 Noises",
+        "RecommendLevel": 65,
+        "Order": 1020,
+        "Type": 1,
+        "ConditionId": [
+            30519,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian21.png",
+        "SingStageId": 10040603,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe male Construct took advantage of the Corrupted's habits and got them to attack Gray Raven. Lucia seemed to have recalled something during the battle though...?",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian021.png"
+    },
+    {
+        "Id": 25,
+        "GroupID": 6,
+        "Name": "4-12 Battle in Temple",
+        "RecommendLevel": 65,
+        "Order": 1021,
+        "Type": 1,
+        "ConditionId": [
+            30520,
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenzhuxian22.png",
+        "SingStageId": 10040604,
+        "SingleDescription": "No Stamina cost\\nFight with overclocked monsters\\nThe enemy Construct's name was Watanabe. But before Lucia could recall more, a type of enemy named \"Guardian\" started to attack...",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenzhuxian022.png"
+    },
+    {
+        "Id": 26,
+        "GroupID": 8,
+        "Name": "Camu",
+        "RecommendLevel": 60,
+        "Order": 1022,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiu1.png",
+        "SingStageId": 30030101,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiu001.png"
+    },
+    {
+        "Id": 27,
+        "GroupID": 9,
+        "Name": "Riot",
+        "RecommendLevel": 60,
+        "Order": 1023,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubendianqiu1.png",
+        "SingStageId": 30030102,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubendianqiu001.png"
+    },
+    {
+        "Id": 28,
+        "GroupID": 8,
+        "Name": "Nightmare Camu",
+        "RecommendLevel": 80,
+        "Order": 1024,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiu2.png",
+        "SingStageId": 30030103,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiu002.png"
+    },
+    {
+        "Id": 29,
+        "GroupID": 9,
+        "Name": "Nightmare Riot",
+        "RecommendLevel": 80,
+        "Order": 1025,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubendianqiu2.png",
+        "SingStageId": 30030104,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubendianqiu002.png"
+    },
+    {
+        "Id": 30,
+        "GroupID": 8,
+        "Name": "Terror Camu",
+        "RecommendLevel": 80,
+        "Order": 1026,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiu3.png",
+        "SingStageId": 30030105,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiu003.png"
+    },
+    {
+        "Id": 31,
+        "GroupID": 9,
+        "Name": "Terror Riot",
+        "RecommendLevel": 80,
+        "Order": 1027,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubendianqiu3.png",
+        "SingStageId": 30030106,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubendianqiu003.png"
+    },
+    {
+        "Id": 32,
+        "GroupID": 12,
+        "Name": "Sister",
+        "RecommendLevel": 60,
+        "Order": 1028,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiunv1.png",
+        "MultStageId": 30030201,
+        "MultDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiunv001.png"
+    },
+    {
+        "Id": 33,
+        "GroupID": 13,
+        "Name": "Osiris",
+        "RecommendLevel": 60,
+        "Order": 1029,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubengoutou1.png",
+        "MultStageId": 30030202,
+        "MultDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubengoutou001.png"
+    },
+    {
+        "Id": 34,
+        "GroupID": 12,
+        "Name": "Nightmare Sister",
+        "RecommendLevel": 80,
+        "Order": 1030,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiunv2.png",
+        "MultStageId": 30030203,
+        "MultDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiunv002.png"
+    },
+    {
+        "Id": 35,
+        "GroupID": 13,
+        "Name": "Nightmare Osiris",
+        "RecommendLevel": 80,
+        "Order": 1031,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubengoutou2.png",
+        "MultStageId": 30030204,
+        "MultDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubengoutou002.png"
+    },
+    {
+        "Id": 36,
+        "GroupID": 12,
+        "Name": "Terror Sister",
+        "RecommendLevel": 80,
+        "Order": 1032,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenxiunv3.png",
+        "MultStageId": 30030205,
+        "MultDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenxiunv003.png"
+    },
+    {
+        "Id": 37,
+        "GroupID": 13,
+        "Name": "Terror Osiris",
+        "RecommendLevel": 80,
+        "Order": 1033,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubengoutou3.png",
+        "MultStageId": 30030206,
+        "MultDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubengoutou003.png"
+    },
+    {
+        "Id": 38,
+        "GroupID": 3,
+        "Name": "Nightmare Rescue - 1",
+        "RecommendLevel": 80,
+        "Order": 1000,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenguanka1.png",
+        "SingStageId": 30030601,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenguanka001.png"
+    },
+    {
+        "Id": 39,
+        "GroupID": 3,
+        "Name": "Nightmare Rescue - 2",
+        "RecommendLevel": 80,
+        "Order": 1001,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenguanka2.png",
+        "SingStageId": 30030602,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenguanka002.png"
+    },
+    {
+        "Id": 40,
+        "GroupID": 3,
+        "Name": "Nightmare Rescue - 3",
+        "RecommendLevel": 80,
+        "Order": 1002,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenguanka3.png",
+        "SingStageId": 30030603,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenguanka003.png"
+    },
+    {
+        "Id": 41,
+        "GroupID": 3,
+        "Name": "Nightmare Rescue - 4",
+        "RecommendLevel": 80,
+        "Order": 1003,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenguanka4.png",
+        "SingStageId": 30030604,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenguanka004.png"
+    },
+    {
+        "Id": 42,
+        "GroupID": 3,
+        "Name": "Nightmare Rescue - 5",
+        "RecommendLevel": 80,
+        "Order": 1004,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenguanka5.png",
+        "SingStageId": 30030605,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenguanka005.png"
+    },
+    {
+        "Id": 43,
+        "GroupID": 10,
+        "Name": "Rosetta",
+        "RecommendLevel": 60,
+        "Order": 1030,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma1.png",
+        "SingStageId": 30030211,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma1.png"
+    },
+    {
+        "Id": 44,
+        "GroupID": 10,
+        "Name": "Nightmare Rosetta",
+        "RecommendLevel": 80,
+        "Order": 1031,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma2.png",
+        "SingStageId": 30030212,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma2.png"
+    },
+    {
+        "Id": 45,
+        "GroupID": 10,
+        "Name": "Terror Rosetta",
+        "RecommendLevel": 80,
+        "Order": 1032,
+        "Type": 1,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma3.png",
+        "SingStageId": 30030213,
+        "SingleDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma3.png"
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "Id": 1,
+        "CharacterID": 1011002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Li01.png",
+        "Title": "Controlling Bullet",
+        "Description": "After pinging a Yellow Orb, next Red Orb will inflict Blast and deal Fire DMG to a small area.",
+        "NextTrialID": 2
+    },
+    {
+        "Id": 2,
+        "CharacterID": 1011002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Li03.png",
+        "Title": "Recommended Combo",
+        "Description": "Inflicts Electrocute on enemies after a Blue Orb 3-Ping, then ping a Yellow Orb and Red Orb to deal great Physical DMG and additional Fire DMG.",
+        "NextTrialID": 1
+    },
+    {
+        "Id": 3,
+        "CharacterID": 1021001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1luxiya01.png",
+        "Title": "Lotus - Dual Blades",
+        "Description": "Pinging a Red Orb within 4 seconds after any 3-Ping will make Lucia Burst. Lucia then replaces Basic Attacks with Dual Blades.",
+        "NextTrialID": 4
+    },
+    {
+        "Id": 4,
+        "CharacterID": 1021001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1luxiya02.png",
+        "Title": "Recommended Combo",
+        "Description": "Attacks will deal an additional Fire DMG after a Blue Orb 3-Ping. Ping a Red Orb next to attack with \"Lotus - Dual Blades\" to deal CRIT DMG.",
+        "NextTrialID": 3
+    },
+    {
+        "Id": 5,
+        "CharacterID": 1031001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Lifu01.png",
+        "Title": "Core Laser",
+        "Description": "Pinging a Red Orb after any 3-Ping will trigger core lasers to deal 10 times of Physical DMG to a wide area.",
+        "NextTrialID": 6
+    },
+    {
+        "Id": 6,
+        "CharacterID": 1031001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Lifu02.png",
+        "Title": "Recommended Combo",
+        "Description": "Attracts the nearby enemies by a Yellow Orb 3-Ping, then ping a Red Orb to unleash 'Core Lasers' that deal high Group DMG.",
+        "NextTrialID": 5
+    },
+    {
+        "Id": 7,
+        "CharacterID": 1041002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Bianka01.png",
+        "Title": "Wing Shot",
+        "Description": "Gains additional Energy when hitting enemies with a Yellow Orb Combo to speed up using of Signature Move.",
+        "NextTrialID": 8
+    },
+    {
+        "Id": 8,
+        "CharacterID": 1041002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Bianka02.png",
+        "Title": "Recommended Combo",
+        "Description": "Triggers 3 times of \"Passive: Quiver of Mercy\" by any 3-Ping and stores 3 energy arrows. Then perform a Signature Move to deal great Physical DMG.",
+        "NextTrialID": 9
+    },
+    {
+        "Id": 9,
+        "CharacterID": 1041002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Bianka03.png",
+        "Title": "Recommended Combo",
+        "Description": "Adds maximum damage to the weapon with a Blue Orb 3-Ping, then deals high damage with Basic Attacks.",
+        "NextTrialID": 7
+    },
+    {
+        "Id": 10,
+        "CharacterID": 1051001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Qishi01.png",
+        "Title": "EX - Slash Storm",
+        "Description": "Core Passive: When pinging a Yellow Orb after any 3-Ping, Nanami will use EX - Slash Storm and launch 8 consecutive attacks at surrounding targets, dealing * Physical DMG per attack.",
+        "NextTrialID": 11
+    },
+    {
+        "Id": 11,
+        "CharacterID": 1051001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Qishi02.png",
+        "Title": "Recommended Combo",
+        "Description": "Quickly dash at the target location with a Red Orb 3-Ping, then ping a Yellow Orb to perform 'Ex - Slash Storm' to deal high Physical DMG.",
+        "NextTrialID": 12
+    },
+    {
+        "Id": 12,
+        "CharacterID": 1051001,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Qishi03.png",
+        "Title": "Recommended Combo",
+        "Description": "Pulls the nearby enemies by a Blue Orb 3-Ping, then ping a Yellow Orb to perform : 'Ex - Slash Storm' and deals Physical DMG to a wide area.",
+        "NextTrialID": 10
+    },
+    {
+        "Id": 13,
+        "CharacterID": 1061002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Shenwei02.png",
+        "Title": "Offence-Defense Rhythm",
+        "Description": "Counterattacks and unleashes sword waves after a successful block, dealing Physical DMG to the enemy and increasing your own DMG.",
+        "NextTrialID": 14
+    },
+    {
+        "Id": 14,
+        "CharacterID": 1061002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Shenwei03.png",
+        "Title": "Great Slash",
+        "Description": "Slash deals 1 additional damage when performing a Red Orb 3-Ping.",
+        "NextTrialID": 13
+    },
+    {
+        "Id": 15,
+        "CharacterID": 1071002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Kalie01.png",
+        "Title": "Artillery Tactics",
+        "Description": "After 3 times of 3-Ping or performing a Signature Move, Karenina will Burst for 3 seconds and the next Basic Attack will become a ranged artillery attack.",
+        "NextTrialID": 16
+    },
+    {
+        "Id": 16,
+        "CharacterID": 1071002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Kalie02.png",
+        "Title": "Artillery Tactics",
+        "Description": "After 3 times of 3-Ping or performing a Signature Move, Karenina will Burst for 3 seconds and the next Basic Attack will become a ranged artillery attack.",
+        "NextTrialID": 17
+    },
+    {
+        "Id": 17,
+        "CharacterID": 1071002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Kalie03.png",
+        "Title": "Recommended Combo",
+        "Description": "Ping a Blue Orb to gather the enemies, then use a Signature Move to deal area damage and trigger Passive: Burst Mode to deal high damage.",
+        "NextTrialID": 18
+    },
+    {
+        "Id": 18,
+        "CharacterID": 1071002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Kalie04.png",
+        "Title": "Recommended Combo",
+        "Description": "Marks the enemy by a Yellow Orb 3-Ping and enters Burst Mode, dealing Physical and Fire DMG by triggering the Mark to explode.",
+        "NextTrialID": 15
+    },
+    {
+        "Id": 19,
+        "CharacterID": 1081002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Dubian01.png",
+        "Title": "Fleeting Phantom",
+        "Description": "Any 3-Ping attack will mark an enemy. Launching a 3-Ping attack at the marked enemy again will release an energy clone. The clone will attack once with each Basic Attack.",
+        "NextTrialID": 20
+    },
+    {
+        "Id": 20,
+        "CharacterID": 1081002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Dubian02.png",
+        "Title": "Sneak Attack",
+        "Description": "Ping a Yellow Orb and quickly goes behind the enemy. Attacks the back of the target to trigger the effect of \"Sneak Attack\" to increase damage.",
+        "NextTrialID": 21
+    },
+    {
+        "Id": 21,
+        "CharacterID": 1081002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Dubian03.png",
+        "Title": "Recommended Combo",
+        "Description": "Ping a Yellow Orb and quickly go behind the enemy, then ping a Blue Orb and attack the back of the enemy to deal Critical Strike.",
+        "NextTrialID": 19
+    },
+    {
+        "Id": 22,
+        "CharacterID": 1021002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Luxiya01.png",
+        "Title": "Lotus - Lightning Dance",
+        "Description": "Marks the enemy by pinging Blue Orbs or Yellow Orbs. Attacking an enemy marked by Lucia has a chance to launch lightning attacks that deal Lightning DMG.",
+        "NextTrialID": 23
+    },
+    {
+        "Id": 23,
+        "CharacterID": 1021002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Luxiya02.png",
+        "Title": "Recommended Combo",
+        "Description": "Ping a Yellow Orb and deploys a lightning field, then use a Red Orb 3-Ping to increase the number of extra attack and deal high Physical and Lightning DMG.",
+        "NextTrialID": 22
+    },
+    {
+        "Id": 24,
+        "CharacterID": 1031002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Lifu01.png",
+        "Title": "Reversed Egretfield",
+        "Description": "Attacking a marked enemy with Basic Attacks and Red Orb attacks has a chance to trigger Lightning Lure. When it's triggered for the 5th time, Ex - Lightning Lure will be used, dealing Lightning DMG to enemies and healing the allies in the area.",
+        "NextTrialID": 25
+    },
+    {
+        "Id": 25,
+        "CharacterID": 1031002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Lifu02.png",
+        "Title": "Recommended Combo",
+        "Description": "Red Orb 3-Ping will trigger Lightning Lure.",
+        "NextTrialID": 26
+    },
+    {
+        "Id": 26,
+        "CharacterID": 1031002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Lifu03.png",
+        "Title": "Recommended Combo",
+        "Description": "Ping a Yellow Orb to attract enemies and mark them by pinging a Blue Orb, then trigger Passive: Lightning Lure by a Basic Attack.",
+        "NextTrialID": 24
+    },
+    {
+        "Id": 27,
+        "CharacterID": 1061003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Shenwei01.png",
+        "Title": "Fighting Will",
+        "Description": "Gains 10 Energy by a 3-Ping. Takes less Physical and Dark DMG under the effect of Twin Cores.",
+        "NextTrialID": 28
+    },
+    {
+        "Id": 28,
+        "CharacterID": 1061003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Shenwei02.png",
+        "Title": "Recommended Combo",
+        "Description": "When performing a Signature Move, quickly recover Energy and increases the duration by any 3-Ping.",
+        "NextTrialID": 27
+    },
+    {
+        "Id": 29,
+        "CharacterID": 1031003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Lifu01.png",
+        "Title": "Goddess Connection System",
+        "Description": "Enhances the weapon. Increases hit and damage of Basic Attacks.",
+        "NextTrialID": 30
+    },
+    {
+        "Id": 30,
+        "CharacterID": 1031003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Lifu02.png",
+        "Title": "Recommended Combo",
+        "Description": "Ping a Blue Orb to attract enemies. Increase attacking frequency by pinging Yellow Orbs and Basic Attack combos for a higher chance to trigger \"Passive: Light Penalty\".",
+        "NextTrialID": 31
+    },
+    {
+        "Id": 31,
+        "CharacterID": 1031003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Lifu03.png",
+        "Title": "Recommended Combo",
+        "Description": "Performs any 3-Ping to increase stacks of passive skills and recovers HP.",
+        "NextTrialID": 29
+    },
+    {
+        "Id": 32,
+        "CharacterID": 1071003,
+        "Title": "Thermal System",
+        "Description": "Gathers thermal energy by a 3-Ping or Signature Move. Becomes Enhanced when thermal energy reaches 50%.",
+        "NextTrialID": 33
+    },
+    {
+        "Id": 33,
+        "CharacterID": 1071003,
+        "Title": "Thermal System",
+        "Description": "Ping a Blue Orb to call for an aircraft which gains thermal energy from each attack.",
+        "NextTrialID": 32
+    },
+    {
+        "Id": 34,
+        "CharacterID": 1011003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Li01.png",
+        "Title": "Recommended Combo",
+        "Description": "Performs any 3-Ping + Red Orb combo to release an enhanced Red Orb.",
+        "NextTrialID": 34
+    },
+    {
+        "Id": 35,
+        "CharacterID": 1051003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Qishi01.png",
+        "Title": "Core Passive +1",
+        "Description": "For a period of time after performing a Signature Move, Movement Speed will be increased and Basic Attacks will deal Fire DMG and reduce Fire Resistance of the target.",
+        "NextTrialID": 35
+    },
+    {
+        "Id": 36,
+        "CharacterID": 1021003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Luxiyaaerfa01.png",
+        "Title": "Crimson Abyss - Blade Will",
+        "Description": "Any 3-Ping after a Blue Orb 3-Ping to enter Blade Will state. Signal Orbs will be converted into Special Orbs which unleashes sword waves when pinged.",
+        "NextTrialID": 36
+    },
+    {
+        "Id": 37,
+        "CharacterID": 1091002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Aila01.png",
+        "Title": "Core Passive +1",
+        "Description": "Ping a Blue Orb after any 3-Ping to release Vector Cube. Draws in enemies when storing power, reduces their DMG dealt, and receives a shield for 7s. Deals DMG to a large area after storing power.",
+        "NextTrialID": 37
+    },
+    {
+        "Id": 38,
+        "CharacterID": 1081003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Dubian01.png",
+        "Title": "Core Passive +1",
+        "Description": "Ping a Red Orb after any 3-Ping to release Cosmic Wave. Enters a stat-enhanced state after using the skill, adding Dark DMG to Basic Attack.",
+        "NextTrialID": 38
+    }
+]

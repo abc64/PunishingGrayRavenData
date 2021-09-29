@@ -1,0 +1,4250 @@
+[
+    {
+        "Id": 1,
+        "CharacterId": 1011002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 101201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 2,
+        "CharacterId": 1011002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 101202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 3,
+        "CharacterId": 1011002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 101203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 4,
+        "CharacterId": 1011002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 101204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 5,
+        "CharacterId": 1011002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 101205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 6,
+        "CharacterId": 1011002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 101206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 7,
+        "CharacterId": 1011002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 101207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 8,
+        "CharacterId": 1011002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 101208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 9,
+        "CharacterId": 1011002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 101209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 10,
+        "CharacterId": 1011002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 101210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 11,
+        "CharacterId": 1011002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 101211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 12,
+        "CharacterId": 1011002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 101212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 13,
+        "CharacterId": 1011002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 101213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 14,
+        "CharacterId": 1011002,
+        "Grade": 14,
+        "AttrId": 101214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 15,
+        "CharacterId": 1021001,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 102101,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 16,
+        "CharacterId": 1021001,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 102102,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 17,
+        "CharacterId": 1021001,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 102103,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 18,
+        "CharacterId": 1021001,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 102104,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 19,
+        "CharacterId": 1021001,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 102105,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 20,
+        "CharacterId": 1021001,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 102106,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 21,
+        "CharacterId": 1021001,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 102107,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 22,
+        "CharacterId": 1021001,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 102108,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 23,
+        "CharacterId": 1021001,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 102109,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 24,
+        "CharacterId": 1021001,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 102110,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 25,
+        "CharacterId": 1021001,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 102111,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 26,
+        "CharacterId": 1021001,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 102112,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 27,
+        "CharacterId": 1021001,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 102113,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 28,
+        "CharacterId": 1021001,
+        "Grade": 14,
+        "AttrId": 102114,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 29,
+        "CharacterId": 1021002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 102201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 30,
+        "CharacterId": 1021002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 102202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 31,
+        "CharacterId": 1021002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 102203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 32,
+        "CharacterId": 1021002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 102204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 33,
+        "CharacterId": 1021002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 102205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 34,
+        "CharacterId": 1021002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 102206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 35,
+        "CharacterId": 1021002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 102207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 36,
+        "CharacterId": 1021002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 102208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 37,
+        "CharacterId": 1021002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 102209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 38,
+        "CharacterId": 1021002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 102210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 39,
+        "CharacterId": 1021002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 102211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 40,
+        "CharacterId": 1021002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 102212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 41,
+        "CharacterId": 1021002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 102213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 42,
+        "CharacterId": 1021002,
+        "Grade": 14,
+        "AttrId": 102214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 43,
+        "CharacterId": 1031001,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 103101,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 44,
+        "CharacterId": 1031001,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 103102,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 45,
+        "CharacterId": 1031001,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 103103,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 46,
+        "CharacterId": 1031001,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 103104,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 47,
+        "CharacterId": 1031001,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 103105,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 48,
+        "CharacterId": 1031001,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 103106,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 49,
+        "CharacterId": 1031001,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 103107,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 50,
+        "CharacterId": 1031001,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 103108,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 51,
+        "CharacterId": 1031001,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 103109,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 52,
+        "CharacterId": 1031001,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 103110,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 53,
+        "CharacterId": 1031001,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 103111,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 54,
+        "CharacterId": 1031001,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 103112,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 55,
+        "CharacterId": 1031001,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 103113,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 56,
+        "CharacterId": 1031001,
+        "Grade": 14,
+        "AttrId": 103114,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 57,
+        "CharacterId": 1031002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 103201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 58,
+        "CharacterId": 1031002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 103202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 59,
+        "CharacterId": 1031002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 103203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 60,
+        "CharacterId": 1031002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 103204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 61,
+        "CharacterId": 1031002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 103205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 62,
+        "CharacterId": 1031002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 103206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 63,
+        "CharacterId": 1031002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 103207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 64,
+        "CharacterId": 1031002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 103208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 65,
+        "CharacterId": 1031002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 103209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 66,
+        "CharacterId": 1031002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 103210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 67,
+        "CharacterId": 1031002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 103211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 68,
+        "CharacterId": 1031002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 103212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 69,
+        "CharacterId": 1031002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 103213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 70,
+        "CharacterId": 1031002,
+        "Grade": 14,
+        "AttrId": 103214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 71,
+        "CharacterId": 1031003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 103301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 72,
+        "CharacterId": 1031003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 103302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 73,
+        "CharacterId": 1031003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 103303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 74,
+        "CharacterId": 1031003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 103304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 75,
+        "CharacterId": 1031003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 103305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 76,
+        "CharacterId": 1031003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 103306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 77,
+        "CharacterId": 1031003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 103307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 78,
+        "CharacterId": 1031003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 103308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 79,
+        "CharacterId": 1031003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 103309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 80,
+        "CharacterId": 1031003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 103310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 81,
+        "CharacterId": 1031003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 103311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 82,
+        "CharacterId": 1031003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 103312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 83,
+        "CharacterId": 1031003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 103313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 84,
+        "CharacterId": 1031003,
+        "Grade": 14,
+        "AttrId": 103314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 85,
+        "CharacterId": 1041002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 104201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 86,
+        "CharacterId": 1041002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 104202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 87,
+        "CharacterId": 1041002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 104203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 88,
+        "CharacterId": 1041002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 104204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 89,
+        "CharacterId": 1041002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 104205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 90,
+        "CharacterId": 1041002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 104206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 91,
+        "CharacterId": 1041002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 104207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 92,
+        "CharacterId": 1041002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 104208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 93,
+        "CharacterId": 1041002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 104209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 94,
+        "CharacterId": 1041002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 104210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 95,
+        "CharacterId": 1041002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 104211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 96,
+        "CharacterId": 1041002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 104212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 97,
+        "CharacterId": 1041002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 104213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 98,
+        "CharacterId": 1041002,
+        "Grade": 14,
+        "AttrId": 104214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 99,
+        "CharacterId": 1051001,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 105101,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 100,
+        "CharacterId": 1051001,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 105102,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 101,
+        "CharacterId": 1051001,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 105103,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 102,
+        "CharacterId": 1051001,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 105104,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 103,
+        "CharacterId": 1051001,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 105105,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 104,
+        "CharacterId": 1051001,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 105106,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 105,
+        "CharacterId": 1051001,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 105107,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 106,
+        "CharacterId": 1051001,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 105108,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 107,
+        "CharacterId": 1051001,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 105109,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 108,
+        "CharacterId": 1051001,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 105110,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 109,
+        "CharacterId": 1051001,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 105111,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 110,
+        "CharacterId": 1051001,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 105112,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 111,
+        "CharacterId": 1051001,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 105113,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 112,
+        "CharacterId": 1051001,
+        "Grade": 14,
+        "AttrId": 105114,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 113,
+        "CharacterId": 1061002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 106201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 114,
+        "CharacterId": 1061002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 106202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 115,
+        "CharacterId": 1061002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 106203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 116,
+        "CharacterId": 1061002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 106204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 117,
+        "CharacterId": 1061002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 106205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 118,
+        "CharacterId": 1061002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 106206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 119,
+        "CharacterId": 1061002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 106207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 120,
+        "CharacterId": 1061002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 106208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 121,
+        "CharacterId": 1061002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 106209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 122,
+        "CharacterId": 1061002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 106210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 123,
+        "CharacterId": 1061002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 106211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 124,
+        "CharacterId": 1061002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 106212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 125,
+        "CharacterId": 1061002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 106213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 126,
+        "CharacterId": 1061002,
+        "Grade": 14,
+        "AttrId": 106214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 127,
+        "CharacterId": 1071002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 107201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 128,
+        "CharacterId": 1071002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 107202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 129,
+        "CharacterId": 1071002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 107203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 130,
+        "CharacterId": 1071002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 107204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 131,
+        "CharacterId": 1071002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 107205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 132,
+        "CharacterId": 1071002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 107206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 133,
+        "CharacterId": 1071002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 107207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 134,
+        "CharacterId": 1071002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 107208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 135,
+        "CharacterId": 1071002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 107209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 136,
+        "CharacterId": 1071002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 107210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 137,
+        "CharacterId": 1071002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 107211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 138,
+        "CharacterId": 1071002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 107212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 139,
+        "CharacterId": 1071002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 107213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 140,
+        "CharacterId": 1071002,
+        "Grade": 14,
+        "AttrId": 107214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 141,
+        "CharacterId": 1061003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 106301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 142,
+        "CharacterId": 1061003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 106302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 143,
+        "CharacterId": 1061003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 106303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 144,
+        "CharacterId": 1061003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 106304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 145,
+        "CharacterId": 1061003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 106305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 146,
+        "CharacterId": 1061003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 106306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 147,
+        "CharacterId": 1061003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 106307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 148,
+        "CharacterId": 1061003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 106308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 149,
+        "CharacterId": 1061003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 106309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 150,
+        "CharacterId": 1061003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 106310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 151,
+        "CharacterId": 1061003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 106311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 152,
+        "CharacterId": 1061003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 106312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 153,
+        "CharacterId": 1061003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 106313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 154,
+        "CharacterId": 1061003,
+        "Grade": 14,
+        "AttrId": 106314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 155,
+        "CharacterId": 1081002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 108201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 156,
+        "CharacterId": 1081002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 108202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 157,
+        "CharacterId": 1081002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 108203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 158,
+        "CharacterId": 1081002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 108204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 159,
+        "CharacterId": 1081002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 108205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 160,
+        "CharacterId": 1081002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 108206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 161,
+        "CharacterId": 1081002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 108207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 162,
+        "CharacterId": 1081002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 108208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 163,
+        "CharacterId": 1081002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 108209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 164,
+        "CharacterId": 1081002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 108210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 165,
+        "CharacterId": 1081002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 108211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 166,
+        "CharacterId": 1081002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 108212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 167,
+        "CharacterId": 1081002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 108213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 168,
+        "CharacterId": 1081002,
+        "Grade": 14,
+        "AttrId": 108214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 169,
+        "CharacterId": 1011003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 101301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 170,
+        "CharacterId": 1011003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 101302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 171,
+        "CharacterId": 1011003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 101303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 172,
+        "CharacterId": 1011003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 101304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 173,
+        "CharacterId": 1011003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 101305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 174,
+        "CharacterId": 1011003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 101306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 175,
+        "CharacterId": 1011003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 101307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 176,
+        "CharacterId": 1011003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 101308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 177,
+        "CharacterId": 1011003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 101309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 178,
+        "CharacterId": 1011003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 101310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 179,
+        "CharacterId": 1011003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 101311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 180,
+        "CharacterId": 1011003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 101312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 181,
+        "CharacterId": 1011003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 101313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 182,
+        "CharacterId": 1011003,
+        "Grade": 14,
+        "AttrId": 101314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 183,
+        "CharacterId": 1071003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 107301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 184,
+        "CharacterId": 1071003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 107302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 185,
+        "CharacterId": 1071003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 107303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 186,
+        "CharacterId": 1071003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 107304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 187,
+        "CharacterId": 1071003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 107305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 188,
+        "CharacterId": 1071003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 107306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 189,
+        "CharacterId": 1071003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 107307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 190,
+        "CharacterId": 1071003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 107308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 191,
+        "CharacterId": 1071003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 107309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 192,
+        "CharacterId": 1071003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 107310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 193,
+        "CharacterId": 1071003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 107311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 194,
+        "CharacterId": 1071003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 107312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 195,
+        "CharacterId": 1071003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 107313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 196,
+        "CharacterId": 1071003,
+        "Grade": 14,
+        "AttrId": 107314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 197,
+        "CharacterId": 1051003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 105301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 198,
+        "CharacterId": 1051003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 105302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 199,
+        "CharacterId": 1051003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 105303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 200,
+        "CharacterId": 1051003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 105304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 201,
+        "CharacterId": 1051003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 105305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 202,
+        "CharacterId": 1051003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 105306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 203,
+        "CharacterId": 1051003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 105307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 204,
+        "CharacterId": 1051003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 105308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 205,
+        "CharacterId": 1051003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 105309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 206,
+        "CharacterId": 1051003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 105310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 207,
+        "CharacterId": 1051003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 105311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 208,
+        "CharacterId": 1051003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 105312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 209,
+        "CharacterId": 1051003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 105313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 210,
+        "CharacterId": 1051003,
+        "Grade": 14,
+        "AttrId": 105314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 211,
+        "CharacterId": 1021003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 102301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 212,
+        "CharacterId": 1021003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 102302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 213,
+        "CharacterId": 1021003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 102303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 214,
+        "CharacterId": 1021003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 102304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 215,
+        "CharacterId": 1021003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 102305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 216,
+        "CharacterId": 1021003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 102306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 217,
+        "CharacterId": 1021003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 102307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 218,
+        "CharacterId": 1021003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 102308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 219,
+        "CharacterId": 1021003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 102309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 220,
+        "CharacterId": 1021003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 102310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 221,
+        "CharacterId": 1021003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 102311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 222,
+        "CharacterId": 1021003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 102312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 223,
+        "CharacterId": 1021003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 102313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 224,
+        "CharacterId": 1021003,
+        "Grade": 14,
+        "AttrId": 102314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 225,
+        "CharacterId": 1081003,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 108301,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 226,
+        "CharacterId": 1081003,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 108302,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 227,
+        "CharacterId": 1081003,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 108303,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 228,
+        "CharacterId": 1081003,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 108304,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 229,
+        "CharacterId": 1081003,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 108305,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 230,
+        "CharacterId": 1081003,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 108306,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 231,
+        "CharacterId": 1081003,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 108307,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 232,
+        "CharacterId": 1081003,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 108308,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 233,
+        "CharacterId": 1081003,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 108309,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 234,
+        "CharacterId": 1081003,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 108310,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 235,
+        "CharacterId": 1081003,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 108311,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 236,
+        "CharacterId": 1081003,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 108312,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 237,
+        "CharacterId": 1081003,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 108313,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 238,
+        "CharacterId": 1081003,
+        "Grade": 14,
+        "AttrId": 108314,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    },
+    {
+        "Id": 239,
+        "CharacterId": 1091002,
+        "Grade": 1,
+        "UseItemKey": 1,
+        "UseItemCount": 5000,
+        "AttrId": 109201,
+        "ConditionId": [
+            100000,
+            109000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconXinbing1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing1.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconXinbing0.png",
+        "GradeName": "Private I"
+    },
+    {
+        "Id": 240,
+        "CharacterId": 1091002,
+        "Grade": 2,
+        "UseItemKey": 1,
+        "UseItemCount": 10000,
+        "AttrId": 109202,
+        "ConditionId": [
+            100001,
+            110000
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant I"
+    },
+    {
+        "Id": 241,
+        "CharacterId": 1091002,
+        "Grade": 3,
+        "UseItemKey": 1,
+        "UseItemCount": 15000,
+        "AttrId": 109203,
+        "ConditionId": [
+            100102,
+            110001
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconJingrui1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconJingrui1.png",
+        "GradeName": "Sergeant II"
+    },
+    {
+        "Id": 242,
+        "CharacterId": 1091002,
+        "Grade": 4,
+        "UseItemKey": 1,
+        "UseItemCount": 20000,
+        "AttrId": 109204,
+        "ConditionId": [
+            100103,
+            110002
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite I"
+    },
+    {
+        "Id": 243,
+        "CharacterId": 1091002,
+        "Grade": 5,
+        "UseItemKey": 1,
+        "UseItemCount": 25000,
+        "AttrId": 109205,
+        "ConditionId": [
+            100104,
+            110003
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite II"
+    },
+    {
+        "Id": 244,
+        "CharacterId": 1091002,
+        "Grade": 6,
+        "UseItemKey": 1,
+        "UseItemCount": 30000,
+        "AttrId": 109206,
+        "ConditionId": [
+            100105,
+            110004
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconZhuli1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconZhuli1.png",
+        "GradeName": "Elite III"
+    },
+    {
+        "Id": 245,
+        "CharacterId": 1091002,
+        "Grade": 7,
+        "UseItemKey": 1,
+        "UseItemCount": 35000,
+        "AttrId": 109207,
+        "ConditionId": [
+            100106,
+            110005
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force I"
+    },
+    {
+        "Id": 246,
+        "CharacterId": 1091002,
+        "Grade": 8,
+        "UseItemKey": 1,
+        "UseItemCount": 42500,
+        "AttrId": 109208,
+        "ConditionId": [
+            100107,
+            110006
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force II"
+    },
+    {
+        "Id": 247,
+        "CharacterId": 1091002,
+        "Grade": 9,
+        "UseItemKey": 1,
+        "UseItemCount": 50000,
+        "AttrId": 109209,
+        "ConditionId": [
+            100108,
+            110007
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconWangpai1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconWangpai1.png",
+        "GradeName": "Task Force III"
+    },
+    {
+        "Id": 248,
+        "CharacterId": 1091002,
+        "Grade": 10,
+        "UseItemKey": 1,
+        "UseItemCount": 60000,
+        "AttrId": 109210,
+        "ConditionId": [
+            100109,
+            110008
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace I"
+    },
+    {
+        "Id": 249,
+        "CharacterId": 1091002,
+        "Grade": 11,
+        "UseItemKey": 1,
+        "UseItemCount": 70000,
+        "AttrId": 109211,
+        "ConditionId": [
+            100110,
+            110009
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace II"
+    },
+    {
+        "Id": 250,
+        "CharacterId": 1091002,
+        "Grade": 12,
+        "UseItemKey": 1,
+        "UseItemCount": 80000,
+        "AttrId": 109212,
+        "ConditionId": [
+            100111,
+            110010
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace III"
+    },
+    {
+        "Id": 251,
+        "CharacterId": 1091002,
+        "Grade": 13,
+        "UseItemKey": 1,
+        "UseItemCount": 100000,
+        "AttrId": 109213,
+        "ConditionId": [
+            100112,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconTianxuan1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan2.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconTianxuan1.png",
+        "GradeName": "Ace IV"
+    },
+    {
+        "Id": 252,
+        "CharacterId": 1091002,
+        "Grade": 14,
+        "AttrId": 109214,
+        "ConditionId": [
+            100113,
+            110011
+        ],
+        "GradeBigIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong.png",
+        "GradeIcon": "Assets/Product/Texture/Image/IconRoleQulity/CharacterIconYingxiong1.png",
+        "Star": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "NoStar": "Assets/Product/Texture/Atlas/UiCharacter/ChaGradeIconYingxiong.png",
+        "GradeName": "Hero"
+    }
+]

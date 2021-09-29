@@ -1,0 +1,186 @@
+[
+    {
+        "Id": 10100101,
+        "Behavior": 10100101,
+        "Name": "第一次boss战",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 50,
+        "CameraId": 9,
+        "Terrains": [
+            101001010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100102,
+        "Behavior": 10100102,
+        "Name": "永动列车车顶",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 43,
+        "CameraId": 9,
+        "Terrains": [
+            101001020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100103,
+        "Behavior": 10100103,
+        "Name": "第一节车厢",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 52,
+        "CameraId": 9,
+        "Terrains": [
+            101001030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100104,
+        "Behavior": 10100104,
+        "Name": "第二节车厢",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 52,
+        "CameraId": 1,
+        "Terrains": [
+            101001040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100105,
+        "Behavior": 10100105,
+        "Name": "第二次boss战",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 43,
+        "CameraId": 9,
+        "Terrains": [
+            101001050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100106,
+        "Behavior": 10100106,
+        "Name": "比安卡清除障碍",
+        "Environment": "Scene01003",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 46,
+        "CameraId": 10,
+        "Terrains": [
+            101001060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100107,
+        "Behavior": 10100107,
+        "Name": "比安卡跳入列车",
+        "Environment": "Scene01003",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 46,
+        "CameraId": 9,
+        "Terrains": [
+            101001070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100108,
+        "Behavior": 10100108,
+        "Name": "比安卡在车顶的战斗",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 52,
+        "CameraId": 1,
+        "Terrains": [
+            101001080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100109,
+        "Behavior": 10100109,
+        "Name": "摩托追逐战",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 52,
+        "CameraId": 9,
+        "Terrains": [
+            101001090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100110,
+        "Behavior": 10100110,
+        "Name": "最终boss战",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 50,
+        "CameraId": 9,
+        "Terrains": [
+            101001100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

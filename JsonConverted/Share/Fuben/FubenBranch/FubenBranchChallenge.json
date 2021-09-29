@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "OrderId": "QL",
+        "Name": "Mass Deterioration",
+        "Description": "Mass Deterioration",
+        "Prefab": "Assets/Product/Ui/ComponentPrefab/FuBenBranchNormal/FuBenBranchNormal01.prefab",
+        "Cover": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner02.png",
+        "Bg1": "Assets/Product/Texture/Image/UiFubenActivityZhixian/UFAZhixianBg1.png",
+        "Bg2": "Assets/Product/Texture/Image/UiFubenActivityZhixian/UFAZhixianBg3.png",
+        "StageId": [
+            30090401,
+            30090402,
+            30090403,
+            30090404,
+            30090405,
+            30090406,
+            30090407
+        ],
+        "MoveStageIndex": 3,
+        "DatumLinePrecent": 0.85
+    },
+    {
+        "Id": 2,
+        "OrderId": "QLC",
+        "Name": "Mass Deterioration",
+        "OpenCondition": 30405,
+        "Description": "Mass Deterioration",
+        "Prefab": "Assets/Product/Ui/ComponentPrefab/FuBenBranchChallenge/FuBenBranchChallenge01.prefab",
+        "Cover": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner02.png",
+        "Bg1": "Assets/Product/Texture/Image/UiFubenActivityZhixian/UFAZhixianBg2.png",
+        "Bg2": "Assets/Product/Texture/Image/UiFubenActivityZhixian/UFAZhixianBg4.png",
+        "StageId": [
+            30090411,
+            30090412,
+            30090413,
+            30090414
+        ],
+        "MoveStageIndex": 3,
+        "DatumLinePrecent": 0.85
+    }
+]

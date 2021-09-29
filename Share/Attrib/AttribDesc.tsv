@@ -1,0 +1,59 @@
+Index	Attrib	Name
+1	Life	HP
+2	Energy	Energy
+3	RunSpeed	Speed (Run)
+4	WalkSpeed	Speed (Walk)
+5	TurnRoundSpeed	Speed (Turning)
+6	BallInterval	Orb Interval
+7	DamageNormalImmunity	Normal DMG Immunity
+8	DamageMagicImmunity	Elemental DMG Immunity
+9	AntiDamageNormalImmunity	Anti-Normal DMG Immunity
+10	AntiDamageMagicImmunity	Anti-Elemental DMG Immunity
+11	AttackNormal	ATK
+12	AttackMagic1	Fire Attack
+13	AttackMagic2	Lightning Attack
+14	AttackMagic3	Ice Attack
+15	AttackMagic4	Dark Attack
+16	AttackMagicEnd	
+17	AntiAttackNormal	Anti-Basic Attack
+18	AntiAttackMagic1	Anti-Fire Attack
+19	AntiAttackMagic2	Anti-Lightning Attack
+20	AntiAttackMagic3	Anti-Ice Attack
+21	AntiAttackMagic4	Anti-Dark Attack
+22	AntiAttackMagicEnd	
+23	DefenseNormal	DEF
+24	AntiDefenseNormal	Anti-Normal Defense
+25	DamageChangeP	Amplify DMG
+26	DamageNormalChangeP	Amplify Normal DMG
+27	DamageMagic1ChangeP	Amplify Fire DMG
+28	DamageMagic2ChangeP	Amplify Lightning DMG
+29	DamageMagic3ChangeP	Amplify Ice DMG
+30	DamageMagic4ChangeP	Amplify Dark DMG
+31	DamageMagicChangePEnd	
+32	AntiDamageChangeP	Anti-Amplify DMG
+33	AntiDamageNormalChangeP	Anti-Amplify Normal DMG
+34	AntiDamageMagic1ChangeP	Anti-Amplify Fire DMG
+35	AntiDamageMagic2ChangeP	Anti-Amplify Lightning DMG
+36	AntiDamageMagic3ChangeP	Anti-Amplify Ice DMG
+37	AntiDamageMagic4ChangeP	Anti-Amplify Dark DMG
+38	AntiDamageMagicChangePEnd	
+39	DamagePBegin	
+40	Damage1P	Mech DMG
+41	Damage2P	Energy DMG
+42	Damage3P	Creature DMG
+43	DamagePEnd	
+44	Crit	CRIT
+45	CritP	CRIT Rate
+46	CritDamageP	CRIT DMG Rate
+47	AntiCritP	Anti-CRIT Rate
+48	AntiCritDamageP	Anti-CRIT DMG Rate
+49	Lifesteal	Lifesteal
+50	LifestealP	Lifesteal Rate
+51	CureChangeP	Amplify Healing
+52	AntiCureChangeP	Anti-Amplify Healing
+53	Endure	Super Armor
+54	ThreatRateP	Amplify Aggro
+55	DodgeEnergy	Dodge Energy
+56	DodgeEnergyAutoRecovery	Dodge Energy Auto Regen (Energy/s)
+57	CustomEnergy	Custom Energy
+58	End	

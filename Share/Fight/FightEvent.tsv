@@ -1,0 +1,141 @@
+Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4]	EnemyBornMagic[1]	EnemyBornMagic[2]	EnemyBornMagic[3]	EnemyBornMagic[4]
+700001	+1 Red Orb when you gain one		700001							
+700002	+1 Blue Orb when you gain one		700002							
+700003	+1 Yellow Orb when you gain one		700003							
+700005	DMG increases by 50% when Combo is greater than 100.		700005							
+1001	Deals 50% more DMG.		700006							
+1002	+1 Red Orb when you gain one		700001							
+1003	DMG increases by 50% when Combo is greater than 100.		700005							
+1004	DMG from enemies increases by 50%.						700006			
+1005	DMG from enemies increases by 50%.						700006			
+1006	DMG from enemies increases by 50%.						700006			
+1007	DMG from enemies increases by 50%.						700006			
+2001	Event - Fire DMG +50%		762001							
+2002	Event - Lightning DMG +50%		762002							
+2003	Event - Ice DMG +50%		762003							
+2004	Event - Dark DMG +50%		762004							
+2005	Event - Physical DMG +50%		762005							
+2006	Event - CRIT DMG +50%		762006							
+2007	Event - 100 Combo DMG +50%		762007							
+2008	Event - Melee DMG +50%		762010							
+2009	Event - Ranged DMG +50%		762012							
+2010	Event - All Elemental DMG +50%		762013							
+2011	Event - Basic Attack increased, no orbs appear		762018							
+2012	Event - No dodge cost, no EX Dodge cooldown		762021							
+2013	Event - Orbs appear more often		762023							
+2014	Event - No QTE cooldown		762024							
+2015	Event - Start with max Rage		762025							
+2016	Event - Monsters may drop Erase Orbs on death		762026							
+2017	Event - Monsters may drop Rage Orbs on death		762034							
+3001	DMG increases by 15%.		761001							
+3002	Signal Orb skill DMG increases by 20%.		761011							
+3003	Basic Attack DMG increases by 20%.		761021							
+3004	In every 6s, recovers 10% of the HP lost of Constructs on field.		761031							
+3005	Constructs take 15% less DMG.		761041							
+3006	Gains a random Signal Orb in every 3s.		761051							
+3007	Gains a Red Orb in every 3s.		761061							
+3008	Gains a Yellow Orb in every 3s.		761071							
+3009	Gains a Blue Orb in every 3s.		761081							
+3010	Cannon Support - Support Team will launch cannon attack		761091							
+3011	Elemental Support - Support Team will launch elemental attack		761101							
+3012	Shield Support - Gains Shield once in awhile		761111							
+3013	Construct gains 100 Energy.		761121							
+4001	Physical DMG increases by 30%		762201							
+4002	Ice DMG increases by 30%		762202							
+4003	Fire DMG increases by 30%		762203							
+4004	Lightning DMG increases by 30%		762204							
+4005	Dark DMG increases by 30%		762205							
+11001	During Simulation, HP of enemies increases by 15%.						770000			
+11002	During Simulation, HP of enemies increases by 30%.						770001			
+11003	During Simulation, HP of enemies increases by 45%.						770002			
+11031	During Simulation, Physical DMG dealt to enemies decreases by 30%.						770021			
+11041	During Simulation, the overall combat power of enemies increases by 30%.		770045				770050			
+11042	During Simulation, the overall combat power of enemies increases by 60%.		770046				770051			
+11043	During Simulation, the overall combat power of enemies increases by 90%.		770047				770052			
+11044	During Simulation, the overall combat power of enemies increases by 120%.		770048				770053			
+11045	During Simulation, the overall combat power of enemies increases by 150%.		770049				770054			
+11051	During Simulation, Movement Speed of enemies increases by 25%.						770036			
+11052	During Simulation, Movement Speed of enemies increases by 50%.						770037			
+11053	During Simulation, Movement Speed of enemies increases by 100%.						770038			
+11061	During Simulation, enemies with Super Armor take 10% less DMG of all types.						772003			
+11062	During Simulation, enemies with Super Armor take 20% less DMG of all types.						772004			
+11063	During Simulation, enemies with Super Armor take 30% less DMG of all types.						772005			
+11131	During Simulation, enemies take 30% less Elemental DMG.						770024	770027	770030	770033
+12051	During Simulation, Movement Speed of Constructs decreases by 25%.		771052							
+12052	During Simulation, Movement Speed of Constructs decreases by 50%.		771053							
+12053	During Simulation, Movement Speed of Constructs decreases by 75%.		771054							
+12131	During Simulation, the limit of Dodge Gauge decreases by 200.		771108							
+12132	During Simulation, the limit of Dodge Gauge decreases by 400.		771109							
+12133	During Simulation, the limit of Dodge Gauge decreases by 600.		771110							
+12151	During Simulation, enemies are no longer affected by Matrix.						770545			
+13051	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
+13052	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
+13053	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
+13071	During Simulation, all deployed Constructs lose 90 HP per second.		772015							
+13072	During Simulation, all deployed Constructs lose 180 HP per second.		772016							
+13073	During Simulation, all deployed Constructs lose 270 HP per second.		772017							
+13081	During Simulation, Constructs on field take 40 Physical DMG per second. Virus concentration increases by 1 layer every 20s.		772045							
+21011	During Simulation, ATK of the deployed Constructs increases by 10%.		771503							
+21121	During Simulation, DMG of Constructs on field increases by 10% for 5s when triggering QTE.		771610							
+21261	During Simulation, Constructs gain an additional 45% DMG Reduction.		771648							
+22051	During Simulation, the healing effect for the deployed Constructs increases by 25%.		771631							
+22061	During Simulation, DMG of the deployed Constructs increases by 5%/10%/15% when Combo is greater than 40/60/80.		771632							
+22071	During Simulation, the deployed Constructs automatically gain a Signal Orb every 3s.		771636							
+22081	During Simulation, every time a Signal Orb is consumed, all DMG dealt by the deployed Constructs increases by 2% for 3s. Can be stacked up to 10 times.		771638							
+22091	During Simulation, Elemental DMG of Constructs increases by 15%.		771524	771527	771530	771533				
+22101	During Simulation, Constructs deal 20% more DMG when attacking from behind.		771646							
+31071	Movement Speed of enemies increases by 5%-40%. The farther away from the target, the higher the Movement Speed becomes.						780211			
+31072	Movement Speed of enemies increases moderately. The farther away from the target, the higher the Movement Speed becomes.						780211			
+31073	Movement Speed of enemies increases significantly. The farther away from the target, the higher the Movement Speed becomes.						780211			
+32001	Enemies will not be stunned.						780221			
+32011	Enemies recover 1% of maximum HP per second.						780231			
+32012	Enemies recover 2% of maximum HP per second.						780232			
+32013	Enemies recover 3% of maximum HP per second.						780233			
+32021	In every 10s, enemies will gain a shield equal to 5% of maximum HP for 3s.						780241			
+32022	In every 10s, enemies will gain a shield equal to 10% of maximum HP for 3s.						780242			
+32023	In every 10s, enemies will gain a shield equal to 15% of maximum HP for 3s.						780243			
+32031	The attacking desire of enemies increases by 33%. When enemies deal damage, 20% chance to deal 33% Extra Damage.						780251			
+32032	The attacking desire of enemies increases by 66%. When enemies deal damage, 40% chance to deal 33% Extra Damage.						780252			
+32033	The attacking desire of enemies increases by 100%. When enemies deal damage, 60% chance to deal 33% Extra Damage.						780253			
+32041	Enemies will explode and deal DMG equal to 45% of their ATK to nearby units before they die.						780261			
+32042	Enemies will explode and deal DMG equal to 45% of their ATK to nearby units before they die.						780261			
+32043	Enemies will explode and deal DMG equal to 60% of their ATK to nearby units before they die.						780261			
+32061	Enemies gain a Shield equal to 15% of their maximum HP. It will break after taking damage equal to that amount.						780281			
+32062	Enemies gain a Shield equal to 25% of their maximum HP. It will break after taking damage equal to that amount.						780282			
+32063	Enemies gain a Shield equal to 35% of their maximum HP. It will break after taking damage equal to that amount.						780283			
+32071	Enemies deal radiational damage equal to 1% of their ATK to nearby targets every second.						780291			
+32072	Enemies deal radiational damage equal to 2% of their ATK to nearby targets every second.						780292			
+32073	Enemies deal radiational damage equal to 3% of their ATK to nearby targets every second.						780293			
+32081	Enemies take 30% less DMG from attacks from 4m away.						780301			
+32082	Enemies take 45% less DMG from attacks from 4m away.						780301			
+32083	Enemies take 60% less DMG from attacks from 4m away.						780301			
+32091	Enemies boost nearby companions’ DMG by 20%.						780311			
+32092							780311			
+32093							780311			
+32101	When an enemy has fewer than 3 companions nearby, each companion less increases its DMG by 10%, up to 30%.						780321			
+32111	All DMG of enemies increases by 5% for each companion around them. Stacks up to 3 times.						780331			
+32112	All DMG of enemies increases by 10% for each companion around them. Stacks up to 3 times.						780332			
+32113	All DMG of enemies increases by 15% for each companion around them. Stacks up to 3 times.						780333			
+32121	Reduces your DEF by 3% for 10s every time you get hit. Can be stacked up to 10 times.						780341			
+32122							780341			
+32123							780341			
+32131	Every time an enemy gets hit, it has a 10% chance to call down a lightning strike upon the attacker, dealing DMG equal to 20% of the enemy's ATK. 5s cooldown.						780351			
+32132							780351			
+32133							780351			
+32141	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 18s cooldown.						780361			
+32142	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 14s cooldown.						780362			
+32143	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 10s cooldown.						780363			
+32151	When attacking, enemies will attach a bomb to the target, which will explode after a period of time and deal DMG equal to 45% of their ATK.						780371			
+32152							780371			
+32153							780371			
+32161	Enemies enter stealth mode. They will appear for 3s after taking damage and 5s after dealing damage.						780381			
+32162							780381			
+32163							780381			
+33001	Enemies can use Flash to approach the target every 10s.						780391			
+33002	Enemies can use Flash to approach the target every 10s.						780391			
+33003	Enemies can use Flash to approach the target every 10s.						780391			
+33021	Enemies will split into two units of the same type upon death.						780391			
+33031	Enemies will pull the player to them every 16s.						780411			
+33032	Enemies will pull the player to them every 12s.						780412			
+33033	Enemies will pull the player to them every 8s.						780413			
+33091	Ice Energy deals 500 Ice DMG every second		780577							

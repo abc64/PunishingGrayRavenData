@@ -1,0 +1,33 @@
+[
+    {
+        "Id": 1,
+        "Name": "Advertisement"
+    },
+    {
+        "Id": 2,
+        "Name": "Scam Message"
+    },
+    {
+        "Id": 3,
+        "Name": "Cheat"
+    },
+    {
+        "Id": 4,
+        "Name": "Other Reasons"
+    },
+    {
+        "Id": 100,
+        "Name": "Co-op",
+        "ParentId": 3
+    },
+    {
+        "Id": 101,
+        "Name": "War Zone",
+        "ParentId": 3
+    },
+    {
+        "Id": 102,
+        "Name": "Phantom Pain Cage",
+        "ParentId": 3
+    }
+]

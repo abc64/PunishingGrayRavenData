@@ -1,0 +1,3748 @@
+[
+    {
+        "Id": 83200001,
+        "Name": "通用电离子弹",
+        "Shape": 2,
+        "SizeX": 1,
+        "SizeY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 10,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.2,
+        "Effect": "FxMb1LuosaitaMd010002Gandian",
+        "DamageCount": "-1",
+        "ExplosionEffect": "FxMb1LuosaitaMd010002Gandianbaozha",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 2,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            832021
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83200101,
+        "Name": "大连段2 - 1",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack01Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832001011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200202,
+        "Name": "大连段2 - 1",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack02Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832002021,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200301,
+        "Name": "扫 花哨",
+        "Shape": 1,
+        "SizeX": 6,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack03Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832003011,
+        "Magic": [
+            801040,
+            200003,
+            832005
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200401,
+        "Name": "戳 花哨",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 5,
+        "OffsetY": 3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 1,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.2,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832004011,
+        "Magic": [
+            801040,
+            200002
+        ],
+        "MagicLauncherNpc": [
+            200002
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200404,
+        "Name": "戳 花哨最后一段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832004041,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200501,
+        "Name": "前跳",
+        "Shape": 2,
+        "SizeX": 2.8,
+        "OffsetY": 0,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack05Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832005011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200601,
+        "Name": "扫 提的扫",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack06Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832006011,
+        "Magic": [
+            801040,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200604,
+        "Name": "扫 提的提",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 6,
+        "OffsetY": 3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack06Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832006041,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200701,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 5,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Bone041",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            "-40",
+            30,
+            0.5,
+            5,
+            3.14159,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832007011,
+        "Magic": [
+            801240,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200702,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 6,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Bone051",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            "-20",
+            30,
+            0.5,
+            5,
+            3.14159,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832007021,
+        "Magic": [
+            801240,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200703,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 7,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Bone061",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            0,
+            30,
+            0.5,
+            5,
+            3.14159,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832007031,
+        "Magic": [
+            801240,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200704,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 8,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Bone072",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            20,
+            30,
+            0.5,
+            5,
+            3.14159,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832007041,
+        "Magic": [
+            801240,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200705,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 9,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Bone082",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            40,
+            30,
+            0.5,
+            5,
+            3.14159,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832007051,
+        "Magic": [
+            801240,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83200802,
+        "Name": "虚空突刺 伤害",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 999,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack08Shouji"
+        ],
+        "DamageInterval": 0.3,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 4,
+        "BeHitState": 832008021,
+        "Magic": [
+            801040,
+            831101
+        ],
+        "MagicLauncherNpc": [
+            null,
+            null,
+            831101
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "BindSkill": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201102,
+        "Name": "虚空突刺 伤害",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.7,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack08Shouji"
+        ],
+        "DamageInterval": 0.3,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 4,
+        "BeHitState": 832011021,
+        "Magic": [
+            801040,
+            831101
+        ],
+        "MagicLauncherNpc": [
+            null,
+            null,
+            831101
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "BindSkill": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201601,
+        "Name": "地裂斩-一段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 50,
+        "Direction": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832016011,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201602,
+        "Name": "地裂斩-二段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 50,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832016021,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201603,
+        "Name": "地裂斩-三段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 50,
+        "Direction": "-30",
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832016031,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201703,
+        "Name": "第一击",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack17Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832017031,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201704,
+        "Name": "第二击",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack17Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832017041,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201801,
+        "Name": "强力劈砍",
+        "Shape": 1,
+        "SizeX": 5,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack18Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            801040,
+            200003,
+            832006
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201901,
+        "Name": "十字斩出发",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack19Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832019011,
+        "Magic": [
+            801040,
+            200003,
+            832007
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201902,
+        "Name": "十字斩出发",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack19Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832019021,
+        "Magic": [
+            801040,
+            200003,
+            832007
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83201903,
+        "Name": "十字斩出发",
+        "Shape": 3,
+        "SizeX": 20,
+        "SizeY": 160,
+        "OffsetY": 0,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack19Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832019031,
+        "Magic": [
+            801040,
+            200003,
+            832007
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83203108,
+        "Name": "虚空突刺 伤害",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack08Shouji"
+        ],
+        "DamageInterval": 0.3,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "ChildInterval": 0.05,
+        "ChildCountLimit": 20,
+        "ChildId": 83200001,
+        "BornDirectionType": 0,
+        "BeHitCenter": 4,
+        "BeHitState": 832031081,
+        "Magic": [
+            801040,
+            831101
+        ],
+        "MagicLauncherNpc": [
+            null,
+            null,
+            831101
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "BindSkill": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83203208,
+        "Name": "虚空突刺 伤害",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack08Shouji"
+        ],
+        "DamageInterval": 0.3,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 4,
+        "BeHitState": 832032081,
+        "Magic": [
+            801040,
+            831101
+        ],
+        "MagicLauncherNpc": [
+            null,
+            null,
+            831101
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "BindSkill": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220001,
+        "Name": "通用电离子弹",
+        "Shape": 2,
+        "SizeX": 1,
+        "SizeY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 10,
+        "DeadExplosion": 1,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.2,
+        "Effect": "FxMb1LuosaitaMd010002Gandian",
+        "DamageCount": "-1",
+        "ExplosionEffect": "FxMb1LuosaitaMd010002Gandianbaozha",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            832021
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83220101,
+        "Name": "空中戳",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack01Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832201011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220102,
+        "Name": "空中戳",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack01Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832201021,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220201,
+        "Name": "盾击升天",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack02Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832202011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220202,
+        "Name": "盾击升天",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "Direction": "-60",
+        "TargetType": 4,
+        "LiveTime": 0.6,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack02Shouji02"
+        ],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1440,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "BeHitState": 832202021,
+        "Magic": [
+            801020
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220301,
+        "Name": "快速三连",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack03Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832203011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220302,
+        "Name": "快速三连",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack03Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832203021,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220303,
+        "Name": "快速三连",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack03Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832203031,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220401,
+        "Name": "丢盾四连",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 140,
+        "Speed": 0,
+        "Direction": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204011,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220402,
+        "Name": "丢盾四连",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 70,
+        "Speed": 0,
+        "Direction": 5,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204021,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220403,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "Speed": 80,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204031,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220404,
+        "Name": "丢盾四连",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204041,
+        "Magic": [
+            801030,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220405,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "OffsetY": "-9",
+        "Speed": 75,
+        "Direction": 150,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204051,
+        "Magic": [
+            801030,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220406,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "OffsetY": 0,
+        "Speed": 0,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            "-270",
+            0,
+            8,
+            8,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832204061,
+        "Magic": [
+            801030,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220501,
+        "Name": "抽枪",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack05Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832205011,
+        "Magic": [
+            801040,
+            832205
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220502,
+        "Name": "抽枪",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack05Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832205021,
+        "Magic": [
+            801030,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220503,
+        "Name": "抽枪",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack05Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832205031,
+        "Magic": [
+            801030,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220504,
+        "Name": "抽枪",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack05Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832205041,
+        "Magic": [
+            801030,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220505,
+        "Name": "抽枪",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack05Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832205051,
+        "Magic": [
+            801030,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220621,
+        "Name": "飞天 坠落子弹 预警",
+        "Shape": 2,
+        "SizeX": 3,
+        "Speed": 100,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMb1LuosaitaMd010002Attack06Yujing02",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "ChildDelay": 1,
+        "ChildCountLimit": 1,
+        "ChildId": 83220622,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83220622,
+        "Name": "飞天 坠落子弹 预警",
+        "Shape": 2,
+        "SizeX": 3,
+        "Speed": 100,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMb1LuosaitaMd010002Attack06Yujing01",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 2,
+        "ChildDelay": 0.3,
+        "ChildCountLimit": 1,
+        "ChildId": 83220623,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83220623,
+        "Name": "飞天 坠落子弹 特效",
+        "Shape": 2,
+        "SizeX": 3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack06Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010002Attack06Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "ChildDelay": 0.05,
+        "ChildCountLimit": 1,
+        "ChildId": 83220624,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83220624,
+        "Name": "飞天 坠落子弹 伤害",
+        "Shape": 2,
+        "SizeX": 3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 2,
+        "BornDirectionType": 0,
+        "BeHitCenter": 2,
+        "BeHitState": 832206241,
+        "Magic": [
+            801240,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220625,
+        "Name": "飞天 坠落子弹 残留子弹",
+        "Shape": 2,
+        "SizeX": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 10,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMb1LuosaitaMd010002Gandian",
+        "DamageCount": "-1",
+        "ExplosionEffect": "FxMb1LuosaitaMd010002Gandianbaozha",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 2,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83220704,
+        "Name": "落地 伤害 1",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack07Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832207041,
+        "Magic": [
+            801040,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220705,
+        "Name": "落地 位移 2",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 90,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.65,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack07Shouji02"
+        ],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1800,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "BeHitState": 832207051,
+        "Magic": [
+            801040
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83220821,
+        "Name": "格挡 受击特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMb1LuosaitaMd010002Attack08",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83221101,
+        "Name": "移动剑风",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 75,
+        "Direction": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832211011,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221102,
+        "Name": "移动剑风",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 75,
+        "Direction": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832211021,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221103,
+        "Name": "移动剑风",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 75,
+        "Direction": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832211031,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221201,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 15,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            "-40",
+            30,
+            0.5,
+            5,
+            4.712385,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832212011,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221202,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 16,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            "-20",
+            30,
+            0.5,
+            5,
+            4.712385,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832212021,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221203,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 17,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            0,
+            30,
+            0.5,
+            5,
+            4.712385,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832212031,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221204,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 18,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            20,
+            30,
+            0.5,
+            5,
+            4.712385,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832212041,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221205,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 19,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            40,
+            30,
+            0.5,
+            5,
+            4.712385,
+            -0.3,
+            10
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832212051,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221401,
+        "Name": "引爆",
+        "Shape": 2,
+        "SizeX": 10,
+        "SizeY": 10,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832214011,
+        "Magic": [
+            801240,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            null,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221501,
+        "Name": "旋转连击",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832215011,
+        "Magic": [
+            801040,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221502,
+        "Name": "旋转连击",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "Direction": "-60",
+        "TargetType": 4,
+        "LiveTime": 0.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1440,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "BeHitState": 832215021,
+        "Magic": [
+            801020
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221503,
+        "Name": "旋转连击",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1200,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832215031,
+        "Magic": [
+            801020,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221601,
+        "Name": "地裂斩-一段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 50,
+        "Direction": 0,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832216011,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221602,
+        "Name": "地裂斩-二段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 50,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832216021,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83221603,
+        "Name": "地裂斩-三段",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 50,
+        "Direction": "-30",
+        "TargetType": 4,
+        "LiveTime": 3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010001Attack16Shouji"
+        ],
+        "Effect": "FxMb1LuosaitaMd010001Attack16Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832216031,
+        "Magic": [
+            801040,
+            200005,
+            831574
+        ],
+        "MagicLauncherNpc": [
+            200005
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223101,
+        "Name": "盾击升天",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack02Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832231011,
+        "Magic": [
+            801040,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223102,
+        "Name": "盾击升天",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "Direction": "-60",
+        "TargetType": 4,
+        "LiveTime": 0.6,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack02Shouji02"
+        ],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1440,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "BeHitState": 832231021,
+        "Magic": [
+            801020
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223109,
+        "Name": "全顿帧",
+        "Shape": 2,
+        "SizeX": 20,
+        "SizeY": 20,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            832214
+        ],
+        "MagicLauncherNpc": [
+            832214
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83223201,
+        "Name": "丢盾四连",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 140,
+        "Speed": 0,
+        "Direction": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232011,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223202,
+        "Name": "丢盾四连",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 70,
+        "Speed": 0,
+        "Direction": 5,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232021,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223203,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "Speed": 80,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232031,
+        "Magic": [
+            801040,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223204,
+        "Name": "丢盾四连",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232041,
+        "Magic": [
+            801030,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223205,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "OffsetY": "-9",
+        "Speed": 75,
+        "Direction": 150,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232051,
+        "Magic": [
+            801030,
+            200001,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223206,
+        "Name": "丢盾四连",
+        "Shape": 2,
+        "SizeX": 2,
+        "OffsetY": 0,
+        "Speed": 0,
+        "Direction": 30,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack04Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            "-270",
+            0,
+            8,
+            8,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832232061,
+        "Magic": [
+            801030,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223215,
+        "Name": "全顿帧",
+        "Shape": 2,
+        "SizeX": 20,
+        "SizeY": 20,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            832214
+        ],
+        "MagicLauncherNpc": [
+            832214
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83223301,
+        "Name": "旋转连击",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832233011,
+        "Magic": [
+            801040,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223302,
+        "Name": "旋转连击",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "Direction": "-60",
+        "TargetType": 4,
+        "LiveTime": 0.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1440,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "BeHitState": 832233021,
+        "Magic": [
+            801020
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223303,
+        "Name": "旋转连击",
+        "Shape": 3,
+        "SizeX": 4,
+        "SizeY": 72,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMb1LuosaitaMd010002Attack15Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            1200,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 832233031,
+        "Magic": [
+            801020,
+            200003,
+            831102
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            831102
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83223309,
+        "Name": "全顿帧",
+        "Shape": 2,
+        "SizeX": 20,
+        "SizeY": 20,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "Magic": [
+            832214
+        ],
+        "MagicLauncherNpc": [
+            832214
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 83330105,
+        "Name": "旋转连击",
+        "Shape": 2,
+        "SizeX": 4,
+        "OffsetY": 35,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 5,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMb1CubeMd020001Attack01Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 833301051,
+        "Magic": [
+            801040,
+            200003
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            800160
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    },
+    {
+        "Id": 83331401,
+        "Name": "追踪离子弹",
+        "Shape": 1,
+        "SizeX": 0.1,
+        "SizeY": 0.1,
+        "OffsetY": "-2",
+        "Speed": 10,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 3,
+        "DeadExplosion": 1,
+        "HitCount": 1,
+        "HitEffect": [],
+        "StartJoint": "Mb1LuosaitaMd010002Weapon2",
+        "Effect": "FxMb1LuosaitaMd010001Attack07Dandao",
+        "DamageCount": 1,
+        "ExplosionEffect": "FxMb1LuosaitaMd010001Attack0702",
+        "LineType": 5,
+        "LineParams": [
+            0,
+            90,
+            0,
+            5,
+            0.349065556,
+            0,
+            5
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "BeHitState": 833314011,
+        "Magic": [
+            801220,
+            200003,
+            832001
+        ],
+        "MagicLauncherNpc": [
+            200003,
+            null,
+            832001
+        ],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1
+    }
+]

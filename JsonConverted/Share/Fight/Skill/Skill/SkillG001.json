@@ -1,0 +1,549 @@
+[
+    {
+        "Id": 994101,
+        "Name": "蓄力激光",
+        "CastTime": 6.267,
+        "AfterTime": 0,
+        "Animation": "Stand1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994102,
+        "Name": "光柱",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "Animation": "Stand1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994103,
+        "Name": "环形",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "Animation": "Stand1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994104,
+        "Name": "蓄力激光",
+        "CastTime": 6.267,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994105,
+        "Name": "环形攻击",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994106,
+        "Name": "倒地动作",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Death",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994501,
+        "Name": "蓄力激光",
+        "CastTime": 6.267,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904001,
+        "Name": "野牛烈焰撞击",
+        "CastTime": 5.7,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904002,
+        "Name": "野牛炎刃横扫",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904003,
+        "Name": "野牛后踢",
+        "CastTime": 1.6,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904004,
+        "Name": "野牛雪狐击",
+        "CastTime": 2.6,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904005,
+        "Name": "野牛炎爆",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904006,
+        "Name": "野牛燃烧吧牛宝宝",
+        "CastTime": 2.35,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904007,
+        "Name": "卧牛前摇",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904008,
+        "Name": "卧牛中",
+        "CastTime": 0.25,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904009,
+        "Name": "卧牛结束",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904010,
+        "Name": "锤断腿前摇",
+        "CastTime": 1.45,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904011,
+        "Name": "锤断腿中",
+        "CastTime": 0.25,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904012,
+        "Name": "锤断腿结束",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904013,
+        "Name": "野牛转向",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904501,
+        "Name": "战斧斜劈",
+        "CastTime": 2.3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904502,
+        "Name": "战斧上挑",
+        "CastTime": 2.2,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904503,
+        "Name": "链钩发射",
+        "CastTime": 1.867,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904504,
+        "Name": "链钩回拽",
+        "CastTime": 1.267,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904505,
+        "Name": "喷射准备",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904506,
+        "Name": "喷射冲锋",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "FinalMagicIds": "904529|730019|904536",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904507,
+        "Name": "喷射冲锋刹车结束",
+        "CastTime": 1.733,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904508,
+        "Name": "喷射冲锋撞墙",
+        "CastTime": 3.133,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904509,
+        "Name": "正义降临-升",
+        "CastTime": 0.867,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904510,
+        "Name": "待机挑衅",
+        "CastTime": 4.7,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904511,
+        "Name": "链钩假动作",
+        "CastTime": 4.533,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904512,
+        "Name": "出生动作",
+        "CastTime": 2.967,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "FinalMagicIds": "700249|710077",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904513,
+        "Name": "喷射冲锋撞人结束",
+        "CastTime": 2.033,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "FinalMagicIds": "700031|730020",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904514,
+        "Name": "正义降临-落",
+        "CastTime": 2.433,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "FinalMagicIds": "700031|710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 904515,
+        "Name": "喷射冲锋",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904516,
+        "Name": "跳跃出生动作2",
+        "CastTime": 2.967,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "FinalMagicIds": "710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904517,
+        "Name": "降落出生动作",
+        "CastTime": 2.433,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "FinalMagicIds": "700031|710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 904601,
+        "Name": "蓄能炮",
+        "CastTime": 3.533,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904602,
+        "Name": "待机挑衅",
+        "CastTime": 4.4,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904603,
+        "Name": "冷气喷射-准备",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904604,
+        "Name": "冷气喷射-前",
+        "CastTime": 1.133,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "FinalMagicIds": 904605,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904605,
+        "Name": "冷气喷射-后",
+        "CastTime": 1.133,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "FinalMagicIds": 904605,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904606,
+        "Name": "冷气喷射-右",
+        "CastTime": 1.133,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "FinalMagicIds": 904605,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904607,
+        "Name": "冷气喷射-左",
+        "CastTime": 1.133,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "FinalMagicIds": 904605,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904608,
+        "Name": "冷气喷射-收回",
+        "CastTime": 1.167,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904609,
+        "Name": "爆炸飞跃",
+        "CastTime": 2.733,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904610,
+        "Name": "后跳",
+        "CastTime": 1.667,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904611,
+        "Name": "转向",
+        "CastTime": 0.9,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904612,
+        "Name": "机枪扫射",
+        "CastTime": 2.967,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904613,
+        "Name": "出生动作",
+        "CastTime": 2.833,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "FinalMagicIds": "710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904614,
+        "Name": "趴地",
+        "CastTime": 0.167,
+        "AfterTime": 0,
+        "Animation": "Lieonfloor",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904615,
+        "Name": "出生动作2",
+        "CastTime": 2.833,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "FinalMagicIds": "710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904616,
+        "Name": "出生动作3",
+        "CastTime": 2.833,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "FinalMagicIds": "710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    }
+]

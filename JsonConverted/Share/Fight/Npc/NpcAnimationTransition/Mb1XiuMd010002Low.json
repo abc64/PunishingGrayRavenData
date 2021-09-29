@@ -1,0 +1,554 @@
+[
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Born",
+        "TransitionDuration": 0
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Stand1",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Stand3",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Standchange",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Run",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Death",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hit1",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hit2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Behitfly",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hoverhit",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Falldown",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hitdown",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Lieonfloor",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Standup",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Straight",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Stun",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "TurnLeft",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "TurnRight",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "StraightBefore",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "StraightAfter",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Win",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Win2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Runb",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Runl",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Runr",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Stop",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Walkb",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Walkl",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Walkr",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Fail",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Save",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hit3",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Hit4",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Move1",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Move2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "AnyState",
+        "Target": "Move3",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stand2",
+        "Target": "Standchange",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stand2",
+        "Target": "Run",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stand2",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stand1",
+        "Target": "Run",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stand1",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Standchange",
+        "Target": "Stand1",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Standchange",
+        "Target": "Run",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Standchange",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Run",
+        "Target": "Stop",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Run",
+        "Target": "Stand2",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Run",
+        "Target": "Runb",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Run",
+        "Target": "Runl",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Run",
+        "Target": "Runr",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walk",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hit1",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hit2",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Behitfly",
+        "Target": "Hoverhit",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Behitfly",
+        "Target": "Falldown",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hoverhit",
+        "Target": "Falldown",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Falldown",
+        "Target": "Lieonfloor",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hitdown",
+        "Target": "Lieonfloor",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Standup",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Straight",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stun",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "TurnLeft",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "TurnRight",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Win",
+        "Target": "Win2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runb",
+        "Target": "Stand2",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runb",
+        "Target": "Run",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runb",
+        "Target": "Runl",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runb",
+        "Target": "Runr",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runl",
+        "Target": "Stand2",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runl",
+        "Target": "Run",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runl",
+        "Target": "Runb",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runl",
+        "Target": "Runr",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runr",
+        "Target": "Stand2",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runr",
+        "Target": "Run",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runr",
+        "Target": "Runb",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Runr",
+        "Target": "Runl",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Stop",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkb",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkb",
+        "Target": "Walk",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkb",
+        "Target": "Walkl",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkb",
+        "Target": "Walkr",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkl",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkl",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkl",
+        "Target": "Walkb",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkl",
+        "Target": "Walkr",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkr",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkr",
+        "Target": "Walk",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkr",
+        "Target": "Walkb",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Walkr",
+        "Target": "Walkl",
+        "TransitionDuration": 0.2
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hit3",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "Mb1XiuMd010002Low",
+        "State": "Hit4",
+        "Target": "Stand2",
+        "TransitionDuration": 0.1
+    }
+]

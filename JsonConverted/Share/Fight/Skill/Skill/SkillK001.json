@@ -1,0 +1,1743 @@
+[
+    {
+        "Id": 815001,
+        "Name": "耳光",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815002,
+        "Name": "手雷",
+        "CastTime": 1.37,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815003,
+        "Name": "踩踏",
+        "CastTime": 1.77,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815004,
+        "Name": "跳跃 - 轻",
+        "CastTime": 1.77,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 815005,
+        "Name": "跳跃 - 重",
+        "CastTime": 2.03,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 815006,
+        "Name": "喷射 - 直线",
+        "CastTime": 4.17,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815007,
+        "Name": "喷射 - 弧线",
+        "CastTime": 3.97,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815008,
+        "Name": "喷射 - 弧线 小",
+        "CastTime": 3.97,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815011,
+        "Name": "愉悦",
+        "CastTime": 3.1,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815012,
+        "Name": "思考",
+        "CastTime": 3.57,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815013,
+        "Name": "瘫痪 In",
+        "CastTime": 0.94,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815014,
+        "Name": "瘫痪 Loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815015,
+        "Name": "瘫痪 Out",
+        "CastTime": 1.04,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815022,
+        "Name": "手雷（长时间）",
+        "CastTime": 1.37,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815026,
+        "Name": "喷射 - 直线",
+        "CastTime": 4.17,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815027,
+        "Name": "喷射 - 弧线",
+        "CastTime": 3.97,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815028,
+        "Name": "跳跃退场",
+        "CastTime": 1.77,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815029,
+        "Name": "换个姿势再喷",
+        "CastTime": 1.77,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815030,
+        "Name": "手雷（带预警）",
+        "CastTime": 1.37,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815031,
+        "Name": "出生动作",
+        "SkillType": 4,
+        "CastTime": 3.53,
+        "AfterTime": 0,
+        "Animation": "Born",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815051,
+        "Name": "跳跃（位移）",
+        "CastTime": 1,
+        "AfterTime": 0.8,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815052,
+        "Name": "跳跃（位移2）",
+        "CastTime": 1,
+        "AfterTime": 0.8,
+        "Animation": "Attack04",
+        "SkillMoveType": 4,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 815055,
+        "Name": "耳光（普攻1）",
+        "CastTime": 1.1,
+        "AfterTime": 0.6,
+        "Animation": "Attack01",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815056,
+        "Name": "踩踏（普攻2）",
+        "CastTime": 1,
+        "AfterTime": 0.8,
+        "Animation": "Attack03",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815057,
+        "Name": "跳跃 - 轻（普攻3）",
+        "CastTime": 1,
+        "AfterTime": 0.8,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 815061,
+        "Name": "三个手雷（红球）",
+        "CastTime": 0.8,
+        "AfterTime": 0.6,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 815062,
+        "Name": "自爆虫（蓝球）",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 815063,
+        "Name": "全屏坐（黄球）",
+        "CastTime": 1.73,
+        "AfterTime": 0.3,
+        "Animation": "Attack05",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 816001,
+        "Name": "挥砍1式",
+        "CastTime": 3.09,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816002,
+        "Name": "挥砍2式",
+        "CastTime": 2.55,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816003,
+        "Name": "踏込み斬り",
+        "CastTime": 2.3,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816004,
+        "Name": "発砲",
+        "CastTime": 1.84,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816005,
+        "Name": "后跳",
+        "CastTime": 0.96,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816006,
+        "Name": "链刀1式",
+        "CastTime": 2.71,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816007,
+        "Name": "链刀2式",
+        "CastTime": 2.5,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816008,
+        "Name": "链刀3式",
+        "CastTime": 2.92,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816009,
+        "Name": "链刀4式近身伤害",
+        "CastTime": 2.09,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816011,
+        "Name": "无影腿",
+        "CastTime": 2.3,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816012,
+        "Name": "链刀5式-挑飞",
+        "CastTime": 1.96,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816013,
+        "Name": "链刀5式-空中连击",
+        "CastTime": 1.71,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 816014,
+        "Name": "P3 链刀1式",
+        "CastTime": 2.47,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816015,
+        "Name": "P3 链刀2式",
+        "CastTime": 2.27,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816016,
+        "Name": "P3 链刀3式",
+        "CastTime": 2.77,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816017,
+        "Name": "P3 炸药桶",
+        "CastTime": 2.07,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816018,
+        "Name": "P3 扔球",
+        "CastTime": 1.84,
+        "AfterTime": 0,
+        "Animation": "Attack18",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816019,
+        "Name": "P3 空中飞人",
+        "CastTime": 2.24,
+        "AfterTime": 0,
+        "Animation": "Attack19",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816020,
+        "Name": "闪避",
+        "CastTime": 0.96,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 816051,
+        "Name": "前跳",
+        "CastTime": 0.5,
+        "AfterTime": 0.46,
+        "Animation": "Attack05",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 816052,
+        "Name": "后跳",
+        "CastTime": 0.5,
+        "AfterTime": 0.46,
+        "Animation": "Attack05",
+        "SkillMoveType": 4,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 816055,
+        "Name": "発砲",
+        "CastTime": 0.75,
+        "AfterTime": 1.1,
+        "Animation": "Attack04",
+        "DistNoTarget": 5,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 816056,
+        "Name": "无影腿",
+        "CastTime": 1.7,
+        "AfterTime": 0.93,
+        "Animation": "Attack11",
+        "FinalMagicIds": "800043|800050",
+        "DistNoTarget": 5,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816057,
+        "Name": "链刀5式-挑飞",
+        "CastTime": 1.23,
+        "AfterTime": 0.73,
+        "Animation": "Attack12",
+        "DistNoTarget": 5,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 816058,
+        "Name": "链刀5式-空中连击",
+        "CastTime": 1,
+        "AfterTime": 0.71,
+        "Animation": "Attack13",
+        "DistNoTarget": 5,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 816060,
+        "Name": "発砲",
+        "CastTime": 0.9,
+        "AfterTime": 0.94,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816061,
+        "Name": "P3 炸药桶 （红球）",
+        "CastTime": 2,
+        "AfterTime": 0.17,
+        "Animation": "Attack17",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 816062,
+        "Name": "P3 空中飞人（蓝球）",
+        "CastTime": 2,
+        "AfterTime": 0.24,
+        "Animation": "Attack19",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 816063,
+        "Name": "链刀3式（黄球）",
+        "CastTime": 2.2,
+        "AfterTime": 0.72,
+        "Animation": "Attack08",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816070,
+        "Name": "P3 链刀1式",
+        "CastTime": 2.47,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816071,
+        "Name": "P3 链刀2式",
+        "CastTime": 2.27,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816072,
+        "Name": "P3 链刀3式",
+        "CastTime": 2.77,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 816073,
+        "Name": "P3 炸药桶",
+        "CastTime": 2.07,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817001,
+        "Name": "前移",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817002,
+        "Name": "后跳",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817003,
+        "Name": "憎悪の決壊",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817004,
+        "Name": "头盔激光",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817006,
+        "Name": "尖刺连射",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817007,
+        "Name": "后移",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817008,
+        "Name": "前移",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817009,
+        "Name": "后撤瞬移",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817010,
+        "Name": "隐身后出现",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817005,
+        "Name": "阶段切换",
+        "CastTime": 3.84,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817011,
+        "Name": "P2 呼唤",
+        "CastTime": 4.17,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817012,
+        "Name": "P2 旋转",
+        "CastTime": 1.57,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817013,
+        "Name": "P2 抬手",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817014,
+        "Name": "P2 抛物 In",
+        "CastTime": 0.84,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817015,
+        "Name": "P2 抛物 Loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817016,
+        "Name": "P2 抛物 Out",
+        "CastTime": 0.5,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817017,
+        "Name": "P2 抬手 In",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817018,
+        "Name": "P2 抬手 Loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack18",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817019,
+        "Name": "P2 抬手 Out",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack19",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817020,
+        "Name": "P2 多重地刺",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817021,
+        "Name": "P2 尖刺之径",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817022,
+        "Name": "P2 尖啸",
+        "CastTime": 4.1,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817023,
+        "Name": "P2 主线召唤怪物用",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817024,
+        "Name": "一阶段 主线召唤怪物用",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817051,
+        "Name": "前移",
+        "CastTime": 0.55,
+        "AfterTime": 0.29,
+        "Animation": "Attack01",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817052,
+        "Name": "后移",
+        "CastTime": 0.55,
+        "AfterTime": 0.29,
+        "Animation": "Attack02",
+        "SkillMoveType": 4,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817053,
+        "Name": "前移 p2",
+        "CastTime": 0.55,
+        "AfterTime": 0.29,
+        "Animation": "Attack01",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817054,
+        "Name": "后移 p2",
+        "CastTime": 0.55,
+        "AfterTime": 0.29,
+        "Animation": "Attack02",
+        "SkillMoveType": 4,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817055,
+        "Name": "P1 普攻 1",
+        "CastTime": 0.7,
+        "AfterTime": 0.15,
+        "Animation": "Attack01",
+        "DistNoTarget": 8,
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817056,
+        "Name": "P1 普攻 2",
+        "CastTime": 0.7,
+        "AfterTime": 0.15,
+        "Animation": "Attack01",
+        "DistNoTarget": 8,
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817057,
+        "Name": "P1 普攻 3",
+        "CastTime": 0.7,
+        "AfterTime": 0.1,
+        "Animation": "Attack05",
+        "DistNoTarget": 8,
+        "SkillMoveType": 3,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817058,
+        "Name": "P2 普攻 1",
+        "CastTime": 0.7,
+        "AfterTime": 0.15,
+        "Animation": "Attack01",
+        "DistNoTarget": 8,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 817059,
+        "Name": "P2 普攻 2",
+        "CastTime": 0.7,
+        "AfterTime": 0.15,
+        "Animation": "Attack02",
+        "DistNoTarget": 8,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817060,
+        "Name": "P2 普攻 3",
+        "CastTime": 0.7,
+        "AfterTime": 0.1,
+        "Animation": "Attack05",
+        "DistNoTarget": 8,
+        "SkillMoveType": 3,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 817061,
+        "Name": "P2 红球 6连抛物",
+        "CastTime": 1.1,
+        "AfterTime": 0.2,
+        "Animation": "Stand2",
+        "DistNoTarget": 8,
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817062,
+        "Name": "P2 蓝球 转身飞刺",
+        "CastTime": 0.4,
+        "AfterTime": 1,
+        "Animation": "Attack15",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817063,
+        "Name": "P2 黄球 隐身出刺",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "FinalMagicIds": "800043|800050",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817070,
+        "Name": "大招 呼唤地刺",
+        "CastTime": 4.17,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817071,
+        "Name": "P2 红球 旋转尖刺",
+        "CastTime": 1.57,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817072,
+        "Name": "P2 黄球 连续抛物",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 817073,
+        "Name": "P2 蓝球 呼唤地刺",
+        "CastTime": 4.17,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 5,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818001,
+        "Name": "拍击",
+        "CastTime": 2.67,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818002,
+        "Name": "吐痰",
+        "CastTime": 2.4,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818003,
+        "Name": "空気砲",
+        "CastTime": 2.87,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818004,
+        "Name": "地叩き",
+        "CastTime": 6.3,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818005,
+        "Name": "空気砲EX",
+        "CastTime": 9.9,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818006,
+        "Name": "瘫倒 In",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818007,
+        "Name": "瘫倒 Loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818008,
+        "Name": "瘫倒 Out",
+        "CastTime": 1.97,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818009,
+        "Name": "沙漠风暴",
+        "CastTime": 3.667,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818011,
+        "Name": "土遁",
+        "CastTime": 3.167,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818012,
+        "Name": "探出",
+        "CastTime": 2.3,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 818013,
+        "Name": "土遁",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 819001,
+        "Name": "Block",
+        "CastTime": 5,
+        "AfterTime": 0,
+        "Animation": "Attack55",
+        "FinalMagicIds": 819009,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 819002,
+        "Name": "闪避",
+        "CastTime": 0.667,
+        "AfterTime": 0,
+        "Animation": "Move2",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0
+    },
+    {
+        "Id": 819003,
+        "Name": "Z字移動",
+        "CastTime": 0.2,
+        "AfterTime": 0,
+        "Animation": "Attack48",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 819004,
+        "Name": "Block",
+        "CastTime": 5,
+        "AfterTime": 0,
+        "Animation": "Attack56",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 819005,
+        "Name": "Block",
+        "CastTime": 0.733,
+        "AfterTime": 0,
+        "Animation": "Attack57",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831001,
+        "Name": "五连击",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831002,
+        "Name": "五连击 -2",
+        "CastTime": 2.6,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831003,
+        "Name": "突進",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831004,
+        "Name": "二连击",
+        "CastTime": 1.7,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831005,
+        "Name": "四連撃",
+        "CastTime": 2.5,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831006,
+        "Name": "挑飞",
+        "CastTime": 1,
+        "AfterTime": 0.67,
+        "Animation": "Attack06",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831007,
+        "Name": "打球",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831008,
+        "Name": "抓取",
+        "CastTime": 1.1,
+        "AfterTime": 0.47,
+        "Animation": "Attack08",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831009,
+        "Name": "爆气",
+        "CastTime": 2.74,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831011,
+        "Name": "Block",
+        "CastTime": 0.67,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831012,
+        "Name": "瞬身",
+        "CastTime": 0.2,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831013,
+        "Name": "脱离",
+        "CastTime": 1.17,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831014,
+        "Name": "快速上挑",
+        "CastTime": 1.4,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831015,
+        "Name": "二连击",
+        "CastTime": 2.17,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831016,
+        "Name": "爆气",
+        "CastTime": 1.17,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831017,
+        "Name": "狂暴后虚弱",
+        "CastTime": 2.93,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831018,
+        "Name": "不追加攻击挑飞",
+        "CastTime": 1,
+        "AfterTime": 0.67,
+        "Animation": "Attack06",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831019,
+        "Name": "五连爆气",
+        "CastTime": 1.17,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831051,
+        "Name": "突進",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831060,
+        "Name": "二连击（普攻）",
+        "CastTime": 1.7,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831061,
+        "Name": "五连击 -2（红球）",
+        "CastTime": 2.6,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831062,
+        "Name": "五连爆气（蓝球）",
+        "CastTime": 1.17,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831063,
+        "Name": "抓取（黄球）",
+        "CastTime": 1.1,
+        "AfterTime": 0.47,
+        "Animation": "Attack08",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831101,
+        "Name": "甩刀",
+        "CastTime": 1.47,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831102,
+        "Name": "踩踏 【空中突进",
+        "CastTime": 0.84,
+        "AfterTime": 0.63,
+        "Animation": "Attack02",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 831103,
+        "Name": "突进 【长突进",
+        "CastTime": 0.767,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 831104,
+        "Name": "击飞",
+        "CastTime": 1.267,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831105,
+        "Name": "击飞2",
+        "CastTime": 1.667,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831106,
+        "Name": "独乐屠",
+        "CastTime": 0.9,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831107,
+        "Name": "百合折+抓节 【小突进",
+        "CastTime": 1.533,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831108,
+        "Name": "八咫乌 【只打浮空",
+        "CastTime": 1.133,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831109,
+        "Name": "明鸟 【小突进",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831111,
+        "Name": "杭 【超近战",
+        "CastTime": 0.833,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831112,
+        "Name": "烈旋脚 【近战",
+        "CastTime": 1.07,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831113,
+        "Name": "三连山 【近战",
+        "CastTime": 1.6,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831114,
+        "Name": "小连段 【近战",
+        "CastTime": 2.767,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831115,
+        "Name": "跳重击 【只打浮空",
+        "CastTime": 0.933,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831116,
+        "Name": "鵺讨 【近战",
+        "CastTime": 0.633,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831117,
+        "Name": "鬼手 【远程",
+        "CastTime": 0.67,
+        "AfterTime": 0.13,
+        "Animation": "Attack17",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831118,
+        "Name": "大连段1 【远程",
+        "CastTime": 0.57,
+        "AfterTime": 0.77,
+        "Animation": "Attack18",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831119,
+        "Name": "大连段2 【近战",
+        "CastTime": 3.84,
+        "AfterTime": 1,
+        "Animation": "Attack19",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831121,
+        "Name": "空中板机",
+        "CastTime": 1,
+        "AfterTime": 0.17,
+        "Animation": "Attack21",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831122,
+        "Name": "前闪",
+        "CastTime": 0.7,
+        "AfterTime": 0,
+        "Animation": "Attack22",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831123,
+        "Name": "后闪",
+        "CastTime": 0.34,
+        "AfterTime": 0,
+        "Animation": "Attack23",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831124,
+        "Name": "右闪",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack24",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831125,
+        "Name": "左闪",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack25",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831126,
+        "Name": "瞬身",
+        "CastTime": 0.2,
+        "AfterTime": 0,
+        "Animation": "Attack26",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831127,
+        "Name": "空中连技",
+        "CastTime": 1.43,
+        "AfterTime": 0,
+        "Animation": "Attack27",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "MissileLockTarget": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831128,
+        "Name": "爆气",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack28",
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 831129,
+        "Name": "骗招1",
+        "CastTime": 4.54,
+        "AfterTime": 0,
+        "Animation": "Attack29",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831131,
+        "Name": "骗招2",
+        "CastTime": 5.97,
+        "AfterTime": 0,
+        "Animation": "Attack31",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831132,
+        "Name": "骗招3",
+        "CastTime": 2.37,
+        "AfterTime": 0,
+        "Animation": "Attack32",
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 831141,
+        "Name": "刀",
+        "CastTime": 4,
+        "AfterTime": 0,
+        "Animation": "Attack31",
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 0
+    }
+]

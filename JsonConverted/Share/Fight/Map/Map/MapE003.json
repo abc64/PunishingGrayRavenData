@@ -1,0 +1,394 @@
+[
+    {
+        "Id": 30030301,
+        "Behavior": 30030301,
+        "Name": "Test Area - Solo Dummy 1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300303010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030302,
+        "Behavior": 30030302,
+        "Name": "Test Area - Solo Dummy 2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300303020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030303,
+        "Behavior": 30030303,
+        "Name": "试验区-对战关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300303030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030401,
+        "Behavior": 30030401,
+        "Name": "试验区-多人木桩1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300304010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030402,
+        "Behavior": 30030402,
+        "Name": "试验区-对战关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300304020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030403,
+        "Behavior": 30030403,
+        "Name": "试验区-多人木桩3",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            300304030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030501,
+        "Behavior": 30030501,
+        "Name": "试验区-坦克大战",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 1,
+        "Terrains": [
+            300305010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030601,
+        "Behavior": 30030601,
+        "Name": "Nightmare Stage 1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300306010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030602,
+        "Behavior": 30030602,
+        "Name": "Nightmare Stage 2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300306020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030603,
+        "Behavior": 30030603,
+        "Name": "Nightmare Stage 3",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300306030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030604,
+        "Behavior": 30030604,
+        "Name": "Nightmare Stage 4",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300306040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030605,
+        "Behavior": 30030605,
+        "Name": "Nightmare Stage 5",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300306050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030701,
+        "Behavior": 30030701,
+        "Name": "飞机测试联机1",
+        "Environment": "SceneCHtest0003",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030702,
+        "Behavior": 30030702,
+        "Name": "飞机测试联机2",
+        "Environment": "SceneCHtest0003",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030703,
+        "Behavior": 30030703,
+        "Name": "飞机测试联机3",
+        "Environment": "SceneCHtest0003",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030704,
+        "Behavior": 30030704,
+        "Name": "飞机测试联机4",
+        "Environment": "SceneCHtest0003",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030705,
+        "Behavior": 30030705,
+        "Name": "飞机测试联机5",
+        "Environment": "SceneCHtest0003",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030706,
+        "Behavior": 30030706,
+        "Name": "飞机测试联机6",
+        "Environment": "SceneDLC00103",
+        "TerrainRoot": "Feijidazhan",
+        "CloseLoadingDelay": 2,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 31,
+        "CameraId": 9,
+        "Terrains": [
+            99940010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030801,
+        "Behavior": 30030801,
+        "Name": "自控怪打怪",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            300308010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30030901,
+        "Behavior": 30030901,
+        "Name": "剑圣变大史",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 1,
+        "Terrains": [
+            300309010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30031001,
+        "Behavior": 30031001,
+        "Name": "激流勇鲸",
+        "Environment": "SceneDLC00102",
+        "TerrainRoot": "Test001",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 44,
+        "CameraId": 9,
+        "Terrains": [
+            300310010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

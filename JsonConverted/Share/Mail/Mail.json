@@ -1,0 +1,1137 @@
+[
+    {
+        "Id": 1,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Warehouse full",
+        "Content": "Your Warehouse is full. Please clear up some space to claim your rewards.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 2,
+        "SendName": "Recharge Center",
+        "Title": "Recharge reward",
+        "Content": "Recharge successful. Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 3,
+        "SendName": "Coating",
+        "Title": "Coating converted",
+        "Content": "{0} has been automatically converted to the following.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 4,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Recharge pack",
+        "Content": "Thank you for participating in Consciousness Ascendant Beta III. Here is your beta recharge reward pack. Thank you for supporting Punishing: Gray Raven.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            40,
+            41,
+            42,
+            43
+        ]
+    },
+    {
+        "Id": 5,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Recharge rebate",
+        "Content": "Thank you for participating in Consciousness Ascendant Beta III. Here is your beta recharge rebate. Thank you for supporting Punishing: Gray Raven.",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 6,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Exclusive coating reward",
+        "Content": "Thank you for participating in Consciousness Ascendant Beta III. You have received a Nanami - Gray Feathers: Storm coating as token of our appreciation. Thank you for supporting Punishing: Gray Raven.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            60
+        ]
+    },
+    {
+        "Id": 7,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "New Commandant Reward",
+        "Content": "Welcome to Gray Raven HQ. Here is a little gift to get you started on the right foot. Thank you for supporting Punishing: Gray Raven.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            100
+        ]
+    },
+    {
+        "Id": 8,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Arrival supplies",
+        "Content": "Babylonia has prepared supplies for squads arriving at this area for the first time. Best of luck in battle.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            101
+        ]
+    },
+    {
+        "Id": 9,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Expired Items Recycle",
+        "Content": "The item {0} in your Warehouse expired. Here is your item recycle rewards.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 10,
+        "SendName": "PGR Team",
+        "Title": "Refund Notification",
+        "Content": "Dear Commandant,\\nWe have received your refund request. Our system will automatically deduct the Rainbow Cards from your game account to finish your refund request.\\nThe deduction quantity of Rainbow Cards is equal to the RC quantity of your successful refund orders.\\nThe deduction operation bases on our latest refund rules. Please contact our Customer Service if you have any question. Thanks for your understanding.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 15,
+        "SendName": "「パニシング：グレイレイヴン」運営チーム",
+        "Title": "購入上限超過分のパック補填",
+        "Content": "指揮官様<br>平素より「パニシング：グレイレイヴン」へのご愛顧ありがとうございます。<br>本アプリ側の不具合で、購入回数上限が設定されたパックを上限を越えて購入可能な問題につきまして、大変ご迷惑をおかけしてしまい、誠に申し訳ございません。<br>購入上限を超過した分につきましては、パック内容を配布することが難しいため、購入価格を元に、2円＝1有償黒パスの比率で返還させていただきます。更にパックの割引幅に基づき無償黒パスの補填をさせていただきます。メール添付をご査収ください。<br>無償黒パスと有償黒パスの数量は「購入」ページの右上の「黒パス内訳」でご確認いただけます。<br><br>本件につきてご不明の点がございましたらカスタマーサポートまでご連絡をお願いいたします。<br>※連絡方法：ホーム画面左上の指揮官Lvをタップ→指揮官情報画面右下の「お問い合わせ」<br><br>今後も「パニシング：グレイレイヴン」をよろしくお願いします",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 100,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Construct Research Compensation",
+        "Content": "Dear Commandant, <br>Here is your research compensation from Dec 5 to Dec 17 10:00 UTC. Rewards may include Basic Construct R&D Tickets, Event Construct R&D Tickets and Black Cards. See announcements on Dec 19 and Dec 20 for details. Thank you for your understanding and support as we continue to improve Punishing: Gray Raven.",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 101,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Research Compensation Re-issue",
+        "Content": "Dear Commandant,<br>We found that some rewards were missing from the R&D Ticket compensation issued on Dec 30. The missing rewards have now been reissued. We apologize for the inconvenience and thank you for your understanding.<br>We wish you a happy new year!",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 102,
+        "SendName": "The Punishing: Gray Raven Team",
+        "Title": "Survey reward",
+        "Content": "Thank you for participating in our survey. Your feedback is very important in helping us continue to improve Punishing: Gray Raven. Here is a token of our appreciation, and we thank you again for your support.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 103,
+        "SendName": "Gray Raven Support Force",
+        "Title": "Black Card returns for revival issue",
+        "Content": "In the announcement of identified issues published on Feb 7, we announced that we would return the Black Cards to the Commandant who encountered the Black Card revival bug before the issue of the announcement at 22:30 UTC, Feb 7. Attached are the Black Cards you used to revive during this period. Thank you for your support and understanding!",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 5001,
+        "SendName": "空中庭園司令部",
+        "Title": "12月23日宿舎任務補填",
+        "Content": "指揮官様<br><br>2020年12月23日（水）メンテナンス後、新たに追加された宿舎任務「完全に把握」について、メンテナンス前に宿舎の全ての任務をクリアした場合、12月23日の「完全に把握」報酬を獲得できない不具合が確認されておりました。<br>上記の不具合のお詫びとして下記の補填アイテムをお受取りください。補填が遅くなりましたことをお詫び申し上げます。<br>今後、このようなことのないよう、スタッフ一同、再発防止に努めてまいります。",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 5002,
+        "SendName": "空中庭園司令部",
+        "Title": "1月2日「おみくじ」補填②",
+        "Content": "指揮官様<br><br>1月2日に発生した不具合のため「新年の運だめし」の「おみくじ」を引くことができなかった指揮官様を対象に、補填を実施いたします。下記の補填アイテムをお受取りください。<br>黒パス×30枚<br>血清セットS×１個<br>1月2日に「おみくじ」を引くことができなかった結果、受取ることができなかった「新年ミッション」ボーナス（「新年贈物」を除く※）<br><br>※「新年贈物」は利用期限切れのため今回の補填対応では配布せず、代わりに先日の「1月2日「おみくじ」補填」で新年贈物×1個を配布いたしました。<br><br>本不具合内容及び補填対応の詳細は、公式サイト＞お知らせ＞不具合＞「おみくじ」不具合のお詫びと対応 をご参照ください。<br><br>本不具合でご迷惑をおかけしたこと、並びに補填対応が遅くなりましたことをお詫び申し上げます。<br><br>2020年12月23日（水）メンテナンス後、新たに追加された宿舎任務「完全に把握」について、メンテナンス前に宿舎の全ての任務をクリアした場合、12月23日の「完全に把握」報酬を獲得できない不具合が確認されておりました。<br>上記の不具合のお詫びとして下記の補填アイテムをお受取りください。補填が遅くなりましたことをお詫び申し上げます。<br>今後、このようなことのないよう、スタッフ一同、再発防止に努めてまいります。",
+        "ValidTime": 2592000,
+        "RewardIds": []
+    },
+    {
+        "Id": 11000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 99% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            500000,
+            500001
+        ]
+    },
+    {
+        "Id": 11001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 95% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            500010,
+            500011
+        ]
+    },
+    {
+        "Id": 11002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 90% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            500020,
+            500021
+        ]
+    },
+    {
+        "Id": 11003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 70% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            500030,
+            500031
+        ]
+    },
+    {
+        "Id": 11004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 5% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            500040,
+            500041
+        ]
+    },
+    {
+        "Id": 12000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 99% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            510000,
+            510001
+        ]
+    },
+    {
+        "Id": 12001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 95% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            510010,
+            510011
+        ]
+    },
+    {
+        "Id": 12002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 90% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            510020,
+            510021
+        ]
+    },
+    {
+        "Id": 12003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 70% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            510030,
+            510031
+        ]
+    },
+    {
+        "Id": 12004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 5% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            510040,
+            510041
+        ]
+    },
+    {
+        "Id": 13000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 99% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            520000,
+            520001
+        ]
+    },
+    {
+        "Id": 13001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 95% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            520010,
+            520011
+        ]
+    },
+    {
+        "Id": 13002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 90% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            520020,
+            520021
+        ]
+    },
+    {
+        "Id": 13003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 70% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            520030,
+            520031
+        ]
+    },
+    {
+        "Id": 13004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Ranking Reward",
+        "Content": "You scored higher than 5% in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            520040,
+            520041
+        ]
+    },
+    {
+        "Id": 14000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 20000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            530000,
+            530001
+        ]
+    },
+    {
+        "Id": 14001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 40000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            530010,
+            530011
+        ]
+    },
+    {
+        "Id": 14002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 80000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            530020,
+            530021
+        ]
+    },
+    {
+        "Id": 14003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 120000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            530030,
+            530031
+        ]
+    },
+    {
+        "Id": 14004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 180000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            530040,
+            530041
+        ]
+    },
+    {
+        "Id": 15000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 27500 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            540000,
+            540001
+        ]
+    },
+    {
+        "Id": 15001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 55000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            540010,
+            540011
+        ]
+    },
+    {
+        "Id": 15002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 110000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            540020,
+            540021
+        ]
+    },
+    {
+        "Id": 15003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 192500 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            540030,
+            540031
+        ]
+    },
+    {
+        "Id": 15004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 275000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            540040,
+            540041
+        ]
+    },
+    {
+        "Id": 16000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 35000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            550000,
+            550001
+        ]
+    },
+    {
+        "Id": 16001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 70000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            550010,
+            550011
+        ]
+    },
+    {
+        "Id": 16002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 140000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            550020,
+            550021
+        ]
+    },
+    {
+        "Id": 16003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 245000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            550030,
+            550031
+        ]
+    },
+    {
+        "Id": 16004,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Pain Cage Progress Reward",
+        "Content": "You earned 315000 Progress in this Phantom Pain Cage event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            550040,
+            550041
+        ]
+    },
+    {
+        "Id": 20000,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200000,
+            200001,
+            200002
+        ]
+    },
+    {
+        "Id": 20001,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200010,
+            200011,
+            200012
+        ]
+    },
+    {
+        "Id": 20002,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200020,
+            200021,
+            200022
+        ]
+    },
+    {
+        "Id": 20003,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200030,
+            200031,
+            200032
+        ]
+    },
+    {
+        "Id": 20004,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200040,
+            200041,
+            200042
+        ]
+    },
+    {
+        "Id": 20005,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200050,
+            200051,
+            200052
+        ]
+    },
+    {
+        "Id": 20006,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200060,
+            200061,
+            200062
+        ]
+    },
+    {
+        "Id": 20007,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200070,
+            200071,
+            200072
+        ]
+    },
+    {
+        "Id": 20008,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200080,
+            200081,
+            200082
+        ]
+    },
+    {
+        "Id": 20009,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200090,
+            200091,
+            200092
+        ]
+    },
+    {
+        "Id": 20010,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200100,
+            200101,
+            200102
+        ]
+    },
+    {
+        "Id": 20011,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200110,
+            200111,
+            200112
+        ]
+    },
+    {
+        "Id": 20012,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200120,
+            200121,
+            200122
+        ]
+    },
+    {
+        "Id": 20013,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Lemegeton Reward",
+        "Content": "Here is your reward for this Lemegeton event. Every battle brings us closer to Eden's return!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            200130,
+            200131,
+            200132
+        ]
+    },
+    {
+        "Id": 30000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Bronze Feather Reward",
+        "Content": "You have received a reward for your achievement as a Bronze Feather Hunter!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            30000
+        ]
+    },
+    {
+        "Id": 30001,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Silver Feather Reward",
+        "Content": "You have received a reward for your achievement as a Silver Feather Hunter!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            30001
+        ]
+    },
+    {
+        "Id": 30002,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Gold Feather Hunter",
+        "Content": "You have received a reward for your achievement as a Gold Feather Hunter!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            30002
+        ]
+    },
+    {
+        "Id": 30003,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Raven Feather Hunter",
+        "Content": "You have received a reward for your achievement as a Raven Feather Hunter!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            30003
+        ]
+    },
+    {
+        "Id": 50001,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "No.1 Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50002,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "No.2 Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50003,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "No.3 Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50004,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Top 5 Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50005,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Top 10 Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50006,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Top 0.1% Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50007,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Top 1% Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50008,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Top 10% Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 50009,
+        "SendName": "Test Center",
+        "Title": "Ranking Reward",
+        "Content": "Participation Reward",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 90000,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 5 days",
+        "Content": "Here are your Novice Supply Pack rewards. You will receive one reward per day over 5 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900000,
+            900001,
+            900002,
+            900003
+        ]
+    },
+    {
+        "Id": 90001,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 10 days",
+        "Content": "Here are your A-Rank Construct Coating Black Card Supply Pack rewards. You will receive one reward per day over 10 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900010
+        ]
+    },
+    {
+        "Id": 90002,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 10 days",
+        "Content": "Here are your Daily Coating Ticket Supply Pack rewards. You will receive one reward per day over 10 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900020
+        ]
+    },
+    {
+        "Id": 90003,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 7 days",
+        "Content": "Here are your Weapon Material Supply Pack rewards. You will receive one reward per day over 7 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900030,
+            900031,
+            900032
+        ]
+    },
+    {
+        "Id": 90004,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 7 days",
+        "Content": "Here are your Memory Material Supply Pack rewards. You will receive one reward per day over 7 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900040,
+            900041,
+            900042
+        ]
+    },
+    {
+        "Id": 90005,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 10 days",
+        "Content": "Here are your Construct 10x R&D Pack rewards. You will receive one reward per day over 10 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900050
+        ]
+    },
+    {
+        "Id": 100001,
+        "SendName": "Lucia",
+        "Title": "Gift from Lucia",
+        "Content": "Open it and there is a standard rectangular chocolate bar. Just by looking at it, you have a feeling that it will taste exceptionally wonderful.<br>A list of broken cooking utensils in the Babylonia public kitchen is attached to the bottom of the package.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100002,
+        "SendName": "Liv",
+        "Title": "Gift from Liv",
+        "Content": "Open it and there are some chocolates made in different adorable shapes, such as heart, cotton, cat's claw, etc. Each of them is too cute to eat.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100003,
+        "SendName": "Lee",
+        "Title": "Gift from Lee",
+        "Content": "Open it and there are exquisite, neatly arranged chocolates, all in the same shape. A vague mark \"lee\" is stamped on the bottom of each chocolate.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100004,
+        "SendName": "Kamui",
+        "Title": "Gift from Kamui",
+        "Content": "Open it and there is a big chunk of chocolate in a slightly irregular shape. A smiley face that frosted on it makes you feel this chocolate will be unbearably sweet.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100005,
+        "SendName": "Nanami",
+        "Title": "Gift from Nanami",
+        "Content": "Open it and there is a round chocolate ball. Everything seems fine except for its smell that is totally different from normal chocolates. What ingredients did Nanami add to it?",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100006,
+        "SendName": "Watanabe",
+        "Title": "Gift from Watanabe",
+        "Content": "Open it and there is an exquisite handmade chocolate. Its layer seems to have been damaged slightly because of careless transportation, but its taste remains the same.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100007,
+        "SendName": "Karenina",
+        "Title": "Gift from Karenina",
+        "Content": "Open it and there are chocolate balls that look normal but, in fact, contain a large amount of popping candies. It tastes spicy, winey and sour and gives an unforgettable mouthfeel.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100008,
+        "SendName": "α",
+        "Title": "Gift from α",
+        "Content": "Open it and there are handmade chocolates in slightly rough shape. Because fresh cream is hard to find on the ground, it has been replaced by coconut milk to bring out a totally new flavor.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100009,
+        "SendName": "Ayla",
+        "Title": "Gift from Ayla",
+        "Content": "Open it and there is an exquisite chocolate with a thick red velvet layer, looking like a work of art. Its mouthfeel is wonderful as well.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 100010,
+        "SendName": "Bianca",
+        "Title": "Gift from Bianca",
+        "Content": "Open it and there are neatly arranged white chocolates placed on a butter paper. They seem very delicious just by the looks of them.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 13000010,
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000011
+        ]
+    },
+    {
+        "Id": 13000020,
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000011,
+            13000011,
+            13000011
+        ]
+    },
+    {
+        "Id": 13000030,
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000011,
+            13000011
+        ]
+    },
+    {
+        "Id": 13000040,
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000011
+        ]
+    },
+    {
+        "Id": 13000050,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×7日間",
+        "Content": "敬愛なる指揮官殿。ご購入された週間カードAの商品をお届けいたします。パックの商品は7日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000050,
+            13000051,
+            13000052
+        ]
+    },
+    {
+        "Id": 13000060,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×7日間",
+        "Content": "敬愛なる指揮官殿。ご購入された週間カードBの商品をお届けいたします。パックの商品は7日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000060,
+            13000061,
+            13000062
+        ]
+    },
+    {
+        "Id": 13000070,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×10日間",
+        "Content": "敬愛なる指揮官殿。ご購入された初心者武器開発パックの商品をお届けいたします。パックの商品は10日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000070
+        ]
+    },
+    {
+        "Id": 13000080,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×5日間",
+        "Content": "敬愛なる指揮官殿。ご購入された初心者5日パスの商品をお届けいたします。パックの商品は5日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000080,
+            13000081,
+            13000082,
+            13000083
+        ]
+    },
+    {
+        "Id": 13000090,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×3日間",
+        "Content": "敬愛なる指揮官殿。ご購入された3日パスの商品をお届けいたします。パックの商品は3日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000090,
+            13000091,
+            13000092
+        ]
+    },
+    {
+        "Id": 13000100,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 30 days",
+        "Content": "Dear Commandant, here are your Monthly Pass B (Serum) Supply rewards. You will receive one reward per day over 30 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000100,
+            13000101
+        ]
+    },
+    {
+        "Id": 13000110,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 5 days",
+        "Content": "Here are your New Year Weapon 5-day Pack rewards. You will receive one reward per day over 5 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000110
+        ]
+    },
+    {
+        "Id": 13000120,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×5日間",
+        "Content": "敬愛なる指揮官殿。ご購入されたバレンタイン5日パスの商品をお届けいたします。パックの商品は5日間に渡って届きます。どうぞお受取りください。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000120,
+            13000121,
+            13000122
+        ]
+    },
+    {
+        "Id": 11,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "Recharge Pack",
+        "Content": "Dear Commandant, here are your Close-beta Bundle rewards. Please claim them in time. Thanks for supporting us!",
+        "ValidTime": 604800,
+        "RewardIds": [
+            110,
+            111,
+            112,
+            113
+        ]
+    },
+    {
+        "Id": 14000000,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "Rewards Re-issue",
+        "Content": "Dear Commandant,Here are the reward that you forgot to claim in \"Energy Recovery Operation\" event. Please claim it.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 14000001,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 5 days",
+        "Content": "Here are your Release Value Pack rewards. You will receive one reward per day over 5 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            900000,
+            900001,
+            900002,
+            900003,
+            14000001
+        ]
+    },
+    {
+        "Id": 14000002,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 7 days",
+        "Content": "Here are your Target Weapon R&D Pack rewards. You will receive one reward per day over 7 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            140000020,
+            140000021,
+            140000022
+        ]
+    },
+    {
+        "Id": 14000003,
+        "SendName": "E-02 'Babylonia' Quartermaster",
+        "Title": "1 per day for 7 days",
+        "Content": "Dear Commandant, here are your [Fallen] Serum Weekly Pass rewards. You will receive one reward per day over 7 days.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            140000030,
+            140000031,
+            140000032,
+            140000033
+        ]
+    },
+    {
+        "Id": 14000004,
+        "SendName": "PGR Team",
+        "Title": "Questionnaire Rewards",
+        "Content": "Dear Commandant,<br><br>Thank you for filling the Official Launch Questionnaire. Hereby we send you the participation rewards - Black Cards *150, which are attached to this mail. We apologize for the delay in rewards due to specific reasons and hope you can understand.<br>Again, Thanks for your support and love for Punishing: Gray Raven!",
+        "ValidTime": 604800,
+        "RewardIds": []
+    }
+]

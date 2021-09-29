@@ -1,0 +1,272 @@
+[
+    {
+        "Id": 903901,
+        "Name": "毒龙钻戳刺",
+        "CastTime": 1.35,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903902,
+        "Name": "毒龙钻横扫",
+        "CastTime": 1.35,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903903,
+        "Name": "毒龙钻踩踏",
+        "CastTime": 1.95,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903904,
+        "Name": "毒龙钻猛踹",
+        "CastTime": 1.45,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903905,
+        "Name": "毒龙钻跳跃",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903906,
+        "Name": "boss瘫痪前摇",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "StraightBefore",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903907,
+        "Name": "boss瘫痪中",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Straight",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903908,
+        "Name": "boss瘫痪结束",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "StraightAfter",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821301,
+        "Name": "电球召唤物大角度",
+        "CastTime": 2.35,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821302,
+        "Name": "电球召唤物中角度",
+        "CastTime": 2.35,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821303,
+        "Name": "电球召唤物小角度",
+        "CastTime": 2.35,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821304,
+        "Name": "电球召唤物垂直",
+        "CastTime": 1.85,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821305,
+        "Name": "电球召唤物激光",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Run",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821501,
+        "Name": "散弹枪",
+        "CastTime": 1.55,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821502,
+        "Name": "エネルギー砲",
+        "CastTime": 1.65,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821503,
+        "Name": "スキャターショット",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821504,
+        "Name": "喷射后退",
+        "CastTime": 1.55,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821505,
+        "Name": "召唤自爆虫",
+        "CastTime": 3.35,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821506,
+        "Name": "激光速射",
+        "CastTime": 1.7,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821507,
+        "Name": "跳跃隐藏模型",
+        "CastTime": 2.45,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821508,
+        "Name": "落地显示模型",
+        "CastTime": 1.2,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821509,
+        "Name": "阶段切换表演",
+        "CastTime": 4.85,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821510,
+        "Name": "烈焰起跳",
+        "CastTime": 1.25,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 3,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 821511,
+        "Name": "开始喷火",
+        "CastTime": 1.15,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 821512,
+        "Name": "转身小跳",
+        "CastTime": 0.85,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 821513,
+        "Name": "烈焰散弹枪",
+        "CastTime": 1.55,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201401,
+        "Name": "毒龙钻横扫普攻之一（红）",
+        "CastTime": 1.5,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    }
+]

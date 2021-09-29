@@ -1,0 +1,58 @@
+[
+    {
+        "ErrCode": 1,
+        "Msg": "Server is not yet available"
+    },
+    {
+        "ErrCode": 2,
+        "Msg": "Registration closed"
+    },
+    {
+        "ErrCode": 3,
+        "Msg": "Registration has reached the limit"
+    },
+    {
+        "ErrCode": 4,
+        "Msg": "Login verification failed"
+    },
+    {
+        "ErrCode": 5,
+        "Msg": "Login verification connection failed"
+    },
+    {
+        "ErrCode": 6,
+        "Msg": "Invalid user ID"
+    },
+    {
+        "ErrCode": 7,
+        "Msg": "Invalid login"
+    },
+    {
+        "ErrCode": 8,
+        "Msg": "Server is not yet available, please try again later."
+    },
+    {
+        "ErrCode": 9,
+        "Msg": "Server is full, please try again later."
+    },
+    {
+        "ErrCode": 10,
+        "Msg": "Internal server error, please try again later."
+    },
+    {
+        "ErrCode": 11,
+        "Msg": "Your account has been suspended for inappropriate behavior. Remaining time: %s. Suspension will be prolonged next time."
+    },
+    {
+        "ErrCode": 12,
+        "Msg": "Your account has been suspended for inappropriate behavior. Remaining time: %s. Suspension will be prolonged to 365 days next time."
+    },
+    {
+        "ErrCode": 13,
+        "Msg": "Invalid login"
+    },
+    {
+        "ErrCode": 14,
+        "Msg": "Login server error, please contact with CS via Wechat."
+    }
+]

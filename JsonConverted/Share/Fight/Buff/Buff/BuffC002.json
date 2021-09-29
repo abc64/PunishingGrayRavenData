@@ -1,0 +1,651 @@
+[
+    {
+        "Id": 720001,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200010,
+        "Magic": 720001000
+    },
+    {
+        "Id": 720002,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200020,
+        "Magic": 720002000
+    },
+    {
+        "Id": 720003,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200030,
+        "Magic": 720003000
+    },
+    {
+        "Id": 720004,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200040,
+        "Magic": 720004000
+    },
+    {
+        "Id": 720005,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200050,
+        "Magic": 720005000
+    },
+    {
+        "Id": 720006,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200060,
+        "Magic": 720006000
+    },
+    {
+        "Id": 720007,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200070,
+        "Magic": 720007000
+    },
+    {
+        "Id": 720008,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200080,
+        "Effect": "FxFaxianQianxing",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 720009,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7200090,
+        "Magic": 720009000
+    },
+    {
+        "Id": 720010,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200100,
+        "Magic": 720010000
+    },
+    {
+        "Id": 720011,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200110,
+        "Magic": 720011000
+    },
+    {
+        "Id": 720012,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200120,
+        "Magic": 720012000
+    },
+    {
+        "Id": 720013,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200130,
+        "Magic": 720013000
+    },
+    {
+        "Id": 720014,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200140,
+        "Magic": 720014000
+    },
+    {
+        "Id": 720015,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200150,
+        "Magic": 720015000
+    },
+    {
+        "Id": 720016,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200160,
+        "Magic": 720016000
+    },
+    {
+        "Id": 720017,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7200170|7200173",
+        "Magic": 720017000
+    },
+    {
+        "Id": 720018,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200180,
+        "Cover": "7200160|7200170"
+    },
+    {
+        "Id": 720020,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200200,
+        "Magic": 720020000
+    },
+    {
+        "Id": 720021,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7200210|7200213",
+        "Cover": 1000410,
+        "Mutex": 1000410,
+        "Magic": 720021000
+    },
+    {
+        "Id": 720022,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7200220|7200223",
+        "Magic": 720022000
+    },
+    {
+        "Id": 720023,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7200230|7200233",
+        "Magic": 720023000
+    },
+    {
+        "Id": 720024,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200240,
+        "Cover": "7200210|7200230|7200220"
+    },
+    {
+        "Id": 720025,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200250,
+        "Effect": "FxCizhuiBilei",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 720026,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200260,
+        "Effect": "FxEquipHudun",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 720027,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200270,
+        "Cover": "7200250|7200260",
+        "Effect": "FxCizhuiBileiShouji",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 720028,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200280,
+        "Magic": 720028000
+    },
+    {
+        "Id": 720029,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200290,
+        "Magic": 720029000
+    },
+    {
+        "Id": 720030,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200300,
+        "Cover": "7200220|7200230|7200160|9707060|7200290|7200390|7200400",
+        "Mutex": "7200220|7200230|7200160|9707060|7200290|7200390|7200400"
+    },
+    {
+        "Id": 720031,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200310,
+        "Magic": 720031000
+    },
+    {
+        "Id": 720032,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200320,
+        "Magic": 720032000
+    },
+    {
+        "Id": 720033,
+        "Delay": 0,
+        "Duration": 8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200330,
+        "Magic": 720033000
+    },
+    {
+        "Id": 720034,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200340,
+        "Magic": 720034000
+    },
+    {
+        "Id": 720035,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200350,
+        "Magic": 720035000
+    },
+    {
+        "Id": 720036,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200360,
+        "Cover": "7200340|7200350",
+        "Mutex": "7200340|7200350"
+    },
+    {
+        "Id": 720037,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200370,
+        "Cover": 7200070,
+        "Mutex": 7200070
+    },
+    {
+        "Id": 720038,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7200380,
+        "Magic": 720038000
+    },
+    {
+        "Id": 720039,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200390,
+        "Magic": 720039000
+    },
+    {
+        "Id": 720040,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200400,
+        "Magic": 720040000
+    },
+    {
+        "Id": 720041,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200410,
+        "Magic": 720041000
+    },
+    {
+        "Id": 720042,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7200420,
+        "Magic": 720042000
+    },
+    {
+        "Id": 720101,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7201010|4",
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 720101000
+    },
+    {
+        "Id": 720102,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7201020|4",
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 720102000
+    },
+    {
+        "Id": 720201,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202010,
+        "Magic": 720201000
+    },
+    {
+        "Id": 720202,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202020,
+        "Magic": 720202000
+    },
+    {
+        "Id": 720203,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202030,
+        "Magic": 720203000
+    },
+    {
+        "Id": 720204,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7202040,
+        "Magic": 720204000
+    },
+    {
+        "Id": 720205,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202050,
+        "Magic": 720205000
+    },
+    {
+        "Id": 720206,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202060,
+        "Magic": 720206000
+    },
+    {
+        "Id": 720207,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202070,
+        "Magic": 720207000
+    },
+    {
+        "Id": 720208,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202080
+    },
+    {
+        "Id": 720209,
+        "Delay": 1,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202090,
+        "Magic": 720209000
+    },
+    {
+        "Id": 720210,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202100,
+        "Magic": 720210000
+    },
+    {
+        "Id": 720211,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202110,
+        "Magic": 720211000
+    },
+    {
+        "Id": 720212,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202120,
+        "Magic": 720212000
+    },
+    {
+        "Id": 720213,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202130,
+        "Magic": 720213000
+    },
+    {
+        "Id": 720214,
+        "Delay": 1,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202140,
+        "Cover": 7202090,
+        "Mutex": 7202090,
+        "Magic": 720214000
+    },
+    {
+        "Id": 720215,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202150,
+        "Magic": 720215000
+    },
+    {
+        "Id": 720216,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202160,
+        "Magic": 720216000
+    },
+    {
+        "Id": 720217,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202170,
+        "Magic": 720217000
+    },
+    {
+        "Id": 720218,
+        "Delay": 0.7,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202180,
+        "Magic": 720218000
+    },
+    {
+        "Id": 720220,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202200,
+        "Magic": 720220000
+    },
+    {
+        "Id": 720221,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7202210,
+        "Magic": 720221000
+    },
+    {
+        "Id": 720301,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7203010|4",
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 720301000
+    },
+    {
+        "Id": 720302,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7203020|4",
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 720302000
+    },
+    {
+        "Id": 720303,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7203030,
+        "Magic": 720303000
+    },
+    {
+        "Id": 720304,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7203040,
+        "Magic": 720304000
+    },
+    {
+        "Id": 720305,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7203050,
+        "Magic": 720305000
+    },
+    {
+        "Id": 720306,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7203060,
+        "Magic": 720306000
+    },
+    {
+        "Id": 720307,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7203070,
+        "Magic": 720307000
+    }
+]

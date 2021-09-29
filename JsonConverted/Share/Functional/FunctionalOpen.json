@@ -1,0 +1,922 @@
+[
+    {
+        "Id": 1,
+        "Name": "Target",
+        "Priority": 1,
+        "Hint": 1,
+        "Condition": [
+            770100
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 2,
+        "Name": "Reserve",
+        "Priority": 2,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 3,
+        "Name": "Recharge",
+        "Priority": 3,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 4,
+        "Name": "Settings",
+        "Priority": 4,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 5,
+        "Name": "Sign-in",
+        "Priority": 4,
+        "Hint": 0,
+        "Condition": [
+            770200
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 6,
+        "Name": "Feedback",
+        "Priority": 6,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 7,
+        "Name": "Reward",
+        "Priority": 5,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 8,
+        "Name": "Gift Code",
+        "Priority": 6,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 101,
+        "Name": "Construct",
+        "Priority": 7,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 102,
+        "Name": "Construct - Promote",
+        "Priority": 8,
+        "Hint": 1,
+        "Condition": [
+            770300
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 103,
+        "Name": "Construct - Evolve",
+        "Priority": 9,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 104,
+        "Name": "Construct - Skill",
+        "Priority": 10,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 201,
+        "Name": "Equip",
+        "Priority": 11,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 202,
+        "Name": "Equipment - Enhance",
+        "Priority": 12,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 203,
+        "Name": "Equipment - Resonance",
+        "Priority": 13,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 204,
+        "Name": "Gear - Quick Enhance",
+        "Priority": 14,
+        "Hint": 1,
+        "Condition": [
+            770400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 301,
+        "Name": "Warehouse",
+        "Priority": 15,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 401,
+        "Name": "Research",
+        "Priority": 16,
+        "Hint": 1,
+        "Condition": [
+            770400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 402,
+        "Name": "Research - Equipment",
+        "Priority": 17,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 403,
+        "Name": "Research - Event",
+        "Priority": 17,
+        "Hint": 1,
+        "Condition": [
+            772270
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 501,
+        "Name": "Mission",
+        "Priority": 18,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 502,
+        "Name": "Mission - Story",
+        "Priority": 19,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 503,
+        "Name": "Mission - Daily",
+        "Priority": 20,
+        "Hint": 1,
+        "Condition": [
+            770500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 504,
+        "Name": "Mission - Event",
+        "Priority": 21,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 505,
+        "Name": "Mission - Weekly",
+        "Priority": 22,
+        "Hint": 1,
+        "Condition": [
+            770500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 601,
+        "Name": "Team",
+        "Priority": 23,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 602,
+        "Name": "Team - Mark",
+        "Priority": 24,
+        "Hint": 0,
+        "Condition": [
+            770600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 603,
+        "Name": "Team - Achievement",
+        "Priority": 25,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 701,
+        "Name": "Mail",
+        "Priority": 26,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 801,
+        "Name": "Friends",
+        "Priority": 27,
+        "Hint": 0,
+        "Condition": [
+            770700
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 802,
+        "Name": "Chat Channel",
+        "Priority": 28,
+        "Hint": 0,
+        "Condition": [
+            770700
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 901,
+        "Name": "Foundations - Floor Equipment",
+        "Priority": 29,
+        "Hint": 0,
+        "Condition": [
+            770800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 902,
+        "Name": "Dormitory",
+        "Priority": 30,
+        "Hint": 1,
+        "Condition": [
+            770900
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1001,
+        "Name": "Regular Shop",
+        "Priority": 31,
+        "Hint": 1,
+        "Condition": [
+            771000
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1002,
+        "Name": "Event Shop",
+        "Priority": 37,
+        "Hint": 1,
+        "Condition": [
+            771100
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1201,
+        "Name": "Dispatch",
+        "Priority": 38,
+        "Hint": 0,
+        "Condition": [
+            771200
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 2001,
+        "Name": "Support",
+        "Priority": 39,
+        "Hint": 1,
+        "Condition": [
+            771300
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10101,
+        "Name": "Normal Story",
+        "Priority": 40,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10102,
+        "Name": "Hidden Story",
+        "Priority": 41,
+        "Hint": 1,
+        "Condition": [
+            771400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10103,
+        "Name": "Stronghold",
+        "Priority": 35,
+        "Hint": 1,
+        "Condition": [
+            771500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10201,
+        "Name": "Challenge Stage",
+        "Priority": 35,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10202,
+        "Name": "Challenge - Lemegeton",
+        "Priority": 35,
+        "Hint": 0,
+        "Condition": [
+            771600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10203,
+        "Name": "Challenge - Phantom Pain Cage",
+        "Priority": 35,
+        "Hint": 1,
+        "Condition": [
+            771700
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10204,
+        "Name": "Challenge - War Zone",
+        "Priority": 43,
+        "Hint": 1,
+        "Condition": [
+            771800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10300,
+        "Name": "Event Info",
+        "Priority": 44,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10301,
+        "Name": "Event Quest",
+        "Priority": 44,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10302,
+        "Name": "Co-op",
+        "Priority": 44,
+        "Hint": 1,
+        "Condition": [
+            772000
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10303,
+        "Name": "Event [Mass Deterioration]",
+        "Priority": 44,
+        "Hint": 0,
+        "Condition": [
+            772100
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10304,
+        "Name": "Event [Azure Scar]",
+        "Priority": 44,
+        "Hint": 0,
+        "Condition": [
+            772200
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10305,
+        "Name": "Test Area",
+        "Priority": 45,
+        "Hint": 0,
+        "Condition": [
+            772300
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10306,
+        "Name": "Festival Stage",
+        "Priority": 46,
+        "Hint": 0,
+        "Condition": [
+            772250
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10307,
+        "Name": "Babel Tower",
+        "Priority": 47,
+        "Hint": 0,
+        "Condition": [
+            772280
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10308,
+        "Name": "Main Story",
+        "Priority": 48,
+        "Hint": 0,
+        "Condition": [
+            772260
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10401,
+        "Name": "Resource Mission",
+        "Priority": 33,
+        "Hint": 0,
+        "Condition": [
+            772400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10402,
+        "Name": "Resource - N/A 1",
+        "Priority": 34,
+        "Hint": 0,
+        "Condition": [
+            772500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10403,
+        "Name": "Resource - N/A 2",
+        "Priority": 36,
+        "Hint": 0,
+        "Condition": [
+            772600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10404,
+        "Name": "Resource - N/A 3",
+        "Priority": 37,
+        "Hint": 0,
+        "Condition": [
+            772700
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10406,
+        "Name": "Resource - Special Training",
+        "Priority": 38,
+        "Hint": 1,
+        "Condition": [
+            772800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10407,
+        "Name": "Resource - Combat Supply",
+        "Priority": 39,
+        "Hint": 1,
+        "Condition": [
+            772900
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10408,
+        "Name": "Resource - Military Hardware",
+        "Priority": 40,
+        "Hint": 1,
+        "Condition": [
+            773000
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10409,
+        "Name": "Resource - Logistics Maintenance",
+        "Priority": 41,
+        "Hint": 1,
+        "Condition": [
+            773100
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10410,
+        "Name": "Resource - Cogs Galore",
+        "Priority": 42,
+        "Hint": 1,
+        "Condition": [
+            773200
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10411,
+        "Name": "Resource - Battle Exercise",
+        "Priority": 46,
+        "Hint": 1,
+        "Condition": [
+            773300
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1301,
+        "Name": "Bounty Mission",
+        "Priority": 47,
+        "Hint": 1,
+        "Condition": [
+            773400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1400,
+        "Name": "Affection",
+        "Priority": 48,
+        "Hint": 0,
+        "Condition": [
+            773500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1401,
+        "Name": "Affection - File",
+        "Priority": 49,
+        "Hint": 0,
+        "Condition": [
+            773600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1402,
+        "Name": "Affection - Story",
+        "Priority": 50,
+        "Hint": 0,
+        "Condition": [
+            773700
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1403,
+        "Name": "Affection - Gift",
+        "Priority": 51,
+        "Hint": 0,
+        "Condition": [
+            773800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1404,
+        "Name": "Affection - Encounter",
+        "Priority": 52,
+        "Hint": 0,
+        "Condition": [
+            773900
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1501,
+        "Name": "Customize Control",
+        "Priority": 46,
+        "Hint": 0,
+        "Condition": [
+            774000
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1601,
+        "Name": "Memory Rescue",
+        "Priority": 53,
+        "Hint": 1,
+        "Condition": [
+            774100
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1701,
+        "Name": "Interlude",
+        "Priority": 35,
+        "Hint": 1,
+        "Condition": [
+            774200
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10405,
+        "Name": "Golden Vortex",
+        "Priority": 54,
+        "Hint": 1,
+        "Condition": [
+            774300
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 105,
+        "Name": "Construct Army",
+        "Priority": 55,
+        "Hint": 1,
+        "Condition": [
+            774400
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 1800,
+        "Name": "Celica's Class",
+        "Priority": 80,
+        "Hint": 1,
+        "Condition": [
+            774500
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 109001,
+        "Name": "Special Training RS-2",
+        "Priority": 81,
+        "Hint": 1,
+        "Condition": [
+            9001
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109002,
+        "Name": "Special Training RS-3",
+        "Priority": 82,
+        "Hint": 1,
+        "Condition": [
+            9002
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109003,
+        "Name": "Special Training RS-4",
+        "Priority": 83,
+        "Hint": 1,
+        "Condition": [
+            9003
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109101,
+        "Name": "Combat Supply AE-2",
+        "Priority": 84,
+        "Hint": 1,
+        "Condition": [
+            9101
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109102,
+        "Name": "Combat Supply AE-3",
+        "Priority": 85,
+        "Hint": 1,
+        "Condition": [
+            9102
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109103,
+        "Name": "Combat Supply AE-4",
+        "Priority": 86,
+        "Hint": 1,
+        "Condition": [
+            9002
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109201,
+        "Name": "Military Hardware AB-2",
+        "Priority": 87,
+        "Hint": 1,
+        "Condition": [
+            9201
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109202,
+        "Name": "Military Hardware AB-3",
+        "Priority": 88,
+        "Hint": 1,
+        "Condition": [
+            9202
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109203,
+        "Name": "Military Hardware AB-4",
+        "Priority": 89,
+        "Hint": 1,
+        "Condition": [
+            9203
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109301,
+        "Name": "Logistics Maintenance LM-2",
+        "Priority": 90,
+        "Hint": 1,
+        "Condition": [
+            9101
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109302,
+        "Name": "Logistics Maintenance LM-3",
+        "Priority": 91,
+        "Hint": 1,
+        "Condition": [
+            9102
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109303,
+        "Name": "Logistics Maintenance LM-4",
+        "Priority": 92,
+        "Hint": 1,
+        "Condition": [
+            9103
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109401,
+        "Name": "Cogs Galore NF-2",
+        "Priority": 93,
+        "Hint": 1,
+        "Condition": [
+            9401
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109402,
+        "Name": "Cogs Galore NF-3",
+        "Priority": 94,
+        "Hint": 1,
+        "Condition": [
+            9402
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109403,
+        "Name": "Cogs Galore NF-4",
+        "Priority": 95,
+        "Hint": 1,
+        "Condition": [
+            9403
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109501,
+        "Name": "Battle Exercise BE-2",
+        "Priority": 96,
+        "Hint": 1,
+        "Condition": [
+            9401
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109502,
+        "Name": "Battle Exercise BE-3",
+        "Priority": 97,
+        "Hint": 1,
+        "Condition": [
+            9402
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 109503,
+        "Name": "Battle Exercise BE-4",
+        "Priority": 98,
+        "Hint": 1,
+        "Condition": [
+            9403
+        ],
+        "Type": 2
+    },
+    {
+        "Id": 2100,
+        "Name": "Collection",
+        "Priority": 99,
+        "Hint": 1,
+        "Condition": [
+            774600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 2101,
+        "Name": "Medal List",
+        "Priority": 100,
+        "Hint": 1,
+        "Condition": [
+            774600
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 3000,
+        "Name": "Total Recharge",
+        "Priority": 101,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 4000,
+        "Name": "Straylight Terminal",
+        "Priority": 102,
+        "Hint": 0,
+        "Condition": [
+            30404
+        ],
+        "Type": 1
+    }
+]

@@ -1,0 +1,1046 @@
+[
+    {
+        "Id": 99950001,
+        "Behavior": 99950001,
+        "Name": "传送--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950002,
+        "Behavior": 99950002,
+        "Name": "利爪--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950003,
+        "Behavior": 99950003,
+        "Name": "囚徒--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 10,
+        "Terrains": [
+            999500030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950004,
+        "Behavior": 99950004,
+        "Name": "弓箭手--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 10,
+        "Terrains": [
+            999500040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950005,
+        "Behavior": 99950005,
+        "Name": "金币本--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 14,
+        "CameraId": 9,
+        "Terrains": [
+            999500050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950006,
+        "Behavior": 99950006,
+        "Name": "技能本--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950008,
+        "Behavior": 99950008,
+        "Name": "构造体--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950009,
+        "Behavior": 99950009,
+        "Name": "长矛手--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950010,
+        "Behavior": 99950010,
+        "Name": "激光原虫--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950011,
+        "Behavior": 99950011,
+        "Name": "沙虫-受击特效展示",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950012,
+        "Behavior": 99950012,
+        "Name": "沙虫-根部沙石出现",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950013,
+        "Behavior": 99950013,
+        "Name": "沙虫-根部沙石循环",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950014,
+        "Behavior": 99950014,
+        "Name": "沙虫-根部沙石结束",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950015,
+        "Behavior": 99950015,
+        "Name": "沙虫-出生特效",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500150
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950016,
+        "Behavior": 99950016,
+        "Name": "沙虫-常驻头部特效",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500160
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950017,
+        "Behavior": 99950017,
+        "Name": "沙虫-常驻头部特效2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500170
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950018,
+        "Behavior": 99950018,
+        "Name": "修女--测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500180
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950019,
+        "Behavior": 99950019,
+        "Name": "飞机大战场景",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            999500190
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950020,
+        "Behavior": 99950020,
+        "Name": "飞机大战操控",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500200
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950021,
+        "Behavior": 99950021,
+        "Name": "飞机大战敌人生成",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            999500210
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950022,
+        "Behavior": 99950022,
+        "Name": "初号机屠夫",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500220
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950023,
+        "Behavior": 99950023,
+        "Name": "视频录制",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            999500230
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950024,
+        "Behavior": 99950024,
+        "Name": "视频录制",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 21,
+        "CameraId": 9,
+        "Terrains": [
+            999500240
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950025,
+        "Behavior": 99950025,
+        "Name": "飞机大战测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            999500250
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950026,
+        "Behavior": 99950026,
+        "Name": "飞机大战测试关卡-2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 38,
+        "CameraId": 9,
+        "Terrains": [
+            999500260
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950027,
+        "Behavior": 99950027,
+        "Name": "第五章测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 19,
+        "CameraId": 9,
+        "Terrains": [
+            999500270
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950028,
+        "Behavior": 99950028,
+        "Name": "第五章测试-2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500280
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950029,
+        "Behavior": 99950029,
+        "Name": "第五章测试-3",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 18,
+        "CameraId": 9,
+        "Terrains": [
+            999500290
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950030,
+        "Behavior": 99950030,
+        "Name": "金币本-测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500300
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950031,
+        "Behavior": 99950031,
+        "Name": "乱选测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500310
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950032,
+        "Behavior": 99950032,
+        "Name": "视频录制-圣诞",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 9,
+        "CameraId": 9,
+        "Terrains": [
+            999500320
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950033,
+        "Behavior": 99950033,
+        "Name": "运营视频-角色技能静止",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 15,
+        "CameraId": 9,
+        "Terrains": [
+            999500330
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950034,
+        "Behavior": 99950034,
+        "Name": "运营视频-露西亚意识海",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500340
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950035,
+        "Behavior": 99950035,
+        "Name": "运营视频-角色近距离特写",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 15,
+        "CameraId": 9,
+        "Terrains": [
+            999500350
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950036,
+        "Behavior": 99950036,
+        "Name": "运营视频-角色测方向技能展示",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 15,
+        "CameraId": 9,
+        "Terrains": [
+            999500360
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950037,
+        "Behavior": 99950037,
+        "Name": "运营视频-正面拉远视角",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 15,
+        "CameraId": 9,
+        "Terrains": [
+            999500370
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950038,
+        "Behavior": 99950038,
+        "Name": "运营视频-公测PV",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 16,
+        "CameraId": 10,
+        "Terrains": [
+            999500380
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950039,
+        "Behavior": 99950039,
+        "Name": "运营视频-蚀暗-侧方向镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 7,
+        "CameraId": 9,
+        "Terrains": [
+            999500390
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950040,
+        "Behavior": 99950040,
+        "Name": "运营视频-蚀暗-正面镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 7,
+        "CameraId": 9,
+        "Terrains": [
+            999500400
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950041,
+        "Behavior": 99950041,
+        "Name": "运营视频-仰光-侧方向镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500410
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950042,
+        "Behavior": 99950042,
+        "Name": "运营视频-仰光-正面镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500420
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950043,
+        "Behavior": 99950043,
+        "Name": "运营视频-七实脉冲-灰羽-侧方向镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500430
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950044,
+        "Behavior": 99950044,
+        "Name": "运营视频-七实脉冲-灰羽-正面镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500440
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950045,
+        "Behavior": 99950045,
+        "Name": "运营视频-里乱数-侧方向镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500450
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950046,
+        "Behavior": 99950046,
+        "Name": "运营视频-里乱数-正面镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500460
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950047,
+        "Behavior": 99950047,
+        "Name": "运营视频-七实脉冲-辉煌流星-侧方向镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500470
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950048,
+        "Behavior": 99950048,
+        "Name": "运营视频-七实脉冲-辉煌流星-正面镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500480
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950049,
+        "Behavior": 99950049,
+        "Name": "运营视频-教堂空场景",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500490
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950050,
+        "Behavior": 99950050,
+        "Name": "运营视频-桥上战斗1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500500
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950051,
+        "Behavior": 99950051,
+        "Name": "运营视频-桥上战斗2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 4,
+        "CameraId": 9,
+        "Terrains": [
+            999500510
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950052,
+        "Behavior": 99950052,
+        "Name": "罗塞塔视频-地裂斩",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 39,
+        "CameraId": 10,
+        "Terrains": [
+            999500520
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950053,
+        "Behavior": 99950053,
+        "Name": "罗塞塔视频-虚空突刺",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 39,
+        "CameraId": 10,
+        "Terrains": [
+            999500530
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950054,
+        "Behavior": 99950054,
+        "Name": "罗塞塔视频-十字斩",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 39,
+        "CameraId": 10,
+        "Terrains": [
+            999500540
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950055,
+        "Behavior": 99950055,
+        "Name": "卡穆不动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 15,
+        "CameraId": 10,
+        "Terrains": [
+            999500550
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950056,
+        "Behavior": 99950056,
+        "Name": "运营视频-怪物不动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500560
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950057,
+        "Behavior": 99950057,
+        "Name": "运营视频-怪物可动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999500570
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950058,
+        "Behavior": 99950058,
+        "Name": "运营视频-怪物不动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500580
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99950059,
+        "Behavior": 99950059,
+        "Name": "运营视频-怪物可动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            999500590
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

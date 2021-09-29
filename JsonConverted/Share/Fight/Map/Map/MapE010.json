@@ -1,0 +1,668 @@
+[
+    {
+        "Id": 30100101,
+        "Behavior": 30100101,
+        "Name": "教学关-基础闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301001010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100102,
+        "Behavior": 30100102,
+        "Name": "教学关-闪避过热",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301001020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100103,
+        "Behavior": 30100103,
+        "Name": "教学关-全新闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 19,
+        "CameraId": 9,
+        "Terrains": [
+            301001030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100201,
+        "Behavior": 30100201,
+        "Name": "教学关-极限闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301002010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100202,
+        "Behavior": 30100202,
+        "Name": "教学关-极限闪避下三消",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301002020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100203,
+        "Behavior": 30100203,
+        "Name": "教学关-全新极限闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 5,
+        "CameraId": 10,
+        "Terrains": [
+            301002030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100301,
+        "Behavior": 30100301,
+        "Name": "教学关-换人闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301003010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100302,
+        "Behavior": 30100302,
+        "Name": "教学关-换人闪避下超算空间",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301003020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100303,
+        "Behavior": 30100303,
+        "Name": "教学关-全新换人闪避",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 26,
+        "CameraId": 10,
+        "Terrains": [
+            301003030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100401,
+        "Behavior": 30100401,
+        "Name": "教学关-攻击获得技能球",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301004010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100501,
+        "Behavior": 30100501,
+        "Name": "教学关-三消基础教学",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301005010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100502,
+        "Behavior": 30100502,
+        "Name": "教学关-QTE教学",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301005020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100701,
+        "Behavior": 30100701,
+        "Name": "展示关-进攻型角色",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301007010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100702,
+        "Behavior": 30100702,
+        "Name": "展示关-辅助型角色",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301007020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100703,
+        "Behavior": 30100703,
+        "Name": "展示关-装甲型角色",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 9,
+        "Terrains": [
+            301007030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100503,
+        "Behavior": 30100503,
+        "Name": "教学关-QTE综合",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 10,
+        "Terrains": [
+            301005030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100504,
+        "Behavior": 30100504,
+        "Name": "教学关-消球综合",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            301005040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100704,
+        "Behavior": 30100704,
+        "Name": "展示关-全类型展示",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301007040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100513,
+        "Behavior": 30100513,
+        "Name": "教学关-QTE综合-调整",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 10,
+        "Terrains": [
+            301005130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100801,
+        "Behavior": 30100801,
+        "Name": "角色教学-露西亚-红莲双刀术",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100802,
+        "Behavior": 30100802,
+        "Name": "角色教学-丽芙-核心激光",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100803,
+        "Behavior": 30100803,
+        "Name": "角色教学-七实-EX切割风暴",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100804,
+        "Behavior": 30100804,
+        "Name": "角色教学-里-控弹",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100805,
+        "Behavior": 30100805,
+        "Name": "角色教学-卡列-爆裂模式",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100806,
+        "Behavior": 30100806,
+        "Name": "角色教学-比安卡-饶恕箭筒",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100807,
+        "Behavior": 30100807,
+        "Name": "角色教学-渡边-疾驰幻影",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100808,
+        "Behavior": 30100808,
+        "Name": "角色教学-神威-攻防律动",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100809,
+        "Behavior": 30100809,
+        "Name": "角色教学-二阶露西亚-红莲引雷舞",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100810,
+        "Behavior": 30100810,
+        "Name": "角色教学-二阶丽芙-逆白鹭领域",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100811,
+        "Behavior": 30100811,
+        "Name": "角色教学-三阶神威-战意",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100812,
+        "Behavior": 30100812,
+        "Name": "角色教学-三阶丽芙-女神连接系统",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100813,
+        "Behavior": 30100813,
+        "Name": "角色教学-三阶里-空间领主",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100814,
+        "Behavior": 30100814,
+        "Name": "角色教学-三阶卡列-热能武装",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100815,
+        "Behavior": 30100815,
+        "Name": "角色教学-三阶七实-超频共振",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008150
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100816,
+        "Behavior": 30100816,
+        "Name": "角色教学-三阶露西亚-赤渊-刀光意",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008160
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100817,
+        "Behavior": 30100817,
+        "Name": "角色教学-艾拉",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008170
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30100818,
+        "Behavior": 30100818,
+        "Name": "角色教学-三阶渡边",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 3,
+        "CameraId": 10,
+        "Terrains": [
+            301008180
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

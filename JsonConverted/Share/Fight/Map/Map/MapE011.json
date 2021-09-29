@@ -1,0 +1,150 @@
+[
+    {
+        "Id": 30110101,
+        "Behavior": 30110101,
+        "Name": "α角鲸上的战斗（角鲸在海上）",
+        "Environment": "SceneDLC00102",
+        "TerrainRoot": "Test001",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 44,
+        "CameraId": 9,
+        "Terrains": [
+            301101010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110104,
+        "Behavior": 30110104,
+        "Name": "防守目标点（港口）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 31,
+        "CameraId": 9,
+        "Terrains": [
+            301101040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110105,
+        "Behavior": 30110105,
+        "Name": "α打怪（角鲸在海上）",
+        "Environment": "SceneDLC00102",
+        "TerrainRoot": "Test001",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 44,
+        "CameraId": 9,
+        "Terrains": [
+            301101050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110106,
+        "Behavior": 30110106,
+        "Name": "α打罗塞塔（港口）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 31,
+        "CameraId": 10,
+        "Terrains": [
+            301101060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110108,
+        "Behavior": 30110108,
+        "Name": "α打罗塞塔（浮冰）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 31,
+        "CameraId": 10,
+        "Terrains": [
+            301101080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110110,
+        "Behavior": 30110110,
+        "Name": "α打灰鸦（港口）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 31,
+        "CameraId": 9,
+        "Terrains": [
+            301101100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110111,
+        "Behavior": 30110111,
+        "Name": "α打二阶露西亚（浮冰）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 39,
+        "CameraId": 9,
+        "Terrains": [
+            301101110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30110112,
+        "Behavior": 30110112,
+        "Name": "α打罗塞塔（浮冰）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 39,
+        "CameraId": 10,
+        "Terrains": [
+            301101120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

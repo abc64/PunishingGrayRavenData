@@ -1,0 +1,1348 @@
+Id	Type	Params[1]	Params[2]	Params[3]	Params[4]	Params[5]	Params[6]	Params[7]	Params[8]	Params[9]	Params[10]	Params[11]	Params[12]	Params[13]	Desc
+1	13102	1													Construct is Armor type
+2	13102	2													Construct is Vanguard type
+3	13102	3													Construct is Bio type
+4	13102	1	2	3											All Constructs
+5	10107	50													Commandant Level below 50
+6	10107	40													Commandant Level below 40
+7	10105	10030202													Complete Normal Story 3-6
+8	10105	10050202													Complete Normal Story 5-6
+301	10102	1011002													Own Construct Lee: Palefire
+302	10102	1021001													Own Construct Lucia: Lotus
+303	10102	1031001													Own Construct Liv: Eclipse
+304	10102	1041002													Own Construct Bianca: Zero
+305	10102	1051001													Own Construct Nanami: Storm
+306	10102	1061002													Own Construct Kamui: Bastion
+307	10102	1071002													Own Construct Karenina: Blast
+308	10102	1081002													Own Construct Watanabe: Nightblade
+309	10102	1021002													Own Construct Lucia: Dawn
+310	10102	1031002													Own Construct Liv: Core
+311	10102	1061003													Own Construct Kamui: Tenebrion
+312	10102	1031003													Own Construct Liv: Luminance
+313	10102	1071003													Own Construct Karenina: Ember
+314	10102	1011003													Own Construct Lee: Entropy
+315	10102	1051003													Own Construct Nanami: Pulse
+316	10102	1021003													Own Construct Lucia: Crimson Abyss
+317	10102	1081003													Own Construct Watanabe: Astral
+318	10102	1091002													Own Construct Ayla: Brilliance
+401	11105	6210204													Coating owned
+7001	10105	13010116													Complete all Lucia Interludes
+7002	10105	13010216													Complete all Liv Interludes
+7003	10105	13010315													Complete all Nanami Interludes
+7004	10105	13010415													Complete all Lee Interludes
+7005	10105	13010516													Complete all Karenina Interludes
+7006	10105	13010615													Complete all Watanabe Interludes
+7007	10105	13010716													Complete all Bianca Interludes
+7008	10105	13010815													Complete all Kamui Interludes
+8000	10101	25													Reach Commandant Level 25
+8001	10101	35													Reach Commandant Level 35
+8002	10101	45													Reach Commandant Level 45
+8003	10101	55													Reach Commandant Level 55
+10001	10101	1													Requires Commandant Lv.50
+10002	11101	1	999												Requires 999 items
+10003	10102	1021001													Requires specific Construct
+10005	10103	1													Number of Constructs obtained, Parameter: Quantity
+10006	13101	1													Construct Gender, Parameter: Gender
+10007	13102	1													Construct Type, Parameter: Type
+10010	18101	1													Male Constructs only
+10011	18102	3	1												No Vanguard-type Constructs
+1001201	18103	1	1031001												Liv: Eclipse required
+1001202	18103	1	1051001												Nanami: Storm required
+10013	18104	1031001													Cannot deploy Liv
+10014	10101	40													Requires Commandant Lv.40
+10015	10105	10010202													Must complete Stage 5-2
+10016	13103	25													Requires Construct Lv.25
+30001	10101	1													Requires Commandant Lv.1
+30002	20102	1													Must complete Dormitory 1F
+30003	20102	2													Must complete Dormitory 2F
+30101	20101	1	1												Requires Mainframe Lv.1
+30201	20101	2	1												Requires Generator Lv.1
+30202	20101	2	3												Requires Generator Lv.3
+30203	20101	2	5												Requires Generator Lv.5
+30301	20101	3	1												Requires Factory Lv.1
+30302	20101	3	3												Requires Factory Lv.3
+30303	20101	3	5												Requires Factory Lv.5
+30401	10101	2													Requires Commandant Lv.2
+30402	10101	10													Requires Commandant Lv.10
+30403	10101	15													Requires Commandant Lv.15
+30404	10101	20													Requires Commandant Lv.20
+30405	10101	25													Requires Commandant Lv.25
+30406	10101	40													Requires Commandant Lv.40
+100000	10105	10010204													Complete Normal Story 1-8
+100001	10105	10010304													Complete Normal Story 1-12
+100102	10105	10020304													Complete Normal Story 2-12
+100103	10105	11010106													Complete Hidden Story 1-6
+100104	10105	10030304													Complete Normal Story 3-12
+100105	10105	11020106													Complete Hidden Story 2-6
+100106	10105	10040304													Complete Normal Story 4-12
+100107	10105	11030106													Complete Hidden Story 3-6
+100108	10105	10050304													Complete Normal Story 5-12
+100109	10105	11040106													Complete Hidden Story 4-6
+100110	10105	10060304													Complete Normal Story 6-12
+100111	10105	11050106													Complete Hidden Story 5-6
+100112	10105	10070304													Complete Normal Story 7-12
+100113	10105	11060106													Complete Hidden Story 6-6
+100202	10105	10010304													Complete Normal Story 1-12
+100203	10105	10020304													Complete Normal Story 2-12
+100204	10105	10030304													Complete Normal Story 3-12
+100205	10105	10040104													Complete Normal Story 4-4
+100206	10105	10040404													Complete Normal Story 4-16
+100207	10105	10050304													Complete Normal Story 5-12
+100208	10105	10060204													Complete Normal Story 6-8
+100209	10105	10070104													Complete Normal Story 7-4
+100210	10105	10070404													Complete Normal Story 7-16
+100211	10105	10080304													Complete Normal Story 8-12
+100212	10105	11060106													Complete Hidden Story 6-8
+100213	10105	11080106													Complete Hidden Story 8-4
+100302	10105	10020104													Complete Normal Story 2-4
+100303	10105	10020404													Complete Normal Story 2-16
+100304	10105	10030404													Complete Normal Story 3-16
+100305	10105	10040204													Complete Normal Story 4-8
+100306	10105	10050104													Complete Normal Story 5-4
+100307	10105	10050404													Complete Normal Story 5-16
+100308	10105	10060304													Complete Normal Story 6-12
+100309	10105	10070204													Complete Normal Story 7-8
+100310	10105	10080104													Complete Normal Story 8-4
+100311	10105	10080404													Complete Normal Story 8-16
+100312	10105	11060106													Complete Hidden Story 6-8
+100313	10105	11080106													Complete Hidden Story 8-4
+100402	10105	10010404													Complete Normal Story 1-16
+100403	10105	11010106													Complete Hidden Story 1-8
+100404	10105	11010106													Complete Hidden Story 1-16
+100405	10105	11010106													Complete Hidden Story 2-8
+100406	10105	11020106													Complete Hidden Story 2-16
+100407	10105	11030106													Complete Hidden Story 3-8
+100408	10105	11030106													Complete Hidden Story 3-16
+100409	10105	11040106													Complete Hidden Story 4-6
+100410	10105	11040106													Complete Hidden Story 4-16
+100411	10105	11050106													Complete Hidden Story 5-8
+100412	10105	11070106													Complete Hidden Story 7-8
+100413	10105	11080106													Complete Hidden Story 8-16
+100501	10105	10010203													Complete Normal Story 1-7
+109000	13103	2													Construct reaches Lv.2
+110000	13103	10													Construct reaches Lv.10
+110001	13103	20													Construct reaches Lv.20
+110002	13103	30													Construct reaches Lv.30
+110003	13103	40													Construct reaches Lv.40
+110004	13103	45													Construct reaches Lv.45
+110005	13103	50													Construct reaches Lv.50
+110006	13103	55													Construct reaches Lv.55
+110007	13103	60													Construct reaches Lv.60
+110008	13103	65													Construct reaches Lv.65
+110009	13103	70													Construct reaches Lv.70
+110010	13103	75													Construct reaches Lv.75
+110011	13103	80													Construct reaches Lv.80
+200000	10101	200													Not yet available
+200001	10105	12021201													Clear Stronghold Chapter 2
+200002	10105	12050402													Clear Stronghold Chapter 5
+200003	10105	12080402													Clear Stronghold Chapter 8
+200010	10105	12011601													Clear Stronghold Chapter 1
+200011	10105	12021201													Clear Stronghold Chapter 2
+200012	10105	12030802													Clear Stronghold Chapter 3
+200013	10105	12040401													Clear Stronghold Chapter 4
+200014	10105	12050402													Clear Stronghold Chapter 5
+200015	10105	12060402													Clear Stronghold Chapter 6
+200016	10105	12070402													Clear Stronghold Chapter 7
+200017	10105	12080402													Clear Stronghold Chapter 8
+300001	18105	1	2												Have 2 Constructs of the same type in the team
+300002	18106	10	2												Have 2 Constructs with at least 10 BP in the team
+300003	18107	1	2												Have 2 Constructs at rank 1 or above in the team
+300004	18108	10	2												Have 2 Lv.10 or higher Constructs in the team
+300005	18109	1	2												Have 2 Constructs with gender 1 in the team
+300006	18110	1031001	1												Liv: Eclipse required
+40000	18108	10	1												Have 1 Lv.10 Construct in the team
+40001	18108	20	2												Have 2 Lv.20 Constructs in the team
+40002	18108	30	3												Have 3 Lv.30 Constructs in the team
+40003	18108	40	1												Have 1 Lv.40 Construct in the team
+40004	18108	50	2												Have 2 Lv.50 Constructs in the team
+40005	18108	60	3												Have 3 Lv.60 Constructs in the team
+40006	18108	10	1												Have 1 Lv.10 Construct in the team
+40007	18108	20	2												Have 2 Lv.20 Constructs in the team
+40008	18108	30	3												Have 3 Lv.30 Constructs in the team
+40009	18108	40	1												Have 1 Lv.40 Construct in the team
+40010	18108	50	2												Have 2 Lv.50 Constructs in the team
+40011	18108	60	3												Have 3 Lv.60 Constructs in the team
+40012	18107	2	1												Have 1 A-rank Construct in the team
+40013	18107	3	2												Have 2 S-rank Constructs in the team
+40014	18107	4	3												Have 3 SS-rank Constructs in the team
+40015	18107	5	1												Have 1 SSS-rank Construct in the team
+40016	18107	4	2												Have 2 SS-rank Constructs in the team
+40017	18107	3	3												Have 3 S-rank Constructs in the team
+40018	18105	1	1												Dispatch 1 Armor-type Construct
+40019	18105	2	2												Dispatch 2 Vanguard-type Constructs
+40020	18105	3	3												Dispatch 3 Bio-type Constructs
+40021	18110	1031001	1												Liv: Eclipse required
+40022	18109	1	1												Dispatch 1 female Construct
+40023	18109	1	2												Dispatch 2 female Constructs
+40024	18109	1	3												Dispatch 3 female Constructs
+40025	18109	2	1												Dispatch 1 male Construct
+40026	18109	2	2												Dispatch 2 male Constructs
+40027	18109	2	3												Dispatch 3 male Constructs
+40028	18108	10	2												Requires Construct Lv.10
+40029	18108	20	2												Requires Construct Lv.20
+40030	18108	30	2												Requires Construct Lv.30
+40031	18108	40	2												Requires Construct Lv.40
+40032	18108	50	2												Requires Construct Lv.50
+40033	18108	60	2												Requires Construct Lv.60
+40034	18108	70	2												Requires Construct Lv.70
+40035	18108	80	2												Requires Construct Lv.80
+40036	18105	1	1												Dispatch 1 Armor-type Construct
+40037	18105	1	2												Dispatch 2 Armor-type Constructs
+40038	18105	1	3												Dispatch 3 Armor-type Constructs
+40039	18105	2	1												Dispatch 1 Vanguard-type Construct
+40040	18105	2	2												Dispatch 2 Vanguard-type Constructs
+40041	18105	2	3												Dispatch 3 Vanguard-type Constructs
+40042	18105	3	1												Dispatch 1 Bio-type Construct
+40043	18105	3	2												Dispatch 2 Bio-type Constructs
+40044	18105	3	3												Dispatch 3 Bio-type Constructs
+40045	18110	1011001	1												Lee: Palefire required
+40046	18110	1021001	1												Lucia: Lotus required
+40047	18110	1031001	1												Liv: Eclipse required
+40048	18110	1041001	1												Bianca: Zero required
+40049	18110	1051001	1												Nanami: Storm required
+40050	18110	1061001	1												Kamui: Bastion required
+40051	18110	1071001	1												Karenina: Blast required
+40052	18110	1081001	1												Watanabe: Nightblade required
+40053	18110	1021002	1												Lucia: Dawn required
+40054	18110	1031002	1												Liv: Core required
+40055	18110	1071002	1												Karenina: Ember required
+40056	18110	1031003	1												Liv: Luminance required
+50000	13103	5													Construct reaches Lv.5
+50001	13103	10													Construct reaches Lv.10
+50002	13103	15													Construct reaches Lv.15
+50003	13103	20													Construct reaches Lv.20
+50004	13103	25													Construct reaches Lv.25
+50005	13103	30													Construct reaches Lv.30
+50006	13103	35													Construct reaches Lv.35
+50007	13103	40													Construct reaches Lv.40
+50008	13103	45													Construct reaches Lv.45
+50009	13103	50													Construct reaches Lv.50
+50010	13103	55													Construct reaches Lv.55
+50011	13103	60													Construct reaches Lv.60
+50012	13103	65													Construct reaches Lv.65
+50013	13103	70													Construct reaches Lv.70
+50014	13103	75													Construct reaches Lv.75
+50015	13103	80													Construct reaches Lv.80
+1001	13103	1													Reach Lv.1
+1002	13103	2													Reach Lv.2
+1003	13103	6													Reach Lv.6
+1004	13103	10													Reach Lv.10
+1005	13103	14													Reach Lv.14
+1006	13103	18													Reach Lv.18
+1007	13103	22													Reach Lv.22
+1008	13103	26													Reach Lv.26
+1009	13103	30													Reach Lv.30
+1010	13103	34													Reach Lv.34
+1011	13103	38													Reach Lv.38
+1012	13103	42													Reach Lv.42
+1013	13103	46													Reach Lv.46
+1014	13103	50													Reach Lv.50
+1015	13103	54													Reach Lv.54
+1016	13103	58													Reach Lv.58
+1017	13103	62													Reach Lv.62
+1018	13103	66													Reach Lv.66
+1101	13103	1													Reach Lv.1
+1102	13103	4													Reach Lv.4
+1103	13103	8													Reach Lv.8
+1104	13103	12													Reach Lv.12
+1105	13103	16													Reach Lv.16
+1106	13103	20													Reach Lv.20
+1107	13103	24													Reach Lv.24
+1108	13103	28													Reach Lv.28
+1109	13103	32													Reach Lv.32
+1110	13103	36													Reach Lv.36
+1111	13103	40													Reach Lv.40
+1112	13103	44													Reach Lv.44
+1113	13103	48													Reach Lv.48
+1114	13103	52													Reach Lv.52
+1115	13103	56													Reach Lv.56
+1116	13103	60													Reach Lv.60
+1117	13103	64													Reach Lv.64
+1118	13103	68													Reach Lv.68
+1201	13103	1													Reach Lv.1
+1202	13103	6													Reach Lv.6
+1203	13103	10													Reach Lv.10
+1204	13103	14													Reach Lv.14
+1205	13103	18													Reach Lv.18
+1206	13103	22													Reach Lv.22
+1207	13103	26													Reach Lv.26
+1208	13103	30													Reach Lv.30
+1209	13103	34													Reach Lv.34
+1210	13103	38													Reach Lv.38
+1211	13103	42													Reach Lv.42
+1212	13103	46													Reach Lv.46
+1213	13103	50													Reach Lv.50
+1214	13103	54													Reach Lv.54
+1215	13103	58													Reach Lv.58
+1216	13103	62													Reach Lv.62
+1217	13103	66													Reach Lv.66
+1218	13103	70													Reach Lv.70
+1301	13103	1													Reach Lv.1
+1302	13103	8													Reach Lv.8
+1303	13103	12													Reach Lv.12
+1304	13103	16													Reach Lv.16
+1305	13103	20													Reach Lv.20
+1306	13103	24													Reach Lv.24
+1307	13103	28													Reach Lv.28
+1308	13103	32													Reach Lv.32
+1309	13103	36													Reach Lv.36
+1310	13103	40													Reach Lv.40
+1311	13103	44													Reach Lv.44
+1312	13103	48													Reach Lv.48
+1313	13103	52													Reach Lv.52
+1314	13103	56													Reach Lv.56
+1315	13103	60													Reach Lv.60
+1316	13103	64													Reach Lv.64
+1317	13103	68													Reach Lv.68
+1318	13103	72													Reach Lv.72
+1401	13103	1													Reach Lv.1
+1402	13103	10													Reach Lv.10
+1403	13103	14													Reach Lv.14
+1404	13103	18													Reach Lv.18
+1405	13103	22													Reach Lv.22
+1406	13103	26													Reach Lv.26
+1407	13103	30													Reach Lv.30
+1408	13103	34													Reach Lv.34
+1409	13103	38													Reach Lv.38
+1410	13103	42													Reach Lv.42
+1411	13103	46													Reach Lv.46
+1412	13103	50													Reach Lv.50
+1413	13103	54													Reach Lv.54
+1414	13103	58													Reach Lv.58
+1415	13103	62													Reach Lv.62
+1416	13103	66													Reach Lv.66
+1417	13103	70													Reach Lv.70
+1418	13103	74													Reach Lv.74
+1501	13103	1													Reach Lv.1
+1502	13103	12													Reach Lv.12
+1503	13103	16													Reach Lv.16
+1504	13103	20													Reach Lv.20
+1505	13103	24													Reach Lv.24
+1506	13103	28													Reach Lv.28
+1507	13103	32													Reach Lv.32
+1508	13103	36													Reach Lv.36
+1509	13103	40													Reach Lv.40
+1510	13103	44													Reach Lv.44
+1511	13103	48													Reach Lv.48
+1512	13103	52													Reach Lv.52
+1513	13103	56													Reach Lv.56
+1514	13103	60													Reach Lv.60
+1515	13103	64													Reach Lv.64
+1516	13103	68													Reach Lv.68
+1517	13103	72													Reach Lv.72
+1518	13103	76													Reach Lv.76
+1601	13103	1													Reach Lv.1
+1602	13103	14													Reach Lv.14
+1603	13103	18													Reach Lv.18
+1604	13103	22													Reach Lv.22
+1605	13103	26													Reach Lv.26
+1606	13103	30													Reach Lv.30
+1607	13103	34													Reach Lv.34
+1608	13103	38													Reach Lv.38
+1609	13103	42													Reach Lv.42
+1610	13103	46													Reach Lv.46
+1611	13103	50													Reach Lv.50
+1612	13103	54													Reach Lv.54
+1613	13103	58													Reach Lv.58
+1614	13103	62													Reach Lv.62
+1615	13103	66													Reach Lv.66
+1616	13103	70													Reach Lv.70
+1617	13103	74													Reach Lv.74
+1618	13103	78													Reach Lv.78
+1701	13103	1													Reach Lv.1
+1702	13103	16													Reach Lv.16
+1703	13103	20													Reach Lv.20
+1704	13103	24													Reach Lv.24
+1705	13103	28													Reach Lv.28
+1706	13103	32													Reach Lv.32
+1707	13103	36													Reach Lv.36
+1708	13103	40													Reach Lv.40
+1709	13103	44													Reach Lv.44
+1710	13103	48													Reach Lv.48
+1711	13103	52													Reach Lv.52
+1712	13103	56													Reach Lv.56
+1713	13103	60													Reach Lv.60
+1714	13103	64													Reach Lv.64
+1715	13103	68													Reach Lv.68
+1716	13103	72													Reach Lv.72
+1717	13103	76													Reach Lv.76
+1718	13103	80													Reach Lv.80
+1800	13105	1	0												Construct is B-rank
+1801	13105	2	0												Construct reaches A-rank
+1802	13105	3	0												Construct reaches S-rank
+1803	13105	4	0												Construct reaches SS-rank
+1804	13105	5	0												Construct reaches SSS-rank
+1805	13105	6	0												Construct reaches SSS+ rank
+5000	10101	5													Reach Commandant Level 5
+5001	10101	40													Reach Commandant Level 40
+5002	10101	55													Reach Commandant Level 55
+5003	10101	70													Reach Commandant Level 70
+6000	10101	15													Reach Commandant Level 15
+6001	10101	38													Reach Commandant Level 38
+6002	10101	45													Reach Commandant Level 45
+6003	10101	47													Reach Commandant Level 47
+6004	10101	49													Reach Commandant Level 49
+6005	10101	51													Reach Commandant Level 51
+6006	10101	53													Reach Commandant Level 53
+6007	10101	55													Reach Commandant Level 55
+6008	10102	1061002													Unlock Kamui: Bastion to open
+6009	10102	1091002													Unlock Ayla: Brilliance to open
+6102	10102	1021003													Unlock Lucia: Crimson Abyss to open
+6103	10102	1081003													Unlock Watanabe: Astral to open
+18108001	18108	20	1												Dispatch a Construct Lv.20 or above
+18108002	18108	15	1												Dispatch a Construct Lv.15 or above
+18108003	18108	10	1												Dispatch a Construct Lv.10 or above
+18108004	18108	10	1												Dispatch a Construct Lv.10 or above
+18108005	18108	10	1												Dispatch a Construct Lv.10 or above
+18108006	18108	20	1												Dispatch a Construct Lv.20 or above
+18108007	18108	15	1												Dispatch a Construct Lv.15 or above
+18108008	18108	10	1												Dispatch a Construct Lv.10 or above
+18108009	18108	10	1												Dispatch a Construct Lv.10 or above
+18108010	18108	30	1												Dispatch a Construct Lv.30 or above
+18108011	18108	23	1												Dispatch a Construct Lv.23 or above
+18108012	18108	15	1												Dispatch a Construct Lv.15 or above
+18108013	18108	15	1												Dispatch a Construct Lv.15 or above
+18108014	18108	30	1												Dispatch a Construct Lv.30 or above
+18108015	18108	23	1												Dispatch a Construct Lv.23 or above
+18108016	18108	15	1												Dispatch a Construct Lv.15 or above
+18108017	18108	15	1												Dispatch a Construct Lv.15 or above
+18108018	18108	30	1												Dispatch a Construct Lv.30 or above
+18108019	18108	23	1												Dispatch a Construct Lv.23 or above
+18108020	18108	15	1												Dispatch a Construct Lv.15 or above
+18108021	18108	15	1												Dispatch a Construct Lv.15 or above
+18108022	18108	40	1												Dispatch a Construct Lv.40 or above
+18108023	18108	30	1												Dispatch a Construct Lv.30 or above
+18108024	18108	20	1												Dispatch a Construct Lv.20 or above
+18108025	18108	20	1												Dispatch a Construct Lv.20 or above
+18108026	18108	40	1												Dispatch a Construct Lv.40 or above
+18108027	18108	30	1												Dispatch a Construct Lv.30 or above
+18108028	18108	20	1												Dispatch a Construct Lv.20 or above
+18108029	18108	20	1												Dispatch a Construct Lv.20 or above
+18108030	18108	40	1												Dispatch a Construct Lv.40 or above
+18108031	18108	30	1												Dispatch a Construct Lv.30 or above
+18108032	18108	20	1												Dispatch a Construct Lv.20 or above
+18108033	18108	20	1												Dispatch a Construct Lv.20 or above
+18108034	18108	40	1												Dispatch a Construct Lv.40 or above
+18108035	18108	30	1												Dispatch a Construct Lv.30 or above
+18108036	18108	20	1												Dispatch a Construct Lv.20 or above
+18108037	18108	20	1												Dispatch a Construct Lv.20 or above
+18106001	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18106002	18106	1200	1												Dispatch a Construct with 1200 BP or above
+18106003	18106	1000	1												Dispatch a Construct with 1000 BP or above
+18106004	18106	600	1												Dispatch a Construct with 600 BP or above
+18106005	18106	2000	1												Dispatch a Construct with 2000 BP or above
+18106006	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18106007	18106	1200	1												Dispatch a Construct with 1200 BP or above
+18106008	18106	800	1												Dispatch a Construct with 800 BP or above
+18106009	18106	2800	1												Dispatch a Construct with 2800 BP or above
+18106010	18106	2200	1												Dispatch a Construct with 2200 BP or above
+18106011	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18106012	18106	1000	1												Dispatch a Construct with 1000 BP or above
+18106013	18106	2800	1												Dispatch a Construct with 2800 BP or above
+18106014	18106	2200	1												Dispatch a Construct with 2200 BP or above
+18106015	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18106016	18106	1000	1												Dispatch a Construct with 1000 BP or above
+18106017	18106	4000	1												Dispatch a Construct with 4000 BP or above
+18106018	18106	3200	1												Dispatch a Construct with 3200 BP or above
+18106019	18106	2400	1												Dispatch a Construct with 2400 BP or above
+18106020	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18106021	18106	4000	1												Dispatch a Construct with 4000 BP or above
+18106022	18106	3200	1												Dispatch a Construct with 3200 BP or above
+18106023	18106	2400	1												Dispatch a Construct with 2400 BP or above
+18106024	18106	1600	1												Dispatch a Construct with 1600 BP or above
+18109001	18109	1	1												Dispatch 1 female Construct
+18109002	18109	1	1												Dispatch 1 female Construct
+18109003	18109	2	1												Dispatch 1 male Construct
+18109004	18109	2	1												Dispatch 1 male Construct
+18109005	18109	1	1												Dispatch 1 female Construct
+18109006	18109	1	1												Dispatch 1 female Construct
+18109007	18109	2	1												Dispatch 1 male Construct
+18109008	18109	2	1												Dispatch 1 male Construct
+18109009	18109	1	1												Dispatch 1 female Construct
+18109010	18109	1	1												Dispatch 1 female Construct
+18109011	18109	2	2												Dispatch 2 male Constructs
+18109012	18109	2	2												Dispatch 2 male Constructs
+18109013	18109	1	2												Dispatch 2 female Constructs
+18109014	18109	1	2												Dispatch 2 female Constructs
+18109015	18109	2	2												Dispatch 2 male Constructs
+18109016	18109	2	2												Dispatch 2 male Constructs
+18109017	18109	1	2												Dispatch 2 female Constructs
+18109018	18109	1	2												Dispatch 2 female Constructs
+18109019	18109	2	2												Dispatch 2 male Constructs
+18109020	18109	2	2												Dispatch 2 male Constructs
+18110001	18110	1021001	1												Dispatch Lucia: Lotus
+18110002	18110	1021001	1												Dispatch Lucia: Lotus
+18110003	18110	1031001	1												Dispatch Liv: Eclipse
+18110004	18110	1031001	1												Dispatch Liv: Eclipse
+18110005	18110	1051001	1												Dispatch Nanami: Storm
+18110006	18110	1051001	1												Dispatch Nanami: Storm
+18110007	18110	1011002	1												Dispatch Lee: Palefire
+18110008	18110	1011002	1												Dispatch Lee: Palefire
+18110009	18110	1041002	1												Dispatch Bianca: Zero
+18110010	18110	1061002	1												Dispatch Kamui: Bastion
+18110011	18110	1071002	1												Dispatch Liv: Luminance
+18110012	18110	1081002	1												Dispatch Liv: Luminance
+18110013	18110	1021002	1												Dispatch Lucia: Lotus
+18110014	18110	1031002	1												Dispatch Liv: Eclipse
+18110015	18110	1061003	1												Dispatch Kamui: Tenebrion
+18110016	18110	1031003	1												Dispatch Liv: Eclipse
+18105001	18105	1	1												Dispatch 1 Attacker-type Construct
+18105002	18105	1	1												Dispatch 1 Attacker-type Construct
+18105003	18105	2	1												Dispatch 1 Tank-type Construct
+18105004	18105	3	1												Dispatch 1 Support-type Construct
+18105005	18105	1	1												Dispatch 1 Attacker-type Construct
+18105006	18105	1	1												Dispatch 1 Attacker-type Construct
+18105007	18105	2	1												Dispatch 1 Tank-type Construct
+18105008	18105	3	1												Dispatch 1 Support-type Construct
+18105009	18105	1	1												Dispatch 1 Attacker-type Construct
+18105010	18105	1	1												Dispatch 1 Attacker-type Construct
+18105011	18105	2	1												Dispatch 1 Tank-type Construct
+18105012	18105	3	1												Dispatch 1 Support-type Construct
+18107001	18107	2	2												Dispatch 2 A-rank Constructs
+18107002	18107	2	2												Dispatch 2 A-rank Constructs
+18107003	18107	2	2												Dispatch 2 A-rank Constructs
+18107004	18107	2	2												Dispatch 2 A-rank Constructs
+18107005	18107	3	2												Dispatch 2 S-rank Constructs
+18107006	18107	3	2												Dispatch 2 S-rank Constructs
+18107007	18107	3	2												Dispatch 2 S-rank Constructs
+18107008	18107	3	2												Dispatch 2 S-rank Constructs
+60000	13103	1													Construct reaches Lv.1
+60001	13103	10													Construct reaches Lv.10
+60002	13103	14													Construct reaches Lv.14
+60003	13103	18													Construct reaches Lv.18
+60004	13103	22													Construct reaches Lv.22
+60005	13103	26													Construct reaches Lv.26
+60006	13103	30													Construct reaches Lv.30
+60007	13103	34													Construct reaches Lv.34
+60008	13103	38													Construct reaches Lv.38
+60009	13103	42													Construct reaches Lv.42
+60010	13103	46													Construct reaches Lv.46
+60011	13103	50													Construct reaches Lv.50
+60012	13103	54													Construct reaches Lv.54
+60013	13103	58													Construct reaches Lv.58
+60014	13103	62													Construct reaches Lv.62
+60015	13103	66													Construct reaches Lv.66
+60016	13103	70													Construct reaches Lv.70
+60017	13103	74													Construct reaches Lv.74
+60100	13103	1													Construct reaches Lv.1
+60101	13103	12													Construct reaches Lv.12
+60102	13103	16													Construct reaches Lv.16
+60103	13103	20													Construct reaches Lv.20
+60104	13103	24													Construct reaches Lv.24
+60105	13103	28													Construct reaches Lv.28
+60106	13103	32													Construct reaches Lv.32
+60107	13103	36													Construct reaches Lv.36
+60108	13103	40													Construct reaches Lv.40
+60109	13103	44													Construct reaches Lv.44
+60110	13103	48													Construct reaches Lv.48
+60111	13103	52													Construct reaches Lv.52
+60112	13103	56													Construct reaches Lv.56
+60113	13103	60													Construct reaches Lv.60
+60114	13103	64													Construct reaches Lv.64
+60115	13103	68													Construct reaches Lv.68
+60116	13103	72													Construct reaches Lv.72
+60117	13103	76													Construct reaches Lv.76
+60200	13103	1													Construct reaches Lv.1
+60201	13103	14													Construct reaches Lv.14
+60202	13103	18													Construct reaches Lv.18
+60203	13103	22													Construct reaches Lv.22
+60204	13103	26													Construct reaches Lv.26
+60205	13103	30													Construct reaches Lv.30
+60206	13103	34													Construct reaches Lv.34
+60207	13103	38													Construct reaches Lv.38
+60208	13103	42													Construct reaches Lv.42
+60209	13103	46													Construct reaches Lv.46
+60210	13103	50													Construct reaches Lv.50
+60211	13103	54													Construct reaches Lv.54
+60212	13103	58													Construct reaches Lv.58
+60213	13103	62													Construct reaches Lv.62
+60214	13103	66													Construct reaches Lv.66
+60215	13103	70													Construct reaches Lv.70
+60216	13103	74													Construct reaches Lv.74
+60217	13103	78													Construct reaches Lv.78
+60300	13103	1													Construct reaches Lv.1
+60301	13103	16													Have an S-rank Construct reach Lv.16
+60302	13103	20													Have an S-rank Construct reach Lv.20
+60303	13103	24													Have an S-rank Construct reach Lv.24
+60304	13103	28													Have an S-rank Construct reach Lv.28
+60305	13103	32													Have an S-rank Construct reach Lv.32
+60306	13103	36													Have an S-rank Construct reach Lv.36
+60307	13103	40													Have an S-rank Construct reach Lv.40
+60308	13103	44													Have an S-rank Construct reach Lv.44
+60309	13103	48													Have an S-rank Construct reach Lv.48
+60310	13103	52													Have an S-rank Construct reach Lv.52
+60311	13103	56													Have an S-rank Construct reach Lv.56
+60312	13103	60													Have an S-rank Construct reach Lv.60
+60313	13103	64													Have an S-rank Construct reach Lv.64
+60314	13103	68													Have an S-rank Construct reach Lv.68
+60315	13103	72													Have an S-rank Construct reach Lv.72
+60316	13103	76													Have an S-rank Construct reach Lv.76
+60317	13103	80													Have an S-rank Construct reach Lv.80
+60501	13103	16													Construct reaches Lv.16
+60502	13103	20													Construct reaches Lv.20
+60503	13103	24													Construct reaches Lv.24
+60504	13103	28													Construct reaches Lv.28
+60505	13103	32													Construct reaches Lv.32
+60506	13103	36													Construct reaches Lv.36
+60507	13103	40													Construct reaches Lv.40
+60508	13103	44													Construct reaches Lv.44
+60509	13103	48													Construct reaches Lv.48
+60510	13103	52													Construct reaches Lv.52
+60511	13103	56													Construct reaches Lv.56
+60512	13103	60													Construct reaches Lv.60
+60513	13103	64													Construct reaches Lv.64
+60514	13103	68													Construct reaches Lv.68
+60515	13103	72													Construct reaches Lv.72
+60516	13103	76													Construct reaches Lv.76
+60517	13103	80													Construct reaches Lv.80
+60400	11102	1011002	4												Awaken Palefire's Ultima Rank
+60401	11102	1021001	4												Awaken Lotus's Ultima Rank
+60402	11102	1031001	4												Awaken Eclipse's Ultima Rank
+60403	11102	1041002	4												Awaken Zero's Ultima Rank
+60404	11102	1051001	4												Awaken Storm's Ultima Rank
+60405	11102	1061002	4												Awaken Bastion' Ultima Rank
+60406	11102	1071002	4												Awaken Blast's Ultima Rank
+60407	11102	1081002	4												Awaken Nightblade's Ultima Rank
+60408	11102	1021002	4												Awaken Dawn's Ultima Rank
+60409	11102	1031002	4												Awaken Lux's Ultima Rank
+60410	11102	1031003	4												Awaken Luminance's Ultima Rank
+60411	11102	1061003	4												Awaken Tenebrion's Ultima Rank
+60412	11102	1011003	4												Awaken Entropy's Ultima Rank
+60413	11102	1071003	4												Awaken Ember's Ultima Rank
+60414	11102	1051003	4												Awaken Pulse's Ultima Rank
+60415	11102	1021003	4												Awaken Crimson Abyss' Ultima Rank
+60416	11102	1091002	4												Awaken Brilliance's Ultima Rank
+60417	11102	1081003	4												Awaken Astral's Ultima Rank
+61001	13105	1	0												Construct is B-rank
+61002	13105	2	0												Construct reaches A-rank
+61003	13105	3	0												Construct reaches S-rank
+61004	13105	4	0												Construct reaches SS-rank
+61005	13105	5	0												Construct reaches SSS-rank
+61006	13105	6	0												Construct reaches SSS+ rank
+61301	13105	3	0												Have an S-rank Construct reach Lv.16
+61302	13105	3	0												Have an S-rank Construct reach Lv.20
+61303	13105	3	0												Have an S-rank Construct reach Lv.24
+61304	13105	3	0												Have an S-rank Construct reach Lv.28
+61305	13105	3	0												Have an S-rank Construct reach Lv.32
+61306	13105	3	0												Have an S-rank Construct reach Lv.36
+61307	13105	3	0												Have an S-rank Construct reach Lv.40
+61308	13105	3	0												Have an S-rank Construct reach Lv.44
+61309	13105	3	0												Have an S-rank Construct reach Lv.48
+61310	13105	3	0												Have an S-rank Construct reach Lv.52
+61311	13105	3	0												Have an S-rank Construct reach Lv.56
+61312	13105	3	0												Have an S-rank Construct reach Lv.60
+61313	13105	3	0												Have an S-rank Construct reach Lv.64
+61314	13105	3	0												Have an S-rank Construct reach Lv.68
+61315	13105	3	0												Have an S-rank Construct reach Lv.72
+61316	13105	3	0												Have an S-rank Construct reach Lv.76
+61317	13105	3	0												Have an S-rank Construct reach Lv.80
+70000	10101	200													Not available yet
+70001	10105	10010203													Complete Normal Story 1-7
+70002	10105	10010302													Complete Normal Story 1-10
+70003	10105	10010304													Complete Normal Story 1-12
+70004	10105	10020103													Complete Normal Story 2-3
+70005	10105	10020104													Complete Normal Story 2-4
+70006	10105	10020204													Complete Normal Story 2-8
+70007	10105	10020301													Complete Normal Story 2-9
+70008	10105	10020303													Complete Normal Story 2-11
+70009	10105	10020304													Complete Normal Story 2-12
+70010	10105	11010105													Complete Hidden Story 1-5
+70011	10105	10030101													Complete Normal Story 3-1
+70012	10105	10030103													Complete Normal Story 3-3
+70013	10101	50													Reach Commandant Level 50
+70014	10105	10030204													Complete Normal Story 3-8
+70015	10105	10030302													Complete Normal Story 3-10
+70016	10105	11020101													Complete Hidden Story 2-1
+70017	10101	200													Complete Hidden Story 2-4
+70018	10105	10040102													Complete Normal Story 4-2
+70019	10105	10040204													Complete Normal Story 4-8
+70020	10105	10050203													Complete Normal Story 5-7
+70021	10101	60													Reach Commandant Level 60
+70022	10101	65													Reach Commandant Level 65
+70101	10105	10010102													Complete Normal Story 1-2
+70102	10105	10010103													Complete Normal Story 1-3
+70103	10105	10010104													Complete Normal Story 1-4
+70104	10105	10010202													Complete Normal Story 1-6
+70105	10105	10010204													Complete Normal Story 1-8
+70106	10105	10020101													Complete Normal Story 2-1
+70107	10105	10020201													Complete Normal Story 2-5
+70108	10105	10020202													Complete Normal Story 2-6
+70109	10105	11010102													Complete Hidden Story 1-2
+70110	10105	10030203													Complete Normal Story 3-7
+70111	10105	10020102													Complete Normal Story 2-2
+70112	10105	10030102													Complete Normal Story 3-2
+70113	10105	12020303													Clear Stronghold Chapter 2
+70114	10105	12030303													Clear Stronghold Chapter 3
+70115	10105	12040303													Clear Stronghold Chapter 4
+70116	10105	12050303													Clear Stronghold Chapter 5
+70117	10105	12060303													Clear Stronghold Chapter 6
+70118	10105	12070303													Clear Stronghold Chapter 7
+70119	10105	12010302													Clear Stronghold Chapter 1
+770100	10105	10010202													Complete Normal Story 1-6 to unlock
+770200	10101	1													Unlocked when Commandant reaches Lv.1
+770300	10105	10010204													Complete Normal Story 1-8 to unlock
+770400	10105	10010304													Complete Normal Story 1-12 to unlock
+770500	10105	10010302													Complete Normal Story 1-10 to unlock
+770600	10105	10030202													Complete Normal Story 3-6 to unlock
+770700	10105	10030201													Complete Normal Story 3-5 to unlock
+770800	10101	200													Unlocked when Commandant reaches Lv.200
+770900	10105	10040102													Complete Normal Story 4-2 to unlock
+771000	10105	10020103													Complete Normal Story 2-3 to unlock
+771100	10105	10020103													Complete Normal Story 2-3 to unlock
+771200	10101	200													Unlocked when Commandant reaches Lv.200
+771300	10105	10030203													Complete Normal Story 3-7 to unlock
+771400	10105	10020304													Complete Normal Story 2-12 to unlock
+771500	10101	60													Unlocked when Commandant reaches Lv.60
+771501	10109	4	3000												Own 4 Constructs with at least 3000 BP to unlock
+771600	10101	200													Unlocked when Commandant reaches Lv.200
+771700	10105	10050203													Complete Normal Story 5-7 to unlock
+771800	10105	10040204													Complete Normal Story 4-8 to unlock
+771900	10101	50													Unlocked when Commandant reaches Lv.50
+772000	10101	50													Unlocked when Commandant reaches Lv.50
+772100	10101	40													Unlocked when Commandant reaches Lv.40
+772200	10101	40													Unlocked when Commandant reaches Lv.40
+772250	10101	40													Unlocked when Commandant reaches Lv.40
+772260	10101	40													Unlocked when Commandant reaches Lv.40
+772270	10101	20													Unlocked when Commandant reaches Lv.20
+772280	10101	60													Unlocked when Commandant reaches Lv.60
+772300	10101	1													Unlocked when Commandant reaches Lv.1
+772400	10101	1													Unlocked when Commandant reaches Lv.1
+772500	10105	10020102													Complete Normal Story 2-2 to unlock
+772600	10105	10020204													Complete Normal Story 2-8 to unlock
+772700	10105	10020201													Complete Normal Story 2-5 to unlock
+772800	10105	10020102													Complete Normal Story 2-2 to unlock
+772900	10105	11010105													Complete Hidden Story 1-5 to unlock
+773000	10105	10020301													Complete Normal Story 2-9 to unlock
+773100	10105	10020204													Complete Normal Story 2-8 to unlock
+773200	10105	10020202													Complete Normal Story 2-6 to unlock
+773300	10105	10020201													Complete Normal Story 2-5 to unlock
+773400	10105	11020101													Complete Hidden Story 2-1 to unlock
+773500	10101	1													Unlocked when Commandant reaches Lv.1
+773600	10101	1													Unlocked when Commandant reaches Lv.1
+773700	10101	1													Unlocked when Commandant reaches Lv.1
+773800	10101	1													Unlocked when Commandant reaches Lv.1
+773900	10101	1													Unlocked when Commandant reaches Lv.1
+774000	10101	1													Unlocked when Commandant reaches Lv.1
+774100	10105	10020303													Complete Normal Story 2-11 to unlock
+774200	10105	10030204													Complete Normal Story 3-8 to unlock
+774300	10101	65													Unlocked when Commandant reaches Lv.65
+774301	10109	5	3000												Own 5 Constructs with at least 3000 BP to unlock
+774400	10105	10030103													Complete Normal Story 3-3 to unlock
+774500	10105	10020104													Complete Normal Story 2-4 to unlock
+774600	10105	10060304													Complete Normal Story 6-12 to unlock
+777700	10101	100													Unlocked when Commandant reaches Lv.100
+850000	10101	1													
+850101	10105	10010102													
+850102	10105	10010102													
+850103	10105	10010102													
+850201	10105	10010103													
+850202	10105	10010103													
+850203	10105	10010103													
+850301	10105	10010104													
+850401	10105	10010202													
+850501	10105	10010204													
+850602	10105	10010301													
+850603	10105	10010301													
+850701	10105	10010302													
+850800	10105	10010304													
+850801	10105	10010304													
+850802	10105	10010304													
+850803	10105	10010304													
+850901	10105	10020101													
+850931	10105	10020102													
+851001	10105	10020103													
+851101	10105	10020104													
+851201	10105	10020201													
+851301	10105	10020202													
+851401	10105	10020204													
+851501	10105	10020301													
+851601	10105	10020303													
+851701	10105	10020304													
+851801	10105	11010102													
+851901	10105	11010105													
+852001	10105	10030101													
+852031	10105	10030102													
+852101	10105	10030103													
+852201	10101	50													
+852301	10105	10030203													
+852401	10105	10030204													
+852501	10105	10030302													
+852601	10105	11020101													
+852701	10105	10040102													
+852801	10105	10040204													
+852901	10105	10050203													
+852931	10105	10060304													
+10010100	10101	1													Recommended BP: 140
+10010101	10101	1													Recommended BP: 144
+10010102	10101	1													Recommended BP: 148
+10010103	10101	1													Recommended BP: 152
+10010104	10101	1													Recommended BP: 180
+10010105	10101	1													Recommended BP: 190
+10010106	10101	1													Recommended BP: 200
+10010107	10101	1													Recommended BP: 210
+10010108	10101	1													Recommended BP: 250
+10010109	10101	1													Recommended BP: 260
+10010110	10101	1													Recommended BP: 270
+10010111	10101	1													Recommended BP: 280
+10010112	10101	1													Recommended BP: 500
+10010113	10101	1													Recommended BP: 510
+10010114	10101	1													Recommended BP: 520
+10010115	10101	1													Recommended BP: 530
+10010116	10101	1													Recommended BP: 600
+10010117	10101	1													Recommended BP: 610
+10010118	10101	1													Recommended BP: 620
+10010119	10101	1													Recommended BP: 630
+10010120	10101	1													Recommended BP: 700
+10010121	10101	1													Recommended BP: 710
+10010122	10101	1													Recommended BP: 720
+10010123	10101	1													Recommended BP: 730
+10010124	10101	1													Recommended BP: 1200
+10010125	10101	1													Recommended BP: 1210
+10010126	10101	1													Recommended BP: 1220
+10010127	10101	1													Recommended BP: 1230
+10010128	10101	1													Recommended BP: 1300
+10010129	10101	1													Recommended BP: 1310
+10010130	10101	1													Recommended BP: 1320
+10010131	10101	1													Recommended BP: 1330
+10010132	10101	1													Recommended BP: 1400
+10010133	10101	1													Recommended BP: 1410
+10010134	10101	1													Recommended BP: 1420
+10010135	10101	1													Recommended BP: 1430
+10010136	10101	1													Recommended BP: 1700
+10010137	10101	1													Recommended BP: 1710
+10010138	10101	1													Recommended BP: 1720
+10010139	10101	1													Recommended BP: 1730
+10010140	10101	1													Recommended BP: 1800
+10010141	10101	1													Recommended BP: 1810
+10010142	10101	1													Recommended BP: 1820
+10010143	10101	1													Recommended BP: 1830
+10010144	10101	1													Recommended BP: 1900
+10010145	10101	1													Recommended BP: 1910
+10010146	10101	1													Recommended BP: 1920
+10010147	10101	1													Recommended BP: 1930
+10010148	10101	1													Recommended BP: 2200
+10010149	10101	1													Recommended BP: 2210
+10010150	10101	1													Recommended BP: 2220
+10010151	10101	1													Recommended BP: 2230
+10010152	10101	1													Recommended BP: 2300
+10010153	10101	1													Recommended BP: 2310
+10010154	10101	1													Recommended BP: 2320
+10010155	10101	1													Recommended BP: 2330
+10010156	10101	1													Recommended BP: 2400
+10010157	10101	1													Recommended BP: 2410
+10010158	10101	1													Recommended BP: 2420
+10010159	10101	1													Recommended BP: 2430
+10010160	10101	1													Recommended BP: 2700
+10010161	10101	1													Recommended BP: 2710
+10010162	10101	1													Recommended BP: 2720
+10010163	10101	1													Recommended BP: 2730
+10010164	10101	1													Recommended BP: 2800
+10010165	10101	1													Recommended BP: 2810
+10010166	10101	1													Recommended BP: 2820
+10010167	10101	1													Recommended BP: 2830
+10010168	10101	1													Recommended BP: 2900
+10010169	10101	1													Recommended BP: 2910
+10010170	10101	1													Recommended BP: 2920
+10010171	10101	1													Recommended BP: 2930
+10010172	10101	1													Recommended BP: 3200
+10010173	10101	1													Recommended BP: 3210
+10010174	10101	1													Recommended BP: 3220
+10010175	10101	1													Recommended BP: 3230
+10010176	10101	1													Recommended BP: 3300
+10010177	10101	1													Recommended BP: 3310
+10010178	10101	1													Recommended BP: 3320
+10010179	10101	1													Recommended BP: 3330
+10010180	10101	1													Recommended BP: 3400
+10010181	10101	1													Recommended BP: 3410
+10010182	10101	1													Recommended BP: 3420
+10010183	10101	1													Recommended BP: 3430
+10010184	10101	1													Recommended BP: 3700
+10010185	10101	1													Recommended BP: 3710
+10010186	10101	1													Recommended BP: 3720
+10010187	10101	1													Recommended BP: 3730
+10010188	10101	1													Recommended BP: 3800
+10010189	10101	1													Recommended BP: 3810
+10010190	10101	1													Recommended BP: 3820
+10010191	10101	1													Recommended BP: 3830
+10010192	10101	1													Recommended BP: 3900
+10010193	10101	1													Recommended BP: 3910
+10010194	10101	1													Recommended BP: 3920
+10010195	10101	1													Recommended BP: 3930
+10010196	10101	1													
+10010197	10101	1													
+10010198	10101	1													
+10010199	10101	1													
+10010200	10101	1													
+10010201	10101	1													
+10010202	10101	1													
+10010203	10101	1													
+10010204	10101	1													
+10010205	10101	1													
+10010206	10101	1													
+10010207	10101	1													
+10010208	10101	1													
+10010209	10101	1													
+10010210	10101	1													
+10010211	10101	1													
+10010212	10101	1													
+10010213	10101	1													
+10010214	10101	1													
+10010215	10101	1													
+10010216	10101	1													
+10010217	10101	1													
+10010218	10101	1													
+10010219	10101	1													
+10010220	10101	1													
+10010221	10101	1													
+10010222	10101	1													
+10010223	10101	1													
+10010224	10101	1													
+10010225	10101	1													
+10010226	10101	1													
+10010227	10101	1													
+11010100	10101	1													Recommended BP: 900
+11010101	10101	1													Recommended BP: 925
+11010102	10101	1													Recommended BP: 950
+11010103	10101	1													Recommended BP: 1000
+11010104	10101	1													Recommended BP: 1025
+11010105	10101	1													Recommended BP: 1050
+11010106	10101	1													Recommended BP: 630
+11010107	10101	1													Recommended BP: 635
+11010108	10101	1													Recommended BP: 900
+11010109	10101	1													Recommended BP: 905
+11010110	10101	1													Recommended BP: 910
+11010111	10101	1													Recommended BP: 915
+11010112	10101	1													Recommended BP: 920
+11010113	10101	1													Recommended BP: 925
+11010114	10101	1													Recommended BP: 930
+11010115	10101	1													Recommended BP: 935
+11010116	10101	1													Recommended BP: 1200
+11010117	10101	1													Recommended BP: 1205
+11010118	10101	1													Recommended BP: 1210
+11010119	10101	1													Recommended BP: 1215
+11010120	10101	1													Recommended BP: 1220
+11010121	10101	1													Recommended BP: 1225
+11010122	10101	1													Recommended BP: 1230
+11010123	10101	1													Recommended BP: 1235
+11010124	10101	1													Recommended BP: 1500
+11010125	10101	1													Recommended BP: 1505
+11010126	10101	1													Recommended BP: 1510
+11010127	10101	1													Recommended BP: 1515
+11010128	10101	1													Recommended BP: 1520
+11010129	10101	1													Recommended BP: 1525
+11010130	10101	1													Recommended BP: 1530
+11010131	10101	1													Recommended BP: 1535
+11010132	10101	1													Recommended BP: 1800
+11010133	10101	1													Recommended BP: 1805
+11010134	10101	1													Recommended BP: 1810
+11010135	10101	1													Recommended BP: 1815
+11010136	10101	1													Recommended BP: 1820
+11010137	10101	1													Recommended BP: 1825
+11010138	10101	1													Recommended BP: 1830
+11010139	10101	1													Recommended BP: 1835
+11010140	10101	1													Recommended BP: 2100
+11010141	10101	1													Recommended BP: 2105
+11010142	10101	1													Recommended BP: 2110
+11010143	10101	1													Recommended BP: 2115
+11010144	10101	1													Recommended BP: 2120
+11010145	10101	1													Recommended BP: 2125
+11010146	10101	1													Recommended BP: 2130
+11010147	10101	1													Recommended BP: 2135
+11010148	10101	1													Recommended BP: 2300
+11010149	10101	1													Recommended BP: 2305
+11010150	10101	1													Recommended BP: 2310
+11010151	10101	1													Recommended BP: 2315
+11010152	10101	1													Recommended BP: 2320
+11010153	10101	1													Recommended BP: 2325
+11010154	10101	1													Recommended BP: 2330
+11010155	10101	1													Recommended BP: 2335
+11010156	10101	1													Recommended BP: 2500
+11010157	10101	1													Recommended BP: 2505
+11010158	10101	1													Recommended BP: 2510
+11010159	10101	1													Recommended BP: 2515
+11010160	10101	1													Recommended BP: 2520
+11010161	10101	1													Recommended BP: 2525
+11010162	10101	1													Recommended BP: 2530
+11010163	10101	1													Recommended BP: 2535
+11010164	10101	1													Recommended BP: 2700
+11010165	10101	1													Recommended BP: 2705
+11010166	10101	1													Recommended BP: 2710
+11010167	10101	1													Recommended BP: 2715
+11010168	10101	1													Recommended BP: 2720
+11010169	10101	1													Recommended BP: 2725
+11010170	10101	1													Recommended BP: 2730
+11010171	10101	1													Recommended BP: 2735
+11010172	10101	1													Recommended BP: 2900
+11010173	10101	1													Recommended BP: 2905
+11010174	10101	1													Recommended BP: 2910
+11010175	10101	1													Recommended BP: 2915
+11010176	10101	1													Recommended BP: 2920
+11010177	10101	1													Recommended BP: 2925
+11010178	10101	1													Recommended BP: 2930
+11010179	10101	1													Recommended BP: 2935
+11010180	10101	1													Recommended BP: 3100
+11010181	10101	1													Recommended BP: 3105
+11010182	10101	1													Recommended BP: 3110
+11010183	10101	1													Recommended BP: 3115
+11010184	10101	1													Recommended BP: 3120
+11010185	10101	1													Recommended BP: 3125
+11010186	10101	1													Recommended BP: 3130
+11010187	10101	1													Recommended BP: 3135
+11010188	10101	1													Recommended BP: 3300
+11010189	10101	1													Recommended BP: 3305
+11010190	10101	1													Recommended BP: 3310
+11010191	10101	1													Recommended BP: 3315
+11010192	10101	1													Recommended BP: 3320
+11010193	10101	1													Recommended BP: 3325
+11010194	10101	1													Recommended BP: 3330
+11010195	10101	1													Recommended BP: 3335
+11010196	10101	1													Recommended BP: 3550
+11010197	10101	1													Recommended BP: 3555
+11010198	10101	1													Recommended BP: 3560
+11010199	10101	1													Recommended BP: 3565
+11010200	10101	1													Recommended BP: 3570
+11010201	10101	1													Recommended BP: 3575
+11010202	10101	1													Recommended BP: 3580
+11010203	10101	1													Recommended BP: 3585
+11010204	10101	1													Recommended BP: 3800
+11010205	10101	1													Recommended BP: 3805
+11010206	10101	1													Recommended BP: 3810
+11010207	10101	1													Recommended BP: 3815
+11010208	10101	1													Recommended BP: 3820
+11010209	10101	1													Recommended BP: 3825
+11010210	10101	1													Recommended BP: 3830
+11010211	10101	1													Recommended BP: 3835
+11010212	10101	1													Recommended BP: 4050
+11010213	10101	1													Recommended BP: 4055
+11010214	10101	1													Recommended BP: 4060
+11010215	10101	1													Recommended BP: 4065
+11010216	10101	1													Recommended BP: 4070
+11010217	10101	1													Recommended BP: 4075
+11010218	10101	1													Recommended BP: 4080
+11010219	10101	1													Recommended BP: 4085
+11010220	10101	1													Recommended BP: 4300
+11010221	10101	1													Recommended BP: 4305
+11010222	10101	1													Recommended BP: 4310
+11010223	10101	1													Recommended BP: 4315
+11010224	10101	1													Recommended BP: 4320
+11010225	10101	1													Recommended BP: 4325
+11010226	10101	1													Recommended BP: 4330
+11010227	10101	1													Recommended BP: 4335
+30010101	10101	1													Recommended BP: 400
+30010102	10101	1													Recommended BP: 1200
+30010103	10101	1													Recommended BP: 2000
+30010104	10101	1													Recommended BP: 3400
+40061001	13103	50													Construct Lv.50
+40061002	13103	65													Construct Lv.65
+40061003	13103	80													Construct Lv.80
+40061004	13103	50													Construct Lv.50
+40061005	13103	65													Construct Lv.65
+40061006	13103	80													Construct Lv.80
+40061007	13103	50													Construct Lv.50
+40061008	13103	65													Construct Lv.65
+40061009	13103	80													Construct Lv.80
+40061010	13103	50													Construct Lv.50
+40061011	13103	65													Construct Lv.65
+40061012	13103	80													Construct Lv.80
+40061013	13103	50													Construct Lv.50
+40061014	13103	65													Construct Lv.65
+40061015	13103	80													Construct Lv.80
+40061016	13103	50													Construct Lv.50
+40061017	13103	65													Construct Lv.65
+40061018	13103	80													Construct Lv.80
+40061019	13103	50													Construct Lv.50
+40061020	13103	65													Construct Lv.65
+40061021	13103	80													Construct Lv.80
+40061022	13103	50													Construct Lv.50
+40061023	13103	65													Construct Lv.65
+40061024	13103	80													Construct Lv.80
+40061025	13103	50													Construct Lv.50
+40061026	13103	65													Construct Lv.65
+40061027	13103	80													Construct Lv.80
+40061028	13103	50													Construct Lv.50
+40061029	13103	65													Construct Lv.65
+40061030	13103	80													Construct Lv.80
+40061031	13103	50													Construct Lv.50
+40061032	13103	65													Construct Lv.65
+40061033	13103	80													Construct Lv.80
+40061034	13103	50													Construct Lv.50
+40061035	13103	65													Construct Lv.65
+40061036	13103	80													Construct Lv.80
+40061037	13103	50													Construct Lv.50
+40061038	13103	65													Construct Lv.65
+40061039	13103	80													Construct Lv.80
+40061040	13103	50													Construct Lv.50
+40061041	13103	65													Construct Lv.65
+40061042	13103	80													Construct Lv.80
+40061043	13103	50													Construct Lv.50
+40061044	13103	65													Construct Lv.65
+40061045	13103	80													Construct Lv.80
+40061046	13103	50													Construct Lv.50
+40061047	13103	65													Construct Lv.65
+40061048	13103	80													Construct Lv.80
+40061049	13103	50													Construct Lv.50
+40061050	13103	65													Construct Lv.65
+40061051	13103	80													Construct Lv.80
+40061052	13103	50													Construct Lv.50
+40061053	13103	65													Construct Lv.65
+40061054	13103	80													Construct Lv.80
+40062001	13108	2500													Construct reaches 2500 BP
+40062002	13108	4000													Construct reaches 4000 BP
+40062003	13108	5500													Construct reaches 5500 BP
+40062004	13108	2500													Construct reaches 2500 BP
+40062005	13108	4000													Construct reaches 4000 BP
+40062006	13108	5500													Construct reaches 5500 BP
+40062007	13108	2500													Construct reaches 2500 BP
+40062008	13108	4000													Construct reaches 4000 BP
+40062009	13108	5500													Construct reaches 5500 BP
+40062010	13108	2500													Construct reaches 2500 BP
+40062011	13108	4000													Construct reaches 4000 BP
+40062012	13108	5500													Construct reaches 5500 BP
+40062013	13108	2500													Construct reaches 2500 BP
+40062014	13108	4000													Construct reaches 4000 BP
+40062015	13108	5500													Construct reaches 5500 BP
+40062016	13108	2500													Construct reaches 2500 BP
+40062017	13108	4000													Construct reaches 4000 BP
+40062018	13108	5500													Construct reaches 5500 BP
+40062019	13108	2500													Construct reaches 2500 BP
+40062020	13108	4000													Construct reaches 4000 BP
+40062021	13108	5500													Construct reaches 5500 BP
+40062022	13108	2500													Construct reaches 2500 BP
+40062023	13108	4000													Construct reaches 4000 BP
+40062024	13108	5500													Construct reaches 5500 BP
+40062025	13108	2500													Construct reaches 2500 BP
+40062026	13108	4000													Construct reaches 4000 BP
+40062027	13108	5500													Construct reaches 5500 BP
+40062028	13108	2500													Construct reaches 2500 BP
+40062029	13108	4000													Construct reaches 4000 BP
+40062030	13108	5500													Construct reaches 5500 BP
+40062031	13108	2500													Construct reaches 2500 BP
+40062032	13108	4000													Construct reaches 4000 BP
+40062033	13108	5500													Construct reaches 5500 BP
+40062034	13108	2500													Construct reaches 2500 BP
+40062035	13108	4000													Construct reaches 4000 BP
+40062036	13108	5500													Construct reaches 5500 BP
+40062037	13108	2500													Construct reaches 2500 BP
+40062038	13108	4000													Construct reaches 4000 BP
+40062039	13108	5500													Construct reaches 5500 BP
+40062040	13108	2500													Construct reaches 2500 BP
+40062041	13108	4000													Construct reaches 4000 BP
+40062042	13108	5500													Construct reaches 5500 BP
+40062043	13108	2500													Construct reaches 2500 BP
+40062044	13108	4000													Construct reaches 4000 BP
+40062045	13108	5500													Construct reaches 5500 BP
+40062046	13108	2500													Construct reaches 2500 BP
+40062047	13108	4000													Construct reaches 4000 BP
+40062048	13108	5500													Construct reaches 5500 BP
+40062049	13108	2500													Construct reaches 2500 BP
+40062050	13108	4000													Construct reaches 4000 BP
+40062051	13108	5500													Construct reaches 5500 BP
+40062052	13108	2500													Construct reaches 2500 BP
+40062053	13108	4000													Construct reaches 4000 BP
+40062054	13108	5500													Construct reaches 5500 BP
+40063001	13109	6	12												Equip 6★ Resonance Skills * 12
+40063002	13109	6	12												Equip 6★ Resonance Skills * 12
+40063003	13109	6	12												Equip 6★ Resonance Skills * 12
+40063004	13109	6	12												Equip 6★ Resonance Skills * 12
+40063005	13109	6	12												Equip 6★ Resonance Skills * 12
+40063006	13109	6	12												Equip 6★ Resonance Skills * 12
+40063007	13109	6	12												Equip 6★ Resonance Skills * 12
+40063008	13109	6	12												Equip 6★ Resonance Skills * 12
+40063009	13109	6	12												Equip 6★ Resonance Skills * 12
+40063010	13109	6	12												Equip 6★ Resonance Skills * 12
+40063011	13109	6	12												Equip 6★ Resonance Skills * 12
+40063012	13109	6	12												Equip 6★ Resonance Skills * 12
+40063013	13109	6	12												Equip 6★ Resonance Skills * 12
+40063014	13109	6	12												Equip 6★ Resonance Skills * 12
+40063015	13109	6	12												Equip 6★ Resonance Skills * 12
+40063016	13109	6	12												Equip 6★ Resonance Skills * 12
+40063017	13109	6	12												Equip 6★ Resonance Skills * 12
+40063018	13109	6	12												Equip 6★ Resonance Skills * 12
+40006313	21101	2	83028												Claim Monthly Pass?
+40006314	21102														Complete 1st recharge?
+30020101	18111	1	1												Required units: 1
+30020102	18111	1	1												Required units: 1
+30020103	18111	1	1												Required units: 1
+30020104	18111	1	1												Required units: 1
+30020105	18111	1	1												Required units: 1
+30020106	18111	1	1												Required units: 1
+30020107	18111	2	1												Required units: 2
+30020108	18111	2	1												Required units: 2
+30020109	18111	1	1												Required units: 1
+30020110	18111	1	1												Required units: 1
+30020111	18111	1	1												Required units: 1
+30020112	18111	2	1												Required units: 2
+30020113	18111	2	1												Required units: 2
+30020114	18111	2	1												Required units: 2
+30020115	18111	2	1												Required units: 2
+30020116	18111	2	1												Required units: 2
+30020201	18111	1	1												Required units: 1
+30020202	18111	1	1												Required units: 1
+30020203	18111	1	1												Required units: 1
+30020204	18111	1	1												Required units: 1
+30020205	18111	1	1												Required units: 1
+30020206	18111	2	1												Required units: 2
+30020207	18111	1	1												Required units: 1
+30020208	18111	1	1												Required units: 1
+30020209	18111	2	1												Required units: 2
+30020210	18111	2	1												Required units: 2
+30020211	18111	2	1												Required units: 2
+30020212	18111	2	1												Required units: 2
+30020213	18111	2	1												Required units: 2
+30020214	18111	2	1												Required units: 2
+30020215	18111	2	1												Required units: 2
+30020216	18111	2	1												Required units: 2
+30020301	18111	1	1												Required units: 1
+30020302	18111	1	1												Required units: 1
+30020303	18111	1	1												Required units: 1
+30020304	18111	1	1												Required units: 1
+30020305	18111	1	1												Required units: 1
+30020306	18111	2	1												Required units: 2
+30020307	18111	1	1												Required units: 1
+30020308	18111	2	1												Required units: 2
+30020309	18111	1	1												Required units: 1
+30020310	18111	1	1												Required units: 1
+30020311	18111	1	1												Required units: 1
+30020312	18111	1	1												Required units: 1
+30020313	18111	1	1												Required units: 1
+30020314	18111	1	1												Required units: 1
+30020315	18111	1	1												Required units: 1
+30020316	18111	1	1												Required units: 1
+30020401	18111	1	1												Required units: 1
+30020402	18111	1	1												Required units: 1
+30020403	18111	1	1												Required units: 1
+30020404	18111	1	1												Required units: 1
+30020405	18111	1	1												Required units: 1
+30020406	18111	1	1												Required units: 1
+30020407	18111	1	1												Required units: 1
+30020408	18111	1	1												Required units: 1
+30020409	18111	1	1												Required units: 1
+30020410	18111	1	1												Required units: 1
+30020411	18111	1	1												Required units: 1
+30020412	18111	1	1												Required units: 1
+30020413	18111	1	1												Required units: 1
+30020414	18111	1	1												Required units: 1
+30020415	18111	1	1												Required units: 1
+30020416	18111	1	1												Required units: 1
+30000101	18111	2	2												Deploy at least 2 Constructs
+30000102	18111	3	1												Required units: 3
+9001	10105	10050304													Prerequisite: Normal Story 5-12
+9002	10105	11050106													Prerequisite: Hidden Story 5-6
+9003	10105	11070106													Prerequisite: Hidden Story 7-6
+9101	10105	11030106													Prerequisite: Hidden Story 3-6
+9102	10105	10060304													Prerequisite: Normal Story 6-12
+9103	10105	10080304													Prerequisite: Normal Story 8-12
+9201	10105	10030202													Prerequisite: Normal Story 3-6
+9202	10105	11020106													Prerequisite: Hidden Story 2-6
+9203	10105	10070304													Prerequisite: Normal Story 7-12
+9401	10105	10040304													Prerequisite: Normal Story 4-12
+9402	10105	11040106													Prerequisite: Hidden Story 4-6
+9403	10105	11060106													Prerequisite: Hidden Story 6-6
+30100801	10102	1021001													Unlock Construct - Lucia: Lotus
+30100802	10102	1031001													Unlock Construct - Liv: Eclipse
+30100803	10102	1051001													Unlock Construct - Nanami: Storm
+30100804	10102	1011002													Unlock Construct - Lee: Palefire
+30100805	10102	1071002													Unlock Construct - Karenina: Blast
+30100806	10102	1041002													Unlock Construct - Bianca: Zero
+30100807	10102	1081002													Unlock Construct - Watanabe: Nightblade
+30100808	10102	1061002													Unlock Construct - Kamui: Bastion
+30100809	10102	1021002													Unlock Construct - Lucia: Dawn
+30100810	10102	1031002													Unlock Construct - Liv: Lux
+30100811	10102	1061003													Unlock Construct - Kamui: Tenebrion
+30100812	10102	1031003													Unlock Construct - Liv: Luminance
+30100813	10102	1011003													Unlock Construct - Lee: Entropy
+30100814	10102	1071003													Unlock Construct - Karenina: Ember
+30100815	10102	1051003													Unlock Construct - Nanami: Pulse
+30100816	10102	1021003													Unlock Construct - Lucia: Crimson Abyss
+30100817	10102	1091002													Unlock Construct - Ayla: Brilliance
+30100818	10102	1081003													Unlock Construct - Watanabe: Astral
+555	10110	1													Obtain Medal 1?
+556	10110	2													Obtain Medal 2?
+557	10110	3													Obtain Medal 3?
+558	10110	4													Obtain Medal 4?
+559	10110	5													Obtain Medal 5?
+888888	10101	1													Reach Commandant Level 1
+888889	10105	10010101													Complete Normal Story 1-1
+888890	10101	2													Reach Commandant Level 2
+610001	11103														Ask if player wants to claim 1st recharge reward
+601	11107	1	6	1											Ask if player has a B-Rank or higher Construct at SSS+ rank
+602	11107	1	6	3											Ask if player has a rank S or higher Construct at SSS+ rank
+6110104	11105	6110104													Coating owned
+6610105	11105	6610105													Coating owned
+6810104	11105	6810104													Coating owned
+6610304	11105	6610304													Coating owned
+6110304	11105	6110304													Coating owned
+6710305	11105	6710305													Coating owned
+6710104	11105	6710104													Coating owned
+6710304	11105	6710304													Coating owned
+6410104	11105	6410104													Coating owned
+6610104	11105	6610104													Coating owned
+6210204	11105	6210204													Coating owned
+6110305	11105	6110305													Coating owned
+6210105	11105	6210105													Coating owned
+6310105	11105	6310105													Coating owned
+6310204	11105	6310204													Coating owned
+6210205	11105	6210205													Coating owned
+6510304	11105	6510304													Coating owned
+6510305	11105	6510305													Coating owned
+6310106	11105	6310106													Coating owned
+6310305	11105	6310305													Coating owned
+6510104	11105	6510104													Coating owned
+6210304	11105	6210304													Coating owned
+6210305	11105	6210305													Coating owned
+6810304	11105	6810304													Coating owned
+6810305	11105	6810305													Coating owned
+6910104	11105	6910104													Coating owned
+6910105	11105	6910105													Coating owned
+6610305	11105	6610305													Coating owned
+30499	10101	50													Reach Commandant Level 50
+30500	11106	4													Prerequisite: Nightmare Stage 3-2 Terminal
+30501	11106	5													Prerequisite: Nightmare Stage 3-3 Driven by Instinct
+30502	11106	6													Prerequisite: Nightmare Stage 3-4 Good Samaritan
+30503	11106	7													Prerequisite: Nightmare Stage 3-5 Trespassing
+30504	11106	8													Prerequisite: Nightmare Stage 3-6 Traps
+30505	11106	9													Prerequisite: Nightmare Stage 3-7 Final Warning
+30506	11106	10													Prerequisite: Nightmare Stage 3-8 Take Caution
+30507	11106	11													Prerequisite: Nightmare Stage 3-10 A Twisted Hobby
+30508	11106	12													Prerequisite: Nightmare Stage 3-11 Loyalty
+30509	11106	13													Prerequisite: Nightmare Stage 3-12 A New Seed
+30510	11106	14													Prerequisite: Nightmare Stage 4-1 Night Escape
+30511	11106	15													Prerequisite: Nightmare Stage 4-2 Elimination
+30512	11106	16													Prerequisite: Nightmare Stage 4-3 Broken Chain
+30513	11106	17													Prerequisite: Nightmare Stage 4-4 Zack
+30514	11106	18													Prerequisite: Nightmare Stage 4-5 Raging Sand
+30515	11106	19													Prerequisite: Nightmare Stage 4-6 Panic Dive
+30516	11106	20													Prerequisite: Nightmare Stage 4-7 Forsaken
+30517	11106	21													Prerequisite: Nightmare Stage 4-8 Reinforcement
+30518	11106	22													Prerequisite: Nightmare Stage 4-9 None Shall Pass
+30519	11106	23													Prerequisite: Nightmare Stage 4-10 Silent Night
+30520	11106	24													Prerequisite: Nightmare Stage 4-11 Noises
+400000	22001	688888	1	1	1										Lee gets 688888 Cogs from New Year Present
+400001	22001	688888	1	1	2										Liv gets 688888 Cogs from New Year Present
+400002	22001	688888	1	1	3										Kamui gets 688888 Cogs from New Year Present
+400003	22001	688888	1	1	4										Lucia gets 688888 Cogs from New Year Present
+400004	22001	688888	1	1	5										Nanami gets 688888 Cogs from New Year Present
+400005	22001	688888	1	1	6										Celica gets 688888 Cogs from New Year Present
+400006	22001	688888	1	1	7										Karenina gets 688888 Cogs from New Year Present
+410000	18105	1	1												Deploy 1 Attacker-Type Construct
+410001	18105	3	1												Deploy 1 Healer-Type Construct
+410002	18105	2	1												Deploy 1 Tank-Type Construct
+410003	18106	3000	1												Deploy 1 or more Constructs with at least 3000 BP
+410004	18108	40	1												Deploy 1 Lv.40 or higher Construct
+410005	18103	1	1021001	1051001	1061002	1071002	1081002	1021002	1061003	1071003	1051003	1021003	1081003	1091002	Deploy a Melee-Type Construct
+410006	18103	1	1011002	1021001	1021002	1031002	1051003	1061003	1071002	1071003	1081003				Deploy a Construct with Elemental Stats
+7100	13113	1011002	1011003												Valentine's Message: Lee
+7101	13113	1031001	1031003	1031002											Valentine's Message: Liv
+7102	13113	1061002	1061003												Valentine's Message: Kamui
+7103	13113	1021001	1021002												Valentine's Message: Lucia
+7104	13113	1051001	1051003												Valentine's Message: Nanami
+7105	13113	1041002													Valentine's Message: Bianca
+7106	13113	1071002	1071003												Valentine's Message: Karenina
+7107	13113	1091002													Valentine's Message: Ayla
+7108	13113	1081003	1081002												Valentine's Message: Watanabe
+7109	13113	1021003													Valentine's Message: Lucia
+900000001	10105	10020101													Complete Normal Story 2-1
+900000002	10101	20													Unlocked when Commandant reaches Lv.20
+900000003	10101	55													Reach Commandant Level 55
+900000004	10101	70													Reach Commandant Level 70
+900000005	21101	2	90032												Claim Monthly Pass?

@@ -1,0 +1,1297 @@
+[
+    {
+        "Id": 101,
+        "Name": "Story Mission",
+        "ConditionIds": [
+            70101
+        ],
+        "Priority": 1,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, please allow me to remind you that each operation is accompanied by a variety of missions.",
+            "After completing the mission, you will receive a large number of supplies. Please make sure that you collect them in time.",
+            "This will help us acquire advanced equipment earlier, which will be useful in future operations.",
+            "Let us do so next."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 102,
+        "Name": "Get Constructs, level up",
+        "ConditionIds": [
+            70102
+        ],
+        "Priority": 2,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, thanks to everyone's hard work, I can finally rejoin the fight!",
+            "Before that, please upgrade and tune me, then assign the battle position for me.",
+            "Commandant... I can't wait to fight alongside with everyone together."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 103,
+        "Name": "Improve skill",
+        "ConditionIds": [
+            70103
+        ],
+        "Priority": 3,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Commandant, we Constructs will become more proficient at using our skills as we fight in more battles.",
+            "Please upgrade my skill level so that I can bring out its true potential.",
+            "If possible... please pay attention to my performance in the next battle."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 104,
+        "Name": "Novice Mission",
+        "ConditionIds": [
+            70104
+        ],
+        "Priority": 4,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Greetings, Commandant of the Gray Raven squad. There was something that I forgot to tell you.",
+            "Novice missions have been set for all first-timer squads in this operation. Squads can earn extra supplies by completing these goals.",
+            "I'm sure you'll have no problem clearing them. I have high hopes for you.",
+            "Good luck!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 105,
+        "Name": "Promote Construct",
+        "ConditionIds": [
+            70105
+        ],
+        "Priority": 5,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Commandant. The Constructs have their own military ranks.",
+            "It not only symbolizes honor, but raising their ranks will also increase their performance.",
+            "Complete specific missions to promote a Construct.",
+            "I look forward to bringing honor to the team, Commandant."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 1,
+        "Name": "Sign-in",
+        "ConditionIds": [
+            70001
+        ],
+        "Priority": 6,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, battles can be long and difficult. In return for your daily efforts...",
+            "Signing in will earn you supplies every day! They will help you in your journey.",
+            "The supply center has prepared a special weapon for you as your first sign-in reward.",
+            "Gray Raven will always be with you, Commandant!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 2,
+        "Name": "Mission - Daily",
+        "ConditionIds": [
+            70002
+        ],
+        "Priority": 7,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lee",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LiangNomal01.png",
+        "Contents": [
+            "Commandant, you should have your own mission board, right?",
+            "In addition to your main missions, there are daily missions that can be completed for that day.",
+            "Don't underestimate these mission rewards!",
+            "Now, let's take a look at the mission board."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 3,
+        "Name": "Research System",
+        "ConditionIds": [
+            70003
+        ],
+        "Priority": 8,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "？？？",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadYongyechao1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/Yongyechaonormal01.png",
+        "Contents": [
+            "Hello, Commandant of the Gray Raven squad!",
+            "Who am I? Don't you worry about that. We'll meet soon.",
+            "Now, I know what you're thinking...",
+            "You want more Constructs to join your squad, right?",
+            "Try out this R&D Ticket. Consider it a gift!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 111,
+        "Name": "Main Quest Guide",
+        "ConditionIds": [
+            70106
+        ],
+        "Priority": 9,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "As battles get more difficult, we need to ensure a steady flow of supplies.",
+            "Keep it up and complete your major missions.",
+            "This will ensure that we have enough resources as our enemies get tougher.",
+            "Let's strive for humanity together, Commandant."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 106,
+        "Name": "Daily - Character EXP",
+        "ConditionIds": [
+            70111
+        ],
+        "Priority": 10,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Outside of main missions, you can also have your Constructs take part in training programs.",
+            "Training allows us to gain experience in simulation battles.",
+            "Please remember to schedule training sessions for us in the future."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 4,
+        "Name": "Normal Shop",
+        "ConditionIds": [
+            70004
+        ],
+        "Priority": 11,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "A new support squad has arrived in the region, Commandant. They are eager to meet with you.",
+            "In addition to delivering supplies, they will also trade resources with you.",
+            "Let's try trading something with them."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 5,
+        "Name": "Tutorial Stage",
+        "ConditionIds": [
+            70005
+        ],
+        "Priority": 12,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Hello, Commandant! How are you getting along with the Constructs of Gray Raven?",
+            "What's that? Still feel like you don't know much about them?",
+            "Don't worry, I have a tutorial for you to help you understand them.",
+            "And here are some Black Cards to reward you for mastering it all.",
+            "So, please familiarize yourself with the abilities of the Constructs!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 107,
+        "Name": "Skill Stage",
+        "ConditionIds": [
+            70107
+        ],
+        "Priority": 13,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, are you running into skill point shortage issues when trying to upgrade Construct skills?",
+            "Battle Exercises are a great way to get more skill points.",
+            "Try it out if you need them."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 108,
+        "Name": "Coin Stage",
+        "ConditionIds": [
+            70108
+        ],
+        "Priority": 14,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "These cogs contain an important material used in our Construct frames.",
+            "A lot of cogs are required to extract enough materials to upgrade our frames.",
+            "Cogs can be found in many places, especially in Cogs Galore."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 6,
+        "Name": "Equipment EXP Stage",
+        "ConditionIds": [
+            70006
+        ],
+        "Priority": 15,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Commandant, our equipment are made from special materials.",
+            "Upgrading them requires the same special materials.",
+            "We can find these upgrade materials from Logistics Maintenance."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 7,
+        "Name": "Equipment Overclock Stage",
+        "ConditionIds": [
+            70007
+        ],
+        "Priority": 16,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lee",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LiangNomal01.png",
+        "Contents": [
+            "Commandant, equipment eventually reaches a point where they can no longer be upgraded.",
+            "Overclock materials are required to enhance them further.",
+            "This will allow you to enhance equipment to a higher level.",
+            "You can get Overclock materials from Military Hardware."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 8,
+        "Name": "Challenge - Trial Mission",
+        "ConditionIds": [
+            70008
+        ],
+        "Priority": 17,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Asimov",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/AximofuNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AximofuNomal01.png",
+        "Contents": [
+            "Looks like you're ready to move past basic battle operations.",
+            "I've seen many outstanding Commandants rise through the ranks, and I see the makings of one in you.",
+            "Try these challenges to prove your worth.",
+            "Why am I helping you? It's only to collect more data."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 9,
+        "Name": "Story Mission - Hard",
+        "ConditionIds": [
+            70009
+        ],
+        "Priority": 18,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Commandant, do you remember the battles that you participated in?",
+            "You usually only get to see one side of the story.",
+            "Over time, however, records from other sources become available.",
+            "Essentially, you have the chance to observe what happened from another perspective.",
+            "So, let's trying replaying the past, shall we?"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 109,
+        "Name": "Auto Clear",
+        "ConditionIds": [
+            70109
+        ],
+        "Priority": 19,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Once we're familiar with the tactics of a particular operation...",
+            "The risk of battling becomes greatly reduced. This enables the Auto Clear feature.",
+            "This allows us to complete familiar missions without the need of your command.",
+            "This way, you'll be able to focus your attention on more important missions."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 10,
+        "Name": "High-rank Equipment Stage",
+        "ConditionIds": [
+            70010
+        ],
+        "Priority": 20,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "High-rank Memories are important to improving the combative capabilities of a Construct.",
+            "The more difficult the Combat Supply mission, the higher the chance to get high-rank Memories.",
+            "Now, let's try more difficult missions to test the limits of the squad!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 11,
+        "Name": "Construct - Details",
+        "ConditionIds": [
+            70011
+        ],
+        "Priority": 21,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Kamui",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/ShenweiNormal01.png",
+        "Contents": [
+            "Greetings, Commandant of the Gray Raven squad!",
+            "Curious about me?",
+            "We all have our own personal files.",
+            "You may learn a thing or two about us Constructs when you look through them!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 112,
+        "Name": "Trial Zone",
+        "ConditionIds": [
+            70112
+        ],
+        "Priority": 22,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "We meet again, Commandant of Gray Raven.",
+            "Have you noticed that you now have access to the Trial Zone?",
+            "The Trial Zone offers the opportunity to try out various prototype projects under development...",
+            "... or, depending on the perspective, practical tricks by the research team."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 12,
+        "Name": "Construct Army",
+        "ConditionIds": [
+            70012
+        ],
+        "Priority": 23,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "More and more Constructs have joined our team.",
+            "You can view your Construct roster and status on the Construct Army page.",
+            "Reach Construct development milestones to get special materials.",
+            "I'm sure you'll find them useful..."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 13,
+        "Name": "Co-op",
+        "ConditionIds": [
+            852201
+        ],
+        "Priority": 24,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "Here's a message for you, rookie.",
+            "There have been sightings of very powerful Corrupted.",
+            "You should not attempt to combat these powerful foes on your own.",
+            "Join a Co-op operation to prove your ability to work with others.",
+            "I have high expectations for you, Gray Raven."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 110,
+        "Name": "Support",
+        "ConditionIds": [
+            70110
+        ],
+        "Priority": 25,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Most operations often involve multiple squads.",
+            "You can request assistance from other squads before a battle.",
+            "Try issuing a call for Constructs from other squads."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 14,
+        "Name": "Side Story",
+        "ConditionIds": [
+            70014
+        ],
+        "Priority": 26,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Commandant, remember Mr. Hassen's tip?",
+            "The more you know, the more decisions you face.",
+            "As your relationship with Constructs improves, you will be able to access more of their personal files.",
+            "Let me give you some advice. As you learn more about their past...",
+            "Make sure you treasure your present and future with them."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 15,
+        "Name": "Construct - Outfit",
+        "ConditionIds": [
+            70015
+        ],
+        "Priority": 27,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Commandant, we have received a new coating from HQ.",
+            "Coatings are purely cosmetic and do not affect Construct performance.",
+            "Um... Commandant, would you like me to put on a new coating?"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 16,
+        "Name": "Bounty Mission",
+        "ConditionIds": [
+            70016
+        ],
+        "Priority": 28,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Kamui",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/ShenweiNormal01.png",
+        "Contents": [
+            "Let's do some bounty missions, Commandant!",
+            "Oh, right. I need to explain them to you.",
+            "Completing bounty missions will earn your team a lot of experience.",
+            "But more importantly, bounty hunting sounds real cool!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 17,
+        "Name": "Study",
+        "ConditionIds": [
+            70017
+        ],
+        "Priority": 29,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 18,
+        "Name": "Infrastructure and Dormitory",
+        "ConditionIds": [
+            70018
+        ],
+        "Priority": 30,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, the Dormitory is finally open!",
+            "This symbolizes that we are ready to take root on Earth for the long haul.",
+            "I'm looking forward to living in the dorms with everybody!",
+            "You can also modify and upgrade the Dormitory.",
+            "I'm sure you'll make it a great place!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 19,
+        "Name": "Challenge - War Zone",
+        "ConditionIds": [
+            70019
+        ],
+        "Priority": 31,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Asimov",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/AximofuNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AximofuNomal01.png",
+        "Contents": [
+            "Which would you prefer, competition or cooperation?",
+            "Whether for honor or for resources, everything in the War Zone is earned through competition.",
+            "Earn a high enough rank to access a new War Zone...",
+            "...Which will grant even better rewards.",
+            "This is the ultimate trial ground for Gray Raven. How far can you go?"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 20,
+        "Name": "Challenge - Phantom Pain Cage",
+        "ConditionIds": [
+            70020
+        ],
+        "Priority": 32,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Nikola",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/NikelaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/NikelaNomal01.png",
+        "Contents": [
+            "Good. I was worried that you won't pick up the receiver.",
+            "I've been analyzing Gray Raven's battle logs.",
+            "It looks like those special Corrupted have been giving you a hard time.",
+            "I'm giving you permission to use the training facilities to simulate training against these special Corrupted.",
+            "Get used to fighting them quickly, because enemies will only get tougher."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 21,
+        "Name": "Exploration",
+        "ConditionIds": [
+            774300
+        ],
+        "Priority": 33,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Asimov",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/AximofuNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AximofuNomal01.png",
+        "Contents": [
+            "Are you as curious about this world as I am, Commandant of Gray Raven?",
+            "I long to return to Earth as much as you do, even though I was not born there.",
+            "There are so many secrets waiting to be discovered in the wastelands...",
+            "If you're interested, I can tell you about some... special places that we've found."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 22,
+        "Name": "Medal System",
+        "ConditionIds": [
+            852931
+        ],
+        "Priority": 34,
+        "SkipId": 21,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Greetings, Commandant. You now have access to the Medal system.",
+            "Medals are issued to those who have contributed to the cause of the United Human Front. You can find yours in the Central Database."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 555,
+        "Name": "Medal 1",
+        "ConditionIds": [
+            555
+        ],
+        "Priority": 35,
+        "SkipId": 500,
+        "BtnContent": "I got it",
+        "NpcName": "Nikola",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/NikelaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/NikelaNomal01.png",
+        "Contents": [
+            "I want to talk to you about Gray Raven's recent performance.",
+            "Your recent performance has been exemplary, and you have earned the medal of Ace Commandant.",
+            "With achievement also comes expectation. I look forward to your next victory.",
+            "I've sent you the certification link. Go ahead and claim your medal!"
+        ],
+        "Type": 2,
+        "CueIds": []
+    },
+    {
+        "Id": 556,
+        "Name": "Medal 2",
+        "ConditionIds": [
+            556
+        ],
+        "Priority": 36,
+        "SkipId": 500,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "It has been a long time since I've seen so many dots on the monitor. These dots represent the strongholds of humanity.",
+            "You've completed the mission successfully. And your contributions to Babylonia are well-noted.",
+            "I hereby issue you the Medal of Pioneers in recognition of your achievements. I look forward to your future endeavors!",
+            "Go, claim this medal of glory now."
+        ],
+        "Type": 2,
+        "CueIds": []
+    },
+    {
+        "Id": 557,
+        "Name": "Medal 3",
+        "ConditionIds": [
+            557
+        ],
+        "Priority": 37,
+        "SkipId": 500,
+        "BtnContent": "I got it",
+        "NpcName": "Nikola",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/NikelaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/NikelaNomal01.png",
+        "Contents": [
+            "Hmph, you are full of surprises.",
+            "It's been a long time since I last saw a Commandant reach 1 million Progress. You were only a little slower than my performance when I was young.",
+            "You should be proud of it. It's an exclusive club of two.",
+            "You are now authorized for the medal. Claim it now!"
+        ],
+        "Type": 2,
+        "CueIds": []
+    },
+    {
+        "Id": 558,
+        "Name": "Medal 4",
+        "ConditionIds": [
+            558
+        ],
+        "Priority": 38,
+        "SkipId": 500,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "This is the 9th liberation report from you. It seemed like an eternity ago that you and your team fought in your first battle...",
+            "You and your Constructs have grown into a true team, a bright beacon in the darkness. Your companions also indicate your strength.",
+            "Here is the Medal of Light Tower in honor of your achievements as the guiding light of humanity.",
+            "Now share the joy with your comrades!"
+        ],
+        "Type": 2,
+        "CueIds": []
+    },
+    {
+        "Id": 559,
+        "Name": "Medal 5",
+        "ConditionIds": [
+            559
+        ],
+        "Priority": 39,
+        "SkipId": 500,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "I've seen you overcome many challenges in your path.",
+            "The path of leadership that you walk brings back many memories.",
+            "On behalf of the United Humanity Front, I hereby issue to you the Medal of Human Leader.",
+            "From now on, your duty is not to earn the approval of others, but to bring them hope and point them towards the future. See you on the bridge."
+        ],
+        "Type": 2,
+        "CueIds": []
+    },
+    {
+        "Id": 599,
+        "Name": "Clear Stronghold Chapter 1",
+        "ConditionIds": [
+            70119
+        ],
+        "Priority": 40,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Congratulations on the capture of City 015, Commandant. The Engineering Force is already on its way to repair the city's Central Purification Filter.",
+            "Be careful, however, as there are still pockets of Corrupted on the outskirts."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 600,
+        "Name": "Clear Stronghold Chapter 2",
+        "ConditionIds": [
+            70113
+        ],
+        "Priority": 41,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "A small step for your team, a great step towards victory over the Punishing Virus.",
+            "Gray Raven's efforts have led to the full retreat of the Ascendant from this city, as well as the establishment of our first major stronghold on Earth. I look forward to your future performance."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 601,
+        "Name": "Clear Stronghold Chapter 3",
+        "ConditionIds": [
+            70114
+        ],
+        "Priority": 42,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "You have not only recaptured a stronghold for humanity, but also preserved the artifacts of the museum. Good job.",
+            "The Archaeological Team sends their regards. We'll make sure that you're rewarded!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 602,
+        "Name": "Clear Stronghold Chapter 4",
+        "ConditionIds": [
+            70115
+        ],
+        "Priority": 43,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "Good job completing your mission in the harsh environment of the desert.",
+            "We've struggled to make headways in this region for a long time, now, we've finally established a foothold here thanks to you. The work of Babylonia can finally be carried out smoothly."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 603,
+        "Name": "Clear Stronghold Chapter 5",
+        "ConditionIds": [
+            70116
+        ],
+        "Priority": 44,
+        "BtnContent": "I got it",
+        "NpcName": "Asimov",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/AximofuNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AximofuNomal01.png",
+        "Contents": [
+            "The data that you obtained from the test area are of great... historical importance to the development of M.I.N.D. technology.",
+            "I thank you on behalf of the education center under the Science Council."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 604,
+        "Name": "Clear Stronghold Chapter 6",
+        "ConditionIds": [
+            70117
+        ],
+        "Priority": 45,
+        "BtnContent": "I got it",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "I'm sure you understand that details regarding the Luna City Arsenal are classified.",
+            "That's why we're not in a position to hold a public award ceremony for you.",
+            "Still, you should know that we appreciate your work."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 605,
+        "Name": "Clear Stronghold Chapter 7",
+        "ConditionIds": [
+            70118
+        ],
+        "Priority": 46,
+        "BtnContent": "I got it",
+        "NpcName": "Asimov",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/AximofuNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AximofuNomal01.png",
+        "Contents": [
+            "The murals... Sagemachina... interesting.",
+            "Your capture of these ruins allows us to investigate them up close. Good job."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 700,
+        "Name": "Gift Mission Lee",
+        "ConditionIds": [
+            400000
+        ],
+        "Priority": 47,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Lee",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LiangNomal01.png",
+        "Contents": [
+            "Thanks for spending time with them.",
+            "We've been able to enjoy the holidays thanks to you.",
+            "Have a good rest. I've prepared a little gift for you back at HQ. Check it out later!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 701,
+        "Name": "Gift Mission Liv",
+        "ConditionIds": [
+            400001
+        ],
+        "Priority": 48,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "I've never been part of an event like this... It feels a little strange.",
+            "But I enjoy seeing the smile on everybody's faces.",
+            "Here's a little gift. I hope you like it."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 702,
+        "Name": "Gift Mission Kamui",
+        "ConditionIds": [
+            400002
+        ],
+        "Priority": 49,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Kamui",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/ShenweiNormal01.png",
+        "Contents": [
+            "Hey Commandant, guess what I have for you?",
+            "It's my special New Year present!",
+            "Wait, where did it go? I thought I put it in my bag...",
+            "Did I already send it out? Let's go take a look!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 703,
+        "Name": "Gift Mission Lucia",
+        "ConditionIds": [
+            400003
+        ],
+        "Priority": 50,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Happy New Year, Commandant.",
+            "Thank you for all that you've done this past year.",
+            "May the next year be just as productive."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 704,
+        "Name": "Gift Mission Nanami",
+        "ConditionIds": [
+            400004
+        ],
+        "Priority": 51,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Nanami",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadYongyechao1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/Yongyechaonormal01.png",
+        "Contents": [
+            "Commandant, Commandant! Happy New Year!",
+            "Miss me already?",
+            "Guess what, Nanami’s got a New Year present for you!",
+            "Happy? Like it? This is the part where you praise Nanami!"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 705,
+        "Name": "Gift Mission Celica",
+        "ConditionIds": [
+            400005
+        ],
+        "Priority": 52,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Celica",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/SailikaNomal01.png",
+        "Contents": [
+            "It was quite a surprise when you asked me to come over for Spring Festival.",
+            "But I really enjoyed it!",
+            "Here's a little something in return.",
+            "Keep it a secret between us, ok?"
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 706,
+        "Name": "Gift Mission Karenina",
+        "ConditionIds": [
+            400006
+        ],
+        "Priority": 53,
+        "SkipId": 8002,
+        "BtnContent": "I got it",
+        "NpcName": "Karenina",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKalienina1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/KalieninaNomal01.png",
+        "Contents": [
+            "I'm definitely not saying that I enjoyed Spring Festival with you guys!",
+            "I'm just saying that if you're gonna have a party, you need fireworks!",
+            "Luckily for you, I've got them prepared.",
+            "And since it's boring to watch fireworks by myself, I'll let you watch them together with me."
+        ],
+        "Type": 1,
+        "CueIds": []
+    },
+    {
+        "Id": 800,
+        "Name": "Valentine's Message: Lee",
+        "ConditionIds": [
+            7100
+        ],
+        "Priority": 54,
+        "SkipId": 9001,
+        "BtnContent": "Happy Valentine's Day, Lee.",
+        "NpcName": "Lee",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LiangNomal01.png",
+        "Contents": [
+            "I've already uploaded today's battle data analysis report onto the system. Once we've collected enough data, I'll hand in a Construct refinement report to the Council.",
+            "Upgrading a Construct's frame needs to be done with extreme caution, and requires constant optimization and fine-tuning. It's not something that can be done in a day, but it's definitely not meaningless.",
+            "This is the end of today's report... By the way, I found out that today is a celebration in the west back in the Golden Age where... people gave gifts to those dear to them.",
+            "Don't get me wrong, I just think that celebrations are a core part of humanity, and for a certain someone to miss out on this important event would be... unfortunate.",
+            "Which is why, in order to make sure you don't miss out, I'll... always be here by your side, celebration or not. Happy Valentine's, KURONAME."
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 801,
+        "Name": "Valentine's Message: Liv",
+        "ConditionIds": [
+            7101
+        ],
+        "Priority": 55,
+        "SkipId": 9001,
+        "BtnContent": "Happy Valentine's Day, Liv.",
+        "NpcName": "Liv",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LifuNormal01.png",
+        "Contents": [
+            "Commandant, today is a very important day in the Golden Age western culture, do you know what it is? It's the day of love!",
+            "Back in the Golden Age, people on Earth would give chocolates to the people they love, and the streets were filled with happy couples.",
+            "...I feel happy just thinking about it. I hope the world will be filled with love again once we reclaim Earth.",
+            "I wanted to experience it too, so I made some chocolates...",
+            "If it's not too much, will you accept these, Commandant?"
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 802,
+        "Name": "Valentine's Message: Kamui",
+        "ConditionIds": [
+            7102
+        ],
+        "Priority": 56,
+        "SkipId": 9001,
+        "BtnContent": "Happy Valentine's Day.",
+        "NpcName": "Kamui",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/ShenweiNormal01.png",
+        "Contents": [
+            "Commandant! Happy Valentine's Day! I read that on Valentine's Day, you confessed your love. In the visual nov... I mean, the information I found! Valentine's Day is the day you spend with the most important person in your life!",
+            "And to me, that person is, of course, you, Commandant! Am I your most important person too, Commandant? I am, right? Right?",
+            "Hehe, anyway, I've prepared Valentine Serum chocolate for you! I've put tons of sugar in it. Nothing says Valentine's Day like it, right?",
+            "If you have time... could you come to my room tonight... I found a fighting game popular during the Golden Age! You're gonna love it! We can play it all night long!"
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 803,
+        "Name": "Valentine's Message: Lucia",
+        "ConditionIds": [
+            7103
+        ],
+        "Priority": 57,
+        "SkipId": 9001,
+        "BtnContent": "I like Lucia too. Happy Valentine's Day.",
+        "NpcName": "Lucia",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadluxiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/LuxiyaNormal01.png",
+        "Contents": [
+            "Commandant, for all the times we've gone through, thank you for your leadership and guidance... Why did I say these things?",
+            "...According to the information of Golden Age festivals, today is the day where people expressed their feelings to their beloved with chocolate as a gift. Is it correct?",
+            "I see, so the information is true... You haven't misunderstood. Commandant is no doubt the one I like.",
+            "I've prepared hand-made chocolates for you. But I'm not... very familiar with this. I promise I will work harder on it, Commandant.",
+            "Happy Valentine's Day, Commandant."
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 804,
+        "Name": "Valentine's Message: Nanami",
+        "ConditionIds": [
+            7104
+        ],
+        "Priority": 58,
+        "SkipId": 9001,
+        "BtnContent": "Thank you.",
+        "NpcName": "Nanami",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadYongyechao1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/Yongyechaonormal01.png",
+        "Contents": [
+            "Hey hey! It's Nanami! Commandant, do you know what is today?",
+            "Yep! It's Valentine's Day! Do you feel your heart is racing a bit faster?",
+            "Speaking of Valentine's Day, chocolate is the thing we definitely can't miss!",
+            "Ms. Celica said if there is a very very important person to you, you have to make a very very yummy chocolate as a present. So Nanami has spent a whole night... or two days... a long time anyway, to make this!",
+            "You have to enjoy it slowly! Nanami won't allow you to swallow it in only one bite!"
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 805,
+        "Name": "Valentine's Message: Bianca",
+        "ConditionIds": [
+            7105
+        ],
+        "Priority": 59,
+        "SkipId": 9001,
+        "BtnContent": "Happy Valentine's Day, Bianca.",
+        "NpcName": "Bianca",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadAolisuo1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/OlisuoNomal01.png",
+        "Contents": [
+            "I hope I didn't catch you at a bad time, Commandant of Gray Raven.",
+            "According to the database, today is a vital western festival during the Golden Age, Valentine's Day.",
+            "On this day, people used to make a chocolate that contained their feelings and give it to the person who was important to them.",
+            "If you don't mind, please accept this. I don't know if you like sweets or not... but I hope you will like it.",
+            "...Happy Valentine's Day, KURONAME."
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 806,
+        "Name": "Valentine's Message: Karenina",
+        "ConditionIds": [
+            7106
+        ],
+        "Priority": 60,
+        "SkipId": 9001,
+        "BtnContent": "Thank... Thank you...",
+        "NpcName": "Karenina",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKalienina1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/KalieninaNomal01.png",
+        "Contents": [
+            "What? I couldn't care less about this boring festival.",
+            "But, well, since you look forward to that, I've prepared chocolates for you, just because I don't want to let you down.",
+            "Hmph, they're not exquisite, but I'm sure they will impress you!"
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 807,
+        "Name": "Valentine's Message: Ayla",
+        "ConditionIds": [
+            7107
+        ],
+        "Priority": 61,
+        "SkipId": 9001,
+        "BtnContent": "Thank you.",
+        "NpcName": "Ayla",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadAila1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/AilaNormal01.png",
+        "Contents": [
+            "Commandant! Happy Valentine's Day! On this day, what cannot be missed is chocolate!",
+            "Hehe... Look! Special chocolate made by me! The proportion of sugar, milk and cocoa is 1:2:4, which is a golden formula showed in Golden Age movies! Also I've used solidified serum as stuffing!",
+            "By the way, this serum is slightly different. After all... we've shared some mutual secrets, right?",
+            "What? Have I tasted it before? How could I taste it before you do? It's a big gift to KURONAME!"
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 808,
+        "Name": "Valentine's Message: Watanabe",
+        "ConditionIds": [
+            7108
+        ],
+        "Priority": 62,
+        "SkipId": 9001,
+        "BtnContent": "Happy Valentine's Day!",
+        "NpcName": "Watanabe",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadDubian1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/DubianNormal01.png",
+        "Contents": [
+            "BZZZZ—Can you hear me? The signal here's a bit unstable... What's with that face? You worried about me? As you can see, there's nothing to worry about. I'm fine.",
+            "This is for you, made with raw dark chocolate and Serum. I used to eat this kind of chocolate in the army all the time to refresh myself.",
+            "Yeah, I made it. What? It's not that hard to make chocolate... Why am I giving you chocolate? Do you really need me to explain?",
+            "Happy Valentine's Day. I'll be waiting for you outside Oasis later. You're worried about me, right? Then come see for yourself that I'm fine."
+        ],
+        "Type": 3,
+        "CueIds": []
+    },
+    {
+        "Id": 809,
+        "Name": "Valentine's Message: Lucia",
+        "ConditionIds": [
+            7109
+        ],
+        "Priority": 63,
+        "SkipId": 9001,
+        "BtnContent": "Thank you.",
+        "NpcName": "α",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLuxiyaaerfa1SS.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/R3LuxiyaNormal03.png",
+        "Contents": [
+            "*WARNING! The communication channel has been hacked! Please disconnect it immediately!*",
+            "This is for you.",
+            "I'm sure you won't feel alone today as you have Gray Ravens by your side.",
+            "But still... Happy Valentine's Day."
+        ],
+        "Type": 3,
+        "CueIds": []
+    }
+]

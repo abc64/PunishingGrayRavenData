@@ -1,0 +1,56 @@
+[
+    {
+        "Id": 10010001,
+        "Behavior": 10010001,
+        "Name": "【序章第1关】",
+        "CloseLoadingDelay": 1,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 5,
+        "CameraId": 9,
+        "Terrains": [
+            100100010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10010002,
+        "Behavior": 10010002,
+        "Name": "【序章第2关】",
+        "CloseLoadingDelay": 1,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 9,
+        "Terrains": [
+            100100020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10010003,
+        "Behavior": 10010003,
+        "Name": "【序章第3关】",
+        "CloseLoadingDelay": 1,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 2,
+        "CameraId": 10,
+        "Terrains": [
+            100100030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

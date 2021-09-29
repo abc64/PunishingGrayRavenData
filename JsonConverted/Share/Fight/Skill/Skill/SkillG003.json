@@ -1,0 +1,693 @@
+[
+    {
+        "Id": 901998,
+        "Name": "重构镇暴兵-盾墙释放",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 901999,
+        "Name": "重构镇暴兵-盾墙结束",
+        "CastTime": 0.5,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992101,
+        "Name": "剑客拔刀斩",
+        "CastTime": 2.53,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992102,
+        "Name": "剑客连续斩",
+        "CastTime": 2.7,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992103,
+        "Name": "剑客挥劈",
+        "CastTime": 2.2,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992104,
+        "Name": "剑客戳刺",
+        "CastTime": 2.33,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992105,
+        "Name": "剑客大招",
+        "CastTime": 3.13,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970101,
+        "Name": "Skill-01-跳跃",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970102,
+        "Name": "Skill-02-戳刺",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970103,
+        "Name": "Skill-03-吐息",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970104,
+        "Name": "Skill-04-轰炸",
+        "CastTime": 4.5,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970105,
+        "Name": "Skill-05-漏酸",
+        "CastTime": 2.7,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970106,
+        "Name": "表演",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970107,
+        "Name": "瘫痪-in",
+        "CastTime": 1.2,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970108,
+        "Name": "瘫痪-loop",
+        "CastTime": 0.3,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970109,
+        "Name": "瘫痪-out",
+        "CastTime": 1.1,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970110,
+        "Name": "转身",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 970201,
+        "Name": "Skill-01-跳跃",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970202,
+        "Name": "Skill-02-戳刺",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970203,
+        "Name": "Skill-03-吐息",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970204,
+        "Name": "Skill-04-轰炸",
+        "CastTime": 4.5,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 970205,
+        "Name": "Skill-05-漏酸",
+        "CastTime": 2.7,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970206,
+        "Name": "表演",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970207,
+        "Name": "瘫痪-in",
+        "CastTime": 1.2,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970208,
+        "Name": "瘫痪-loop",
+        "CastTime": 0.3,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970209,
+        "Name": "瘫痪-out",
+        "CastTime": 1.1,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 970210,
+        "Name": "转身",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 992201,
+        "Name": "Skill-01-跳跃",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992202,
+        "Name": "Skill-02-戳刺",
+        "CastTime": 2.1,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992203,
+        "Name": "Skill-03-喷泉",
+        "CastTime": 4.5,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 992204,
+        "Name": "Skill-04-轰炸",
+        "CastTime": 4.5,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 992205,
+        "Name": "Skill-05-漏酸",
+        "CastTime": 5.14,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992206,
+        "Name": "表演",
+        "CastTime": 3.4,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992207,
+        "Name": "瘫痪-in",
+        "CastTime": 1.2,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992208,
+        "Name": "瘫痪-loop",
+        "CastTime": 0.3,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992209,
+        "Name": "瘫痪-out",
+        "CastTime": 1.1,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992210,
+        "Name": "Skill-06-直线",
+        "CastTime": 2.2,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 992211,
+        "Name": "Skill-07-爱心3",
+        "CastTime": 1.73,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992212,
+        "Name": "Skill-08-爱心4",
+        "CastTime": 1.73,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992213,
+        "Name": "Skill-09-爱心5",
+        "CastTime": 1.73,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992214,
+        "Name": "Skill-10-爱心6",
+        "CastTime": 1.73,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992215,
+        "Name": "Skill-11-爱心7",
+        "CastTime": 1.73,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992301,
+        "Name": "重构镇暴兵盾猛",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992302,
+        "Name": "重构镇暴兵横扫",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992303,
+        "Name": "重构镇暴兵-冲锋-1",
+        "CastTime": 1.1,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992304,
+        "Name": "重构镇暴兵-冲锋-2",
+        "CastTime": 2.2,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 992305,
+        "Name": "重构镇暴兵-冲锋-3",
+        "CastTime": 1.3,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903501,
+        "Name": "铁罐（实验级）-普攻-红茶",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903502,
+        "Name": "铁罐（实验级）-摇摇乐-回收",
+        "CastTime": 2.67,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903503,
+        "Name": "铁罐（实验级）-摇摇乐-摇红",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903504,
+        "Name": "铁罐（实验级）-摇摇乐-摇黄",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903505,
+        "Name": "铁罐（实验级）-摇摇乐-摇蓝",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903506,
+        "Name": "铁罐（实验级）-摇摇乐-技红",
+        "CastTime": 1.17,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "MissileLockTarget": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903507,
+        "Name": "铁罐（实验级）-摇摇乐-技黄",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903508,
+        "Name": "铁罐（实验级）-摇摇乐-技蓝",
+        "CastTime": 2.13,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903509,
+        "Name": "铁罐（实验级）-空手-炮台",
+        "CastTime": 6.5,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903510,
+        "Name": "铁罐（实验级）-表现-愉悦",
+        "CastTime": 2.5,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903511,
+        "Name": "铁罐（实验级）-普攻-巴掌",
+        "CastTime": 1.67,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903512,
+        "Name": "铁罐（实验级）-表现-自爆",
+        "CastTime": 2.5,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 903513,
+        "Name": "铁罐（实验级）-特殊-小自爆",
+        "CastTime": 3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 200801,
+        "Name": "新空气墙-空气墙碰撞",
+        "CastTime": 0.05,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 200901,
+        "Name": "死亡",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 200902,
+        "Name": "展开",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 200903,
+        "Name": "收起",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201601,
+        "Name": "死亡",
+        "CastTime": 2,
+        "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201602,
+        "Name": "展开",
+        "CastTime": 2.75,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201603,
+        "Name": "收起",
+        "CastTime": 2.75,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201604,
+        "Name": "展开-放电",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 201605,
+        "Name": "合闭-维持",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Stand1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    }
+]

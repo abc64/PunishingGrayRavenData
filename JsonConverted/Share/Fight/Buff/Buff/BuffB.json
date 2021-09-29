@@ -1,0 +1,3152 @@
+[
+    {
+        "Id": 900001,
+        "Delay": 0,
+        "Duration": 60,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": "9000010|9000013"
+    },
+    {
+        "Id": 900002,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000020
+    },
+    {
+        "Id": 900003,
+        "Delay": 0,
+        "Duration": 999,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000030|9000033",
+        "Magic": 900003000
+    },
+    {
+        "Id": 900004,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000040|9000043",
+        "Magic": 900004000
+    },
+    {
+        "Id": 900005,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000050|9000053",
+        "Effect": "FxHudun",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 900006,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000060|9000063",
+        "Cover": 9000050
+    },
+    {
+        "Id": 900007,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000070|9000073",
+        "Effect": "FxMebiaoji001"
+    },
+    {
+        "Id": 900008,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000080|9000083",
+        "Effect": "FxBorn01"
+    },
+    {
+        "Id": 900009,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000090|9000093",
+        "Magic": 900009000
+    },
+    {
+        "Id": 900010,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000100|9000103",
+        "Cover": "9000090|9000350",
+        "Mutex": "9000090|9000350",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900011,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000110,
+        "Magic": 900011000
+    },
+    {
+        "Id": 900012,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000120|9000123",
+        "Magic": 900012000
+    },
+    {
+        "Id": 900013,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000130,
+        "Magic": 900013000
+    },
+    {
+        "Id": 900014,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000140|9000143",
+        "Magic": 900014000
+    },
+    {
+        "Id": 900015,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000150|9000153",
+        "Magic": 900015000
+    },
+    {
+        "Id": 900016,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000160,
+        "Magic": 900016000
+    },
+    {
+        "Id": 900019,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000190,
+        "Magic": 900019000
+    },
+    {
+        "Id": 900020,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000200|9000203",
+        "Magic": 900020000
+    },
+    {
+        "Id": 900021,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000210,
+        "Cover": 1000900,
+        "Mutex": 1000900
+    },
+    {
+        "Id": 900022,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000220|9000223",
+        "Magic": 900022000
+    },
+    {
+        "Id": 900023,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000230|9000233",
+        "Magic": 900023000
+    },
+    {
+        "Id": 900024,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000240,
+        "Cover": 9000230,
+        "Mutex": 9000230
+    },
+    {
+        "Id": 900025,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000250|9000250",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900026,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000260,
+        "Magic": 900026000
+    },
+    {
+        "Id": 900027,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000270,
+        "Magic": 900027000
+    },
+    {
+        "Id": 900029,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000290|9000293",
+        "Magic": 900029000
+    },
+    {
+        "Id": 900030,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000300,
+        "Cover": 9000290,
+        "Mutex": 9000290
+    },
+    {
+        "Id": 900031,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000310,
+        "Magic": 900031000
+    },
+    {
+        "Id": 900032,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000320,
+        "Magic": 900032000
+    },
+    {
+        "Id": 900033,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000330,
+        "Magic": 900033000
+    },
+    {
+        "Id": 900035,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000350,
+        "Effect": "FxTongyongBati"
+    },
+    {
+        "Id": 900050,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000500,
+        "Magic": 900050000
+    },
+    {
+        "Id": 900051,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000510,
+        "Magic": 900051000
+    },
+    {
+        "Id": 900052,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9000520
+    },
+    {
+        "Id": 900053,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000530,
+        "Magic": 900053000
+    },
+    {
+        "Id": 900055,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000550
+    },
+    {
+        "Id": 900056,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000560,
+        "Magic": 900056000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900057,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000570|8",
+        "Mutex": "10|15"
+    },
+    {
+        "Id": 900058,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000580,
+        "Magic": 900058000
+    },
+    {
+        "Id": 900059,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000590,
+        "Magic": 900059000
+    },
+    {
+        "Id": 900060,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000600,
+        "Cover": 9000580,
+        "Mutex": 9000580
+    },
+    {
+        "Id": 900061,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000610,
+        "Cover": 9000590,
+        "Mutex": 9000590
+    },
+    {
+        "Id": 900062,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000620,
+        "Magic": 900062000
+    },
+    {
+        "Id": 900063,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000630,
+        "Magic": 900063000
+    },
+    {
+        "Id": 900064,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000640,
+        "Magic": 900064000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900065,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9000650|1000",
+        "Magic": 900065000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900066,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000660,
+        "Magic": 900066000
+    },
+    {
+        "Id": 900067,
+        "Delay": 0,
+        "Duration": "-1",
+        "EffectType": 900067,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9000670,
+        "Magic": 900067000,
+        "Effect": "FxCizhuiBaozou",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 900068,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000680,
+        "Magic": 900068000
+    },
+    {
+        "Id": 900070,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000700
+    },
+    {
+        "Id": 900071,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000710
+    },
+    {
+        "Id": 900072,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000720
+    },
+    {
+        "Id": 900073,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000730
+    },
+    {
+        "Id": 900074,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000740
+    },
+    {
+        "Id": 900075,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000750
+    },
+    {
+        "Id": 900076,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000760
+    },
+    {
+        "Id": 900077,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000770
+    },
+    {
+        "Id": 900078,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000780
+    },
+    {
+        "Id": 900079,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000790
+    },
+    {
+        "Id": 900080,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000800,
+        "Magic": 900080000
+    },
+    {
+        "Id": 900081,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000810,
+        "Magic": 900081000
+    },
+    {
+        "Id": 900082,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000820
+    },
+    {
+        "Id": 900083,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000830,
+        "Magic": 900083000
+    },
+    {
+        "Id": 900085,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000850,
+        "Magic": 900085000
+    },
+    {
+        "Id": 900086,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000860,
+        "Magic": 900086000
+    },
+    {
+        "Id": 900087,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000870,
+        "Magic": 900087000
+    },
+    {
+        "Id": 900088,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000880,
+        "Magic": 900088000
+    },
+    {
+        "Id": 900089,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000890,
+        "Magic": 900089000
+    },
+    {
+        "Id": 900090,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000900,
+        "Magic": 900090000
+    },
+    {
+        "Id": 900091,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000910,
+        "Magic": 900091000
+    },
+    {
+        "Id": 900092,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000920,
+        "Magic": 900092000
+    },
+    {
+        "Id": 900093,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000930,
+        "Magic": 900093000
+    },
+    {
+        "Id": 900094,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000940,
+        "Magic": 900094000
+    },
+    {
+        "Id": 900095,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000950,
+        "Magic": 900095000
+    },
+    {
+        "Id": 900096,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9000960,
+        "Magic": 900096000
+    },
+    {
+        "Id": 900101,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9001010,
+        "Magic": 900101000
+    },
+    {
+        "Id": 900102,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9001020|9001020",
+        "Magic": 900102000
+    },
+    {
+        "Id": 900103,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9001030|9001030"
+    },
+    {
+        "Id": 900104,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9001040,
+        "Magic": 900104000
+    },
+    {
+        "Id": 900105,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9001050,
+        "Magic": 900105000
+    },
+    {
+        "Id": 900106,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9001060,
+        "Cover": 1013360,
+        "Mutex": 1013360,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 900107,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9001070,
+        "Magic": 900107000
+    },
+    {
+        "Id": 900201,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002010,
+        "Magic": 900201000
+    },
+    {
+        "Id": 900202,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002020,
+        "Magic": 900202000
+    },
+    {
+        "Id": 900203,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002030,
+        "Magic": 900203000
+    },
+    {
+        "Id": 900204,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002040,
+        "Magic": 900204000
+    },
+    {
+        "Id": 900205,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002050,
+        "Magic": 900205000
+    },
+    {
+        "Id": 900206,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002060,
+        "Magic": 900206000
+    },
+    {
+        "Id": 900207,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002070,
+        "Magic": 900207000
+    },
+    {
+        "Id": 900208,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002080,
+        "Magic": 900208000
+    },
+    {
+        "Id": 900209,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002090,
+        "Magic": 900209000
+    },
+    {
+        "Id": 900210,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002100
+    },
+    {
+        "Id": 900211,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002110,
+        "Magic": 900211000
+    },
+    {
+        "Id": 900212,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002120
+    },
+    {
+        "Id": 900213,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002130,
+        "Magic": 900213000
+    },
+    {
+        "Id": 900214,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9002140,
+        "Magic": 900214000
+    },
+    {
+        "Id": 900701,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9007010|9007013",
+        "Magic": 900701000
+    },
+    {
+        "Id": 900702,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9007020|9007023",
+        "Cover": 9007010,
+        "Mutex": 9007010
+    },
+    {
+        "Id": 900705,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9007050|9007053",
+        "Magic": 900705000
+    },
+    {
+        "Id": 900706,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9007060|9007063",
+        "Cover": 9007050,
+        "Mutex": 9007050
+    },
+    {
+        "Id": 900707,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9007070
+    },
+    {
+        "Id": 900708,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9007080
+    },
+    {
+        "Id": 900709,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9007090,
+        "Effect": "FxTongyongBatiStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 970001,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700010
+    },
+    {
+        "Id": 970002,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700020
+    },
+    {
+        "Id": 970003,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700030,
+        "Cover": "9700010|9700020"
+    },
+    {
+        "Id": 970004,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700040
+    },
+    {
+        "Id": 970005,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700050
+    },
+    {
+        "Id": 970006,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9700060,
+        "Magic": 970006000
+    },
+    {
+        "Id": 971001,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9710010
+    },
+    {
+        "Id": 971002,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710020,
+        "Cover": "9710010|9710710",
+        "Mutex": "9710010|9710710"
+    },
+    {
+        "Id": 971003,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710030,
+        "Magic": 971003000
+    },
+    {
+        "Id": 971004,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710040
+    },
+    {
+        "Id": 971005,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710050
+    },
+    {
+        "Id": 971006,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710060
+    },
+    {
+        "Id": 971007,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710070,
+        "Magic": 971007000
+    },
+    {
+        "Id": 971008,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "9710080|17|5|10",
+        "Magic": 971008000
+    },
+    {
+        "Id": 971009,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710090,
+        "Magic": 971009000
+    },
+    {
+        "Id": 971010,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710100
+    },
+    {
+        "Id": 971011,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710110
+    },
+    {
+        "Id": 971012,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710120
+    },
+    {
+        "Id": 971013,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710130,
+        "Magic": 971013000
+    },
+    {
+        "Id": 971014,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710140
+    },
+    {
+        "Id": 971016,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710160
+    },
+    {
+        "Id": 971017,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710170
+    },
+    {
+        "Id": 971018,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710180
+    },
+    {
+        "Id": 971020,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710200
+    },
+    {
+        "Id": 971021,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710210
+    },
+    {
+        "Id": 971022,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710220
+    },
+    {
+        "Id": 971023,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710230
+    },
+    {
+        "Id": 971026,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710260
+    },
+    {
+        "Id": 971027,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710270
+    },
+    {
+        "Id": 971028,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710280
+    },
+    {
+        "Id": 971029,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710290
+    },
+    {
+        "Id": 971030,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710300,
+        "Magic": 971030000
+    },
+    {
+        "Id": 971031,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710310
+    },
+    {
+        "Id": 971033,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710330
+    },
+    {
+        "Id": 971034,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710340
+    },
+    {
+        "Id": 971035,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710350
+    },
+    {
+        "Id": 971036,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710360
+    },
+    {
+        "Id": 971037,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710370,
+        "Magic": 971037000
+    },
+    {
+        "Id": 971038,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710380
+    },
+    {
+        "Id": 971039,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710390,
+        "Magic": 971039000
+    },
+    {
+        "Id": 971041,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710410,
+        "Magic": 971041000
+    },
+    {
+        "Id": 971042,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710420,
+        "Cover": 9710410,
+        "Mutex": 9710410
+    },
+    {
+        "Id": 971043,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710430,
+        "Magic": 971043000
+    },
+    {
+        "Id": 971044,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710440,
+        "Magic": 971044000
+    },
+    {
+        "Id": 971045,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710450,
+        "Magic": 971045000
+    },
+    {
+        "Id": 971046,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710460,
+        "Magic": 971046000
+    },
+    {
+        "Id": 971047,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710470,
+        "Magic": 971047000
+    },
+    {
+        "Id": 971048,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710480,
+        "Magic": 971048000
+    },
+    {
+        "Id": 971049,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710490,
+        "Magic": 971049000
+    },
+    {
+        "Id": 971050,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710500,
+        "Magic": 971050000
+    },
+    {
+        "Id": 971051,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710510,
+        "Magic": 971051000
+    },
+    {
+        "Id": 971052,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710520,
+        "Magic": 971052000
+    },
+    {
+        "Id": 971053,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710530,
+        "Cover": 9710530,
+        "Magic": 971053000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001LForearm",
+        "EffectJoint": "Bip001LForearm"
+    },
+    {
+        "Id": 971054,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710540,
+        "Cover": 9710540,
+        "Magic": 971054000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001LThigh",
+        "EffectJoint": "Bip001LThigh"
+    },
+    {
+        "Id": 971055,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710550,
+        "Cover": 9710550,
+        "Magic": 971055000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001Neck",
+        "EffectJoint": "Bip001Neck"
+    },
+    {
+        "Id": 971056,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710560,
+        "Cover": 9710560,
+        "Magic": 971056000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001RCalf",
+        "EffectJoint": "Bip001RCalf"
+    },
+    {
+        "Id": 971057,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710570,
+        "Cover": 9710570,
+        "Magic": 971057000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001Spine1",
+        "EffectJoint": "Bip001Spine1"
+    },
+    {
+        "Id": 971058,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710580,
+        "Cover": 9710580,
+        "Magic": 971058000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianDummy002",
+        "EffectJoint": "Dummy002"
+    },
+    {
+        "Id": 971059,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710590,
+        "Cover": 9710590,
+        "Magic": 971059000,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianDummy003",
+        "EffectJoint": "Dummy003"
+    },
+    {
+        "Id": 971060,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710600,
+        "Cover": 9710600,
+        "Magic": 971060000,
+        "Effect": "FxMe1RocketMd002002Attack04kuijiabaozha",
+        "EffectJoint": "Bip001RForearm"
+    },
+    {
+        "Id": 971061,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710610,
+        "Cover": "9710530|9710540|9710550|9710560|9710570|9710580|9710590|9710600",
+        "Mutex": "9710530|9710540|9710550|9710560|9710570|9710580|9710590|9710600"
+    },
+    {
+        "Id": 971062,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710620,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001LForearm",
+        "EffectJoint": "Bip001LForearm"
+    },
+    {
+        "Id": 971063,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710630,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001LThigh",
+        "EffectJoint": "Bip001LThigh"
+    },
+    {
+        "Id": 971064,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710640,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001Neck",
+        "EffectJoint": "Bip001Neck"
+    },
+    {
+        "Id": 971065,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710650,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001RCalf",
+        "EffectJoint": "Bip001RCalf"
+    },
+    {
+        "Id": 971066,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710660,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianBip001Spine1",
+        "EffectJoint": "Bip001Spine1"
+    },
+    {
+        "Id": 971067,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710670,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianDummy002",
+        "EffectJoint": "Dummy002"
+    },
+    {
+        "Id": 971068,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710680,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianDummy003",
+        "EffectJoint": "Dummy003"
+    },
+    {
+        "Id": 971069,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710690,
+        "Effect": "FxMe1RocketMd002002Attack04GuadianRootCase",
+        "EffectJoint": "Bip001RForearm"
+    },
+    {
+        "Id": 971070,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710700,
+        "Cover": "9710620|9710630|9710640|9710650|9710660|9710670|9710680|9710690",
+        "Mutex": "9710620|9710630|9710640|9710650|9710660|9710670|9710680|9710690"
+    },
+    {
+        "Id": 971071,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9710710
+    },
+    {
+        "Id": 980001,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9800010,
+        "Magic": 980001000
+    },
+    {
+        "Id": 980002,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9800020,
+        "Magic": 980002000
+    },
+    {
+        "Id": 980003,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 9800030,
+        "Magic": 980003000
+    },
+    {
+        "Id": 980004,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9800040,
+        "Magic": 980004000
+    },
+    {
+        "Id": 821001,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210010,
+        "Magic": 821001000
+    },
+    {
+        "Id": 821002,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210020,
+        "Magic": 821002000
+    },
+    {
+        "Id": 821003,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210030,
+        "Magic": 821003000
+    },
+    {
+        "Id": 821004,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210040,
+        "Magic": 821004000
+    },
+    {
+        "Id": 821005,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210050,
+        "Magic": 821005000
+    },
+    {
+        "Id": 821006,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210060,
+        "Magic": 821006000
+    },
+    {
+        "Id": 821007,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210070,
+        "Cover": 8210060
+    },
+    {
+        "Id": 821008,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210080,
+        "Magic": 821008000
+    },
+    {
+        "Id": 821009,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210090,
+        "Cover": 8210080
+    },
+    {
+        "Id": 821010,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210100,
+        "Magic": 821010000
+    },
+    {
+        "Id": 821011,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210110|8210113"
+    },
+    {
+        "Id": 821012,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210120|8210123",
+        "Effect": "FxMb1RobotarmorMd030001Attack05Y01"
+    },
+    {
+        "Id": 821013,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210130|8210133",
+        "Effect": "FxMb1RobotarmorMd030001Attack05YGuadian02Bone024",
+        "EffectJoint": "CatRhand"
+    },
+    {
+        "Id": 821014,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210140|8210143",
+        "Effect": "FxMb1RobotarmorMd030001Attack05YGuadian02Bone026",
+        "EffectJoint": "CatLhand"
+    },
+    {
+        "Id": 821015,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 8210150,
+        "Cover": 1000900,
+        "Mutex": 1000900,
+        "Magic": 821015000
+    },
+    {
+        "Id": 821016,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210160|8210163"
+    },
+    {
+        "Id": 821017,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210170
+    },
+    {
+        "Id": 821018,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210180|8211603",
+        "Magic": 821018000
+    },
+    {
+        "Id": 821019,
+        "Delay": 0,
+        "Duration": 15,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8210190,
+        "Magic": 821019000
+    },
+    {
+        "Id": 821020,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210200,
+        "Magic": 821020000
+    },
+    {
+        "Id": 821021,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210210,
+        "Magic": 821021000
+    },
+    {
+        "Id": 821022,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210220,
+        "Magic": 821022000
+    },
+    {
+        "Id": 821023,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210230,
+        "Magic": 821023000
+    },
+    {
+        "Id": 821024,
+        "Delay": 0,
+        "Duration": 3.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210240,
+        "Magic": 821024000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 821025,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210250,
+        "Magic": 821025000
+    },
+    {
+        "Id": 821080,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210800|8210803",
+        "Magic": 821080000
+    },
+    {
+        "Id": 821083,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8210830
+    },
+    {
+        "Id": 821085,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210850|8210853",
+        "Effect": "FxMb1RobotarmorMd030001Attack11Y01"
+    },
+    {
+        "Id": 821086,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210860|8210863",
+        "Cover": 8210850,
+        "Mutex": 8210850,
+        "Effect": "FxMb1RobotarmorMd030001Attack11Y02"
+    },
+    {
+        "Id": 821087,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210870|8210873",
+        "Cover": 8210860,
+        "Mutex": 8210860,
+        "Effect": "FxMb1RobotarmorMd030001Attack11Y03"
+    },
+    {
+        "Id": 821088,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210880|8210883",
+        "Effect": "FxMb1RobotarmorMd030001Attack11Y04"
+    },
+    {
+        "Id": 821089,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210890|8210893",
+        "Cover": 8210880,
+        "Mutex": 8210880,
+        "Effect": "FxMb1RobotarmorMd030001Attack11Y05"
+    },
+    {
+        "Id": 821090,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 2,
+        "Cd": 0,
+        "Kind": "8210900|8210903",
+        "Cover": 8210900,
+        "Magic": 821090000
+    },
+    {
+        "Id": 821091,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210910|8210913",
+        "Magic": 821091000
+    },
+    {
+        "Id": 821092,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210920|8210923",
+        "Magic": 821092000
+    },
+    {
+        "Id": 821096,
+        "Delay": 0,
+        "Duration": 1.5,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8210960,
+        "Cover": "8210700|8212480",
+        "Mutex": "8210700|8212480"
+    },
+    {
+        "Id": 821093,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 2,
+        "Cd": 0,
+        "Kind": "8210930|8210933"
+    },
+    {
+        "Id": 821094,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210940|8210943",
+        "Magic": 821094000
+    },
+    {
+        "Id": 821095,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8210950|8210953",
+        "Magic": 821095000
+    },
+    {
+        "Id": 821145,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8211450|8211453",
+        "Effect": "FxMb1RobotarmorMd030001AttackBuffY",
+        "EffectJoint": "CatLleg2"
+    },
+    {
+        "Id": 821146,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8211460|8211463",
+        "Cover": "8211500|8211550|8211520|8211570|8211580|8211590|8211530|8211540",
+        "Mutex": "8211500|8211550|8211520|8211570|8211580|8211590|8211530|8211540"
+    },
+    {
+        "Id": 821147,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8211470|8211473",
+        "Effect": "FxMb1RobotarmorMd030001AttackBuffY",
+        "EffectJoint": "CatRleg2"
+    },
+    {
+        "Id": 821148,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8211480
+    },
+    {
+        "Id": 821149,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8211490
+    },
+    {
+        "Id": 821160,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8211600|8211603",
+        "Magic": 821160000
+    },
+    {
+        "Id": 821161,
+        "Delay": 0,
+        "Duration": 15,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8211610,
+        "Magic": 821161000
+    },
+    {
+        "Id": 821203,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8212030|9805033",
+        "Magic": 821203000
+    },
+    {
+        "Id": 821204,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8212040|9805043",
+        "Cover": 9805030,
+        "Mutex": 9805030
+    },
+    {
+        "Id": 821206,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212060,
+        "Magic": 821206000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821207,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212070,
+        "Magic": 821207000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821208,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212080,
+        "Magic": 821208000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821209,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212090,
+        "Magic": 821209000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821210,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212100,
+        "Magic": 821210000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821211,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212110,
+        "Magic": 821211000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821212,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212120,
+        "Magic": 821212000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821213,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212130,
+        "Magic": 821213000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821214,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212140,
+        "Magic": 821214000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821215,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212150,
+        "Magic": 821215000,
+        "Effect": "FxBuffPoisonStart",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821216,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8212160|821216",
+        "Effect": "FxBuffPoisonHold",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821217,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8212170|821217",
+        "Cover": 9805160,
+        "Mutex": 9805160,
+        "Effect": "FxBuffPoisonEnd",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821218,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212180,
+        "Effect": "FxBuffPoisonMark",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 821230,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212300,
+        "Magic": 821230000
+    },
+    {
+        "Id": 821231,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212310,
+        "Magic": 821231000
+    },
+    {
+        "Id": 821232,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212320,
+        "Magic": 821232000
+    },
+    {
+        "Id": 821233,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212330,
+        "Cover": 8212330,
+        "Magic": 821233000
+    },
+    {
+        "Id": 821234,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212340,
+        "Cover": 8212340,
+        "Magic": 821234000
+    },
+    {
+        "Id": 821235,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212350,
+        "Cover": 8212350,
+        "Magic": 821235000
+    },
+    {
+        "Id": 821236,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212360,
+        "Magic": 821236000
+    },
+    {
+        "Id": 821237,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212370,
+        "Magic": 821237000
+    },
+    {
+        "Id": 821238,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212380
+    },
+    {
+        "Id": 821239,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212390,
+        "Magic": 821239000
+    },
+    {
+        "Id": 821240,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212400,
+        "Magic": 821240000
+    },
+    {
+        "Id": 821241,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8212410,
+        "Magic": 821241000
+    },
+    {
+        "Id": 821242,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8212420,
+        "Magic": 821242000
+    },
+    {
+        "Id": 821243,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8212430,
+        "Magic": 821243000
+    },
+    {
+        "Id": 821244,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8212440,
+        "Cover": 13,
+        "Mutex": 13
+    },
+    {
+        "Id": 821245,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8212450,
+        "Magic": 821245000
+    },
+    {
+        "Id": 821248,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212480,
+        "Magic": 821248000
+    },
+    {
+        "Id": 821249,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212490,
+        "Magic": 821249000
+    },
+    {
+        "Id": 821250,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212500,
+        "Magic": 821250000
+    },
+    {
+        "Id": 821251,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212510
+    },
+    {
+        "Id": 821252,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212520,
+        "Cover": "8210900|8211110|8211300",
+        "Mutex": "8210900|8211110|8211300"
+    },
+    {
+        "Id": 821253,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212530,
+        "Cover": 8212520,
+        "Mutex": 8212520
+    },
+    {
+        "Id": 821254,
+        "Delay": 0,
+        "Duration": 20,
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 8212540,
+        "Magic": 821254000
+    },
+    {
+        "Id": 821255,
+        "Delay": 0,
+        "Duration": 20,
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 8212550,
+        "Magic": 821255000
+    },
+    {
+        "Id": 821256,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212560,
+        "Magic": 821256000
+    },
+    {
+        "Id": 821257,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212570,
+        "Cover": 8211450,
+        "Mutex": 8211450
+    },
+    {
+        "Id": 821258,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212580,
+        "Cover": 8211470,
+        "Mutex": 8211470
+    },
+    {
+        "Id": 821259,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212590,
+        "Cover": 8211480,
+        "Mutex": 8211480,
+        "Effect": "FxMb1RobotarmorMd030001AttackBuffYExit",
+        "EffectJoint": "CatLleg2"
+    },
+    {
+        "Id": 821260,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8212600,
+        "Cover": 8211490,
+        "Mutex": 8211490,
+        "Effect": "FxMb1RobotarmorMd030001AttackBuffYExit",
+        "EffectJoint": "CatRleg2"
+    },
+    {
+        "Id": 821269,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212690,
+        "Magic": 821269000
+    },
+    {
+        "Id": 821270,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 8212700,
+        "Magic": 821270000
+    },
+    {
+        "Id": 821301,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213010,
+        "Magic": 821301000
+    },
+    {
+        "Id": 821302,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213020,
+        "Effect": "FxMb1BraveMd010011Attack0302"
+    },
+    {
+        "Id": 821303,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213030,
+        "Cover": 8213020,
+        "Mutex": 8213020
+    },
+    {
+        "Id": 821304,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213040,
+        "Magic": 821304000
+    },
+    {
+        "Id": 821305,
+        "Delay": 0,
+        "Duration": 20,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8213050,
+        "Magic": 821305000
+    },
+    {
+        "Id": 821306,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213060,
+        "Cover": 8213050,
+        "Mutex": 8213050
+    },
+    {
+        "Id": 821307,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213070
+    },
+    {
+        "Id": 821308,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213080,
+        "Magic": 821308000
+    },
+    {
+        "Id": 821309,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213090,
+        "Cover": "8213070|8213080",
+        "Mutex": "8213070|8213080"
+    },
+    {
+        "Id": 821310,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213100,
+        "Magic": 821310000
+    },
+    {
+        "Id": 821311,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213110,
+        "Magic": 821311000
+    },
+    {
+        "Id": 821312,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213120,
+        "Magic": 821312000
+    },
+    {
+        "Id": 821313,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213130,
+        "Magic": 821313000
+    },
+    {
+        "Id": 821315,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213150,
+        "Cover": "8213120|8213140|8213180",
+        "Mutex": "8213120|8213140|8213180"
+    },
+    {
+        "Id": 821316,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213160,
+        "Magic": 821316000
+    },
+    {
+        "Id": 821317,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8213170,
+        "Magic": 821317000
+    },
+    {
+        "Id": 821318,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213180,
+        "Magic": 821318000
+    },
+    {
+        "Id": 821319,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213190,
+        "Magic": 821319000
+    },
+    {
+        "Id": 821320,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8213200,
+        "Magic": 821320000
+    },
+    {
+        "Id": 821321,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213210,
+        "Effect": "FxMb1BraveMd010011Attack12Laser"
+    },
+    {
+        "Id": 821322,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213220,
+        "Cover": 8213210,
+        "Mutex": 8213210
+    },
+    {
+        "Id": 821323,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213230,
+        "Magic": 821323000
+    },
+    {
+        "Id": 821324,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8213240,
+        "Magic": 821324000
+    },
+    {
+        "Id": 821325,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213250,
+        "Magic": 821325000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 821326,
+        "Delay": 0,
+        "Duration": 1.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213260,
+        "Effect": "FxMb1BraveMd010011Attack12Laserstart"
+    },
+    {
+        "Id": 821327,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213270,
+        "Magic": 821327000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 821328,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8213280,
+        "Magic": 821328000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 821501,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215010,
+        "Magic": 821501000
+    },
+    {
+        "Id": 821502,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215020
+    },
+    {
+        "Id": 821503,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215030,
+        "Magic": 821503000
+    },
+    {
+        "Id": 821504,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215040
+    },
+    {
+        "Id": 821505,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215050
+    },
+    {
+        "Id": 821506,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215060,
+        "Cover": 8215050,
+        "Mutex": 8215050
+    },
+    {
+        "Id": 821507,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215070,
+        "Magic": 821507000
+    },
+    {
+        "Id": 821508,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215080,
+        "Cover": "8215070|8213120",
+        "Mutex": "8215070|8213120"
+    },
+    {
+        "Id": 821509,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215090,
+        "Magic": 821509000
+    },
+    {
+        "Id": 821510,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215100
+    },
+    {
+        "Id": 821511,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215110,
+        "Magic": 821511000
+    },
+    {
+        "Id": 821512,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215120,
+        "Magic": 821512000
+    },
+    {
+        "Id": 821513,
+        "Delay": 0,
+        "Duration": 12,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215130,
+        "Effect": "FxMb1BraveMd010011Attack11EffectCase2",
+        "EffectJoint": "EffectCase2"
+    },
+    {
+        "Id": 821514,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215140,
+        "Effect": "FxMb1BraveMd010011QiangKou",
+        "EffectJoint": "Lhand2"
+    },
+    {
+        "Id": 821515,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215150,
+        "Effect": "FxMb1BraveMd010011QiangKou",
+        "EffectJoint": "Rhand2"
+    },
+    {
+        "Id": 821516,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215160,
+        "Cover": "8215140|8215150|8215230",
+        "Mutex": "8215140|8215150|8215230"
+    },
+    {
+        "Id": 821517,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215170,
+        "Magic": 821517000
+    },
+    {
+        "Id": 821518,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215180,
+        "Magic": 821518000
+    },
+    {
+        "Id": 821519,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215190,
+        "Magic": 821519000
+    },
+    {
+        "Id": 821520,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215200,
+        "Magic": 821520000
+    },
+    {
+        "Id": 821521,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215210,
+        "Magic": 821521000
+    },
+    {
+        "Id": 821522,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215220,
+        "Magic": 821522000
+    },
+    {
+        "Id": 821523,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215230,
+        "Effect": "FxMb1BraveMd010011PaokouHead",
+        "EffectJoint": "Head"
+    },
+    {
+        "Id": 821524,
+        "Delay": 0,
+        "Duration": 6.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215240|8215240"
+    },
+    {
+        "Id": 821525,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215250|8215250",
+        "Magic": 821525000
+    },
+    {
+        "Id": 821526,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215260|1000",
+        "Magic": 821526000
+    },
+    {
+        "Id": 821527,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215270,
+        "Cover": 8215260,
+        "Mutex": 8215260
+    },
+    {
+        "Id": 821528,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215280,
+        "Magic": 821528000
+    },
+    {
+        "Id": 821529,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215290,
+        "Magic": 821529000
+    },
+    {
+        "Id": 821530,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215300,
+        "Magic": 821530000
+    },
+    {
+        "Id": 821531,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215310,
+        "Cover": 8215130,
+        "Mutex": 8215130
+    },
+    {
+        "Id": 821532,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215320,
+        "Magic": 821532000
+    },
+    {
+        "Id": 821533,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215330,
+        "Magic": 821533000
+    },
+    {
+        "Id": 821534,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215340,
+        "Magic": 821534000
+    },
+    {
+        "Id": 821535,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215350,
+        "Magic": 821535000
+    },
+    {
+        "Id": 821536,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215360,
+        "Magic": 821536000
+    },
+    {
+        "Id": 821537,
+        "Delay": 0,
+        "Duration": 4.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215370|8215250",
+        "Magic": 821537000
+    },
+    {
+        "Id": 821538,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215380|8215383",
+        "Magic": 821538000
+    },
+    {
+        "Id": 821539,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215390|8215383",
+        "Magic": 821539000
+    },
+    {
+        "Id": 821540,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215400|8215383",
+        "Magic": 821540000
+    },
+    {
+        "Id": 821541,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8215410|8215410"
+    },
+    {
+        "Id": 821542,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215420,
+        "Magic": 821542000
+    },
+    {
+        "Id": 821543,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8215430,
+        "Magic": 821543000
+    },
+    {
+        "Id": 821544,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215440,
+        "Magic": 821544000
+    },
+    {
+        "Id": 821545,
+        "Delay": 0,
+        "Duration": 4.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215450,
+        "Magic": 821545000
+    },
+    {
+        "Id": 821546,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8215460,
+        "Cover": "8215400|8215390|8215380",
+        "Mutex": "8215400|8215390|8215380"
+    }
+]

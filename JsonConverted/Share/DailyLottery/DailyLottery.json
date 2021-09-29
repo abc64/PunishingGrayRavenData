@@ -1,0 +1,27 @@
+[
+    {
+        "Id": 1,
+        "Name": "New Year Luck",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignDivining.prefab",
+        "RoundDays": [
+            7
+        ],
+        "RoundIds": [
+            1
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/1/1 0:00",
+        "CloseTimeStr": "2021/1/7 23:59",
+        "MaxRecordCount": 14,
+        "RuleTitle": [
+            "1/1/2021  0:00:00 — 1/7/2021 23:59:00",
+            1,
+            "Guaranteed reward: BC x30\\n1. Get one of the followings if you draw \"Great\":\\nSerum Bundle (M) x1 \\n Minor Overclock Alloy x3 \\n Memory Overclock Circuit I x3 \\nWeapon Overclock Core Ix3\\nCogs x50000\\n2. Get one of the followings if you draw \"Good\":\\nSerum Bundle (S) x1\\nMinor Overclock Alloy x2\\nMemory Overclock Circuit I  x2\\nWeapon Overclock Core I x2\\nCogs x30000\\nGet one of the followings if you draw \"Very Good\":\\nSerum Bundle (S) x1\\nMinor Overclock Alloy x1\\nMemory Overclock Circuit I  x1\\nWeapon Overclock Core I x1\\nCogs x20000"
+        ],
+        "RuleContent": [
+            "Event Time",
+            "Event Rules",
+            "Rewards"
+        ]
+    }
+]

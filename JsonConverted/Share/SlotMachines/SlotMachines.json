@@ -1,0 +1,128 @@
+[
+    {
+        "Id": 1,
+        "Name": "Common Detector",
+        "DifferentAddScore": 250,
+        "TwoSameAddScore": 270,
+        "ConsumeItemId": 400000,
+        "ConsumeCount": 20,
+        "ScoreLimit": 10000,
+        "BgImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachineBg01.png",
+        "MachineImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachine02.png",
+        "NextMachineBtnImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachineBtn02.png",
+        "NextMachineBtnText": "Wide-Range Detector",
+        "RulesIds": [
+            1,
+            2
+        ],
+        "Icons": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "RewardIds": [
+            5000006,
+            5000007,
+            5000008,
+            5000009,
+            5000010,
+            5000011,
+            5000012,
+            5000013,
+            5000014,
+            5000015
+        ],
+        "RewardScores": [
+            1000,
+            2000,
+            3000,
+            4000,
+            5000,
+            6000,
+            7000,
+            8000,
+            9000,
+            10000
+        ],
+        "PrixBottomTimes": 9,
+        "TenTimesPrixLimit": 3,
+        "TaskDailyLimitId": 1001,
+        "TaskCumulativeLimitId": 1002,
+        "MailId": 14000000
+    },
+    {
+        "Id": 2,
+        "Name": "Wide-Range Detector",
+        "DifferentAddScore": 500,
+        "TwoSameAddScore": 540,
+        "ConsumeItemId": 400000,
+        "ConsumeCount": 50,
+        "UnlockNeedPreScore": 10000,
+        "ScoreLimit": 20000,
+        "BgImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachineBg02.png",
+        "MachineImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachine01.png",
+        "MachineLockImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachine05.png",
+        "NextMachineBtnImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachineBtn01.png",
+        "NextMachineBtnText": "Common Detector",
+        "RulesIds": [
+            1,
+            3
+        ],
+        "Icons": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "Weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "RewardIds": [
+            5000016,
+            5000017,
+            5000018,
+            5000019,
+            5000020,
+            5000021,
+            5000022,
+            5000023,
+            5000024,
+            5000025
+        ],
+        "RewardScores": [
+            2000,
+            4000,
+            6000,
+            8000,
+            10000,
+            12000,
+            14000,
+            16000,
+            18000,
+            20000
+        ],
+        "PrixBottomTimes": 9,
+        "TenTimesPrixLimit": 3,
+        "TaskDailyLimitId": 1001,
+        "TaskCumulativeLimitId": 1002,
+        "MailId": 14000000
+    }
+]

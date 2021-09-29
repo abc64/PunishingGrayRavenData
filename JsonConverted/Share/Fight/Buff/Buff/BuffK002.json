@@ -1,0 +1,294 @@
+[
+    {
+        "Id": 832000,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8320000,
+        "Magic": 832000000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 832008,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320080,
+        "Effect": "FxMb1LuosaitaMd010001Attack0801"
+    },
+    {
+        "Id": 832009,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320090,
+        "Effect": "FxMb1LuosaitaMd010001Attack0802"
+    },
+    {
+        "Id": 832010,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320100,
+        "Cover": "8320080|8320090"
+    },
+    {
+        "Id": 832021,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320210
+    },
+    {
+        "Id": 832022,
+        "Delay": 0,
+        "Duration": 3.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320220,
+        "Magic": 832022000
+    },
+    {
+        "Id": 832023,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8320230,
+        "Magic": 832023000
+    },
+    {
+        "Id": 832200,
+        "Delay": 0,
+        "Duration": 6.9,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8322000,
+        "Magic": 832200000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 832201,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322010,
+        "Cover": "8322310|8311320|8322330|8322340",
+        "Magic": 832201000
+    },
+    {
+        "Id": 832202,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322020,
+        "Magic": 832202000
+    },
+    {
+        "Id": 832203,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322030,
+        "Magic": 832203000
+    },
+    {
+        "Id": 832204,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322040,
+        "Cover": "8322010|8322020|8322030"
+    },
+    {
+        "Id": 832205,
+        "Delay": 0.2,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322050,
+        "Magic": 832205000
+    },
+    {
+        "Id": 832206,
+        "Delay": 0,
+        "Duration": 0.2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322060,
+        "Magic": 832206000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 832207,
+        "Delay": 0,
+        "Duration": 0.45,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322070,
+        "Effect": "FxMb1LuosaitaMd010002Canying"
+    },
+    {
+        "Id": 832208,
+        "Delay": 0,
+        "Duration": 0.45,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322080,
+        "Effect": "FxMb1LuosaitaMd010002MoveGuadianBip001RHand",
+        "EffectJoint": "Bip001 R Hand"
+    },
+    {
+        "Id": 832209,
+        "Delay": 0,
+        "Duration": 0.45,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322090,
+        "Effect": "FxMb1LuosaitaMd010002MoveGuadianBip001Spine1",
+        "EffectJoint": "Bip001 Spine1"
+    },
+    {
+        "Id": 832210,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322100,
+        "Magic": 832210000
+    },
+    {
+        "Id": 832211,
+        "Delay": 0,
+        "Duration": 0.8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8322110|8",
+        "Mutex": "10|15",
+        "Magic": 832211000
+    },
+    {
+        "Id": 832212,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322120,
+        "Magic": 832212000
+    },
+    {
+        "Id": 832213,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322130,
+        "Magic": 832213000
+    },
+    {
+        "Id": 832214,
+        "Delay": 0.2,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322140,
+        "Magic": 832214000
+    },
+    {
+        "Id": 832223,
+        "Delay": 0,
+        "Duration": 0.9,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322230,
+        "Magic": 832223000
+    },
+    {
+        "Id": 832231,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322310,
+        "Cover": "8322330|8322340",
+        "Mutex": "8322330|8322340",
+        "Effect": "FxMb1LuosaitaMd010002Chibang01GuadianBone009",
+        "EffectJoint": "Bone009"
+    },
+    {
+        "Id": 832232,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322320,
+        "Cover": "8322330|8322340",
+        "Mutex": "8322330|8322340",
+        "Effect": "FxMb1LuosaitaMd010002Chibang01GuadianBone009mirrored",
+        "EffectJoint": "Bone009mirrored"
+    },
+    {
+        "Id": 832233,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322330,
+        "Cover": "8322310|8311320",
+        "Mutex": "8322310|8311320",
+        "Effect": "FxMb1LuosaitaMd010002Chibang02GuadianBone009",
+        "EffectJoint": "Bone009"
+    },
+    {
+        "Id": 832234,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322340,
+        "Cover": "8322310|8311320",
+        "Mutex": "8322310|8311320",
+        "Effect": "FxMb1LuosaitaMd010002Chibang02GuadianBone009mirrored",
+        "EffectJoint": "Bone009mirrored"
+    },
+    {
+        "Id": 832235,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322350,
+        "Effect": "FxMb1LuosaitaMd010002Attack06Yujing02",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 832236,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322360,
+        "Cover": 8322350,
+        "Mutex": 8322350,
+        "Effect": "FxMb1LuosaitaMd010002Attack06Yujing01",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 832237,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8322370,
+        "Magic": 832237000
+    }
+]

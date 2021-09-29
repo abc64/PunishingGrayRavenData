@@ -1,0 +1,138 @@
+[
+    {
+        "Id": 1,
+        "Name": "Daily Log-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignDaily.prefab",
+        "Type": 1,
+        "RoundDays": [
+            28
+        ],
+        "SubRoundId": [
+            101
+        ],
+        "PreSignId": 2,
+        "StartTimeStr": "2019/8/8 0:00",
+        "CloseTimeStr": "2029/11/14 0:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 1
+    },
+    {
+        "Id": 2,
+        "Name": "New Player Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignNewhand.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7,
+            7
+        ],
+        "SubRoundId": [
+            1001,
+            1002
+        ],
+        "OpenStage": 10010202,
+        "StartTimeStr": "2019/8/8 0:00",
+        "CloseTimeStr": "2029/11/14 0:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 5,
+        "Name": "Christmas Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignChristmas.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1003
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2020/12/24 5:00",
+        "CloseTimeStr": "2021/1/2 5:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 6,
+        "Name": "Lantern Festival Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignLanternFestival.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1004
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2020/2/6 5:00",
+        "CloseTimeStr": "2020/2/20 5:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 7,
+        "Name": "Spring Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignSpringFestival.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1005
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/2/8 5:00",
+        "CloseTimeStr": "2021/2/21 4:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 1000002,
+        "Name": "Fallen Star Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignHeixing.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1000002
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/9/9 2:00",
+        "CloseTimeStr": "2021/9/23 6:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 1100003,
+        "Name": "Valentine's Day",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignValentine.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1100003
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/2/14 5:00",
+        "CloseTimeStr": "2021/2/21 4:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 1300001,
+        "Name": "[Frozen] Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignEnjidi.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1300001
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/8/3 7:00",
+        "CloseTimeStr": "2021/8/17 6:59"
+    }
+]

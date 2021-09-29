@@ -1,0 +1,49 @@
+[
+    {
+        "LevelType": 1,
+        "BossCount": 2,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 54,
+        "RankId": 1501,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank1.png",
+        "LevelName": "Basic",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 100,
+        "GroupId": [
+            1,
+            2
+        ]
+    },
+    {
+        "LevelType": 2,
+        "BossCount": 3,
+        "MinPlayerLevel": 55,
+        "MaxPlayerLevel": 69,
+        "RankId": 1502,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank2.png",
+        "LevelName": "Intermediate",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 100,
+        "GroupId": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "LevelType": 3,
+        "BossCount": 3,
+        "MinPlayerLevel": 70,
+        "MaxPlayerLevel": 100,
+        "RankId": 1503,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank3.png",
+        "LevelName": "Advanced",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 100,
+        "GroupId": [
+            6,
+            7,
+            8
+        ]
+    }
+]

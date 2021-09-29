@@ -1,0 +1,49 @@
+[
+    {
+        "Id": 9513,
+        "AttribId": 4,
+        "Kind": 1,
+        "Type": 3,
+        "Name": "弹幕用提法",
+        "MoveUseFaceDir": 1,
+        "ModelId": "Mb1VirginbioMd030001",
+        "BodyRadius": 1,
+        "CameraCollideRadius": 1,
+        "ModelScale": 1,
+        "EffectScale": 1,
+        "BossHp": 1,
+        "HpWdigetCount": 30,
+        "HpWidgetHeight": 1,
+        "HpWidgetType": 2,
+        "RollCharHeight": 1.5,
+        "HitDownTime": 0.9,
+        "FallDownTime": 0.3,
+        "StandUpTime": 0.85,
+        "StandUpImmuneHitTime": 0,
+        "MaxHitValue": 10,
+        "BornTime": 2.34,
+        "DeathTime": 2.67,
+        "HasRunToStand": 0,
+        "CollisionPriority": 3,
+        "UseShadowMesh": 1,
+        "DeathMagic": [
+            95130098,
+            95130096,
+            95130094,
+            95130092
+        ],
+        "RobotBornMagic": [],
+        "BornMagic": [
+            9913,
+            900008,
+            100027,
+            900011,
+            970006
+        ],
+        "SkillId": [
+            951301,
+            951302,
+            951303
+        ]
+    }
+]
