@@ -1,0 +1,828 @@
+[
+    {
+        "Id": 1,
+        "ChallengeId": 1,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 2,
+        "ChallengeId": 1,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 3,
+        "ChallengeId": 1,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 4,
+        "ChallengeId": 1,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 5,
+        "ChallengeId": 1,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 6,
+        "ChallengeId": 1,
+        "MinWave": 0,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 7,
+        "ChallengeId": 2,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 8,
+        "ChallengeId": 2,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 9,
+        "ChallengeId": 2,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 10,
+        "ChallengeId": 2,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 11,
+        "ChallengeId": 2,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 12,
+        "ChallengeId": 2,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 13,
+        "ChallengeId": 2,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 14,
+        "ChallengeId": 2,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 15,
+        "ChallengeId": 3,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 16,
+        "ChallengeId": 3,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 17,
+        "ChallengeId": 3,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 18,
+        "ChallengeId": 3,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 19,
+        "ChallengeId": 3,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 20,
+        "ChallengeId": 3,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 21,
+        "ChallengeId": 3,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 22,
+        "ChallengeId": 3,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 23,
+        "ChallengeId": 4,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 24,
+        "ChallengeId": 4,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 25,
+        "ChallengeId": 4,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 26,
+        "ChallengeId": 4,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 27,
+        "ChallengeId": 4,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 28,
+        "ChallengeId": 4,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 29,
+        "ChallengeId": 4,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 30,
+        "ChallengeId": 4,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 31,
+        "ChallengeId": 5,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 32,
+        "ChallengeId": 5,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 33,
+        "ChallengeId": 5,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 34,
+        "ChallengeId": 5,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 35,
+        "ChallengeId": 5,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 36,
+        "ChallengeId": 5,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 37,
+        "ChallengeId": 5,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 38,
+        "ChallengeId": 5,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 39,
+        "ChallengeId": 6,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 40,
+        "ChallengeId": 6,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 41,
+        "ChallengeId": 6,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 42,
+        "ChallengeId": 6,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 43,
+        "ChallengeId": 6,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 44,
+        "ChallengeId": 6,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 45,
+        "ChallengeId": 6,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 46,
+        "ChallengeId": 6,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 47,
+        "ChallengeId": 7,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 48,
+        "ChallengeId": 7,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 49,
+        "ChallengeId": 7,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 50,
+        "ChallengeId": 7,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 51,
+        "ChallengeId": 7,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 52,
+        "ChallengeId": 7,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 53,
+        "ChallengeId": 7,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 54,
+        "ChallengeId": 7,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 55,
+        "ChallengeId": 8,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 56,
+        "ChallengeId": 8,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 57,
+        "ChallengeId": 8,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 58,
+        "ChallengeId": 8,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 59,
+        "ChallengeId": 8,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 60,
+        "ChallengeId": 8,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 61,
+        "ChallengeId": 8,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 62,
+        "ChallengeId": 8,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 63,
+        "ChallengeId": 9,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 64,
+        "ChallengeId": 9,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 65,
+        "ChallengeId": 9,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 66,
+        "ChallengeId": 9,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 67,
+        "ChallengeId": 9,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 68,
+        "ChallengeId": 9,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 69,
+        "ChallengeId": 9,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 70,
+        "ChallengeId": 9,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 71,
+        "ChallengeId": 10,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 72,
+        "ChallengeId": 10,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 73,
+        "ChallengeId": 10,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 74,
+        "ChallengeId": 10,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 75,
+        "ChallengeId": 10,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 76,
+        "ChallengeId": 10,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 77,
+        "ChallengeId": 10,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 78,
+        "ChallengeId": 10,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 79,
+        "ChallengeId": 11,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 80,
+        "ChallengeId": 11,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 81,
+        "ChallengeId": 11,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 82,
+        "ChallengeId": 11,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 83,
+        "ChallengeId": 11,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 84,
+        "ChallengeId": 11,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 85,
+        "ChallengeId": 11,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 86,
+        "ChallengeId": 11,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 87,
+        "ChallengeId": 12,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 88,
+        "ChallengeId": 12,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 89,
+        "ChallengeId": 12,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 90,
+        "ChallengeId": 12,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 91,
+        "ChallengeId": 12,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 92,
+        "ChallengeId": 12,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 93,
+        "ChallengeId": 12,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 94,
+        "ChallengeId": 12,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 95,
+        "ChallengeId": 13,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 96,
+        "ChallengeId": 13,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 97,
+        "ChallengeId": 13,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 98,
+        "ChallengeId": 13,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 99,
+        "ChallengeId": 13,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 100,
+        "ChallengeId": 13,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 101,
+        "ChallengeId": 13,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 102,
+        "ChallengeId": 13,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 103,
+        "ChallengeId": 14,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 104,
+        "ChallengeId": 14,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 105,
+        "ChallengeId": 14,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 106,
+        "ChallengeId": 14,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 107,
+        "ChallengeId": 14,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 108,
+        "ChallengeId": 14,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 109,
+        "ChallengeId": 14,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 110,
+        "ChallengeId": 14,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    },
+    {
+        "Id": 111,
+        "ChallengeId": 15,
+        "MinWave": 180,
+        "MaxWave": 999,
+        "AttribReviseId": 200
+    },
+    {
+        "Id": 112,
+        "ChallengeId": 15,
+        "MinWave": 140,
+        "MaxWave": 180,
+        "AttribReviseId": 201
+    },
+    {
+        "Id": 113,
+        "ChallengeId": 15,
+        "MinWave": 120,
+        "MaxWave": 140,
+        "AttribReviseId": 202
+    },
+    {
+        "Id": 114,
+        "ChallengeId": 15,
+        "MinWave": 101,
+        "MaxWave": 120,
+        "AttribReviseId": 203
+    },
+    {
+        "Id": 115,
+        "ChallengeId": 15,
+        "MinWave": 80,
+        "MaxWave": 100,
+        "AttribReviseId": 204
+    },
+    {
+        "Id": 116,
+        "ChallengeId": 15,
+        "MinWave": 60,
+        "MaxWave": 80,
+        "AttribReviseId": 205
+    },
+    {
+        "Id": 117,
+        "ChallengeId": 15,
+        "MinWave": 40,
+        "MaxWave": 80,
+        "AttribReviseId": 206
+    },
+    {
+        "Id": 118,
+        "ChallengeId": 15,
+        "MinWave": 0,
+        "MaxWave": 40,
+        "AttribReviseId": 207
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "LevelType": 1,
+        "MinRank": 1,
+        "MaxRank": 54,
+        "RankId": 1501,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank1.png",
+        "LevelName": "Basic",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 10000
+    },
+    {
+        "LevelType": 2,
+        "MinRank": 55,
+        "MaxRank": 69,
+        "RankId": 1502,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank2.png",
+        "LevelName": "Intermediate",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 10000
+    },
+    {
+        "LevelType": 3,
+        "MinRank": 70,
+        "MaxRank": 100,
+        "RankId": 1503,
+        "Icon": "Assets/Product/Texture/Image/IconType/IconRank3.png",
+        "LevelName": "Advanced",
+        "ReserveSecond": 604800,
+        "BaseRankNum": 10000
+    }
+]
