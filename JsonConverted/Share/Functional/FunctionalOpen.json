@@ -320,6 +320,30 @@
         "Type": 1
     },
     {
+        "Id": 1901,
+        "Name": "Guild",
+        "Priority": 38,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 1902,
+        "Name": "Guild - Create",
+        "Priority": 38,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 1903,
+        "Name": "Guild - Join",
+        "Priority": 38,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
         "Id": 2001,
         "Name": "Support",
         "Priority": 39,
@@ -392,6 +416,16 @@
         "Hint": 1,
         "Condition": [
             771800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10311,
+        "Name": "Challenge - Border Pact",
+        "Priority": 44,
+        "Hint": 1,
+        "Condition": [
+            774900
         ],
         "Type": 1
     },
@@ -478,6 +512,46 @@
         "Hint": 0,
         "Condition": [
             772260
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10309,
+        "Name": "Event Rerun",
+        "Priority": 49,
+        "Hint": 0,
+        "Condition": [
+            772260
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10310,
+        "Name": "Tower-Climbing Event",
+        "Priority": 50,
+        "Hint": 0,
+        "Condition": [
+            772290
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10312,
+        "Name": "Joint Warfare",
+        "Priority": 51,
+        "Hint": 0,
+        "Condition": [
+            8004
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10313,
+        "Name": "Phalanx",
+        "Priority": 50,
+        "Hint": 0,
+        "Condition": [
+            775000
         ],
         "Type": 1
     },
@@ -886,9 +960,7 @@
         "Name": "Collection",
         "Priority": 99,
         "Hint": 1,
-        "Condition": [
-            774600
-        ],
+        "Condition": [],
         "Type": 1
     },
     {
@@ -902,21 +974,47 @@
         "Type": 1
     },
     {
+        "Id": 2200,
+        "Name": "Codex System",
+        "Priority": 101,
+        "Hint": 1,
+        "Condition": [
+            774700
+        ],
+        "Type": 1
+    },
+    {
         "Id": 3000,
         "Name": "Total Recharge",
-        "Priority": 101,
+        "Priority": 102,
         "Hint": 0,
         "Condition": [],
         "Type": 1
     },
     {
         "Id": 4000,
-        "Name": "Straylight Terminal",
-        "Priority": 102,
+        "Name": "Eden II",
+        "Priority": 103,
         "Hint": 0,
         "Condition": [
-            30404
+            774800
         ],
+        "Type": 0
+    },
+    {
+        "Id": 4001,
+        "Name": "Voting",
+        "Priority": 104,
+        "Hint": 1,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 8001,
+        "Name": "Share Invite Code",
+        "Priority": 105,
+        "Hint": 0,
+        "Condition": [],
         "Type": 1
     }
 ]

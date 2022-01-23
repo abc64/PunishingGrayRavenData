@@ -1,4 +1,4 @@
-LevelType	BossCount	MinPlayerLevel	MaxPlayerLevel	RankId	Icon	LevelName	ReserveSecond	BaseRankNum	BossCount	GroupId[1]	GroupId[2]	GroupId[3]	GroupId[4]
-1	2	1	54	1501	Assets/Product/Texture/Image/IconType/IconRank1.png	Basic	604800	100	2	1	2		
-2	2	55	69	1502	Assets/Product/Texture/Image/IconType/IconRank2.png	Intermediate	604800	100	3	3	4	5	
-3	3	70	100	1503	Assets/Product/Texture/Image/IconType/IconRank3.png	Advanced	604800	100	3	6	7	8	
+LevelType	MinPlayerLevel	MaxPlayerLevel	RankId	Icon	LevelName	HideBossOpen	ChallengeCount	WeekChallengeCount	StaminaCount	ReserveSecond	BaseRankNum	BossCount	GroupId[1]	GroupId[2]	GroupId[3]	GroupId[4]
+1	1	54	1501	Assets/Product/Texture/Image/IconType/IconRank1.png	Basic	0	4	8	5	604800	100	2	1	2		
+2	55	79	1502	Assets/Product/Texture/Image/IconType/IconRank2.png	Intermediate	0	4	8	5	604800	100	3	3	4	5	
+3	80	120	1503	Assets/Product/Texture/Image/IconType/IconRank3.png	Advanced	0	4	8	5	604800	100	3	6	7	8	

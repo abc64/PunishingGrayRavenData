@@ -1,10 +1,27 @@
 [
     {
         "Id": 1,
-        "BeginTimeStr": "2021/9/9 2:00",
-        "FightEndTimeStr": "2021/10/11 6:59",
-        "EndTimeStr": "2021/10/12 1:59",
-        "ShowEndTimeStr": "2021/10/12 1:59",
+        "BeginTimeStr": "2019/2/6 5:00",
+        "FightEndTimeStr": "2019/2/15 5:00",
+        "EndTimeStr": "2019/2/16 5:00",
+        "ShowEndTimeStr": "2019/2/17 5:00",
+        "RankType": 0,
+        "StageId": [
+            30090421,
+            30090422,
+            30090423,
+            30090424,
+            30090425
+        ]
+    },
+    {
+        "Id": 2,
+        "BeginTimeStr": "2019/3/26 5:00",
+        "FightEndTimeStr": "2020/3/27 5:00",
+        "EndTimeStr": "2020/3/28 5:00",
+        "ShowEndTimeStr": "2020/3/28 5:00",
+        "RankType": 0,
+        "BaseRankNum": 100000,
         "StageId": [
             30090421,
             30090422,

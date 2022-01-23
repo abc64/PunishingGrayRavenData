@@ -238,7 +238,6 @@
         "Key": [
             "10|Cast|10011501",
             "1|Effect|FxR2LiangAttack33||1",
-            "1|Magic|100129|0",
             4,
             10,
             "1|Cast|10011509"
@@ -351,6 +350,7 @@
             "8|Cast|10050101",
             "16|Cast|10050102",
             "1|Effect|FxR2YongyechaoAttack11||1",
+            1,
             16
         ]
     },
@@ -360,6 +360,7 @@
             "8|Cast|10050201",
             "16|Cast|10050202",
             "1|Effect|FxR2YongyechaoAttack11||1",
+            1,
             16
         ]
     },
@@ -369,6 +370,7 @@
             "8|Cast|10050301",
             "16|Cast|10050302",
             "1|Effect|FxR2YongyechaoAttack13||1",
+            1,
             16
         ]
     },
@@ -500,7 +502,9 @@
         "Key": [
             "8|Cast|10051601",
             "16|Cast|10051602",
-            "1|Effect|FxR2YongyechaoAttack13||1"
+            "1|Effect|FxR2YongyechaoAttack13||1",
+            16,
+            1
         ]
     },
     {
@@ -668,6 +672,7 @@
         "Key": [
             "1|Effect|FxR2KalieninaAttack31||1",
             "9|Cast|10071102",
+            1,
             9,
             "9|Cast|10071105"
         ]
@@ -677,6 +682,7 @@
         "Key": [
             "1|Effect|FxR2KalieninaAttack31||1",
             "9|Cast|10071202",
+            1,
             9,
             "9|Cast|10071205"
         ]
@@ -686,6 +692,7 @@
         "Key": [
             "1|Effect|FxR2KalieninaAttack31||1",
             "9|Cast|10071302",
+            1,
             9,
             "9|Cast|10071305"
         ]
@@ -703,6 +710,7 @@
         "Key": [
             "1|Effect|FxR2KalieninaAttack31||1",
             "9|Cast|10071502",
+            1,
             9,
             "9|Cast|10071505"
         ]
@@ -1237,7 +1245,8 @@
             "1|Effect|FxR2LifuAttack31||",
             "6|Cast|10131602",
             "6|Cast|10131603|10131605",
-            6
+            6,
+            "0|Cast|10131607"
         ]
     },
     {

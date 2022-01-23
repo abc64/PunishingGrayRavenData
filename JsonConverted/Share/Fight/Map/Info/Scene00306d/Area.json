@@ -1,6 +1,7 @@
 [
     {
-        "Key": "VisibleObstacle"
+        "Key": "VisibleObstacle",
+        "CollisionEffect": 0
     },
     {
         "CellX": 16,
@@ -13819,10 +13820,12 @@
         "CellY": 70
     },
     {
-        "Key": "InvisibleObstacle"
+        "Key": "InvisibleObstacle",
+        "CollisionEffect": 0
     },
     {
-        "Key": "AW1"
+        "Key": "AW1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 48,

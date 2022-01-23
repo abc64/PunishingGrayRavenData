@@ -3390,7 +3390,8 @@
         "Key": "InvisibleObstacle"
     },
     {
-        "Key": "Battle"
+        "Key": "Battle",
+        "CollisionEffect": 1
     },
     {
         "CellX": 49,
@@ -16809,7 +16810,8 @@
         "CellY": 61
     },
     {
-        "Key": "Die"
+        "Key": "Die",
+        "CollisionEffect": 1
     },
     {
         "CellX": 38,

@@ -5,7 +5,7 @@
         "Name": "圣诞节 - 屋顶1",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             301301030
@@ -23,7 +23,7 @@
         "Name": "圣诞节 - 伐木场",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 49,
+        "SceneCamera": 45,
         "CameraId": 9,
         "Terrains": [
             301301040
@@ -41,7 +41,7 @@
         "Name": "圣诞节 - 教堂",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 33,
+        "SceneCamera": 5,
         "CameraId": 11,
         "Terrains": [
             301301070
@@ -59,7 +59,7 @@
         "Name": "圣诞节 - 屋顶2",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             301301090
@@ -72,15 +72,15 @@
         ]
     },
     {
-        "Id": 30130111,
-        "Behavior": 30130111,
-        "Name": "日服 - 皮肤关 - 露西亚1",
+        "Id": 30130202,
+        "Behavior": 30130202,
+        "Name": "エイプリルフール-ルシア",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 18,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
-            301301110
+            301302020
         ],
         "Position": [
             "0|0|0"
@@ -90,15 +90,15 @@
         ]
     },
     {
-        "Id": 30130112,
-        "Behavior": 30130112,
-        "Name": "日服 - 皮肤关 - 露西亚2",
+        "Id": 30130203,
+        "Behavior": 30130203,
+        "Name": "エイプリルフール-リー",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 19,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
-            301301120
+            301302030
         ],
         "Position": [
             "0|0|0"
@@ -108,15 +108,15 @@
         ]
     },
     {
-        "Id": 30130114,
-        "Behavior": 30130114,
-        "Name": "日服 - 皮肤关 - 丽芙1",
+        "Id": 30130204,
+        "Behavior": 30130204,
+        "Name": "エイプリルフール-ワタナベ+アイラ",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 16,
+        "SceneCamera": 4,
         "CameraId": 9,
         "Terrains": [
-            301301140
+            301302040
         ],
         "Position": [
             "0|0|0"
@@ -126,15 +126,141 @@
         ]
     },
     {
-        "Id": 30130115,
-        "Behavior": 30130115,
-        "Name": "日服 - 皮肤关 - 丽芙2",
+        "Id": 30130205,
+        "Behavior": 30130205,
+        "Name": "エイプリルフール-リーフ",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 21,
+        "SceneCamera": 4,
         "CameraId": 9,
         "Terrains": [
-            301301150
+            301302050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130208,
+        "Behavior": 30130208,
+        "Name": "エイプリルフール-解",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 9,
+        "CameraId": 9,
+        "Terrains": [
+            301302080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130301,
+        "Behavior": 30130301,
+        "Name": "端午节 - 船",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            301303010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130303,
+        "Behavior": 30130303,
+        "Name": "端午节 - 采粽叶",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 12,
+        "CameraId": 9,
+        "Terrains": [
+            301303030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130305,
+        "Behavior": 30130305,
+        "Name": "端午节 - 杀吊人",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 10,
+        "CameraId": 9,
+        "Terrains": [
+            301303050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130403,
+        "Behavior": 30130403,
+        "Name": "泳装关 - 丽芙单人",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            301304030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130404,
+        "Behavior": 30130404,
+        "Name": "泳装关 - 乱数单人",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            301304040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30130405,
+        "Behavior": 30130405,
+        "Name": "泳装关 - 双人",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            301304050
         ],
         "Position": [
             "0|0|0"

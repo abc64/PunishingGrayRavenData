@@ -3582,6 +3582,7 @@
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxR2LiangAttack11ExShouji",
+        "WaitTime": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -3594,10 +3595,10 @@
             0
         ],
         "ScaleParams": [],
-        "BornPosition": 2,
+        "BornPosition": 1,
         "ChildCountLimit": 1,
         "ChildId": 10011217,
-        "BornDirectionType": 2,
+        "BornDirectionType": 1,
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
@@ -4391,6 +4392,7 @@
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxR2LiangAttack11ExShouji",
+        "WaitTime": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -4403,10 +4405,10 @@
             0
         ],
         "ScaleParams": [],
-        "BornPosition": 2,
+        "BornPosition": 1,
         "ChildCountLimit": 1,
         "ChildId": 10011317,
-        "BornDirectionType": 2,
+        "BornDirectionType": 1,
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
@@ -5200,6 +5202,7 @@
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxR2LiangAttack11ExShouji",
+        "WaitTime": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -5212,10 +5215,10 @@
             0
         ],
         "ScaleParams": [],
-        "BornPosition": 2,
+        "BornPosition": 1,
         "ChildCountLimit": 1,
         "ChildId": 10011417,
-        "BornDirectionType": 2,
+        "BornDirectionType": 1,
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
@@ -8511,7 +8514,7 @@
         "HitCount": "-1",
         "RepeatDamage": 1,
         "HitEffect": [],
-        "DamageInterval": 0.1,
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -8542,7 +8545,8 @@
         "HitOnJoint": "HitCase",
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
-        "HitEffectUseMissileDirection": 1
+        "HitEffectUseMissileDirection": 1,
+        "IgnoreNpcTimeScale": 1
     },
     {
         "Id": 10052002,
@@ -8555,7 +8559,7 @@
         "HitCount": "-1",
         "RepeatDamage": 1,
         "HitEffect": [],
-        "DamageInterval": 0.1,
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -8582,7 +8586,8 @@
         "HitOnJoint": "HitCase",
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
-        "HitEffectUseMissileDirection": 1
+        "HitEffectUseMissileDirection": 1,
+        "IgnoreNpcTimeScale": 1
     },
     {
         "Id": 10052003,
@@ -12032,7 +12037,8 @@
         "BeHitState": 100809051,
         "Magic": [
             100813,
-            100815
+            100815,
+            100863
         ],
         "MagicLauncherNpc": [
             100815,
@@ -12305,7 +12311,8 @@
         "BeHitState": 100812021,
         "Magic": [
             100825,
-            100827
+            100827,
+            100863
         ],
         "MagicLauncherNpc": [
             100827,
@@ -12530,7 +12537,8 @@
         "BeHitState": 100815071,
         "Magic": [
             100835,
-            200103
+            200103,
+            100863
         ],
         "MagicLauncherNpc": [
             200103,
@@ -12757,7 +12765,8 @@
         "BeHitState": 100817051,
         "Magic": [
             100813,
-            100815
+            100815,
+            100863
         ],
         "MagicLauncherNpc": [
             100815,
@@ -15249,7 +15258,6 @@
         "BeHitState": 101314051,
         "Magic": [
             101335,
-            101339,
             101399
         ],
         "MagicLauncherNpc": [
@@ -15377,7 +15385,8 @@
         "HitShakeIntensity": 0.08,
         "Magic": [
             101332,
-            101338
+            101338,
+            101398
         ],
         "MagicLauncherNpc": [],
         "EffectHeight": 1.3,
@@ -15418,7 +15427,7 @@
         "BeHitState": 101316041,
         "Magic": [
             101335,
-            101339
+            101399
         ],
         "MagicLauncherNpc": [
             null,
@@ -15462,6 +15471,44 @@
         "Magic": [
             101336,
             101337
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 10131607,
+        "Name": "出场技-7",
+        "Shape": 1,
+        "SizeX": 5,
+        "SizeY": 5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 3.2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 0,
+        "BeHitCenter": 2,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            101398
         ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,

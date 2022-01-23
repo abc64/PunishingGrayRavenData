@@ -1,209 +1,11 @@
 [
     {
-        "Id": 30090401,
-        "Behavior": 30090401,
-        "Name": "武器舱-普通",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090402,
-        "Behavior": 30090402,
-        "Name": "观测舱-普通",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 56,
-        "CameraId": 9,
-        "Terrains": [
-            300904020
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090403,
-        "Behavior": 30090403,
-        "Name": "中继舱-普通",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 51,
-        "CameraId": 9,
-        "Terrains": [
-            300904030
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090404,
-        "Behavior": 30090404,
-        "Name": "升降平台-普通",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904040
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090405,
-        "Behavior": 30090405,
-        "Name": "多选复刷关-1波",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904050
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090406,
-        "Behavior": 30090406,
-        "Name": "多选复刷关-3波",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904060
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090407,
-        "Behavior": 30090407,
-        "Name": "多选复刷关-5波",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904070
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090411,
-        "Behavior": 30090411,
-        "Name": "武器舱-十字架机关-困难",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904110
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090412,
-        "Behavior": 30090412,
-        "Name": "观测舱-困难",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 56,
-        "CameraId": 9,
-        "Terrains": [
-            300904120
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090413,
-        "Behavior": 30090413,
-        "Name": "中继舱-十字架机关-困难",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904130
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 30090414,
-        "Behavior": 30090414,
-        "Name": "升降平台-几何虫子-困难",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 9,
-        "Terrains": [
-            300904140
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 30090421,
         "Behavior": 30090421,
         "Name": "噩梦斗兽场",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             300904210
@@ -221,7 +23,7 @@
         "Name": "重度疫区",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             300904220
@@ -239,7 +41,7 @@
         "Name": "重甲机兵",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             300904230
@@ -257,7 +59,7 @@
         "Name": "刀光剑影",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             300904240
@@ -275,7 +77,7 @@
         "Name": "隐秘刺杀",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             300904250
@@ -288,15 +90,15 @@
         ]
     },
     {
-        "Id": 30090431,
-        "Behavior": 30090431,
-        "Name": "几何体-难度1",
+        "Id": 30150221,
+        "Behavior": 30150221,
+        "Name": "卡穆",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 13,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
-            300904310
+            301502210
         ],
         "Position": [
             "0|0|0"
@@ -306,15 +108,15 @@
         ]
     },
     {
-        "Id": 30090432,
-        "Behavior": 30090432,
-        "Name": "几何体-难度2",
+        "Id": 30150222,
+        "Behavior": 30150222,
+        "Name": "双蜘蛛",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 13,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
-            300904320
+            301502220
         ],
         "Position": [
             "0|0|0"
@@ -324,15 +126,15 @@
         ]
     },
     {
-        "Id": 30090433,
-        "Behavior": 30090433,
-        "Name": "几何体-难度3",
+        "Id": 30150223,
+        "Behavior": 30150223,
+        "Name": "决战九龙船",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 13,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
-            300904330
+            301502230
         ],
         "Position": [
             "0|0|0"
@@ -342,15 +144,15 @@
         ]
     },
     {
-        "Id": 30090434,
-        "Behavior": 30090434,
-        "Name": "几何体-难度4",
+        "Id": 30150224,
+        "Behavior": 30150224,
+        "Name": "三角队伍",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 13,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
-            300904340
+            301502240
         ],
         "Position": [
             "0|0|0"
@@ -360,15 +162,15 @@
         ]
     },
     {
-        "Id": 30090435,
-        "Behavior": 30090435,
-        "Name": "几何体-难度5",
+        "Id": 30150225,
+        "Behavior": 30150225,
+        "Name": "整体队伍",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
-        "CameraId": 13,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
-            300904350
+            301502250
         ],
         "Position": [
             "0|0|0"

@@ -5,7 +5,7 @@
         "Name": "【观测舱-追逐十字架】（普通互动及打怪）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 56,
+        "SceneCamera": 17,
         "CameraId": 9,
         "Terrains": [
             100901020
@@ -23,7 +23,7 @@
         "Name": "【武器舱-夺取控制权】（打怪、区域控制）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             100901030
@@ -41,7 +41,7 @@
         "Name": "【中继舱-往支援途中】（打怪、锁渡边3）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             100901040
@@ -59,7 +59,7 @@
         "Name": "【实验舱-光反射玩法】（解谜或打怪）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 1,
         "Terrains": [
             100902010
@@ -77,7 +77,7 @@
         "Name": "【意识海-稳定控制层】（打怪、锁渡边3）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 51,
+        "SceneCamera": 24,
         "CameraId": 9,
         "Terrains": [
             100902020
@@ -97,7 +97,7 @@
         "TerrainRoot": "pingtai",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 10,
         "Terrains": [
             100902030
@@ -115,7 +115,7 @@
         "Name": "【外环圈-战斗关】（4区域普通打怪）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             100902040
@@ -133,7 +133,7 @@
         "Name": "【中环圈-解谜关】（3区域解谜）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             100903010
@@ -151,7 +151,7 @@
         "Name": "【内环圈-试炼关】（3区域强度作战）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             100903020
@@ -169,7 +169,7 @@
         "Name": "【核心区-BOSS关1】（前阶段BOSS）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 13,
         "Terrains": [
             100903030
@@ -187,7 +187,7 @@
         "Name": "【核心区-BOSS关2】（后阶段BOSS）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 12,
         "Terrains": [
             100903040
@@ -205,10 +205,28 @@
         "Name": "【核心区-BOSS关3】（飞机追逐战）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 1,
         "Terrains": [
             100904010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10090402,
+        "Behavior": 10090402,
+        "Name": "宇宙ステーションのステージ難易度低下（引用のみ、ステージ直接入らない）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            100904020
         ],
         "Position": [
             "0|0|0"

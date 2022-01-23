@@ -1,18 +1,56 @@
-Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	TrackTarget	LiveTime	FillTime	DeadExplosion	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
-10140606		2	0.3				0			4		10			999						FxR3BiankaAttack11Dandao		-1			1																						0																											
-10140706		2	0.3				0			4		10			999						FxR3BiankaAttack11Dandao		-1			1																						0																											
-10140806		2	0.3				0			4		10			999						FxR3BiankaAttack13Dandao		-1			1																						0																											
-10140904		2	0.3				0			4		10			999						FxR3BiankaAttack21		-1			1																						0																											
-10141004		2	0.3				0			4		10			999						FxR3BiankaAttack21		-1			1																						0																											
-10141104		2	0.3				0			4		10			999						FxR3BiankaAttack21		-1			1																						0																											
-10141205		2	0.3				0			4		10			999						FxR3BiankaAttack31Dimian		-1			1																						0																											
-10141206		2	0.3				0			4		10			999						FxR3BiankaAttack31Baozha		-1			1																						0																											
-10141305		2	0.3				0			4		10			999						FxR3BiankaAttack32Dimian		-1			1																						0																											
-10141306		2	0.3				0			4		10			999						FxR3BiankaAttack31Baozha		-1			1																						0																											
-10141405		2	0.3				0			4		10			999						FxR3BiankaAttack33Dimian		-1			1																						0																											
-10141406		2	0.3				0			4		10			999						FxR3BiankaAttack33Baozha		-1			1																						0																											
-10141510		2	0.3				0			4		10			999						FxQte		-1			1																						0																											
-10141511		2	0.3				0			4		10			999						FxQte		-1			1																						0																											
-10141802		2	0.3				0			4		10			999						FxR3BiankaAttack51Dandao		-1			1															1							0																											
-10141808		2	0.3				0			4		10			999						FxR3BiankaAttack51BlackHole		-1			1															1							0																											
-10142505		2	0.3				0			4		10			999						FxR3BiankaAttack13Dandao		-1			1																						0																											
+Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
+10140407		2	0.3				0			4			10						999						FxR3BiankaAttack04Dilie		-1			1																						0																											
+10140606		2	0.3				0			4			10						999						FxR3BiankaAttack11Dandao		-1			1																						0																											
+10140706		2	0.3				0			4			10						999						FxR3BiankaAttack11Dandao		-1			1																						0																											
+10140806		2	0.3				0			4			10						999						FxR3BiankaAttack13Dandao		-1			1																						0																											
+10140904		2	0.3				0			4			10						999						FxR3BiankaAttack21		-1			1																						0																											
+10141004		2	0.3				0			4			10						999						FxR3BiankaAttack21		-1			1																						0																											
+10141104		2	0.3				0			4			10						999						FxR3BiankaAttack21		-1			1																						0																											
+10141221		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10141222		2	0.3				0			4			10						999						FxR3BiankaAttack31Chuxian		-1			1																						0																											
+10141321		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10141322		2	0.3				0			4			10						999						FxR3BiankaAttack31Chuxian		-1			1																						0																											
+10141421		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10141422		2	0.3				0			4			10						999						FxR3BiankaAttack31Chuxian		-1			1																						0																											
+10141510		2	0.3				0			4			10						999						FxQte		-1			1																						0																											
+10141511		2	0.3				0			4			10						999						FxQte		-1			1																						0																											
+10141821		2	0.3				0			4			10						999						FxR3BiankaAttack51Jian		-1			1																						0																											
+10142204		2	0.3				0			4			10						999						FxR3BiankaAttack41Dandao		-1			1																						0																											
+10142304		2	0.3				0			4			10						999						FxR3BiankaAttack41Dandao		-1			1																						0																											
+10142506		2	0.3				0			4			10						999						FxR3BiankaAttack13Dandao		-1			1																						0																											
+10142607		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10142608		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10142707		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10142708		2	0.3				0			4			10						999						FxR3BiankaAttack31Xiaoshi		-1			1																						0																											
+10142805		2	0.3				0			4			10						999						FxR3BiankaAttack41Dandao		-1			1																						0																											
+11020313		2	0.3				0			4			10						999						FxR2KuluomuAttack03Dilie		-1			1																						0																											
+11020413		2	0.3				0			4			10						999						FxR2KuluomuAttack04Dilie		-1			1																						0																											
+11020414		2	0.3				0			4			10						999						FxR2KuluomuAttack04Dilie		-1			1																						0																											
+11020805		2	0.3				0			4			10						999						FxR2KuluomuAttack21		-1			1																						0																	1										
+11020905		2	0.3				0			4			10						999						FxR2KuluomuAttack21		-1			1																						0																	1										
+11021005		2	0.3				0			4			10						999						FxR2KuluomuAttack23		-1			1																						0																	1										
+11021105		2	0.3				0			4			10						999						FxR2KuluomuAttack31Dilie		-1			1																						0																											
+11021205		2	0.3				0			4			10						999						FxR2KuluomuAttack31Dilie		-1			1																						0																											
+11021305		2	0.3				0			4			10						999						FxR2KuluomuAttack33Dilie		-1			1																						0																											
+11021404		2	0.3				0			4			10						999						FxR2KuluomuAttackQteDilie		-1			1																						0														0.3													
+11021405		2	0.3				0			4			10						999						FxQte		-1			1																						0																											
+11021504		2	0.3				0			4			10						999						FxR2KuluomuMove01		-1			1																						0																											
+11021604		2	0.3				0			4			10						999						FxR2KuluomuMove02		-1			1																						0																											
+11022305		2	0.3				0			4			10						999						FxR2KuluomuAttack33Dilie		-1			1																						0																											
+11022421		2	0.3				0			4			10						999						FxR2KuluomuAttack41Chunxian		-1			1																						0																											
+11022422		2	0.3				0			4			10						999						FxR2KuluomuAttack51MoveCanying		-1			1																						0																											
+11022424		2	0.3				0			4			10						999						FxR2KuluomuAttack41Dilie		-1			1																						0																											
+11022521		2	0.3				0			4			10						999						FxR2KuluomuAttack42Chunxian		-1			1																						0																											
+11022522		2	0.3				0			4			10						999						FxR2KuluomuAttack51MoveCanying		-1			1																						0																											
+11022523		2	0.3				0			4			10						999						FxR2KuluomuAttack42Dilie01		-1			1																						0																											
+11022524		2	0.3				0			4			10						999						FxR2KuluomuAttack42Dilie02		-1			1																						0																											
+11022621		2	0.3				0			4			10						999						FxR2KuluomuAttack43Chunxian		-1			1																						0																											
+11022622		2	0.3				0			4			10						999						FxR2KuluomuAttack51MoveCanying		-1			1																						0																											
+11022623		2	0.3				0			4			10						999						FxR2KuluomuAttack43Dilie		-1			1																						0																											
+11022624		2	0.3				0			4			10						999						FxR2KuluomuAttack43Dilie		-1			1																						0																											
+11022721		2	0.3				0			4			10						999						FxR2KuluomuAttack44Chunxian		-1			1																						0																											
+11022722		2	0.3				0			4			10						999						FxR2KuluomuAttack51MoveCanying		-1			1																						0																											
+11022723		2	0.3				0			4			10						999						FxR2KuluomuAttack44Dilie01		-1			1																						0																											
+11022724		2	0.3				0			4			10						999						FxR2KuluomuAttack44Dilie02		-1			1																						0																											
+11022801		2	0.3				0			4			10						999						FxR2KuluomuAttack48		-1			1																						0																											
+11023003		2	0.3				0			4			10						999						FxR2KuluomuAttack49		-1			1																						0																											

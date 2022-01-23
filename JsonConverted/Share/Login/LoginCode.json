@@ -53,6 +53,10 @@
     },
     {
         "ErrCode": 14,
-        "Msg": "Login server error, please contact with CS via Wechat."
+        "Msg": "Invalid login"
+    },
+    {
+        "ErrCode": 15,
+        "Msg": "As your account is not the invited account for the current Pioneer Testing, you cannot enter the game. Please look forward to the next round of testing."
     }
 ]

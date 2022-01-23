@@ -667,6 +667,25 @@
         "Cover": 1011160
     },
     {
+        "Id": 101118,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 1011180,
+        "Magic": 101118000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 101119,
+        "Delay": 0,
+        "Duration": 0.05,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1011190,
+        "TriggerOnAdd": 1
+    },
+    {
         "Id": 101129,
         "Delay": 0,
         "Duration": 0.6,
@@ -783,7 +802,7 @@
     {
         "Id": 101150,
         "Delay": 0,
-        "Duration": 3,
+        "Duration": 2.6,
         "Limit": 1,
         "Cd": 0,
         "Kind": 1011500,
@@ -805,6 +824,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1011530,
+        "Cover": 1011530,
         "Magic": 101153000
     },
     {
@@ -981,33 +1001,27 @@
         "Id": 101174,
         "Delay": 0,
         "Duration": 5,
-        "Limit": 1,
+        "Limit": 3,
         "Cd": 0,
         "Kind": 1011740,
-        "Magic": 101174000,
-        "TriggerOnAdd": 1
+        "Magic": 101174000
     },
     {
         "Id": 101175,
         "Delay": 0,
-        "Duration": 5,
+        "Duration": 0.1,
         "Limit": 1,
         "Cd": 0,
         "Kind": 1011750,
-        "Cover": 1011740,
-        "Magic": 101175000,
-        "TriggerOnAdd": 1
+        "Magic": 101175000
     },
     {
         "Id": 101176,
         "Delay": 0,
-        "Duration": 5,
+        "Duration": 0,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1011760,
-        "Cover": "1011750|1011760",
-        "Magic": 101176000,
-        "TriggerOnAdd": 1
+        "Kind": 1011760
     },
     {
         "Id": 101177,
@@ -1037,16 +1051,6 @@
         "Magic": 101179000,
         "Effect": "FxR3LiangPinzhiGuadianBip001LForearm",
         "EffectJoint": "Bip001LForearm"
-    },
-    {
-        "Id": 101180,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1011800,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 101181,
@@ -1473,16 +1477,6 @@
         "EffectJoint": "Bip001LForearm"
     },
     {
-        "Id": 100373,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1003730,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
-    },
-    {
         "Id": 100390,
         "Delay": 0,
         "Duration": "-1",
@@ -1507,7 +1501,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1003930,
-        "Cover": 1003930,
         "Magic": 100393000
     },
     {
@@ -1788,7 +1781,7 @@
     {
         "Id": 101213,
         "Delay": 0,
-        "Duration": 1.2,
+        "Duration": 1.7,
         "EffectType": 8,
         "Limit": 1,
         "Cd": 0,
@@ -2062,7 +2055,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1012710,
-        "Cover": 1012700
+        "Cover": 1012700,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101272,
@@ -2072,7 +2066,8 @@
         "Cd": 0,
         "Kind": 1012720,
         "Cover": 1012720,
-        "Magic": 101272000
+        "Magic": 101272000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101273,
@@ -2093,7 +2088,8 @@
         "Kind": 1012740,
         "Cover": 1012720,
         "Effect": "FxR2LuxiyaWuqiChuxian01",
-        "EffectJoint": "SwordCase1"
+        "EffectJoint": "SwordCase1",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101275,
@@ -2103,7 +2099,8 @@
         "Cd": 0,
         "Kind": 1012750,
         "Effect": "FxR2LuxiyaWuqiChuxian02",
-        "EffectJoint": "SwordCase2"
+        "EffectJoint": "SwordCase2",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101276,
@@ -2113,7 +2110,8 @@
         "Cd": 0,
         "Kind": 1012760,
         "Effect": "FxR2LuxiyaWuqiChuxian03",
-        "EffectJoint": "SwordCase3"
+        "EffectJoint": "SwordCase3",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101277,
@@ -2123,7 +2121,8 @@
         "Cd": 0,
         "Kind": 1012770,
         "Effect": "FxR2LuxiyaWuqiChuxian04",
-        "EffectJoint": "SwordCase4"
+        "EffectJoint": "SwordCase4",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101278,
@@ -2134,7 +2133,8 @@
         "Kind": 1012780,
         "Cover": 1012780,
         "Effect": "FxR2LuxiyaAttack51WuqiBuff",
-        "EffectJoint": "SwordCase1"
+        "EffectJoint": "SwordCase1",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101279,
@@ -2145,7 +2145,8 @@
         "Kind": 1012790,
         "Cover": 1012790,
         "Effect": "FxR2LuxiyaAttack51WuqiBuff",
-        "EffectJoint": "SwordCase2"
+        "EffectJoint": "SwordCase2",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101280,
@@ -2156,7 +2157,8 @@
         "Kind": 1012800,
         "Cover": 1012800,
         "Effect": "FxR2LuxiyaAttack51WuqiBuff",
-        "EffectJoint": "SwordCase3"
+        "EffectJoint": "SwordCase3",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101281,
@@ -2167,7 +2169,8 @@
         "Kind": 1012810,
         "Cover": 1012810,
         "Effect": "FxR2LuxiyaAttack51WuqiBuff",
-        "EffectJoint": "SwordCase4"
+        "EffectJoint": "SwordCase4",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 101283,
@@ -2267,13 +2270,13 @@
         "EffectJoint": "Bip001RUpperArm"
     },
     {
-        "Id": 101297,
+        "Id": 101299,
         "Delay": 0,
-        "Duration": 1.5,
+        "Duration": 0.5,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1012970,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
+        "Kind": "1012990|1",
+        "Cover": 1012990,
+        "Magic": 101299000
     }
 ]

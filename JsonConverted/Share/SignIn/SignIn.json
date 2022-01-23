@@ -29,7 +29,7 @@
             1001,
             1002
         ],
-        "OpenStage": 10010202,
+        "OpenStage": 10010203,
         "StartTimeStr": "2019/8/8 0:00",
         "CloseTimeStr": "2029/11/14 0:00",
         "IsShowWhenDayOver": 0,
@@ -47,8 +47,8 @@
             1003
         ],
         "OpenLevel": 20,
-        "StartTimeStr": "2020/12/24 5:00",
-        "CloseTimeStr": "2021/1/2 5:00",
+        "StartTimeStr": "2021/12/23 7:00",
+        "CloseTimeStr": "2022/1/7 6:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     },
@@ -81,8 +81,59 @@
             1005
         ],
         "OpenLevel": 20,
-        "StartTimeStr": "2021/2/8 5:00",
-        "CloseTimeStr": "2021/2/21 4:59",
+        "StartTimeStr": "2020/1/24 5:00",
+        "CloseTimeStr": "2020/2/5 23:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 8,
+        "Name": "Eternal Engine Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignLieche.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1006
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2019/3/19 5:00",
+        "CloseTimeStr": "2020/4/2 5:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 9,
+        "Name": "[Nona] Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignZhongguochuan.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1007
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2020/4/29 5:00",
+        "CloseTimeStr": "2020/5/13 5:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 10,
+        "Name": "[K.M.] Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignDaduhui.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1008
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/12/22 2:00",
+        "CloseTimeStr": "2022/1/12 6:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     },
@@ -98,8 +149,8 @@
             1000002
         ],
         "OpenLevel": 20,
-        "StartTimeStr": "2021/9/9 2:00",
-        "CloseTimeStr": "2021/9/23 6:59",
+        "StartTimeStr": "2021/1/27 5:00",
+        "CloseTimeStr": "2021/2/10 4:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     },
@@ -134,5 +185,39 @@
         "OpenLevel": 20,
         "StartTimeStr": "2021/8/3 7:00",
         "CloseTimeStr": "2021/8/17 6:59"
+    },
+    {
+        "Id": 1300020,
+        "Name": "[100-day] Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignEnHundred.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7
+        ],
+        "SubRoundId": [
+            1300020
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2021/10/24 7:00",
+        "CloseTimeStr": "2021/11/2 6:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 1300030,
+        "Name": "[Half Anniv.] Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignEnHalfAnniv.prefab",
+        "Type": 2,
+        "RoundDays": [
+            5
+        ],
+        "SubRoundId": [
+            1300030
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2022/1/14 7:00",
+        "CloseTimeStr": "2022/1/21 6:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
     }
 ]

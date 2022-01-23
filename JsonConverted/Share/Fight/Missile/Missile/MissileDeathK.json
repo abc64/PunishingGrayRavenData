@@ -1,7 +1,7 @@
 [
     {
         "Id": 811199,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -17,7 +17,7 @@
     },
     {
         "Id": 811299,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -32,7 +32,7 @@
     },
     {
         "Id": 811399,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -48,7 +48,7 @@
     },
     {
         "Id": 812099,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -64,22 +64,7 @@
     },
     {
         "Id": 813099,
-        "Shape": 2,
-        "LiveTime": 5,
-        "HitCount": "-1",
-        "HitEffect": [],
-        "Effect": "FxMb1SwordMd030001Death",
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [],
-        "ScaleParams": [],
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "BindLauncher": 1
-    },
-    {
-        "Id": 813199,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -94,8 +79,24 @@
         "BindLauncher": 1
     },
     {
+        "Id": 813199,
+        "Shape": 0,
+        "LiveTime": 5,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "StartJoint": "Root",
+        "Effect": "FxMb1SwordMd030001Death",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [],
+        "ScaleParams": [],
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "BindLauncher": 1
+    },
+    {
         "Id": 814099,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -111,7 +112,7 @@
     },
     {
         "Id": 814199,
-        "Shape": 2,
+        "Shape": 0,
         "LiveTime": 5,
         "HitCount": "-1",
         "HitEffect": [],

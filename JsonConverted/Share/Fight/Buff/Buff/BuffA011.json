@@ -1,0 +1,219 @@
+[
+    {
+        "Id": 123206,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232060,
+        "Magic": 123206000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123207,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232070,
+        "Magic": 123207000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123208,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232080,
+        "Magic": 123208000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123209,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232090,
+        "Magic": 123209000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123222,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232220,
+        "Magic": 123222000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123223,
+        "Delay": 0,
+        "Duration": 0.15,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1232230|8",
+        "Cover": 1132230,
+        "Mutex": "10|15",
+        "Magic": 123223000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123261,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232610,
+        "Effect": "FxR4LuxiyaSanreqi",
+        "EffectJoint": "Root",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123262,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232620,
+        "Cover": 1232610,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123263,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232630,
+        "Magic": 123263000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123264,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232640,
+        "Magic": 123264000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123265,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232650,
+        "Cover": "1232230|1232630|1232640",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123270,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232700,
+        "Cover": 1232700,
+        "Magic": 123270000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123271,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232710,
+        "Cover": 1232710,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123272,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232720,
+        "Cover": 1232720,
+        "Magic": 123272000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123273,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232730,
+        "Cover": 1232730,
+        "Magic": 123273000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123275,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232750,
+        "Cover": 1232750,
+        "Magic": 123275000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123280,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1232800|3",
+        "Magic": 123280000
+    },
+    {
+        "Id": 123281,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232810,
+        "Cover": 1232800
+    },
+    {
+        "Id": 123282,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232820,
+        "Cover": 1232820,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123283,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232830,
+        "Cover": 1232830,
+        "Effect": "FxR4LuxiyaWuqiB",
+        "EffectJoint": "WeaponCase2",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 123284,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1232840,
+        "Cover": 1232830,
+        "TriggerOnAdd": 1
+    }
+]

@@ -24,13 +24,13 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 815055	耳光（普攻1）		1.1	0.6	Attack01				2		0		4	
 815056	踩踏（普攻2）		1	0.8	Attack03				6		0		4	
 815057	跳跃 - 轻（普攻3）		1	0.8	Attack04				2		0		1	
-815061	三个手雷（红球）		0.8	0.6	Attack02				2		0	1	4	
+815061	三个手雷（红球）		0.8	0.6	Attack02			10	2		0	1	4	
 815062	自爆虫（蓝球）		1	0	Attack11				2		0			
 815063	全屏坐（黄球）		1.73	0.3	Attack05				5		0		0	
 816001	挥砍1式		3.09	0	Attack01				6		0		4	
 816002	挥砍2式		2.55	0	Attack02				6		0		4	
-816003	踏込み斬り		2.3	0	Attack03				6		0		4	
-816004	発砲		1.84	0	Attack04				6		0		4	
+816003	踏步斩		2.3	0	Attack03				6		0		4	
+816004	开枪		1.84	0	Attack04				6		0		4	
 816005	后跳		0.96	0	Attack05				2		0		4	
 816006	链刀1式		2.71	0	Attack06				6		0		4	
 816007	链刀2式		2.5	0	Attack07				6		0		4	
@@ -48,11 +48,11 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 816020	闪避		0.96	0	Attack05				2		0			
 816051	前跳		0.5	0.46	Attack05				2		0		0	
 816052	后跳		0.5	0.46	Attack05				4		0		0	
-816055	発砲		0.75	1.1	Attack04			5	0		0		1	
-816056	无影腿		1.7	0.93	Attack11	800043|800050		5	2		0		4	
+816055	开枪		0.75	1.1	Attack04			5	0		0		1	
+816056	无影腿		1.7	0.93	Attack11	800043|800050		5	3		-1		2	
 816057	链刀5式-挑飞		1.23	0.73	Attack12			5	2		0		1	
-816058	链刀5式-空中连击		1	0.71	Attack13			5	2		0		1	
-816060	発砲		0.9	0.94	Attack04				6		0		4	
+816058	链刀5式-空中连击		1	0.71	Attack13			5	3		-1		2	
+816060	开枪		0.9	0.94	Attack04				6		0		4	
 816061	P3 炸药桶 （红球）		2	0.17	Attack17				0		0		1	
 816062	P3 空中飞人（蓝球）		2	0.24	Attack19				5		0		0	
 816063	链刀3式（黄球）		2.2	0.72	Attack08				6		0		4	
@@ -62,7 +62,7 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 816073	P3 炸药桶		2.07	0	Attack17				6		0		4	
 817001	前移		0.84	0	Attack01				2		0	1	1	
 817002	后跳		0.84	0	Attack02				2		0	1	1	
-817003	憎悪の決壊		1.67	0	Attack03				6		0		4	
+817003	旋转		1.67	0	Attack03				6		0		4	
 817004	头盔激光		4	0	Attack04				6		0	1	4	
 817006	尖刺连射		1.67	0	Attack03				2		0	1	4	
 817007	后移		0.84	0	Attack02				2		0	1	1	
@@ -103,32 +103,32 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 817073	P2 蓝球 呼唤地刺		4.17	0	Attack11				5		0		4	
 818001	拍击		2.67	0	Attack01				2		0		4	
 818002	吐痰		2.4	0	Attack02				2		0	1	4	
-818003	空気砲		2.87	0	Attack03				2		0	1	4	
-818004	地叩き		6.3	0	Attack04				2		0		4	
-818005	空気砲EX		9.9	0	Attack05				2		0		4	
+818003	空气炮		2.87	0	Attack03				2		0	1	4	
+818004	疯狂拍击		6.3	0	Attack04				2		0		4	
+818005	疯狂空气炮		9.9	0	Attack05				2		0		4	
 818006	瘫倒 In		2	0	Attack06				2		0		4	
 818007	瘫倒 Loop		999	0	Attack07				2		0		4	
 818008	瘫倒 Out		1.97	0	Attack08				2		0		4	
 818009	沙漠风暴		3.667	0	Attack09				2		0		4	
-818011	土遁		3.167	0	Attack11				2		0		4	
-818012	探出		2.3	0	Attack12				2		0		4	
-818013	土遁		2.1	0	Attack13				2		0		4	
-819001	Block		5	0	Attack55	819009			2		0		4	
+818011	遁地		3.167	0	Attack11				2		0		4	
+818012	探出		2.3	0	Attack12	800050|800043			2		0		4	
+818013	遁地		2.1	0	Attack13				2		0		4	
+819001	格挡		5	0	Attack55	819009			2		0		4	
 819002	闪避		0.667	0	Move2				6		0			
-819003	Z字移動		0.2	0	Attack48				2		0		0	
-819004	Block		5	0	Attack56				2		0		4	
-819005	Block		0.733	0	Attack57				2		0		4	
+819003	Z型闪		0.2	0	Attack48				2		0		0	
+819004	格挡		5	0	Attack56				2		0		4	
+819005	格挡		0.733	0	Attack57				2		0		4	
 831001	五连击		4	0	Attack01				6		0		4	
 831002	五连击 -2		2.6	0	Attack02				6		0		4	
-831003	突進		0.8	0	Attack03				2		0		4	
+831003	突进		0.8	0	Attack03				2		0		4	
 831004	二连击		1.7	0	Attack04				6		0		4	
-831005	四連撃		2.5	0	Attack05				6		0		4	
+831005	四连击		2.5	0	Attack05				6		0		4	
 831006	挑飞		1	0.67	Attack06				6		0		4	
 831007	打球		1.67	0	Attack07				6		0		4	
 831008	抓取		1.1	0.47	Attack08				6		0	1	4	
 831009	爆气		2.74	0	Attack09				6		0		4	
-831011	Block		0.67	0	Attack11				6		0		4	
-831012	瞬身		0.2	0	Attack17				2		0		0	
+831011	格挡		0.67	0	Attack11				6		0		4	
+831012	闪现		0.2	0	Attack17				2		0		0	
 831013	脱离		1.17	0	Attack13				6		0		4	
 831014	快速上挑		1.4	0	Attack14				6		0		4	
 831015	二连击		2.17	0	Attack15				6		0		4	
@@ -136,7 +136,7 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 831017	狂暴后虚弱		2.93	0	Attack16				0		0		4	
 831018	不追加攻击挑飞		1	0.67	Attack06				6		0		4	
 831019	五连爆气		1.17	0	Attack13				6		0		4	
-831051	突進		0.8	0	Attack03				2		0		4	
+831051	突进		0.8	0	Attack03				2		0		4	
 831060	二连击（普攻）		1.7	0	Attack04				6		0		4	
 831061	五连击 -2（红球）		2.6	0	Attack02				6		0		4	
 831062	五连爆气（蓝球）		1.17	0	Attack13				6		0		4	
@@ -147,7 +147,7 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 831104	击飞		1.267	0	Attack04				6		0		2	
 831105	击飞2		1.667	0	Attack05				6		0		2	
 831106	独乐屠		0.9	0	Attack06				6		0		2	
-831107	百合折+抓节 【小突进		1.533	0	Attack07				6		0		2	
+831107	百合折+抓节 【小突进0.94/0.6		1.533	0	Attack07				6		0		2	
 831108	八咫乌 【只打浮空		1.133	0	Attack08				6		0		2	
 831109	明鸟 【小突进		1	0	Attack09				6		0		2	
 831111	杭 【超近战		0.833	0	Attack11				6		0		2	
@@ -164,7 +164,7 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 831123	后闪		0.34	0	Attack23				2		0		0	
 831124	右闪		0.8	0	Attack24				2		0		0	
 831125	左闪		0.8	0	Attack25				2		0		0	
-831126	瞬身		0.2	0	Attack26				2		0		0	
+831126	闪现		0.2	0	Attack26				2		0		0	
 831127	空中连技		1.43	0	Attack27				6		0	4	0	
 831128	爆气		1	0	Attack28				2		0		0	
 831129	骗招1		4.54	0	Attack29				0		0		2	

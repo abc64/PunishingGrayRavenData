@@ -1,6 +1,7 @@
 [
     {
-        "Key": "VisibleObstacle"
+        "Key": "VisibleObstacle",
+        "CollisionEffect": 0
     },
     {
         "CellX": 16,
@@ -14255,10 +14256,104 @@
         "CellY": 102
     },
     {
-        "Key": "InvisibleObstacle"
+        "CellX": 18,
+        "CellY": 59
     },
     {
-        "Key": "AW1"
+        "CellX": 18,
+        "CellY": 60
+    },
+    {
+        "CellX": 18,
+        "CellY": 61
+    },
+    {
+        "CellX": 19,
+        "CellY": 61
+    },
+    {
+        "CellX": 11,
+        "CellY": 70
+    },
+    {
+        "CellX": 12,
+        "CellY": 70
+    },
+    {
+        "CellX": 13,
+        "CellY": 70
+    },
+    {
+        "CellX": 13,
+        "CellY": 69
+    },
+    {
+        "CellX": 15,
+        "CellY": 69
+    },
+    {
+        "CellX": 14,
+        "CellY": 69
+    },
+    {
+        "CellX": 16,
+        "CellY": 69
+    },
+    {
+        "CellX": 16,
+        "CellY": 68
+    },
+    {
+        "CellX": 17,
+        "CellY": 68
+    },
+    {
+        "CellX": 17,
+        "CellY": 69
+    },
+    {
+        "CellX": 17,
+        "CellY": 70
+    },
+    {
+        "CellX": 17,
+        "CellY": 71
+    },
+    {
+        "CellX": 16,
+        "CellY": 71
+    },
+    {
+        "CellX": 16,
+        "CellY": 70
+    },
+    {
+        "CellX": 15,
+        "CellY": 70
+    },
+    {
+        "CellX": 14,
+        "CellY": 70
+    },
+    {
+        "CellX": 13,
+        "CellY": 71
+    },
+    {
+        "CellX": 14,
+        "CellY": 71
+    },
+    {
+        "CellX": 15,
+        "CellY": 71
+    },
+    {
+        "Key": "InvisibleObstacle",
+        "CollisionEffect": 0
+    },
+    {
+        "Key": "AW1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 48,
@@ -14493,7 +14588,8 @@
         "CellY": 40
     },
     {
-        "Key": "BB1"
+        "Key": "BB1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 39,
@@ -14532,7 +14628,8 @@
         "CellY": 27
     },
     {
-        "Key": "BB2"
+        "Key": "BB2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 56,
@@ -14571,7 +14668,8 @@
         "CellY": 61
     },
     {
-        "Key": "CG1"
+        "Key": "CG1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 8,
@@ -14694,7 +14792,8 @@
         "CellY": 53
     },
     {
-        "Key": "CG2"
+        "Key": "CG2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 51,

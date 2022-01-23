@@ -4,7 +4,7 @@
         "Behavior": 90090001,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             900900010
@@ -38,7 +38,7 @@
         "Behavior": 90090004,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900040
@@ -140,7 +140,7 @@
         "Behavior": 90090011,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 7,
         "CameraId": 9,
         "Terrains": [
             900900110
@@ -157,7 +157,7 @@
         "Behavior": 90090012,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900120
@@ -174,7 +174,7 @@
         "Behavior": 90090013,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900130
@@ -191,7 +191,7 @@
         "Behavior": 90090014,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900140
@@ -208,7 +208,7 @@
         "Behavior": 90090015,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900150
@@ -225,7 +225,7 @@
         "Behavior": 90090016,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900160
@@ -242,7 +242,7 @@
         "Behavior": 90090017,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900170
@@ -259,7 +259,7 @@
         "Behavior": 90090018,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900180
@@ -276,7 +276,7 @@
         "Behavior": 90090019,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900190
@@ -293,7 +293,7 @@
         "Behavior": 90090020,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900200
@@ -310,7 +310,7 @@
         "Behavior": 90090021,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900210
@@ -327,7 +327,7 @@
         "Behavior": 90090022,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900220
@@ -344,7 +344,7 @@
         "Behavior": 90090023,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900230
@@ -361,7 +361,7 @@
         "Behavior": 90090024,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900240
@@ -378,7 +378,7 @@
         "Behavior": 90090025,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900250
@@ -395,7 +395,7 @@
         "Behavior": 90090026,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900260
@@ -446,10 +446,61 @@
         "Behavior": 90090029,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             900900290
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 90090030,
+        "Behavior": 90090030,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 25,
+        "CameraId": 9,
+        "Terrains": [
+            900900300
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 90090031,
+        "Behavior": 90090031,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 25,
+        "CameraId": 9,
+        "Terrains": [
+            900900310
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 90090032,
+        "Behavior": 90090032,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 65,
+        "CameraId": 9,
+        "Terrains": [
+            900900320
         ],
         "Position": [
             "0|0|0"

@@ -1,29 +1,31 @@
 [
     {
         "Id": 9513,
-        "AttribId": 4,
+        "AttribId": 8190,
+        "PromotedId": 8190,
         "Kind": 1,
-        "Type": 3,
-        "Name": "弹幕用提法",
-        "MoveUseFaceDir": 1,
-        "ModelId": "Mb1VirginbioMd030001",
-        "BodyRadius": 1,
-        "CameraCollideRadius": 1,
+        "Type": 2,
+        "Name": "Awakened α",
+        "MoveUseFaceDir": 3,
+        "ModelId": "Mb1LuxiyaMd000003",
+        "ColliderType": 1,
+        "BodyRadius": 1.2,
+        "CameraCollideRadius": 1.2,
+        "HitRadius": 0.1,
         "ModelScale": 1,
         "EffectScale": 1,
+        "UiResId": 900000,
         "BossHp": 1,
         "HpWdigetCount": 30,
-        "HpWidgetHeight": 1,
+        "HpWidgetHeight": 0.8,
         "HpWidgetType": 2,
         "RollCharHeight": 1.5,
-        "HitDownTime": 0.9,
-        "FallDownTime": 0.3,
-        "StandUpTime": 0.85,
-        "StandUpImmuneHitTime": 0,
-        "MaxHitValue": 10,
-        "BornTime": 2.34,
-        "DeathTime": 2.67,
-        "HasRunToStand": 0,
+        "LieOnFloorTime": 0.2,
+        "StandUpImmuneHitTime": 0.5,
+        "MaxHitValue": 99999,
+        "BeHitInterval": 0,
+        "DeathTime": 1.5,
+        "HasRunToStand": 1,
         "CollisionPriority": 3,
         "UseShadowMesh": 1,
         "DeathMagic": [
@@ -35,15 +37,16 @@
         "RobotBornMagic": [],
         "BornMagic": [
             9913,
-            900008,
-            100027,
-            900011,
-            970006
+            100050,
+            100051,
+            100074,
+            102242,
+            102261,
+            819011,
+            819006,
+            819049,
+            900057
         ],
-        "SkillId": [
-            951301,
-            951302,
-            951303
-        ]
+        "SkillId": []
     }
 ]

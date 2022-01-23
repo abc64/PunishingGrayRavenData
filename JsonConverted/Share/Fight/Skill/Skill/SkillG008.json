@@ -1,0 +1,200 @@
+[
+    {
+        "Id": 907001,
+        "Name": "至尊防御-普攻1（寸劲）",
+        "CastTime": 3.5,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907002,
+        "Name": "至尊通用-普攻2（摆拳）",
+        "CastTime": 1.9,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 907003,
+        "Name": "至尊防御-蓄力in",
+        "CastTime": 0.6,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907004,
+        "Name": "至尊防御-蓄力loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907005,
+        "Name": "至尊防御-蓄力out",
+        "CastTime": 1.6,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907006,
+        "Name": "至尊防御-冲锋",
+        "CastTime": 2.3,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 3,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907007,
+        "Name": "至尊转阶段",
+        "CastTime": 1.66,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907008,
+        "Name": "至尊进攻-蓄力out",
+        "CastTime": 1.6,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907009,
+        "Name": "至尊进攻-普攻1(寸劲）",
+        "CastTime": 2.167,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907010,
+        "Name": "至尊进攻-普攻1(寸劲短前摇）",
+        "CastTime": 1.833,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907011,
+        "Name": "至尊进攻-普攻2(摆拳回旋踢）",
+        "CastTime": 2.4,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907012,
+        "Name": "至尊进攻-胸口",
+        "CastTime": 3.467,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907013,
+        "Name": "至尊进攻-Z0",
+        "CastTime": 0.867,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 2
+    },
+    {
+        "Id": 907014,
+        "Name": "至尊进攻-Z1",
+        "CastTime": 0.6,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 907015,
+        "Name": "至尊进攻-Z2",
+        "CastTime": 0.6,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 907016,
+        "Name": "至尊进攻-Z3",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 907017,
+        "Name": "至尊进攻-石像",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Born1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 907018,
+        "Name": "至尊进攻-石像转战斗",
+        "CastTime": 1.167,
+        "AfterTime": 0,
+        "Animation": "Born2",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillMoveTrackDistance": 2,
+        "SkillFaceType": 0
+    }
+]

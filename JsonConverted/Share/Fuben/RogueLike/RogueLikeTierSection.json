@@ -1,0 +1,59 @@
+[
+    {
+        "Id": 1,
+        "MinTier": 1,
+        "MaxTier": 16,
+        "EventGroup": 1,
+        "GroupId": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "Id": 2,
+        "MinTier": 17,
+        "MaxTier": 32,
+        "EventGroup": 2,
+        "GroupId": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "Id": 3,
+        "MinTier": 33,
+        "MaxTier": 48,
+        "EventGroup": 3,
+        "GroupId": [
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "Id": 4,
+        "MinTier": 49,
+        "MaxTier": 64,
+        "EventGroup": 4,
+        "GroupId": [
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "Id": 5,
+        "MinTier": 65,
+        "MaxTier": 80,
+        "EventGroup": 5,
+        "GroupId": [
+            17
+        ]
+    }
+]

@@ -29322,7 +29322,8 @@
         "Key": "InvisibleObstacle"
     },
     {
-        "Key": "F1"
+        "Key": "F1",
+        "CollisionEffect": 1
     },
     {
         "CellX": 49,
@@ -29613,7 +29614,8 @@
         "CellY": 28
     },
     {
-        "Key": "AW1"
+        "Key": "AW1",
+        "CollisionEffect": 1
     },
     {
         "CellX": 74,
@@ -29904,7 +29906,8 @@
         "CellY": 25
     },
     {
-        "Key": "F2"
+        "Key": "F2",
+        "CollisionEffect": 1
     },
     {
         "CellX": 92,
@@ -30099,7 +30102,8 @@
         "CellY": 37
     },
     {
-        "Key": "AW2"
+        "Key": "AW2",
+        "CollisionEffect": 1
     },
     {
         "CellX": 80,
@@ -30510,7 +30514,8 @@
         "CellY": 45
     },
     {
-        "Key": "AW3"
+        "Key": "AW3",
+        "CollisionEffect": 1
     },
     {
         "CellX": 133,
@@ -30715,5 +30720,65 @@
     {
         "CellX": 132,
         "CellY": 28
+    },
+    {
+        "Key": "Table",
+        "CollisionEffect": 1
+    },
+    {
+        "CellX": 203,
+        "CellY": 36
+    },
+    {
+        "CellX": 204,
+        "CellY": 36
+    },
+    {
+        "CellX": 205,
+        "CellY": 36
+    },
+    {
+        "CellX": 205,
+        "CellY": 35
+    },
+    {
+        "CellX": 205,
+        "CellY": 34
+    },
+    {
+        "CellX": 203,
+        "CellY": 35
+    },
+    {
+        "CellX": 203,
+        "CellY": 34
+    },
+    {
+        "CellX": 205,
+        "CellY": 33
+    },
+    {
+        "CellX": 203,
+        "CellY": 33
+    },
+    {
+        "CellX": 205,
+        "CellY": 32
+    },
+    {
+        "CellX": 203,
+        "CellY": 32
+    },
+    {
+        "CellX": 204,
+        "CellY": 31
+    },
+    {
+        "CellX": 205,
+        "CellY": 31
+    },
+    {
+        "CellX": 203,
+        "CellY": 31
     }
 ]

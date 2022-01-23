@@ -1,6 +1,7 @@
 [
     {
-        "Key": "VisibleObstacle"
+        "Key": "VisibleObstacle",
+        "CollisionEffect": 0
     },
     {
         "CellX": 4,
@@ -17123,10 +17124,12 @@
         "CellY": 55
     },
     {
-        "Key": "InvisibleObstacle"
+        "Key": "InvisibleObstacle",
+        "CollisionEffect": 0
     },
     {
-        "Key": "CG1"
+        "Key": "CG1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 28,
@@ -17369,7 +17372,8 @@
         "CellY": 48
     },
     {
-        "Key": "CG2"
+        "Key": "CG2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 149,
@@ -18912,7 +18916,8 @@
         "CellY": 29
     },
     {
-        "Key": "DO1"
+        "Key": "DO1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 130,
@@ -18979,7 +18984,8 @@
         "CellY": 50
     },
     {
-        "Key": "DO2"
+        "Key": "DO2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 170,
@@ -19046,7 +19052,8 @@
         "CellY": 6
     },
     {
-        "Key": "AW1"
+        "Key": "AW1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 68,
@@ -19181,7 +19188,8 @@
         "CellY": 41
     },
     {
-        "Key": "AW2"
+        "Key": "AW2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 139,

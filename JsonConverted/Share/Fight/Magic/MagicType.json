@@ -28,6 +28,10 @@
         "Type": "2|2|2"
     },
     {
+        "Name": "ChangeAttribGroupAdditive",
+        "Type": "2|2|2"
+    },
+    {
         "Name": "ChangeAttribValue",
         "Type": "2|2|2"
     },
@@ -120,8 +124,28 @@
         "Type": "3|3|3|3|3|1"
     },
     {
+        "Name": "SetCameraFov",
+        "Type": "3|3|3"
+    },
+    {
+        "Name": "SetCameraRotationModify",
+        "Type": "3|3|3|3|3"
+    },
+    {
+        "Name": "SetCameraFocusOnCenter",
+        "Type": 3
+    },
+    {
         "Name": "SetDamage",
         "Type": "2|2"
+    },
+    {
+        "Name": "MulDamage",
+        "Type": 2
+    },
+    {
+        "Name": "AddDamage",
+        "Type": 2
     },
     {
         "Name": "ShakeCamera",
@@ -207,5 +231,16 @@
     },
     {
         "Name": "SetTimeDependency"
+    },
+    {
+        "Name": "AddAccuBuff",
+        "Type": 2
+    },
+    {
+        "Name": "Event"
+    },
+    {
+        "Name": "DoNpcToNpcTimeLine",
+        "Type": "0|3|3"
     }
 ]

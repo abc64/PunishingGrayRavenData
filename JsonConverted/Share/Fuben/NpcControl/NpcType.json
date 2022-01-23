@@ -66,10 +66,10 @@
         "Name": "Elite (Melee)",
         "NpcId": [
             90210,
-            90250,
             90260,
             90330,
-            90340
+            90340,
+            90620
         ],
         "Weight": [
             100,
@@ -83,11 +83,11 @@
         "Id": 301,
         "Name": "Elite",
         "NpcId": [
-            90350,
+            90360,
             90370,
             90420,
-            90360,
-            90430
+            90430,
+            90250
         ],
         "Weight": [
             100,
@@ -118,9 +118,11 @@
             90030,
             90100,
             90150,
-            90180
+            90180,
+            90600
         ],
         "Weight": [
+            100,
             100,
             100,
             100,
@@ -133,7 +135,23 @@
         "NpcId": [
             90090,
             90110,
-            90160
+            90160,
+            90610
+        ],
+        "Weight": [
+            100,
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 400,
+        "Name": "boss怪",
+        "NpcId": [
+            81200,
+            81500,
+            81300
         ],
         "Weight": [
             100,
@@ -142,14 +160,354 @@
         ]
     },
     {
-        "Id": 400,
-        "Name": "BOSS",
+        "Id": 500,
+        "Name": "9 Ground Monitors",
         "NpcId": [
-            81200,
-            81500
+            90090
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 501,
+        "Name": "6 gunners in a line",
+        "NpcId": [
+            91110
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 502,
+        "Name": "6 drills or rubbish bins in a circle",
+        "NpcId": [
+            91150,
+            91160
         ],
         "Weight": [
             100,
+            100
+        ]
+    },
+    {
+        "Id": 503,
+        "Name": "3*3 elite mashup",
+        "NpcId": [
+            90450,
+            90460,
+            90470,
+            90480,
+            90490
+        ],
+        "Weight": [
+            100,
+            100,
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 504,
+        "Name": "Easter Egg Quartet",
+        "NpcId": [
+            90110,
+            90250,
+            90180
+        ],
+        "Weight": [
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 505,
+        "Name": "3 Train Mashup",
+        "NpcId": [
+            90600,
+            90610,
+            90620
+        ],
+        "Weight": [
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 506,
+        "Name": "Deconstruct Unit",
+        "NpcId": [
+            90600
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 507,
+        "Name": "Repair Unit",
+        "NpcId": [
+            90610
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 508,
+        "Name": "Fire Unit",
+        "NpcId": [
+            90620
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 509,
+        "Name": "Longfoot",
+        "NpcId": [
+            90630
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 510,
+        "Name": "Gardener",
+        "NpcId": [
+            90210
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 511,
+        "Name": "Gigantic Cannon",
+        "NpcId": [
+            90420
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 512,
+        "Name": "1st wave ranged monsters assemble",
+        "NpcId": [
+            91090,
+            91110,
+            91160
+        ],
+        "Weight": [
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 513,
+        "Name": "2nd wave surprise monsters assemble",
+        "NpcId": [
+            91370,
+            91260,
+            91440
+        ],
+        "Weight": [
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 514,
+        "Name": "Duel Monster",
+        "NpcId": [
+            90420,
+            90630
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 515,
+        "Name": "6 disgusting monsters in the 3rd wave",
+        "NpcId": [
+            90600,
+            90610,
+            90620,
+            90470,
+            90260,
+            90210
+        ],
+        "Weight": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 516,
+        "Name": "Blubber VI",
+        "NpcId": [
+            91640
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 517,
+        "Name": "Ballwheel IV",
+        "NpcId": [
+            91650
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 518,
+        "Name": "Hanged Man III",
+        "NpcId": [
+            90660
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 519,
+        "Name": "Kemuri I",
+        "NpcId": [
+            90670
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 520,
+        "Name": "Kowloong Crew - Yazi",
+        "NpcId": [
+            90680
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 521,
+        "Name": "Hydraulic + Executor",
+        "NpcId": [
+            91150,
+            91180
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 522,
+        "Name": "Ronin + Shielder",
+        "NpcId": [
+            91250,
+            91120
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 523,
+        "Name": "Kemuri + Deconstruct",
+        "NpcId": [
+            91670,
+            91600
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 524,
+        "Name": "Spear + Arrow",
+        "NpcId": [
+            91220,
+            91370
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 525,
+        "Name": "Two Units",
+        "NpcId": [
+            91610,
+            91620
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 526,
+        "Name": "Wheelie",
+        "NpcId": [
+            91650,
+            91640
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 527,
+        "Name": "Long-Leg Hanged Man",
+        "NpcId": [
+            90630,
+            90660
+        ],
+        "Weight": [
+            100,
+            100
+        ]
+    },
+    {
+        "Id": 528,
+        "Name": "Chest Laser",
+        "NpcId": [
+            90690
+        ],
+        "Weight": [
+            100
+        ]
+    },
+    {
+        "Id": 529,
+        "Name": "Prime Chest Laser",
+        "NpcId": [
+            90700
+        ],
+        "Weight": [
             100
         ]
     }

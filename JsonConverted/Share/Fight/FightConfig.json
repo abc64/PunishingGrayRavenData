@@ -197,7 +197,7 @@
     {
         "Key": "DefaultExSkillButtonImage",
         "Type": "string",
-        "Value": "Assets/Product/Texture/Image/UiFightBallBox/FightSkillIconRLuxiya51.png"
+        "Value": "Assets/Product/Texture/Image/UiFight/FightSkillIconRLuxiya51.png"
     },
     {
         "Key": "IndicatorToLocation",
@@ -275,16 +275,6 @@
         "Value": "FxFuhuokuang02"
     },
     {
-        "Key": "AffixLevel2",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Image/IconAffix/2.png"
-    },
-    {
-        "Key": "AffixLevel3",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Image/IconAffix/3.png"
-    },
-    {
         "Key": "RunTiltBufferCoefficient",
         "Type": "float",
         "Value": 0.93
@@ -323,5 +313,80 @@
         "Key": "DefaultAnimationTransition",
         "Type": "float",
         "Value": 0.1
+    },
+    {
+        "Key": "MaxBuffAccumulation",
+        "Type": "int",
+        "Value": 10000
+    },
+    {
+        "Key": "RecriveRecordCount",
+        "Type": "int",
+        "Value": 30
+    },
+    {
+        "Key": "OperationMinInterval",
+        "Type": "float",
+        "Value": 0.01
+    },
+    {
+        "Key": "DelayRate",
+        "Type": "float",
+        "Value": 1
+    },
+    {
+        "Key": "DelayFix",
+        "Type": "float",
+        "Value": 0
+    },
+    {
+        "Key": "DeltaTimeProportion",
+        "Type": "float",
+        "Value": 0.5
+    },
+    {
+        "Key": "DeltaTimeCoefficient",
+        "Type": "float",
+        "Value": 0.9
+    },
+    {
+        "Key": "FindPathInterval",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "CheckStateChangeInterval",
+        "Type": "int",
+        "Value": 5
+    },
+    {
+        "Key": "EnterPathFindLimit",
+        "Type": "int",
+        "Value": 5
+    },
+    {
+        "Key": "ExitPathFindLimit",
+        "Type": "int",
+        "Value": 15
+    },
+    {
+        "Key": "PathFinderMaxNodes",
+        "Type": "int",
+        "Value": 512
+    },
+    {
+        "Key": "PathFinderMaxCheckCount",
+        "Type": "int",
+        "Value": 350
+    },
+    {
+        "Key": "AreaFinderMaxNodes",
+        "Type": "int",
+        "Value": 512
+    },
+    {
+        "Key": "AreaFinderMaxCheckCount",
+        "Type": "int",
+        "Value": 256
     }
 ]

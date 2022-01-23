@@ -304,7 +304,7 @@
         "FinalMagicIds": 730045,
         "DistNoTarget": 10,
         "SkillMoveType": 2,
-        "SkillMoveTrackDistance": 0,
+        "SkillMoveTrackDistance": 0.5,
         "SkillFaceType": 0
     },
     {
@@ -507,7 +507,7 @@
     {
         "Id": 901907,
         "Name": "重构镇暴兵-冲锋-眩晕",
-        "CastTime": 1.5,
+        "CastTime": 2.5,
         "AfterTime": 0,
         "Animation": "Stun",
         "DistNoTarget": 10,
@@ -682,7 +682,7 @@
     {
         "Id": 902109,
         "Name": "重构屠夫-眩晕",
-        "CastTime": 4,
+        "CastTime": 4.5,
         "AfterTime": 0,
         "Animation": "Stun",
         "DistNoTarget": 10,
@@ -779,7 +779,7 @@
         "Animation": "Attack03",
         "DistNoTarget": 10,
         "SkillMoveType": 2,
-        "SkillMoveTrackDistance": 0,
+        "SkillMoveTrackDistance": 0.6,
         "SkillFaceType": 1
     },
     {
@@ -998,7 +998,7 @@
     },
     {
         "Id": 961101,
-        "Name": "Flame",
+        "Name": "火焰",
         "CastTime": 2,
         "AfterTime": 0,
         "DistNoTarget": 10,
@@ -1045,7 +1045,7 @@
     },
     {
         "Id": 961403,
-        "Name": "Return",
+        "Name": "返回",
         "CastTime": 0.233,
         "AfterTime": 0,
         "Animation": "Attack03",
@@ -1055,9 +1055,19 @@
     },
     {
         "Id": 961501,
-        "Name": "Area Effect",
+        "Name": "范围效果",
         "CastTime": 2.5,
         "AfterTime": 0,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 961601,
+        "Name": "落下",
+        "CastTime": 1.334,
+        "AfterTime": 0,
+        "Animation": "Attack01",
         "DistNoTarget": 10,
         "SkillMoveType": 0,
         "SkillFaceType": 0

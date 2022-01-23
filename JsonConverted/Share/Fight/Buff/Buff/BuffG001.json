@@ -112,7 +112,7 @@
     {
         "Id": 904515,
         "Delay": 0,
-        "Duration": 3,
+        "Duration": 2,
         "EffectType": 17,
         "Limit": 1,
         "Cd": 0,
@@ -226,13 +226,281 @@
         "Magic": 904536000
     },
     {
+        "Id": 904537,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045370,
+        "Cover": 9035380,
+        "Magic": 904537000
+    },
+    {
+        "Id": 904538,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045380,
+        "Cover": 9035370,
+        "Magic": 904538000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904550,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045500,
+        "Magic": 904550000
+    },
+    {
+        "Id": 904551,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045510,
+        "Cover": 9045510,
+        "Magic": 904551000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904552,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045520,
+        "Magic": 904552000
+    },
+    {
+        "Id": 904553,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045530,
+        "Magic": 904553000
+    },
+    {
+        "Id": 904554,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045540,
+        "Cover": 9045540,
+        "Magic": 904554000
+    },
+    {
+        "Id": 904555,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045550,
+        "Magic": 904555000
+    },
+    {
+        "Id": 904556,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045560,
+        "Magic": 904556000
+    },
+    {
+        "Id": 904557,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045570,
+        "Magic": 904557000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904558,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045580,
+        "Magic": 904558000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904559,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045590,
+        "Cover": 9045590,
+        "Magic": 904559000
+    },
+    {
+        "Id": 904560,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045600,
+        "Magic": 904560000
+    },
+    {
+        "Id": 904561,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045610
+    },
+    {
+        "Id": 904562,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045620,
+        "Cover": 9045620,
+        "Magic": 904562000
+    },
+    {
+        "Id": 904563,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045630,
+        "Cover": 9045630,
+        "Magic": 904563000
+    },
+    {
+        "Id": 904564,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045640,
+        "Magic": 904564000
+    },
+    {
+        "Id": 904565,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045650,
+        "Magic": 904565000
+    },
+    {
+        "Id": 904567,
+        "Delay": 0,
+        "Duration": 3.2,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9045670,
+        "Magic": 904567000
+    },
+    {
+        "Id": 904568,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045680,
+        "Magic": 904568000
+    },
+    {
+        "Id": 904570,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045700,
+        "Magic": 904570000
+    },
+    {
+        "Id": 904571,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045710,
+        "Magic": 904571000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904572,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045720,
+        "Magic": 904572000
+    },
+    {
+        "Id": 904573,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045730,
+        "Magic": 904573000
+    },
+    {
+        "Id": 904575,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045750,
+        "Magic": 904575000
+    },
+    {
+        "Id": 904576,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045760,
+        "Magic": 904576000
+    },
+    {
+        "Id": 904578,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045780,
+        "Cover": 9045510,
+        "Mutex": 9045510,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904580,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045800,
+        "Cover": 9045540,
+        "Mutex": 9045540,
+        "Magic": 904580000
+    },
+    {
         "Id": 904601,
         "Delay": 0,
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
         "Kind": 9046010,
-        "Magic": 904601000
+        "Magic": 904601000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 904602,
@@ -322,5 +590,802 @@
         "Cd": 0,
         "Kind": 9046110,
         "Magic": 904611000
+    },
+    {
+        "Id": 994201,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942010,
+        "Cover": 9942010,
+        "Magic": 994201000
+    },
+    {
+        "Id": 994202,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942020,
+        "Magic": 994202000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994203,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942030,
+        "Cover": 9942030,
+        "Magic": 994203000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994204,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942040,
+        "Effect": "FxMb1MotorMd000001Run"
+    },
+    {
+        "Id": 994205,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942050,
+        "Effect": "FxMb1MotorMd000001Bone086",
+        "EffectJoint": "Bone086"
+    },
+    {
+        "Id": 994206,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942060,
+        "Effect": "FxMb1MotorMd000001QianLun",
+        "EffectJoint": "QianLun"
+    },
+    {
+        "Id": 994207,
+        "Delay": 0,
+        "Duration": 1.1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942070,
+        "Magic": 994207000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994208,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942080,
+        "Magic": 994208000
+    },
+    {
+        "Id": 994209,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942090,
+        "Effect": "FxMb1MotorMd000001LightCheShen",
+        "EffectJoint": "CheShen"
+    },
+    {
+        "Id": 994210,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942100,
+        "Effect": "FxMb1MotorMd000001RunSound"
+    },
+    {
+        "Id": 994211,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942110,
+        "Cover": "9942110|9942120|9942200",
+        "Effect": "FxMb1MotorMd000001RunrSound"
+    },
+    {
+        "Id": 994212,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942120,
+        "Cover": "9942110|9942120|9942200",
+        "Effect": "FxMb1MotorMd000001RunlSound"
+    },
+    {
+        "Id": 994213,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942130,
+        "Cover": 9942130,
+        "Magic": 994213000
+    },
+    {
+        "Id": 994214,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942140,
+        "Magic": 994214000
+    },
+    {
+        "Id": 994215,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942150,
+        "Effect": "FxMb1MotorMd000001Canying"
+    },
+    {
+        "Id": 994216,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942160,
+        "Magic": 994216000
+    },
+    {
+        "Id": 994217,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942170,
+        "Effect": "FxMb1MotorMd000001Blur"
+    },
+    {
+        "Id": 994218,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942180,
+        "Effect": "FxMb1MotorMd000001Chongci"
+    },
+    {
+        "Id": 994219,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942190,
+        "Magic": 994219000
+    },
+    {
+        "Id": 994220,
+        "Delay": 0,
+        "Duration": 1.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942200,
+        "Cover": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Mutex": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Effect": "FxMb1MotorMd000001Move1Sound"
+    },
+    {
+        "Id": 994221,
+        "Delay": 0,
+        "Duration": 4.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942210,
+        "Magic": 994221000
+    },
+    {
+        "Id": 994222,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942220,
+        "Magic": 994222000
+    },
+    {
+        "Id": 994223,
+        "Delay": 0,
+        "Duration": 1.5,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942230,
+        "Magic": 994223000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994224,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942240,
+        "Cover": "9942240|9942250|9942200",
+        "Effect": "FxMb1MotorMd000001RunfSound"
+    },
+    {
+        "Id": 994225,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942250,
+        "Cover": "9942240|9942250|9942200",
+        "Effect": "FxMb1MotorMd000001RunfSound"
+    },
+    {
+        "Id": 994226,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942260,
+        "Magic": 994226000
+    },
+    {
+        "Id": 994228,
+        "Delay": 0,
+        "Duration": 0.7,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942280,
+        "Cover": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Mutex": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Effect": "FxMb1MotorMd000001hit1Sound"
+    },
+    {
+        "Id": 994229,
+        "Delay": 0,
+        "Duration": 1.4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942290,
+        "Cover": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Mutex": "9942100|9942110|9942120|9942150|9942240|9942250",
+        "Effect": "FxMb1MotorMd000001Move1Sound"
+    },
+    {
+        "Id": 994230,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942300,
+        "Magic": 994230000
+    },
+    {
+        "Id": 994231,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942310
+    },
+    {
+        "Id": 994232,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942320,
+        "Magic": 994232000
+    },
+    {
+        "Id": 994233,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942330,
+        "Magic": 994233000
+    },
+    {
+        "Id": 994234,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 15,
+        "Cd": 0,
+        "Kind": 9942340,
+        "Magic": 994234000
+    },
+    {
+        "Id": 994235,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 15,
+        "Cd": 0,
+        "Kind": 9942350,
+        "Magic": 994235000
+    },
+    {
+        "Id": 994236,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 15,
+        "Cd": 0,
+        "Kind": 9942360,
+        "Magic": 994236000
+    },
+    {
+        "Id": 994237,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 30,
+        "Cd": 0,
+        "Kind": 9942370,
+        "Magic": 994237000
+    },
+    {
+        "Id": 994238,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 50,
+        "Cd": 0,
+        "Kind": 9942380,
+        "Magic": 994238000
+    },
+    {
+        "Id": 994239,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942390,
+        "Magic": 994239000
+    },
+    {
+        "Id": 994240,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942400
+    },
+    {
+        "Id": 994241,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 10,
+        "Cd": 0,
+        "Kind": 9942410,
+        "Magic": 994241000
+    },
+    {
+        "Id": 994242,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942420,
+        "Magic": 994242000
+    },
+    {
+        "Id": 994243,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942430,
+        "Magic": 994243000
+    },
+    {
+        "Id": 994244,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942440,
+        "Magic": 994244000
+    },
+    {
+        "Id": 994245,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942450,
+        "Magic": 994245000
+    },
+    {
+        "Id": 994246,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 10,
+        "Cd": 0,
+        "Kind": 9942460,
+        "Magic": 994246000
+    },
+    {
+        "Id": 994248,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 20,
+        "Cd": 0,
+        "Kind": 9942480,
+        "Magic": 994248000
+    },
+    {
+        "Id": 994251,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942510,
+        "Cover": 9942510,
+        "Effect": "FxMb1MotorMd000002Attack09"
+    },
+    {
+        "Id": 994252,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 10,
+        "Cd": 0,
+        "Kind": 9942520
+    },
+    {
+        "Id": 994253,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 10,
+        "Cd": 0,
+        "Kind": 9942530
+    },
+    {
+        "Id": 994254,
+        "Delay": 0,
+        "Duration": 1.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942540,
+        "Magic": 994254000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994255,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942550,
+        "Magic": 994255000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994256,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 20,
+        "Cd": 0,
+        "Kind": 9942560,
+        "Magic": 994256000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994257,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942570,
+        "Effect": "FxMotorSpeed01"
+    },
+    {
+        "Id": 994258,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942580,
+        "Effect": "FxMotorSpeed02"
+    },
+    {
+        "Id": 994259,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942590,
+        "Effect": "FxMotorSpeed03"
+    },
+    {
+        "Id": 994260,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942600,
+        "Effect": "FxMb1MotorMd000002Speed04"
+    },
+    {
+        "Id": 994261,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942610,
+        "Effect": "FxMb1MotorMd000002Speed05"
+    },
+    {
+        "Id": 994262,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942620,
+        "Magic": 994262000
+    },
+    {
+        "Id": 994266,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942660,
+        "Magic": 994266000
+    },
+    {
+        "Id": 994267,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942670,
+        "Cover": "9942670|9942680",
+        "Magic": 994267000
+    },
+    {
+        "Id": 994268,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942680,
+        "Cover": "9942670|9942680",
+        "Magic": 994268000
+    },
+    {
+        "Id": 994280,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942800,
+        "Magic": 994280000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994281,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942810,
+        "Magic": 994281000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994282,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942820,
+        "Cover": 9942820,
+        "Effect": "FxMb1MotorMd000002Hundun",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994283,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942830,
+        "Magic": 994283000
+    },
+    {
+        "Id": 994284,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942840,
+        "Magic": 994284000
+    },
+    {
+        "Id": 994287,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942870,
+        "Cover": 9942870
+    },
+    {
+        "Id": 994288,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942880,
+        "Cover": 9942880
+    },
+    {
+        "Id": 994289,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942890,
+        "Magic": 994289000
+    },
+    {
+        "Id": 994290,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942900,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994291,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942910,
+        "Magic": 994291000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994292,
+        "Delay": 0,
+        "Duration": 2.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942920,
+        "Cover": 9942920,
+        "Magic": 994292000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994293,
+        "Delay": 0,
+        "Duration": 0.35,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942930,
+        "Magic": 994293000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 994294,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942940,
+        "Effect": "FxMb1MotorMd000002HundunKai"
+    },
+    {
+        "Id": 994295,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942950,
+        "Magic": 994295000
+    },
+    {
+        "Id": 994296,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 20,
+        "Cd": 0,
+        "Kind": 9942960,
+        "Magic": 994296000
+    },
+    {
+        "Id": 994297,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942970,
+        "Magic": 994297000
+    },
+    {
+        "Id": 994298,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9942980,
+        "Effect": "FxMb1MotorMd000002AttackNormal"
+    },
+    {
+        "Id": 994299,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9942990,
+        "Effect": "FxMb1MotorMd000002GiftBox"
+    },
+    {
+        "Id": 994501,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9945010,
+        "Cover": 9945020,
+        "Effect": "FxMb1MotorMd000002RunL"
+    },
+    {
+        "Id": 994502,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9945020,
+        "Cover": 9945010,
+        "Effect": "FxMb1MotorMd000002RunR"
+    },
+    {
+        "Id": 994503,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9945030,
+        "Cover": "9945010|9945020",
+        "Effect": "FxMb1MotorMd000002RunR"
+    },
+    {
+        "Id": 994504,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9945040,
+        "Magic": 994504000
+    },
+    {
+        "Id": 994505,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9945050
+    },
+    {
+        "Id": 994506,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 9945060,
+        "Effect": "FxMb1MotorMd000002Luolei"
     }
 ]

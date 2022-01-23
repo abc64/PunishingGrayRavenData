@@ -32,6 +32,43 @@
         "OriginType": 1
     },
     {
+        "Id": 994100121,
+        "Type": 0,
+        "Time": 0,
+        "HoverTime": 0.2,
+        "OriginType": 1
+    },
+    {
+        "Id": 994100131,
+        "Type": 0,
+        "Time": 0,
+        "HoverTime": 0.2,
+        "OriginType": 1
+    },
+    {
+        "Id": 994110011,
+        "Type": 5,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "OriginType": 1
+    },
+    {
+        "Id": 994201011,
+        "Type": 5,
+        "Time": 0.8,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "OriginType": 1
+    },
+    {
+        "Id": 994203011,
+        "Type": 5,
+        "Time": 0.8,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "OriginType": 1
+    },
+    {
         "Id": 994500011,
         "Type": 1,
         "Time": 0.3,
@@ -61,13 +98,6 @@
         "OriginType": 1,
         "ImmuneHitValue": 1,
         "Acceleration": "-100"
-    },
-    {
-        "Id": 994501011,
-        "Type": 5,
-        "Time": 0.6,
-        "HoverTime": 0.2,
-        "OriginType": 1
     },
     {
         "Id": 904001011,
@@ -230,6 +260,129 @@
         "HoverTime": 0.2,
         "ImmuneHitTime": 2,
         "Speed": 25,
+        "MoveTime": 1,
+        "OriginType": 1,
+        "ImmuneHitValue": 3,
+        "Acceleration": "-15"
+    },
+    {
+        "Id": 904552011,
+        "Type": 3,
+        "Time": 1.5,
+        "HoverTime": 0.2,
+        "Speed": 15,
+        "MoveTime": 0.1,
+        "HitFlyHeight1": 1,
+        "HitFlyHeight2": 0.25,
+        "HitFlyTime1": 0.1,
+        "HitFlyTime2": 1.2,
+        "HitFlyTime3": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 1,
+        "Acceleration": "-100"
+    },
+    {
+        "Id": 904553011,
+        "Type": 2,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "Speed": 15,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": "-100"
+    },
+    {
+        "Id": 904554011,
+        "Type": 2,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 904555011,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "MoveTime": 0.45,
+        "HitFlyHeight1": 0.9,
+        "HitFlyHeight2": 0.25,
+        "HitFlyTime1": 0.1,
+        "HitFlyTime2": 0.2,
+        "HitFlyTime3": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 1,
+        "Acceleration": "-10"
+    },
+    {
+        "Id": 904556011,
+        "Type": 2,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 904556051,
+        "Type": 5,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "OriginType": 1
+    },
+    {
+        "Id": 904556071,
+        "Type": 4,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "ImmuneHitTime": 2,
+        "Speed": 26,
+        "MoveTime": 1,
+        "OriginType": 1,
+        "ImmuneHitValue": 3,
+        "Acceleration": "-15"
+    },
+    {
+        "Id": 904559011,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "MoveTime": 0.45,
+        "HitFlyHeight1": 0.9,
+        "HitFlyHeight2": 0.25,
+        "HitFlyTime1": 0.1,
+        "HitFlyTime2": 0.2,
+        "HitFlyTime3": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 1,
+        "Acceleration": "-10"
+    },
+    {
+        "Id": 904563011,
+        "Type": 2,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "Speed": 10,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 904563051,
+        "Type": 5,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "OriginType": 1
+    },
+    {
+        "Id": 904563071,
+        "Type": 4,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "ImmuneHitTime": 2,
+        "Speed": 26,
         "MoveTime": 1,
         "OriginType": 1,
         "ImmuneHitValue": 3,

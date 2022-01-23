@@ -290,7 +290,7 @@
         "Id": 501316000,
         "Name": "ChangeAttribAdditive",
         "Level": [
-            "25|500|"
+            "25|300|"
         ]
     },
     {
@@ -347,6 +347,13 @@
         "Name": "AddBuff",
         "Level": [
             501322
+        ]
+    },
+    {
+        "Id": 501323,
+        "Name": "RemoveBuff",
+        "Level": [
+            "110191|1"
         ]
     },
     {
@@ -711,6 +718,55 @@
         "Name": "AddBuff",
         "Level": [
             502325
+        ]
+    },
+    {
+        "Id": 502326,
+        "Name": "AddBuff",
+        "Level": [
+            502326
+        ]
+    },
+    {
+        "Id": 502326000,
+        "Name": "AddBehavior",
+        "Level": [
+            502326
+        ]
+    },
+    {
+        "Id": 502327,
+        "Name": "AddBuff",
+        "Level": [
+            502327
+        ]
+    },
+    {
+        "Id": 502327000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "29|1500|0"
+        ]
+    },
+    {
+        "Id": 502328,
+        "Name": "AddBuff",
+        "Level": [
+            502328
+        ]
+    },
+    {
+        "Id": 502328000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "25|1000|0"
+        ]
+    },
+    {
+        "Id": 502329,
+        "Name": "AddBuff",
+        "Level": [
+            502329
         ]
     },
     {
@@ -1431,7 +1487,7 @@
         "Id": 504311,
         "Name": "Damage",
         "Level": [
-            "7|0|0|2|0|5000|0|0"
+            "7|0|0|2|0|15000|0|0"
         ]
     },
     {
@@ -1473,7 +1529,7 @@
         "Id": 504316000,
         "Name": "ChangeAttribAdditive",
         "Level": [
-            "28|1000|"
+            "28|1500|"
         ]
     },
     {
@@ -3084,6 +3140,27 @@
         "Name": "AddBuff",
         "Level": [
             531310
+        ]
+    },
+    {
+        "Id": 531311,
+        "Name": "AddBuff",
+        "Level": [
+            531311
+        ]
+    },
+    {
+        "Id": 531311000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "28|1000|0"
+        ]
+    },
+    {
+        "Id": 531312,
+        "Name": "AddBuff",
+        "Level": [
+            531312
         ]
     },
     {
@@ -7330,7 +7407,7 @@
         "Id": 630404000,
         "Name": "AddProtector",
         "Level": [
-            "31|0|23|2000|"
+            "31|0|23|2000|0"
         ]
     },
     {
@@ -8203,142 +8280,23 @@
     },
     {
         "Id": 631011,
-        "Name": "Damage",
+        "Name": "AddBuff",
         "Level": [
-            "7|0|0|3|0|500|0|0"
+            631011
+        ]
+    },
+    {
+        "Id": 631011000,
+        "Name": "AddBehavior",
+        "Level": [
+            631011
         ]
     },
     {
         "Id": 631012,
-        "Name": "AddBuff",
-        "Level": [
-            631012
-        ]
-    },
-    {
-        "Id": 631013,
-        "Name": "AddBuff",
-        "Level": [
-            631013
-        ]
-    },
-    {
-        "Id": 631013000,
-        "Name": "AddBehavior",
-        "Level": [
-            631013
-        ]
-    },
-    {
-        "Id": 631014,
-        "Name": "AddBuff",
-        "Level": [
-            631014
-        ]
-    },
-    {
-        "Id": 631015,
         "Name": "Damage",
         "Level": [
-            "7|0|0|3|0|30000|0|0"
-        ]
-    },
-    {
-        "Id": 631016,
-        "Name": "AddBuff",
-        "Level": [
-            631016
-        ]
-    },
-    {
-        "Id": 631017,
-        "Name": "AddBuff",
-        "Level": [
-            631017
-        ]
-    },
-    {
-        "Id": 631017000,
-        "Name": "AddBehavior",
-        "Level": [
-            631017
-        ]
-    },
-    {
-        "Id": 631018,
-        "Name": "AddBuff",
-        "Level": [
-            631018
-        ]
-    },
-    {
-        "Id": 631018000,
-        "Name": "AddBehavior",
-        "Level": [
-            631018
-        ]
-    },
-    {
-        "Id": 631019,
-        "Name": "AddBuff",
-        "Level": [
-            631019
-        ]
-    },
-    {
-        "Id": 631020,
-        "Name": "AddBuff",
-        "Level": [
-            631020
-        ]
-    },
-    {
-        "Id": 631020000,
-        "Name": "AddBehavior",
-        "Level": [
-            631020
-        ]
-    },
-    {
-        "Id": 631021,
-        "Name": "AddBuff",
-        "Level": [
-            631021
-        ]
-    },
-    {
-        "Id": 631021000,
-        "Name": "AddTimeScaleBuff",
-        "Level": [
-            0
-        ]
-    },
-    {
-        "Id": 631022,
-        "Name": "AddBuff",
-        "Level": [
-            631022
-        ]
-    },
-    {
-        "Id": 631022000,
-        "Name": "AddNpcState",
-        "Level": [
-            11
-        ]
-    },
-    {
-        "Id": 631023,
-        "Name": "AddBuff",
-        "Level": [
-            631023
-        ]
-    },
-    {
-        "Id": 631023000,
-        "Name": "AddNpcState",
-        "Level": [
-            1
+            "7|0|0|3|0|42000|0|0"
         ]
     },
     {
@@ -8969,6 +8927,69 @@
         "Name": "AddBuff",
         "Level": [
             631512
+        ]
+    },
+    {
+        "Id": 620943,
+        "Name": "AddBuff",
+        "Level": [
+            620943
+        ]
+    },
+    {
+        "Id": 620943000,
+        "Name": "AddBehavior",
+        "Level": [
+            620943
+        ]
+    },
+    {
+        "Id": 620944,
+        "Name": "ChangeDamageAdditive",
+        "Level": [
+            "25|1000|0"
+        ]
+    },
+    {
+        "Id": 620945,
+        "Name": "AddBuff",
+        "Level": [
+            620945
+        ]
+    },
+    {
+        "Id": 620945000,
+        "Name": "AddBehavior",
+        "Level": [
+            620945
+        ]
+    },
+    {
+        "Id": 620946,
+        "Name": "AddBuff",
+        "Level": [
+            620946
+        ]
+    },
+    {
+        "Id": 620946000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "25|700|0"
+        ]
+    },
+    {
+        "Id": 620947,
+        "Name": "AddBuff",
+        "Level": [
+            620947
+        ]
+    },
+    {
+        "Id": 620947000,
+        "Name": "AddProtector",
+        "Level": [
+            "31|0|23|2000|0"
         ]
     }
 ]

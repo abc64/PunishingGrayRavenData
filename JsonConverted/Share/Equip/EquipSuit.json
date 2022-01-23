@@ -52,9 +52,9 @@
         ],
         "SkillDescription": [
             null,
-            "DMG dealt increases by 3% when attacking enemies within 2m.",
+            "Extra DMG Bonus increases by 3% when attacking enemies within 2m.",
             null,
-            "DMG taken reduced by 3% when attacked by enemies within 2m."
+            "Extra DMG Reduction increases by 3% when attacked by enemies within 2m."
         ]
     },
     {
@@ -71,9 +71,9 @@
         ],
         "SkillDescription": [
             null,
-            "DMG dealt increases by 3% when attacking enemies farther than 3m.",
+            "Extra DMG Bonus increases by 3% when attacking enemies farther than 3m.",
             null,
-            "DMG taken reduced by 3% when attacked by enemies farther than 3m."
+            "Extra DMG Reduction increases by 3% when attacked by enemies farther than 3m."
         ]
     },
     {
@@ -111,7 +111,7 @@
             null,
             "Signal Orb skill DMG increases by 5%.",
             null,
-            "After a 3-Ping, DMG dealt increases by 5% for 5s."
+            "After a 3-Ping, Extra DMG Bonus increases by 5% for 5s. Duration resets every time it is triggered."
         ]
     },
     {
@@ -130,7 +130,7 @@
             null,
             "Healing effect increases by 5%.",
             null,
-            "Healing a target also increases its Physical DMG and Elemental DMG by 4% for 4s."
+            "Healing increases the target's Physical DMG and Elemental DMG by 4% for 4s. Duration resets every time it is triggered."
         ]
     },
     {
@@ -200,7 +200,7 @@
         ],
         "SkillDescription": [
             null,
-            "For each orb pinged, all DMG increases by 2% for 3s. Can be stacked up to 5 times.",
+            "For each orb pinged, Extra DMG Bonus increases by 2% for 3s. Can be stacked up to 5 times. Duration resets every time it is triggered.",
             null,
             "Enters Matrix upon a 3-Ping. 60s cooldown."
         ]
@@ -219,7 +219,7 @@
         ],
         "SkillDescription": [
             null,
-            "All DMG increases by 2% and Elemental DMG increases by 4%.",
+            "Extra DMG Bonus increases by 2% and Elemental DMG increases by 4%.",
             null,
             "When dealing Elemental DMG, you have a 15% chance to inflict Burn, Electrocute, Frost, and Corruption depending on the element. Lasts 5 seconds and has an 8 second cooldown on the same unit."
         ]
@@ -240,7 +240,7 @@
             null,
             "Attacks reduce the target's DEF by 10% for 5s. 12s cooldown.",
             null,
-            "When taking damage, the Physical DEF of the attacked enemy reduced by 15% for 7s. Can be stacked up to 2 times."
+            "When taking damage, reduces the attacker's Physical DEF by 15% for 7s. Can be stacked up to 2 times. Duration resets every time it is triggered."
         ]
     },
     {
@@ -259,7 +259,7 @@
             null,
             "Attacks reduce the target's all Elemental Resistance by 6% for 5s. 12s cooldown.",
             null,
-            "When taking damage, reduces the Elemental Resistance of enemies within 5m by 6% for 7s. Resets every time it is triggered."
+            "When taking damage, reduces the Elemental Resistance of enemies within 5m by 6% for 7s. Duration resets every time it is triggered."
         ]
     },
     {
@@ -278,7 +278,7 @@
             null,
             "Healing effect increases by 5%. Next healing effect increases the target's Physical DMG by 8% for 4s. 5s cooldown.",
             null,
-            "Gains 1 random orb for every 8 orbs pinged. 5s cooldown."
+            "Gains a random Signal Orb for every 8 orbs pinged. 5s cooldown."
         ]
     },
     {
@@ -314,7 +314,7 @@
         ],
         "SkillDescription": [
             null,
-            "All DMG increases by 15% when in Matrix.",
+            "Extra DMG Bonus increases by 15% when in Matrix.",
             null,
             "Deals 200% damage to all enemies on screen when you enter Matrix."
         ]
@@ -333,9 +333,9 @@
         ],
         "SkillDescription": [
             null,
-            "Signal Orb skill DMG and healing effect increase by 5%.",
+            "Signal Orb skill's Extra DMG Bonus and healing effect increase by 5%.",
             null,
-            "Attacks have a 20% chance to drop Christmas gifts next to the enemy. Picking up a gift restores 5 Energy and increases all DMG dealt by 5% for 5s. 10s cooldown."
+            "Attacks have a 20% chance to drop Christmas gifts next to the enemy. Picking up a gift restores 5 Energy and increases Extra DMG Bonus by 5% for 5s. 10s cooldown."
         ]
     },
     {
@@ -350,7 +350,7 @@
         ],
         "SkillDescription": [
             null,
-            "ATK increases by 5%. For every 3 Red Orbs pinged, summons 4 red packets that deal 10% Fire DMG when they touch the enemies. Lasts 10s. 30s cooldown."
+            "ATK increases by 5%. For every 3 Red Orbs pinged, summons 4 red packets that deal 10% Fire DMG when they touch the enemy. Lasts 10s. 30s cooldown."
         ]
     },
     {
@@ -365,7 +365,7 @@
         ],
         "SkillDescription": [
             null,
-            "After performing a 3-Ping or QTE skill, releases a lantern to follow your character, increasing the ATK and Movement Speed of nearby allies by 7% for 15s. 30s cooldown."
+            "After performing a 3-Ping or QTE skill, releases a lantern to follow the character on field, increasing the ATK and Movement Speed of nearby allies by 7% for 15s. 30s cooldown."
         ]
     },
     {
@@ -384,7 +384,7 @@
             null,
             "Basic Attack DMG increases by 15%",
             null,
-            "Basic Attacks have a 25% chance to go berserk, increasing Basic Attack DMG by 15% and CRIT Rate by 5% for 5s. 8s cooldown."
+            "Basic Attacks have a 25% chance to go berserk, increasing the Extra Damage of Basic Attack by 15% and CRIT Rate by 5% for 5s. 8s cooldown."
         ]
     },
     {
@@ -403,7 +403,7 @@
             null,
             "All ATK increases by 3% and Fire DMG increases by 7%.",
             null,
-            "Attacks have a 50% chance to inflict Burn for 5s. When attacking a burning enemy, there is a 20% chance to cause an explosion, dealing 100% Fire DMG. 5s cooldown. Burn: Reduces the target's Fire Resistance by 8% and deals 12% Fire DMG per second. Can be stacked up to 3 times."
+            "Attacks have a 50% chance to inflict Burn for 5s. When attacking a burning enemy, there is a 20% chance to cause an explosion, dealing 100% Fire DMG. 5s cooldown. Burn: Reduces the target's Fire Resistance by 8% and deals 12% Fire DMG per second. Can be stacked up to 3 times. Duration resets every time it is triggered."
         ]
     },
     {
@@ -422,7 +422,7 @@
             null,
             "All ATK increases by 3% and Lightning DMG increases by 7%.",
             null,
-            "Attacks have a 25% chance to trigger a Thunderstorm with a radius of 3.5 meters. The storm Electrocutes the target for 5 seconds. Has a cooldown of 5 seconds. Attacking an Electrocuted enemy has a 20% chance to deal damage with a lightning chain. Has a cooldown of 8 seconds. Lightning Chain: All electrocuted targets take 250% Lightning DMG. Thunderstorm: Deals 100% of Lightning DMG. Electrocute: Reduces Lightning Resistance by 8%."
+            "Attacks have a 25% chance to trigger Thunderstorm within 3.5m. Thunderstorm electrocutes the target for 5s. 5s cooldown. Attacking an electrocuted enemy has a 20% chance to trigger lightning chain damage. 8s cooldown. Lightning Chain: All electrocuted targets take 250% Lightning DMG. Thunderstorm: 100% Lightning DMG. Electrocute: Lightning Resistance is reduced by 8%."
         ]
     },
     {
@@ -439,9 +439,9 @@
         ],
         "SkillDescription": [
             null,
-            "For every orb pinged, all DMG increases by 3% for 4s. Can be stacked up to 5 times.",
+            "For each orb pinged, Extra DMG Bonus increases by 3% for 4s. Can be stacked up to 5 times. Duration resets every time it is triggered.",
             null,
-            "When an orb is pinged, you will gain a corresponding color of it. Collects 3 colors to unleash a shockwave with 12m radius, dealing 600% Physical DMG."
+            "Records the color of Signal Orbs pinged. When all 3 colors are recorded, unleashes a 12m shockwave that deals 600% Physical DMG and resets the record."
         ]
     },
     {
@@ -458,9 +458,9 @@
         ],
         "SkillDescription": [
             null,
-            3,
+            "Extra DMG Bonus of 3-Ping is increased by 25%.",
             null,
-            "Enters Matrix upon a 3-Ping and gains a random Signal Orb. 30s cooldown."
+            "For every 30s, enters Matrix upon a 3-Ping and gains a random Signal Orb."
         ]
     },
     {
@@ -479,7 +479,7 @@
             null,
             "Gains 20% more Energy when pinging an orb. Signature Move requires 20% less Energy.",
             null,
-            "All DMG increases by 15% for 10s after performing a Signature Move and gains Super Armor that reduces DMG taken by 20% for 5s."
+            "Extra DMG Bonus increases by 15% for 10s when performing a Signature Move. Gains Super Armor that increases Extra DMG Reduction by 20% for 5s after the Signature Move. Both duration will reset every time it is triggered."
         ]
     },
     {
@@ -496,9 +496,9 @@
         ],
         "SkillDescription": [
             null,
-            "When QTE is triggered, the Construct on the field gains 10% ATK and 20% DEF for 8s.",
+            "When QTE is triggered, the controlling character gains 10% ATK and 20% DEF for 8s. Duration resets every time it is triggered.",
             null,
-            "When QTE is triggered, triggers another Construct's QTE. 8s cooldown. If there are 3 Constructs on the field, ATK is increased by 20%."
+            "When QTE is triggered, triggers another character's QTE. 8s cooldown. If there are 3 characters on the field, ATK is increased by 20%."
         ]
     },
     {
@@ -517,7 +517,7 @@
             null,
             "QTE and 3-Ping skills reduce the target's Physical DEF by 20% for 8s. 10s cooldown.",
             null,
-            "When taking damage, gains a HP Shield equal to 20% of DEF and increases Physical DMG by 15% for 5 seconds. Has a cooldown of 8 seconds."
+            "When taking damage, gains a shield that absorbs damage equal to 20% of own DEF, as well as increasing the Physical DMG dealt by 15% for 5s. 8s cooldown."
         ]
     },
     {
@@ -555,7 +555,7 @@
             null,
             "Healing effect increases by 10%. Next healing effect increases the target's Physical DMG by 10% and DEF by 10% for 5s. 8s cooldown.",
             null,
-            "Recharges Drone when healing. After fully charged, next healing will use up all energy and summon an Elemental Drone. The Healing Drone will automatically follow the teammate with the lowest HP. Within a circle of 5 meters, the Drone continues to heal teammates for 2% of their maximum HP per second and increases their Physical DMG by 15% for 5 seconds. Has a cooldown of 12 seconds."
+            "A healing drone will be charged when healing is performed. When fully charged, the next time you performing healing will consume all charged energy to summon the healing drone. It will follow an ally with the lowest HP percentage, healing allies in a 5m radius for 2% maximum HP per second and increasing their Physical DMG by 15% for 5s. 12s cooldown."
         ]
     },
     {
@@ -574,7 +574,7 @@
             null,
             "Heals for 10% more. Increases the Elemental DMG and Resistances of the healing target by 10% for 5 seconds. Has a cooldown of 8 seconds.",
             null,
-            "Recharges Drone when healing. After fully charged, next healing will use up all energy and summon an Elemental Drone. The Healing Drone will automatically follow the teammate with the lowest HP. Within a circle of 5 meters, the Drone continues to heal teammates for 2% of their maximum HP per second and increases their Elemental ATK by 15% for 5 seconds. Has a cooldown of 12 seconds."
+            "A healing drone will be charged when healing is performed. When fully charged, the next time you performing healing will consume all charged energy to summon the healing drone. It will follow an ally with the lowest HP percentage, healing allies in a 5m radius for 2% maximum HP per second and increasing their Elemental ATK by 15% for 5s. 12s cooldown."
         ]
     },
     {
@@ -591,9 +591,9 @@
         ],
         "SkillDescription": [
             null,
-            "Each dodge increases Movement Speed by 15% and all DMG dealt by 5% for 5s. Can be stacked up to 3 times.",
+            "Each dodge increases Movement Speed by 15% and Extra DMG Bonus by 5% for 5s. Can be stacked up to 3 times. Duration resets every time it is triggered.",
             null,
-            "The next dodge reduces the attacker's speed by 20% and increases its damage taken by 15% for 4s. 8s cooldown."
+            "The next dodge reduces the attacker's speed by 20% and Extra DMG Reduction by 15% for 4s. 8s cooldown."
         ]
     },
     {
@@ -610,9 +610,9 @@
         ],
         "SkillDescription": [
             null,
-            "All ATK increases by 3% and Dark DMG increases by 7%",
+            "ATK increases by 3% and Dark DMG increases by 7%",
             null,
-            "Dealing DMG has a 20% chance to summon a Dark Zone that lasts 5s. 5s cooldown. The Dark Zone will inflict Corruption for 3s. Attacking a Corrupted target has a 20% chance to gain 1 random Signal Orb. 12s cooldown. Corruption: Deals 80% Dark DMG for every 2s and reduces Dark Resistance by 8%."
+            "Dealing DMG has a 20% chance to summon a Dark Zone that lasts 5s. 5s cooldown. The Dark Zone will inflict Corruption on the targets within it for 3s. Attacking a Corrupted target has a 20% chance to gain 1 random Signal Orb. 12s cooldown. Corruption: Deals 80% Dark DMG every 2s and reduces Dark Resistance by 8%."
         ]
     },
     {
@@ -631,7 +631,26 @@
             null,
             "CRIT Rate and Physical DMG increase by 5%.",
             null,
-            "Each time you deal Physical DMG, if it is not a CRIT Hit, the CRIT Rate of the next Physical DMG increases by 2%, stacking up to a maximum of 20%. This effect is reset when you deal a CRIT Hit. CRIT Hit increases Physical DMG by 5% for 3s. Can be stacked up to 3 times."
+            "Each time you deal Physical DMG, if it is not a CRIT Hit, the CRIT Rate of the next Physical DMG increases by 2%, stacking up to a maximum of 20%. This effect is reset when you deal a CRIT Hit. CRIT Hit increases Physical DMG by 5% for 3s. Can be stacked up to 3 times. Duration resets every time it is triggered."
+        ]
+    },
+    {
+        "Id": 1615,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EZuwenyuanI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EZuwenyuanI01001.png",
+        "Name": "Zu Wenyuan",
+        "Description": "Ice Boost",
+        "SkillEffect": [
+            null,
+            161502,
+            null,
+            161504
+        ],
+        "SkillDescription": [
+            null,
+            "ATK increases by 3% and Ice DMG increases by 7%",
+            null,
+            30
         ]
     },
     {
@@ -704,7 +723,7 @@
         ],
         "SkillDescription": [
             null,
-            "All DMG dealt reduced by 15% and all DMG taken increased by 30%.",
+            "Reduces Extra DMG Bonus by 15% and Extra DMG Reduction by 30%.",
             null,
             "Lose 5% of maximum HP every 5s."
         ]
@@ -723,7 +742,7 @@
         ],
         "SkillDescription": [
             null,
-            "All DMG dealt reduced by 15% and all DMG taken increased by 30%.",
+            "Reduces Extra DMG Bonus by 15% and Extra DMG Reduction by 30%.",
             null,
             "Lose 5% of maximum HP every 5s."
         ]
@@ -745,6 +764,25 @@
             "Movement Speed +10%",
             null,
             "会心率が3%上昇、物理ダメージが2%上昇"
+        ]
+    },
+    {
+        "Id": 50000,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EEnI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EEnB01001.png",
+        "Name": "Lucia - Summer Daze",
+        "Description": "Exclusive Memory",
+        "SkillEffect": [
+            null,
+            5000002,
+            null,
+            5000004
+        ],
+        "SkillDescription": [
+            null,
+            "Basic Attack DMG increases by 10%.",
+            null,
+            "After any 3-Ping, randomly gain one of the below effects for 3s. 4s cooldown. Wild Rocker: All DMG increases by 7%. Soothing Chord: Receives a shield equal to 15% of your Defense. The shield refreshes when this effect is triggered again."
         ]
     }
 ]

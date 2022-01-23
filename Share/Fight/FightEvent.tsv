@@ -2,36 +2,36 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 700001	+1 Red Orb when you gain one		700001							
 700002	+1 Blue Orb when you gain one		700002							
 700003	+1 Yellow Orb when you gain one		700003							
-700005	DMG increases by 50% when Combo is greater than 100.		700005							
-1001	Deals 50% more DMG.		700006							
+700005	When Combo is greater than 100, Extra DMG Bonus increases by 50%.		700005							
+1001	Extra DMG Bonus increases by 50%		700006							
 1002	+1 Red Orb when you gain one		700001							
-1003	DMG increases by 50% when Combo is greater than 100.		700005							
-1004	DMG from enemies increases by 50%.						700006			
-1005	DMG from enemies increases by 50%.						700006			
-1006	DMG from enemies increases by 50%.						700006			
-1007	DMG from enemies increases by 50%.						700006			
+1003	When Combo is greater than 100, Extra DMG Bonus increases by 50%.		700005							
+1004	Enemies' Extra DMG Bonus increases by 50%						700006			
+1005	Enemies' Extra DMG Bonus increases by 50%						700006			
+1006	Enemies' Extra DMG Bonus increases by 50%						700006			
+1007	Enemies' Extra DMG Bonus increases by 50%						700006			
 2001	Event - Fire DMG +50%		762001							
 2002	Event - Lightning DMG +50%		762002							
 2003	Event - Ice DMG +50%		762003							
 2004	Event - Dark DMG +50%		762004							
 2005	Event - Physical DMG +50%		762005							
 2006	Event - CRIT DMG +50%		762006							
-2007	Event - 100 Combo DMG +50%		762007							
-2008	Event - Melee DMG +50%		762010							
-2009	Event - Ranged DMG +50%		762012							
-2010	Event - All Elemental DMG +50%		762013							
-2011	Event - Basic Attack increased, no orbs appear		762018							
-2012	Event - No dodge cost, no EX Dodge cooldown		762021							
-2013	Event - Orbs appear more often		762023							
+2007	Event - When Combo reaches 100, Extra DMG Bonus increases by 50%.		762007							
+2008	Event - Melee attack's Extra DMG Bonus increases by 50%.		762010							
+2009	Event - Ranged attack's Extra DMG Bonus increases by 50%.		762012							
+2010	Event - Elemental DMG +50%		762013							
+2011	Event - Basic Attack DMG increased. Basic Attack does not generate Signal Orbs anymore.		762018							
+2012	Event - No dodge cost, no Matrix cooldown		762021							
+2013	Event - Signal Orbs appear more often		762023							
 2014	Event - No QTE cooldown		762024							
 2015	Event - Start with max Rage		762025							
-2016	Event - Monsters may drop Erase Orbs on death		762026							
+2016	Event - Enemies drop a random Signal Orb on death		762026							
 2017	Event - Monsters may drop Rage Orbs on death		762034							
-3001	DMG increases by 15%.		761001							
+3001	Extra DMG Bonus increases by 15%		761001							
 3002	Signal Orb skill DMG increases by 20%.		761011							
 3003	Basic Attack DMG increases by 20%.		761021							
 3004	In every 6s, recovers 10% of the HP lost of Constructs on field.		761031							
-3005	Constructs take 15% less DMG.		761041							
+3005	Construct's Extra DMG Reduction increases by 15%		761041							
 3006	Gains a random Signal Orb in every 3s.		761051							
 3007	Gains a Red Orb in every 3s.		761061							
 3008	Gains a Yellow Orb in every 3s.		761071							
@@ -48,7 +48,13 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 11001	During Simulation, HP of enemies increases by 15%.						770000			
 11002	During Simulation, HP of enemies increases by 30%.						770001			
 11003	During Simulation, HP of enemies increases by 45%.						770002			
-11031	During Simulation, Physical DMG dealt to enemies decreases by 30%.						770021			
+11011	During Simulation, ATK of enemies increases by 10%.						770003			
+11012	During Simulation, ATK of enemies increases by 20%.						770004			
+11013	During Simulation, ATK of enemies increases by 30%.						770005			
+11031	During Simulation, Physical Resistance of enemies increases by 30%.						770021			
+11032	During Simulation, Physical Resistance of enemies increases by 20%.						770055			
+11033	During Simulation, Physical Resistance of enemies increases by 40%.						770056			
+11034	During Simulation, Physical Resistance of enemies increases by 60%.						770057			
 11041	During Simulation, the overall combat power of enemies increases by 30%.		770045				770050			
 11042	During Simulation, the overall combat power of enemies increases by 60%.		770046				770051			
 11043	During Simulation, the overall combat power of enemies increases by 90%.		770047				770052			
@@ -57,17 +63,31 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 11051	During Simulation, Movement Speed of enemies increases by 25%.						770036			
 11052	During Simulation, Movement Speed of enemies increases by 50%.						770037			
 11053	During Simulation, Movement Speed of enemies increases by 100%.						770038			
-11061	During Simulation, enemies with Super Armor take 10% less DMG of all types.						772003			
-11062	During Simulation, enemies with Super Armor take 20% less DMG of all types.						772004			
-11063	During Simulation, enemies with Super Armor take 30% less DMG of all types.						772005			
-11131	During Simulation, enemies take 30% less Elemental DMG.						770024	770027	770030	770033
+11061	During Simulation, Extra DMG Reduction increases by 10% when an enemy has Super Armor.						772003			
+11062	During Simulation, Extra DMG Reduction increases by 20% when an enemy has Super Armor.						772004			
+11063	During Simulation, Extra DMG Reduction increases by 30% when an enemy has Super Armor.						772005			
+11131	During Simulation, Elemental Resistance of enemies increases by 30%.						770024	770027	770030	770033
+11151	Explore Unit has 40% ATK bonus under Berserk mode		770058							
+11152	Explore Unit has 40% ATK bonus and takes 20% less damage under Berserk mode		770059							
+11153	Explore Unit has 40% ATK bonus, takes 20% less damage, and gains 30% of max HP under Berserk mode		770060							
+12001	The deployed Constructs' HP decreases by 15%		771001							
+12002	The deployed Constructs' HP decreases by 30%		771002							
+12003	The deployed Constructs' HP decreases by 45%		771003							
+12101	For every 1m after 2.5m from the target, Extra Damage Reduction will be increased by 20%. (Up to 80%)		771086							
+12111	For every 1m after 4m from the target, Extra Damage Reduction will be increased by 20%. (Up to 80%)		771097							
 12051	During Simulation, Movement Speed of Constructs decreases by 25%.		771052							
 12052	During Simulation, Movement Speed of Constructs decreases by 50%.		771053							
 12053	During Simulation, Movement Speed of Constructs decreases by 75%.		771054							
+12121	QTE cooldown increases by 3s		771111							
+12122	QTE cooldown increases by 6s		771112							
+12123	QTE cooldown increases by 10s		771113							
 12131	During Simulation, the limit of Dodge Gauge decreases by 200.		771108							
 12132	During Simulation, the limit of Dodge Gauge decreases by 400.		771109							
 12133	During Simulation, the limit of Dodge Gauge decreases by 600.		771110							
 12151	During Simulation, enemies are no longer affected by Matrix.						770545			
+13001	In every 25s, creates a thunderstorm to call down lightning strikes at 5 random spots within 10m, dealing 2000 Lightning DMG.		772055							
+13002	In every 20s, creates a thunderstorm to call down lightning strikes at 5 random spots within 10m, dealing 2000 Lightning DMG.		772056							
+13003	In every 15s, creates a thunderstorm to call down lightning strikes at 5 random spots within 10m, dealing 2000 Lightning DMG.		772057							
 13051	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
 13052	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
 13053	During Simulation, the healing effect for Constructs is reduced by 50%.		772000							
@@ -75,15 +95,35 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 13072	During Simulation, all deployed Constructs lose 180 HP per second.		772016							
 13073	During Simulation, all deployed Constructs lose 270 HP per second.		772017							
 13081	During Simulation, Constructs on field take 40 Physical DMG per second. Virus concentration increases by 1 layer every 20s.		772045							
+21001	The deployed Constructs' HP increases by 40%		771502							
 21011	During Simulation, ATK of the deployed Constructs increases by 10%.		771503							
-21121	During Simulation, DMG of Constructs on field increases by 10% for 5s when triggering QTE.		771610							
-21261	During Simulation, Constructs gain an additional 45% DMG Reduction.		771648							
+21101	For every 1m after 4m from the target, Construct's Extra DMG Bonus increases by 15%, up to 60%.		771585							
+21111	Triggering a QTE by a 3-Ping will trigger the other two constructs' QTE. 6s cooldown.		771596							
+21121	During Simulation, DMG of Constructs on field increases by 5% for 5s when triggering QTE.		771610							
+21131	Upon triggering QTE, heals the construct for 15% of maximum HP.		771616							
+21211	Fire DMG increases by 30%		771651							
+21221	Lightning DMG increases by 30%		771650							
+21261	During Simulation, Construct's Extra DMG Reduction increases by 45%		771648							
+21271	During Simulation, Construct's Extra DMG Reduction increases by 30%		771649							
 22051	During Simulation, the healing effect for the deployed Constructs increases by 25%.		771631							
-22061	During Simulation, DMG of the deployed Constructs increases by 5%/10%/15% when Combo is greater than 40/60/80.		771632							
+22061	During Simulation, Extra DMG Bonus of the deployed Constructs increases by 5%/10%/15% when Combo is greater than 40/60/80.		771632							
 22071	During Simulation, the deployed Constructs automatically gain a Signal Orb every 3s.		771636							
-22081	During Simulation, every time a Signal Orb is consumed, all DMG dealt by the deployed Constructs increases by 2% for 3s. Can be stacked up to 10 times.		771638							
+22081	During Simulation, every time a Signal Orb is consumed, Extra Damage Bonus of the deployed Constructs increases by 2% for 3s. Can be stacked up to 10 times.		771638							
 22091	During Simulation, Elemental DMG of Constructs increases by 15%.		771524	771527	771530	771533				
-22101	During Simulation, Constructs deal 20% more DMG when attacking from behind.		771646							
+22101	During Simulation, Extra Damage Bonus increases by 20% when the Construct is attacking from behind.		771646							
+22111	During Simulation, Elemental DMG of Tank-type Constructs increases by 50%.		771652							
+22121	Tank-type Constructs' Extra DMG Bonus increases by 65%		771657							
+22131	Tank-type Constructs' Extra DMG Reduction increases by 45%		771659							
+22141	Elemental DMG increases by 45%		771661							
+22151	Elemental DMG increases by 45%		771661							
+22161	Fire DMG increases by 45%		771666							
+22171	Physical DMG increases 45%.		771671							
+22181	Lightning DMG increases by 45%		771672							
+22191	Current Construct's Extra DMG Bonus increases by 45% for 5s upon triggering the QTE.		771611							
+22201	Upon triggering QTE, heals the Construct for 20% of maximum HP		771617							
+22211	The deployed Constructs' HP increases by 45%		771501							
+22221	Constructs on field gain 3 Signal Orb of the same color every 3s		771673							
+22231	Basic Attack's Extra DMG Bonus increases by 15%.		771677							
 31071	Movement Speed of enemies increases by 5%-40%. The farther away from the target, the higher the Movement Speed becomes.						780211			
 31072	Movement Speed of enemies increases moderately. The farther away from the target, the higher the Movement Speed becomes.						780211			
 31073	Movement Speed of enemies increases significantly. The farther away from the target, the higher the Movement Speed becomes.						780211			
@@ -97,35 +137,35 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 32031	The attacking desire of enemies increases by 33%. When enemies deal damage, 20% chance to deal 33% Extra Damage.						780251			
 32032	The attacking desire of enemies increases by 66%. When enemies deal damage, 40% chance to deal 33% Extra Damage.						780252			
 32033	The attacking desire of enemies increases by 100%. When enemies deal damage, 60% chance to deal 33% Extra Damage.						780253			
-32041	Enemies will explode and deal DMG equal to 45% of their ATK to nearby units before they die.						780261			
-32042	Enemies will explode and deal DMG equal to 45% of their ATK to nearby units before they die.						780261			
-32043	Enemies will explode and deal DMG equal to 60% of their ATK to nearby units before they die.						780261			
+32041	Enemies will explode and deal Physical DMG equal to 45% of their ATK to nearby units before they die.						780261			
+32042	Enemies will explode and deal Physical DMG equal to 45% of their ATK to nearby units before they die.						780261			
+32043	Enemies will explode and deal Physical DMG equal to 60% of their ATK to nearby units before they die.						780261			
 32061	Enemies gain a Shield equal to 15% of their maximum HP. It will break after taking damage equal to that amount.						780281			
 32062	Enemies gain a Shield equal to 25% of their maximum HP. It will break after taking damage equal to that amount.						780282			
 32063	Enemies gain a Shield equal to 35% of their maximum HP. It will break after taking damage equal to that amount.						780283			
-32071	Enemies deal radiational damage equal to 1% of their ATK to nearby targets every second.						780291			
-32072	Enemies deal radiational damage equal to 2% of their ATK to nearby targets every second.						780292			
-32073	Enemies deal radiational damage equal to 3% of their ATK to nearby targets every second.						780293			
-32081	Enemies take 30% less DMG from attacks from 4m away.						780301			
-32082	Enemies take 45% less DMG from attacks from 4m away.						780301			
-32083	Enemies take 60% less DMG from attacks from 4m away.						780301			
-32091	Enemies boost nearby companions’ DMG by 20%.						780311			
+32071	Enemies deal Physical DMG equal to 1% of their ATK to nearby targets every second						780291			
+32072	Enemies deal Physical DMG equal to 2% of their ATK to nearby targets every second						780292			
+32073	Enemies deal Physical DMG equal to 3% of their ATK to nearby targets every second						780293			
+32081	Enemies' Extra DMG Reduction increases by 30% when taking DMG farther than 4m						780301			
+32082	Enemies' Extra DMG Reduction increases by 45% when taking DMG farther than 4m						780301			
+32083	Enemies' Extra DMG Reduction increases by 60% when taking DMG farther than 4m						780301			
+32091	Within the area around each enemy, Extra DMG Bonus of other enemies increases by 20%						780311			
 32092							780311			
 32093							780311			
-32101	When an enemy has fewer than 3 companions nearby, each companion less increases its DMG by 10%, up to 30%.						780321			
-32111	All DMG of enemies increases by 5% for each companion around them. Stacks up to 3 times.						780331			
-32112	All DMG of enemies increases by 10% for each companion around them. Stacks up to 3 times.						780332			
-32113	All DMG of enemies increases by 15% for each companion around them. Stacks up to 3 times.						780333			
+32101	When an enemy has fewer than 3 companions around, for each companion lost, Extra DMG Bonus increases by 10%, up to 30%.						780321			
+32111	For each companion around, enemies' Extra DMG Bonus increases by 5%. Can be stacked up to 3 times.						780331			
+32112	For each companion around, enemies' Extra DMG Bonus increases by 10%. Can be stacked up to 3 times.						780332			
+32113	For each companion around, enemies' Extra DMG Bonus increases by 5%. Can be stacked up to 3 times.						780333			
 32121	Reduces your DEF by 3% for 10s every time you get hit. Can be stacked up to 10 times.						780341			
 32122							780341			
 32123							780341			
-32131	Every time an enemy gets hit, it has a 10% chance to call down a lightning strike upon the attacker, dealing DMG equal to 20% of the enemy's ATK. 5s cooldown.						780351			
+32131	Every time an enemy gets hit, it has a 10% chance to call down a lightning strike upon the attacker, dealing Lightning DMG equal to 20% of the enemy's ATK. 5s cooldown.						780351			
 32132							780351			
 32133							780351			
 32141	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 18s cooldown.						780361			
 32142	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 14s cooldown.						780362			
 32143	When an enemy gets up after being knocked down, it will create a shock wave to knock away nearby units. 10s cooldown.						780363			
-32151	When attacking, enemies will attach a bomb to the target, which will explode after a period of time and deal DMG equal to 45% of their ATK.						780371			
+32151	When attacking, enemies will attach a bomb to the target, which will explode after a period of time and deal Physical DMG equal to 45% of their ATK.						780371			
 32152							780371			
 32153							780371			
 32161	Enemies enter stealth mode. They will appear for 3s after taking damage and 5s after dealing damage.						780381			
@@ -138,4 +178,262 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 33031	Enemies will pull the player to them every 16s.						780411			
 33032	Enemies will pull the player to them every 12s.						780412			
 33033	Enemies will pull the player to them every 8s.						780413			
+33061	Each attack has a 30% chance to deal an additional 10% Ice DMG and freeze the target for 1s.						780451			
+33062	Each attack has a 60% chance to deal an additional 10% Ice DMG and freeze the target for 1s.						780452			
+33063	Each attack has a 100% chance to deal an additional 10% Ice DMG and freeze the target for 1s.						780453			
 33091	Ice Energy deals 500 Ice DMG every second		780577							
+33101	When dealing DMG, the healing received by the target is reduced by 50% for 3s.						780630			
+33102	When dealing DMG, the healing received by the target is reduced by 60% for 4s.						780631			
+33103	When dealing DMG, the healing received by the target is reduced by 70% for 5s.						780632			
+33111	When dealing DMG, also deals 1% Physical DMG to the target every second and triggers other effects of Damage Affix for 3s.						780670			
+33112	When dealing DMG, also deals 1% Physical DMG to the target every second and triggers other effects of Damage Affix for 4s.						780671			
+33113	When dealing DMG, also deals 1% Physical DMG to the target every second and triggers other effects of Damage Affix for 5s.						780672			
+33121	Generates an energy shield that deals 5% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780690			
+33122	Generates an energy shield that deals 7% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780691			
+33123	Generates an energy shield that deals 10% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780692			
+40000	Extra DMG Bonus increases by 8%		761138							
+40001	Extra DMG Bonus increases by 16%		761139							
+40002	Extra DMG Bonus increases by 24%		761140							
+40003	Extra DMG Bonus increases by 32%		761141							
+40004	Extra DMG Bonus increases by 40%		761142							
+40005	Extra DMG Bonus increases by 48%		761143							
+40006	Extra DMG Bonus increases by 56%		761144							
+40007	Extra DMG Bonus increases by 64%		761145							
+40008	Extra DMG Bonus increases by 72%		761146							
+40009	Extra DMG Bonus increases by 80%. Starting Energy increases by 50.		761147	761188						
+40010	Extra DMG Bonus increases by 88%. Starting Energy increases by 50.		761148	761188						
+40011	Extra DMG Bonus increases by 96%. Starting Energy increases by 50.		761149	761188						
+40012	Extra DMG Bonus increases by 104%. Starting Energy increases by 50.		761150	761188						
+40013	Extra DMG Bonus increases by 112%. Starting Energy increases by 50.		761151	761188						
+40014	Extra DMG Bonus increases by 120%. Starting Energy increases by 50.		761152	761188						
+40015	Extra DMG Bonus increases by 128%. Starting Energy increases by 50.		761153	761188						
+40016	Extra DMG Bonus increases by 136%. Starting Energy increases by 50.		761154	761188						
+40017	Extra DMG Bonus increases by 144%. Starting Energy increases by 50.		761155	761188						
+40018	Extra DMG Bonus increases by 152%. Starting Energy increases by 50.		761156	761188						
+40019	Extra DMG Bonus increases by 160%. Starting Energy increases by 100.		761157	761189						
+40020	Extra DMG Bonus increases by 168%. Starting Energy increases by 100.		761158	761189						
+40021	Extra DMG Bonus increases by 176%. Starting Energy increases by 100.		761159	761189						
+40022	Extra DMG Bonus increases by 184%. Starting Energy increases by 100.		761160	761189						
+40023	Extra DMG Bonus increases by 192%. Starting Energy increases by 100.		761161	761189						
+40024	Extra DMG Bonus increases by 200%. Starting Energy increases by 100.		761162	761189						
+41001	Extra DMG Bonus increases by 3%		761163							
+41002	Extra DMG Bonus increases by 3%		761163							
+41003	Extra DMG Bonus increases by 3%		761163							
+41004	Extra DMG Bonus increases by 3%		761163							
+41005	New event available		701047							
+41006	Extra DMG Bonus increases by 3%		761163							
+41007	Extra DMG Bonus increases by 3%		761163							
+41008	Extra DMG Bonus increases by 3%		761163							
+41009	Extra DMG Bonus increases by 3%		761163							
+41010	New event available		701048							
+41011	Extra DMG Bonus increases by 3%		761163							
+41012	Extra DMG Bonus increases by 3%		761163							
+41013	Extra DMG Bonus increases by 3%		761163							
+41014	Extra DMG Bonus increases by 3%		761163							
+41015	New event available		701049							
+41016	Extra DMG Bonus increases by 3%		761163							
+41017	Extra DMG Bonus increases by 3%		761163							
+41018	Extra DMG Bonus increases by 3%		761163							
+41019	Extra DMG Bonus increases by 3%		761163							
+41020	New event available		701050							
+41021	Extra DMG Bonus increases by 3%		761163							
+41022	Extra DMG Bonus increases by 3%		761163							
+41023	Extra DMG Bonus increases by 3%		761163							
+41024	Extra DMG Bonus increases by 3%		761163							
+41025	Chance to unleash bonus [Lightning Bolt] on attacks (normal mode only).		701051							
+51001	Basic Attack's Extra DMG Bonus increases by 15%.		773000	773261						
+51002	Basic Attack's Extra DMG Bonus increases by 30%.		773001	773261						
+51003	Basic Attack's Extra DMG Bonus increases by 45%.		773002	773261						
+51004	Skill's Extra DMG Bonus increases by 10%.		773006	773261						
+51005	Skill's Extra DMG Bonus increases by 20%.		773007	773261						
+51006	Skill's Extra DMG Bonus increases by 30%.		773008	773261						
+51007	Melee DMG reduces the target's DEF by 10%		773012	773261						
+51008	Melee DMG reduces the target's DEF by 20%		773013	773261						
+51009	Melee DMG reduces the target's DEF by 30%		773014	773261						
+51010	Ranged DMG reduces the target's Movement Speed by 20%		773018	773261						
+51011	Ranged DMG reduces the target's Movement Speed by 40%		773019	773261						
+51012	Ranged DMG reduces the target's Movement Speed by 60%		773020	773261						
+51013	Attacks reduce target's damage by 40% for 5s.		773027	773261						
+51014	Increases damage by 30% upon dealing damage for 10s. 15s cooldown.		773034	773261						
+51015	20% chance to gain a shield that absorbs damage equal to 15% of max HP upon dealing damage. The shield lasts 5s and has an 8s cooldown.		773041	773261						
+51016	Attacks have a 10% chance to stun enemy for 1.5s and deal 500% bonus Physical Damage. 6s cooldown.		773048	773261						
+51017	Dealing Elemental DMG has a 15% chance to inflict Burn for 5s. Cannot be stacked. 8s cooldown on each enemy.		773055	773261						
+51018	Dealing Elemental DMG has a 15% chance to inflict Electrocute for 5s. Cannot be stacked. 8s cooldown on each enemy.		773065	773261						
+51019	Dealing Elemental DMG has a 15% chance to inflict Freeze for 5s. Cannot be stacked. 8s cooldown on each enemy.		773075	773261						
+51020	Dealing Elemental DMG has a 15% chance to inflict Corruption for 5s. Cannot be stacked. 8s cooldown on each enemy.		773085	773261						
+51021	Signature Move's Extra DMG Bonus increases by 15%.		773095	773261						
+51022	Signature Move's Extra DMG Bonus increases by 30%.		773096	773261						
+51023	Signature Move's Extra DMG Bonus increases by 45%.		773097	773261						
+51024	Basic Attack generates 1 more Energy		773108	773261						
+51025	Basic Attack generates 2 more Energy		773109	773261						
+51026	Basic Attack generates 3 more Energy		773110	773261						
+51027	Gain 10s Super Armor and 20% Extra Damage Bonus after casting a Signature Move.		773114	773261						
+51028	After summoning a QTE, unleash a shockwave within 6m that deals 300% Physical Damage.		773117	773261						
+51029	After summoning a QTE, unleash a shockwave within 6m that deals 450% Physical Damage.		773118	773261						
+51030	After summoning a QTE, unleash a shockwave within 6m that deals 600% Physical Damage.		773119	773261						
+51031	Heals the Construct for 2.5% of maximum HP upon triggering the QTE		773123	773261						
+51032	Heals the Construct for 5% of maximum HP upon triggering the QTE		773124	773261						
+51033	Heals the Construct for 7.5% of maximum HP upon triggering the QTE		773125	773261						
+51034	QTE cooldown decreases by 1s		773129	773261						
+51035	QTE cooldown decreases by 2s		773130	773261						
+51036	QTE cooldown decreases by 3s		773131	773261						
+51037	QTE cooldown decreases by 1/2/3s		773132	773261						
+51038	Limit of Dodge Gauge increases by 400.		773135	773261						
+51039	Limit of Dodge Gauge increases by 700.		773136	773261						
+51040	Limit of Dodge Gauge increases by 1000.		773137	773261						
+51041	Gain 1 Signal Orb after a successful Extreme Dodge.		773138	773261						
+51042	Dodge increases Movement Speed by 10% for 5s. Can be stacked up to 5 times.		773140	773261						
+51043	20% chance to drop a Red Orb after defeating an enemy.			773261			773143			
+51044	40% chance to drop a Red Orb after defeating an enemy.			773261			773144			
+51045	60% chance to drop a Red Orb after defeating an enemy.			773261			773145			
+51046	20% chance to drop a Blue Orbs after defeating an enemy.			773261			773150			
+51047	40% chance to drop a Blue Orbs after defeating an enemy.			773261			773151			
+51048	60% chance to drop a Blue Orb after defeating an enemy.			773261			773152			
+51049	20% chance to drop a Yellow Orb after defeating an enemy.			773261			773156			
+51050	40% chance to drop a Yellow Orb after defeating an enemy.			773261			773157			
+51051	60% chance to drop a Yellow Orb after defeating an enemy.			773261			773158			
+51052	Gains a Red Orb in every 20s.		773162	773261						
+51053	Gains a Red Orb in every 15s.		773163	773261						
+51054	Gains a Red Orb in every 10s.		773164	773261						
+51055	Gains a Yellow Orb in every 20s.		773166	773261						
+51056	Gains a Yellow Orb in every 15s.		773167	773261						
+51057	Gains a Yellow Orb in every 10s.		773168	773261						
+51058	Gains a Blue Orb in every 20s.		773170	773261						
+51059	Gains a Blue Orb in every 15s.		773171	773261						
+51060	Gains a Blue Orb in every 10s.		773172	773261						
+51061	Pinging 1 Signal Orb generates 1/1/2 more Energy		773101	773261						
+51062	Pinging 2 Signal Orbs generates 1/2/3 more Energy		773102	773261						
+51063	Pinging 3 Signal Orbs generates 2/3/4 more Energy		773103	773261						
+51064	For every Orb cleared, increases Extra Damage Bonus by 3% for 5s. Stacks up to 10 times.		773174	773261						
+51065	Upon entering Matrix, unleash a shockwave within 12m that deals 600% Physical Damage.		773181	773261						
+51066	Upon entering Matrix, unleash a shockwave within 12m that deals 900% Physical Damage.		773182	773261						
+51067	Upon entering Matrix, unleash a shockwave within 12m that deals 1200% Physical Damage.		773183	773261						
+51068	Construct will be immune to any DMG when in Matrix		773187	773261						
+51069	Heals all Constructs for 7.5% of maximum HP at the end of battle	773195	773189	773261						
+51070	Heals all Constructs for 15% of maximum HP at the end of battle	773195	773190	773261						
+51071	Heals all Constructs for 22.5% of maximum HP at the end of battle	773195	773191	773261						
+51072	Extra DMG Bonus increases by 10% when attacking from behind.		773196	773261						
+51073	Extra DMG Bonus increases by 20% when attacking from behind.		773197	773261						
+51074	Extra DMG Bonus increases by 30% when attacking from behind.		773198	773261						
+51075	Extra Damage Bonus increases by 10%/20%/30% for 5s when Combo is greater than 40/80/120.		773202	773261						
+51076	Healing effect increases by 5%		773207	773261						
+51077	Healing effect increases by 10%		773208	773261						
+51078	Healing effect increases by 15%		773209	773261						
+51079	Heals Tank-type Constructs for 0.75% of their HP every second.		773210	773261						
+51080	Heals Tank-type Constructs for 1.5% of their HP every second.		773211	773261						
+51081	Heals Tank-type Constructs for 2.25% of their HP every second.		773212	773261						
+51082	Increases Extra DMG Bonus by 15% and Extra DMG Reduction by 15%.		773216	773261						
+51083	Each time a Construct is defeated, increases the Extra Damage Bonus of other Constructs by 30%.		773219	773261						
+51084	All Constructs have full Energy at the start of battle.		773222	773261						
+51085	After landing a critical hit, increases Extra Damage Bonus by 3% for 5s. Stacks up to 10 times.		773223	773261						
+51086	Heals 5% HP upon killing an enemy.		773226	773261						
+51087	For every 1m after 2.5m from the target, Extra Damage Reduction will be increased by 20%. (Up to 80%)		773228							
+51088	For every 1m after 4m from the target, Extra Damage Reduction will be increased by 20%. (Up to 80%)		773234							
+51089	All deployed Constructs take DMG every second		773239							
+51090	Movement Speed decreases by 30%		773241							
+51091	Dodge Gauge consumption is reduced by 50%		773244							
+51092	QTE will not deal DMG		773245							
+51093	Enemies will not be slowed down in Matrix.						773248			
+51094	No weapon resonance effects		773249							
+51095	Healing effect is reduced by 50%		773250							
+51096	When an enemy dies, it will increase other enemies' Extra DMG Bonus by 25%.						773251			
+51097	All attributes of the enemies are boosted by 30%						773253			
+51098	HP and ATK increase by 5%.		773261							
+52001	100% chance to drop 1 random Signal Orb after defeating an enemy.		773263	773261						
+52002	100% chance to drop 2 random Signal Orbs after defeating an enemy.		773264	773261						
+52003	100% chance to drop 3 random Signal Orbs after defeating an enemy.		773265	773261						
+52004	Give 3 random Signal Orbs of the same color to the character in battle every 10s.		773269							
+52005	Give an extra random Signal Orb when entering battle for the first time.		773270							
+52006	Give 20 bonus energy each time when the character is deployed.		773271							
+52007	Reduce target's Elemental Resistance by 10% upon dealing damage.		773273	773261						
+52008	Reduce target's Elemental Resistance by 20% upon dealing damage.		773274	773261						
+52009	Reduce target's Elemental Resistance by 30% upon dealing damage.		773275	773261						
+52010	Healing effect increases by 15%. Increases the Extra Damage Bonus of targets healed by 20% for 5s.		773279							
+52011	Characters in combat gain 8% CRIT every second. After landing a critical hit, gain "Guaranteed Critical" effect for 2s. This effect has a 15s cooldown.		773284							
+52012	Characters in combat gain 3 Energy every second.		773282							
+60000	Fire DMG increases by 10%		701040							
+60001	Ranged-type Constructs' Extra DMG Bonus increases by 10%		701043							
+60002	Tank-type Constructs' CRIT Rate increases to 100%		701045							
+60003	Dark DMG increases by 10%		701046							
+60004	Lightning DMG increases by 10%		701041							
+70001	Lv.1 Effect: Gains a random Signal Orb in every 6s.		771721							
+70002	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
+70003	Lv.1 Effect: Tank Constructs' ATK increases by 20%.		771681							
+70004	Lv.1 Effect: QTE cooldown decreases by 1s.		773129							
+70005	Lv.1 Effect: After summoning a QTE, unleashes a shockwave within 6m that deals 300% Physical DMG.		773117							
+70006	Lv.1 Effect: Physical DMG increases by 20%.		771706							
+70007	Lv.1 Effect: Constructs' Extra DMG Reduction increases by 15%.		761041							
+70008	Lv.1 Effect: Every time characters are switched, they get 2 additional Signal Orbs.		771694							
+70009	Lv.1 Effect: Support Constructs' healing effect increases by 25%.		771696							
+70010	Lv.1 Effect: Limit of Dodge Gauge increases by 400.		773135							
+70011	Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771710							
+70012	Lv.1 Effect: Support Constructs' ATK increases by 20%.		771683							
+70013	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
+70014	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
+70015	Lv.1 Effect: Every successful dodge will reduce the attacker's DEF by 10%. Can be stacked up to 3 times.		772073							
+70016	Lv.1 Effect: Support Constructs deal 25% more damage.		771700							
+70017	Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771710							
+70018	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
+70019	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
+70020	Lv.1 Effect: Physical DMG increases by 20%.		771706							
+70021	Lv.1 Effect: Limit of Dodge Gauge increases by 400.		773135							
+70022	Lv.1 Effect: Upon entering Matrix, unleashes a shockwave within 6m that deals 600% Physical DMG.		773181							
+70023	Lv.1 Effect: Enemies' Super Armor decreases by 25%.		772069							
+70024	Lv.1 Effect: Breaking Super Armor will also stun the target for 2s.		771713							
+70025	Lv.1 Effect: CRIT chance increases by 20%.		771717							
+70026	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
+70027	Lv.1 Effect: Tank Constructs' ATK increases by 20%.		771681							
+70028	Lv.1 Effect: Support Constructs' ATK increases by 20%.		771683							
+70029	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
+70030	Lv.1 Effect: Starts a battle with 50 Energy.		761188							
+70031	Lv.1 Effect: Limit of Dodge Gauge increases by 400.		773135							
+70032	Lv.1 Effect: Critical Damage increases by 25%.		771719							
+70033	Lv.1 Effect: Every time an Attacker Construct damages an enemy, the characters in reserve are healed for 10% of the Attacker Construct's ATK.		771690							
+70034	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
+70035	Lv.1 Effect: 1-Ping/2-Ping/3-Ping generates additional 1/2/3 Energy.		773102							
+70036	Lv.1 Effect: Gains 24% Extra Damage Bonus. Casting a Signature Move grants Super Armor for 10s.		773114	761140						
+70037	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
+70038	Lv.1 Effect: Physical DMG increases by 20%.		771706							
+70039	Lv.1 Effect: Constructs become immune to attacks and gain 30% DMG Reduction.		771725	771649						
+70040	Lv.1 Effect: For every Orb pinged, increases Extra Damage Bonus by 3% for 5s. Stacks up to 5 times.		771687							
+70041	Lv.2 Effect: Gains a random Signal Orb in every 3s.		771722							
+70042	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70043	Lv.2 Effect: Tank Constructs' ATK increases by 40%.		771682							
+70044	Lv.2 Effect: QTE cooldown decreases by 3s.		773131							
+70045	Lv.2 Effect: After summoning a QTE, unleashes a shockwave within 6m that deals 600% Physical DMG.		773119							
+70046	Lv.2 Effect: Physical DMG increases by 40%.		771707							
+70047	Lv.2 Effect: Constructs' Extra DMG Reduction increases by 30%.		771649							
+70048	Lv.2 Effect: Every time characters are switched, they get 4 additional Signal Orbs.		771695							
+70049	Lv.2 Effect: Support Constructs' healing effect increases by 50%.		771697							
+70050	Lv.2 Effect: Limit of Dodge Gauge increases by 700.		773136							
+70051	Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.		771711							
+70052	Lv.2 Effect: Support Constructs' ATK increases by 40%.		771684							
+70053	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
+70054	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70055	Lv.2 Effect: Every successful dodge will reduce the attacker's DEF by 20%. Can be stacked up to 3 times.		772074							
+70056	Lv.2 Effect: Support Constructs deal 50% more damage.		771701							
+70057	Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.		771711							
+70058	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70059	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
+70060	Lv.2 Effect: Physical DMG increases by 40%.		771707							
+70061	Lv.2 Effect: Limit of Dodge Gauge increases by 700.		773136							
+70062	Lv.2 Effect: Upon entering Matrix, unleashes a shockwave within 6m that deals 1200% Physical DMG.		773183							
+70063	Lv.2 Effect: Enemies' Super Armor decreases by 50%.		772070							
+70064	Lv.2 Effect: Breaking Super Armor will also stun the target for 4s.		771714							
+70065	Lv.2 Effect: CRIT chance increases by 40%.		771718							
+70066	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70067	Lv.2 Effect: Tank Constructs' ATK increases by 40%.		771682							
+70068	Lv.2 Effect: Support Constructs' ATK increases by 40%.		771684							
+70069	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
+70070	Lv.2 Effect: Starts a battle with 100 Energy.		761189							
+70071	Lv.2 Effect: Limit of Dodge Gauge increases by 700.		773136							
+70072	Lv.2 Effect: Critical Damage increases by 50%.		771720							
+70073	Lv.2 Effect: Every time an Attacker Construct damages an enemy, the characters in reserve are healed for 20% of the Attacker Construct's ATK.		771691							
+70074	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70075	Lv.2 Effect: 1-Ping/2-Ping/3-Ping generates additional 2/3/4 Energy.		773103							
+70076	Lv.2 Effect: Gains 48% Extra Damage Bonus. Casting a Signature Move grants Super Armor for 10s.		773114	761143						
+70077	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
+70078	Lv.2 Effect: Physical DMG increases by 40%.		771707							
+70079	Lv.2 Effect: Constructs become immune to attacks and gain 45% DMG Reduction.		771725	771648						
+70080	Lv.2 Effect: For every Orb pinged, increases Extra Damage Bonus by 6% for 5s. Stacks up to 5 times.		771688							
+80001	Synchronized characters' ATK increases by 25%		762106							

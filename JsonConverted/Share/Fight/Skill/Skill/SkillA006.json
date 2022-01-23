@@ -456,7 +456,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 0
+        "SkillFaceType": 5
     },
     {
         "Id": 101506,
@@ -469,7 +469,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 0
+        "SkillFaceType": 5
     },
     {
         "Id": 101507,
@@ -482,7 +482,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 0
+        "SkillFaceType": 5
     },
     {
         "Id": 101508,
@@ -583,7 +583,7 @@
         "CastTime": 0.4,
         "AfterTime": 1,
         "Animation": "Move1",
-        "FinalMagicIds": 101576,
+        "FinalMagicIds": "101576|100094",
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
@@ -598,7 +598,7 @@
         "CastTime": 0.4,
         "AfterTime": 1.1,
         "Animation": "Move2",
-        "FinalMagicIds": 101576,
+        "FinalMagicIds": "101576|100094",
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
@@ -631,7 +631,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 0
+        "SkillFaceType": 5
     },
     {
         "Id": 101519,

@@ -1,0 +1,1655 @@
+[
+    {
+        "Id": 11320101,
+        "Name": "普攻1-1",
+        "Shape": 3,
+        "SizeX": 2.25,
+        "SizeY": 180,
+        "OffsetY": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack01AShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113201011,
+        "Magic": [
+            113201
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113201012
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320201,
+        "Name": "普攻2-1",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 2.75,
+        "OffsetY": 1.25,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack02AShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113202011,
+        "Magic": [
+            113202
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113202012
+        ],
+        "EffectHeight": 1.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320301,
+        "Name": "普攻3-1",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 2.75,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack03AShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113203011,
+        "Magic": [
+            113203,
+            113207
+        ],
+        "MagicLauncherNpc": [
+            113206
+        ],
+        "EffectHeight": 1.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320401,
+        "Name": "普攻4-1",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack04AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113204011,
+        "Magic": [
+            113204
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113204012
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320402,
+        "Name": "普攻4-2",
+        "Shape": 3,
+        "SizeX": 2.25,
+        "SizeY": 210,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack04AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113204021,
+        "Magic": [
+            113204
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113204022
+        ],
+        "EffectHeight": 1.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320403,
+        "Name": "普攻4-3",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack04AShouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113204031,
+        "Magic": [
+            113204
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113204032
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320404,
+        "Name": "普攻4-4",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack04AShouji04"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113204041,
+        "Magic": [
+            113204
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113204042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320501,
+        "Name": "普攻5-1",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack05AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113205011,
+        "Magic": [
+            113205
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113205012
+        ],
+        "EffectHeight": 1.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320502,
+        "Name": "普攻5-2",
+        "Shape": 3,
+        "SizeX": 3.5,
+        "SizeY": 240,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack05AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113205021,
+        "Magic": [
+            113205,
+            113209
+        ],
+        "MagicLauncherNpc": [
+            113208,
+            113205022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320601,
+        "Name": "红球1消-1",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113206011,
+        "Magic": [
+            113210
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113206012
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320602,
+        "Name": "红球1消-2",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": 0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113206021,
+        "Magic": [
+            113210
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113206022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320603,
+        "Name": "红球1消-3",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113206031,
+        "Magic": [
+            113210
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113206032
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320604,
+        "Name": "红球1消-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4.5,
+        "OffsetX": 0.5,
+        "OffsetY": 2.25,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji04"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113206041,
+        "Magic": [
+            113210
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320701,
+        "Name": "红球2消-1",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113207011,
+        "Magic": [
+            113211
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113207012
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320702,
+        "Name": "红球2消-2",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": 0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113207021,
+        "Magic": [
+            113211
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113207022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320703,
+        "Name": "红球2消-3",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113207031,
+        "Magic": [
+            113211
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113207032
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320704,
+        "Name": "红球2消-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4.5,
+        "OffsetX": 0.5,
+        "OffsetY": 2.25,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji04"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113207041,
+        "Magic": [
+            113211
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320801,
+        "Name": "红球3消-1",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208011,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113208012
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320802,
+        "Name": "红球3消-2",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": 0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208021,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113208022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320803,
+        "Name": "红球3消-3",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji03"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208031,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113208032
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320804,
+        "Name": "红球3消-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4.5,
+        "OffsetX": 0.5,
+        "OffsetY": 2.25,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji04"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208041,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320811,
+        "Name": "红球3消-11",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji05"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208111,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320812,
+        "Name": "红球3消-12",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": 0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji06"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208121,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320813,
+        "Name": "红球3消-13",
+        "Shape": 3,
+        "SizeX": 2.5,
+        "SizeY": 210,
+        "OffsetX": -0.75,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji07"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208131,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320814,
+        "Name": "红球3消-14",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4.5,
+        "OffsetX": 0.5,
+        "OffsetY": 2.25,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack11AShouji08"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113208141,
+        "Magic": [
+            113212
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320901,
+        "Name": "蓝球1消-1",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 3.75,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji01"
+        ],
+        "DamageInterval": 0.1,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113209011,
+        "Magic": [
+            113213
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11320902,
+        "Name": "蓝球1消-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113209021,
+        "Magic": [
+            113214
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321001,
+        "Name": "蓝球2消-1",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 3.75,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji01"
+        ],
+        "DamageInterval": 0.1,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113210011,
+        "Magic": [
+            113215
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321002,
+        "Name": "蓝球2消-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
+        "OffsetY": 2,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113210021,
+        "Magic": [
+            113216
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321101,
+        "Name": "蓝球3消-1",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 3.75,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.4,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji01"
+        ],
+        "DamageInterval": 0.1,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113211011,
+        "Magic": [
+            113217
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321102,
+        "Name": "蓝球3消-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 6,
+        "OffsetY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack21AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113211021,
+        "Magic": [
+            113218
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321201,
+        "Name": "黄球1消-1",
+        "Shape": 2,
+        "SizeX": 3,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113212011,
+        "Magic": [
+            113219,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222,
+            113212012
+        ],
+        "EffectHeight": 0.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321202,
+        "Name": "黄球1消-2",
+        "Shape": 1,
+        "SizeX": 2.5,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113212021,
+        "Magic": [
+            113219,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321301,
+        "Name": "黄球2消-1",
+        "Shape": 2,
+        "SizeX": 3,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113213011,
+        "Magic": [
+            113220,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222,
+            113213012
+        ],
+        "EffectHeight": 0.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321302,
+        "Name": "黄球2消-2",
+        "Shape": 1,
+        "SizeX": 2.5,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113213021,
+        "Magic": [
+            113220,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321401,
+        "Name": "黄球3消-1",
+        "Shape": 2,
+        "SizeX": 3,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113214011,
+        "Magic": [
+            113221,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222,
+            113214012
+        ],
+        "EffectHeight": 0.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11321402,
+        "Name": "黄球3消-2",
+        "Shape": 1,
+        "SizeX": 2.5,
+        "SizeY": 5,
+        "OffsetY": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack31AShouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113214021,
+        "Magic": [
+            113221,
+            113222
+        ],
+        "MagicLauncherNpc": [
+            113222
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11322401,
+        "Name": "普攻1（突进）-1",
+        "Shape": 3,
+        "SizeX": 2.25,
+        "SizeY": 180,
+        "OffsetY": 0.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR4LuxiyaAttack01AShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 113224011,
+        "Magic": [
+            113201
+        ],
+        "MagicLauncherNpc": [
+            null,
+            113224012
+        ],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    }
+]

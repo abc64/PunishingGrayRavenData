@@ -537,18 +537,6 @@
         "EffectJoint": "Bip001LForearm"
     },
     {
-        "Id": 102299,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1022990,
-        "Cover": 1022980,
-        "Mutex": 1022980,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
-    },
-    {
         "Id": 101514,
         "Delay": 0,
         "Duration": 0.4,
@@ -662,18 +650,6 @@
         "Magic": 101535000,
         "Effect": "FxR3YongyechaoPinzhiGuadianBip001RForearm",
         "EffectJoint": "Bip001RForearm"
-    },
-    {
-        "Id": 101536,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1015360,
-        "Cover": 1015350,
-        "Mutex": 1015350,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 101537,
@@ -958,7 +934,7 @@
         "Duration": 1.1,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1015740,
+        "Kind": "1015740|1",
         "Cover": 1015740,
         "Magic": 101574000
     },
@@ -1035,7 +1011,7 @@
     {
         "Id": 101587,
         "Delay": 0,
-        "Duration": 3,
+        "Duration": 8,
         "Limit": 1,
         "Cd": 0,
         "Kind": 1015870,
@@ -1043,15 +1019,6 @@
         "Magic": 101587000,
         "Effect": "FxTongyongBati",
         "EffectJoint": "Root"
-    },
-    {
-        "Id": 101588,
-        "Delay": 0,
-        "Duration": 2.65,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1015880,
-        "Magic": 101588000
     },
     {
         "Id": 101590,

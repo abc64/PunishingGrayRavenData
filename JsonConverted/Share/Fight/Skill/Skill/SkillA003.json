@@ -310,7 +310,7 @@
     },
     {
         "Id": 100624,
-        "Name": "交互动作",
+        "Name": "黄消-一般反击1",
         "SkillType": 31,
         "CastTime": 1,
         "AfterTime": 0.65,
@@ -576,7 +576,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 4
+        "SkillFaceType": 5
     },
     {
         "Id": 101114,
@@ -590,7 +590,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 4
+        "SkillFaceType": 5
     },
     {
         "Id": 101115,
@@ -604,7 +604,7 @@
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
-        "SkillFaceType": 4
+        "SkillFaceType": 5
     },
     {
         "Id": 101116,
@@ -1853,9 +1853,9 @@
         "Id": 101233,
         "Name": "红球3消（大招）",
         "SkillType": 13,
-        "CastTime": 1.7,
-        "AfterTime": 0.75,
-        "Animation": "Attack13",
+        "CastTime": 1.2,
+        "AfterTime": 0.8,
+        "Animation": "Attack11",
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
@@ -1960,6 +1960,20 @@
         "CastTime": 0.5,
         "AfterTime": 0.75,
         "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillMoveTrackDistance": 2,
+        "MissileLockTarget": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 101242,
+        "Name": "必殺技連発",
+        "SkillType": 2,
+        "CastTime": 0.4,
+        "AfterTime": 0.8,
+        "Animation": "Attack52",
+        "FinalMagicIds": 100092,
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,

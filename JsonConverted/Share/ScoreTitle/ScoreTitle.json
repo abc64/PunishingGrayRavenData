@@ -1,0 +1,198 @@
+[
+    {
+        "Id": 13000001,
+        "Type": 5,
+        "ExtraParams": [],
+        "Priority": 1,
+        "Condition": 850004,
+        "InitQuality": 3,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Vassago Toy",
+        "MainDesc": "Collectible",
+        "WorldDesc": "Nanami made this toy based on the fierce Vassago after Gray Raven defeated it. Kamui always found new ways to play it.",
+        "Hint": [],
+        "GetDesc": "Unlocks after clearing Main Story 4-12",
+        "ShowType": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection004.png"
+    },
+    {
+        "Id": 13000100,
+        "Type": 5,
+        "ExtraParams": [],
+        "Priority": 2,
+        "Condition": 850005,
+        "InitQuality": 4,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Reunion",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A display stand with Cottie's image printed on it, and a symbol of Commandant's reunion with the Syndicute and their leader Cottie. \"I'm back, Cottie.\"",
+        "Hint": [],
+        "GetDesc": "Clear Memory Rescue \"Aife\" to receive",
+        "ShowType": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection002.png"
+    },
+    {
+        "Id": 13000300,
+        "Type": 3,
+        "ExtraParams": [],
+        "Priority": 4,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Area Controller",
+        "MainDesc": "Collectible",
+        "WorldDesc": "This controller monitors the number of areas cleared and is a symbol of total control within the areas. It is issued to the commandants who have demonstrated outstanding capabilities.",
+        "Hint": [],
+        "GetDesc": "Clear any Border Pact area without using the reboot function to receive",
+        "ShowType": 1,
+        "ShowScore": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection006.png"
+    },
+    {
+        "Id": 13000400,
+        "Type": 4,
+        "ExtraParams": [],
+        "Priority": 5,
+        "InitQuality": 2,
+        "QualityConditions": [
+            84700102,
+            84700103,
+            84700104
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Honor Support Certificate",
+        "MainDesc": "Collectible",
+        "WorldDesc": "The certificate issued by Babylonia Field HQ to honor the collaboration effort and spirit of unity. It can be upgraded to different levels.",
+        "Hint": [
+            "Help others to clear 10 stages to upgrade to blue",
+            "Help others to clear 50 stages to upgrade to purple",
+            "Help others to clear 200 stages to upgrade to orange"
+        ],
+        "GetDesc": "Help others to clear 1 Joint Warfare stage to receive",
+        "ShowType": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection001.png"
+    },
+    {
+        "Id": 13000500,
+        "Type": 5,
+        "ExtraParams": [],
+        "Priority": 3,
+        "Condition": 850009,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Contest",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A large map that marks all the strongholds cleared. It is a symbol of the outstanding performance across various battlefields, as well as a wrap-up of the enormous effort made in those difficult battles.",
+        "Hint": [],
+        "GetDesc": "Complete Stronghold Chapter 12",
+        "ShowType": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection003.png"
+    },
+    {
+        "Id": 13005001,
+        "Type": 999,
+        "ExtraParams": [],
+        "Priority": 6,
+        "InitQuality": 2,
+        "QualityConditions": [
+            850001,
+            850002,
+            850003
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Crimson Love",
+        "MainDesc": "Collectible",
+        "WorldDesc": "Constructs give this rare collectible to their Commandant on May 20th. It carries special meanings.",
+        "Hint": [
+            "Own 3 [Crimson Love] to upgrade to blue",
+            "Own 6 [Crimson Love] to upgrade to purple",
+            "Own 10 [Crimson Love] to upgrade to orange"
+        ],
+        "GetDesc": "Converted from [Crimson Love]",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection007.png"
+    },
+    {
+        "Id": 13005100,
+        "Type": 5,
+        "ExtraParams": [],
+        "Priority": 7,
+        "Condition": 850006,
+        "InitQuality": 3,
+        "QualityConditions": [
+            850007,
+            850008
+        ],
+        "Qualities": [
+            4,
+            5
+        ],
+        "Name": "Osiris Badge",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A badge with Osiris printed on it to commemorate the incredible effort made to defeat Osiris. Displays different colors as it levels up.",
+        "Hint": [
+            "Clear Osiris Overclock - Elite to upgrade to purple",
+            "Clear Osiris Overclock - Nightmare to upgrade to orange"
+        ],
+        "GetDesc": "Clear Co-op [Event] Osiris Overclock to receive",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection005.png"
+    },
+    {
+        "Id": 13005200,
+        "Type": 999,
+        "ExtraParams": [],
+        "Priority": 8,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Phosphor Bronze Medal",
+        "MainDesc": "Collectible",
+        "WorldDesc": "This honor is awarded to the commandants who have made it to the top. The counter will update every time a new medal is won. Forged with phosphor bronze, it is a symbol of battle-tested strength and techniques.",
+        "Hint": [],
+        "GetDesc": "Awarded to the top 5%-10% players each time when Phalanx results are tallied",
+        "ShowScore": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection008.png"
+    },
+    {
+        "Id": 13005201,
+        "Type": 999,
+        "ExtraParams": [],
+        "Priority": 9,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Silver-coated Medal",
+        "MainDesc": "Collectible",
+        "WorldDesc": "This medal is only awarded to the top-ranking Commandants, and is a symbol of outstanding strength and techniques. The counter will update every time a new medal is won. The perfectly blended silver and white colors make it a piece of art.",
+        "Hint": [],
+        "GetDesc": "Awarded to the top 1%-5% players each time when Phalanx results are tallied",
+        "ShowScore": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection009.png"
+    },
+    {
+        "Id": 13005202,
+        "Type": 999,
+        "ExtraParams": [],
+        "Priority": 10,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Gold-coated Medal",
+        "MainDesc": "Collectible",
+        "WorldDesc": "This honor is only awarded to the best of the best Commandants. The counter will update every time a new medal is won. The golden coating and carving represent unrivalled strength and techniques.",
+        "Hint": [],
+        "GetDesc": "Awarded to the top 1% players each time when Phalanx results are tallied",
+        "ShowScore": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection010.png"
+    }
+]

@@ -290,5 +290,208 @@
         "Cd": 0,
         "Kind": 8322370,
         "Magic": 832237000
+    },
+    {
+        "Id": 835000,
+        "Delay": 0,
+        "Duration": 5.4,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8350000,
+        "Magic": 835000000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835001,
+        "Delay": 0,
+        "Duration": 5.4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350010,
+        "Magic": 835001000
+    },
+    {
+        "Id": 835002,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350020,
+        "Magic": 835002000
+    },
+    {
+        "Id": 835003,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350030,
+        "Effect": "FxMb1MelodyVeryDiao"
+    },
+    {
+        "Id": 835010,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350100,
+        "Magic": 835010000
+    },
+    {
+        "Id": 835020,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350200,
+        "Cover": 1000410,
+        "Mutex": 1000410,
+        "Magic": 835020000
+    },
+    {
+        "Id": 835061,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350610
+    },
+    {
+        "Id": 835062,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350620
+    },
+    {
+        "Id": 835063,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350630
+    },
+    {
+        "Id": 835064,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350640
+    },
+    {
+        "Id": 835067,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350670
+    },
+    {
+        "Id": 835068,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8350680
+    },
+    {
+        "Id": 835200,
+        "Delay": 0,
+        "Duration": 3.6,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8352000,
+        "Magic": 835200000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835205,
+        "Delay": 0,
+        "Duration": 3.6,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8352050,
+        "Magic": 835205000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835206,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352060,
+        "Magic": 835206000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835207,
+        "Delay": 0,
+        "Duration": 1.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352070,
+        "Magic": 835207000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835210,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352100,
+        "Magic": 835210000
+    },
+    {
+        "Id": 835211,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352110,
+        "Cover": 8352110,
+        "Magic": 835211000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835212,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352120,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 835213,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8352130,
+        "Effect": "FxMb1MelodyhuaxuMd10001HudunShouji",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 835214,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352140,
+        "Magic": 835214000
+    },
+    {
+        "Id": 835220,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8352200,
+        "Cover": 1000410,
+        "Mutex": 1000410
     }
 ]

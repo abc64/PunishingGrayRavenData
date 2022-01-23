@@ -85,7 +85,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1001200,
-        "Cover": 1001240,
         "Effect": "FxR2LiangBuffZhuoshao",
         "EffectJoint": "HitCase"
     },
@@ -344,16 +343,6 @@
         "Magic": 100177000,
         "Effect": "FxR2LiangPinzhiGuadianBip001LForearm",
         "EffectJoint": "Bip001LForearm"
-    },
-    {
-        "Id": 100178,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1001780,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 100180,
@@ -664,21 +653,22 @@
     {
         "Id": 100550,
         "Delay": 0,
-        "Duration": 5,
+        "Duration": 0.3,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1005500,
+        "Kind": "1005500|1005530",
         "Magic": 100550000
     },
     {
         "Id": 100551,
         "Delay": 0,
         "Duration": 0.3,
-        "Limit": "-1",
+        "Limit": 1,
         "Cd": 0,
         "Kind": "1005510|9|8",
         "Mutex": "5|10|15|200",
-        "Magic": 100551000
+        "Magic": 100551000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 100552,
@@ -696,7 +686,7 @@
         "Duration": 0.3,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1005530,
+        "Kind": "1005530|1005530",
         "Magic": 100553000
     },
     {
@@ -707,7 +697,8 @@
         "Cd": 0,
         "Kind": "1005550|9|8",
         "Mutex": "5|10|15|200",
-        "Magic": 100555000
+        "Magic": 100555000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 100558,
@@ -804,16 +795,6 @@
         "Magic": 100579000,
         "Effect": "FxR2YongyechaoPinzhiGuadianBip001LForearm",
         "EffectJoint": "Bip001LForearm"
-    },
-    {
-        "Id": 100580,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1005800,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 100590,
@@ -1321,16 +1302,6 @@
         "EffectJoint": "Bip001RUpperArm"
     },
     {
-        "Id": 100797,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1007970,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
-    },
-    {
         "Id": 100806,
         "Delay": 0,
         "Duration": 0,
@@ -1641,16 +1612,6 @@
         "EffectJoint": "Bip001RForearm"
     },
     {
-        "Id": 100880,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1008800,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
-    },
-    {
         "Id": 100890,
         "Delay": 0,
         "Duration": "-1",
@@ -1706,7 +1667,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1013240|15|203|1013230|5|200|5",
-        "Cover": 1013230,
         "Magic": 101324000,
         "Effect": "FxTongyongJiansu",
         "EffectJoint": "Root"
@@ -1719,7 +1679,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1013250|15|203|1013230|5|200|5",
-        "Cover": "1013230|1013240",
         "Magic": 101325000,
         "Effect": "FxTongyongJiansu",
         "EffectJoint": "Root"
@@ -1741,7 +1700,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1013270|1013230",
-        "Cover": 1013260,
         "Effect": "FxR2LifuAttack21Shouji",
         "EffectJoint": "HitCase"
     },
@@ -1752,7 +1710,6 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1013280|1013230",
-        "Cover": "1013260|1013270",
         "Effect": "FxR2LifuAttack21Shouji",
         "EffectJoint": "HitCase"
     },
@@ -2075,16 +2032,6 @@
         "Magic": 101377000,
         "Effect": "FxR2LifuPinzhiGuadianBip001RForearm",
         "EffectJoint": "Bip001RForearm"
-    },
-    {
-        "Id": 101378,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1013780,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 101380,

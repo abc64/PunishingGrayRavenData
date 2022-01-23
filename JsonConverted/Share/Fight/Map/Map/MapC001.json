@@ -23,7 +23,7 @@
         "Name": "行为树教学关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999600020
@@ -41,7 +41,7 @@
         "Name": "木桩测试关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999600030
@@ -77,7 +77,7 @@
         "Name": "炮台测试关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999600050
@@ -99,6 +99,186 @@
         "CameraId": 9,
         "Terrains": [
             999600060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99960007,
+        "Behavior": 99960007,
+        "Name": "運営ステージ1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999600070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99960008,
+        "Behavior": 99960008,
+        "Name": "運営ステージ2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999600080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99960011,
+        "Behavior": 99960011,
+        "Name": "桥1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 43,
+        "CameraId": 9,
+        "Terrains": [
+            999600110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99960012,
+        "Behavior": 99960012,
+        "Name": "震屏测试关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999600120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120106,
+        "Behavior": 10120106,
+        "Name": "天花板下压",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120107,
+        "Behavior": 10120107,
+        "Name": "滚球铁网",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120125,
+        "Behavior": 10120125,
+        "Name": "曲",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 15,
+        "Terrains": [
+            101201250
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11120104,
+        "Behavior": 11120104,
+        "Name": "三头犬守城",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111201040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11120107,
+        "Behavior": 11120107,
+        "Name": "ガブリエル",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            111201070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10130152,
+        "Behavior": 10130152,
+        "Name": "准备过冬",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 6,
+        "CameraId": 9,
+        "Terrains": [
+            101301520
         ],
         "Position": [
             "0|0|0"

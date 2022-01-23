@@ -2,6 +2,7 @@
     {
         "Id": 21001,
         "IsFree": 1,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -41,6 +42,7 @@
     },
     {
         "Id": 21002,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -80,6 +82,7 @@
     },
     {
         "Id": 21003,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -119,6 +122,7 @@
     },
     {
         "Id": 21004,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -158,6 +162,7 @@
     },
     {
         "Id": 21005,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -197,6 +202,7 @@
     },
     {
         "Id": 21006,
+        "SceneId": 1,
         "Width": 38,
         "Height": 38,
         "CharCapacity": 3,
@@ -209,6 +215,246 @@
         "ConsumeItemCount": 5,
         "InitNumber": 6,
         "InitName": "Dormitory 6",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21007,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 7,
+        "InitName": "Dormitory 7",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21008,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 8,
+        "InitName": "Dormitory 8",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21009,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 9,
+        "InitName": "Dormitory 9",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21010,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 10,
+        "InitName": "Dormitory 10",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21011,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 11,
+        "InitName": "Dormitory 11",
+        "InitFurniture": [
+            8101004,
+            8301004,
+            8201004,
+            8404002,
+            8405002,
+            8406005
+        ],
+        "InitFurniturePos": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0",
+            "0|30|3",
+            "20|20|7",
+            "20|0|6"
+        ],
+        "InitFurnitureAttr": [
+            100001,
+            100001,
+            100001,
+            100001,
+            100001,
+            100001
+        ]
+    },
+    {
+        "Id": 21012,
+        "SceneId": 2,
+        "Width": 38,
+        "Height": 38,
+        "CharCapacity": 3,
+        "BigFurnitureCapacity": 0,
+        "SmallFurnitureCapacity": 0,
+        "DecorateCapacity": 0,
+        "PetCapacity": 1,
+        "ShieldCapacity": 0,
+        "ConsumeItemId": 36,
+        "ConsumeItemCount": 5,
+        "InitNumber": 12,
+        "InitName": "Dormitory 12",
         "InitFurniture": [
             8101004,
             8301004,

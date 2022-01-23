@@ -2,13 +2,14 @@
     {
         "Id": 1,
         "OrderId": 1,
-        "Name": "Black Flash",
-        "ChapterName": "Black Flash",
+        "Name": "Confrontation",
+        "ChapterName": "Confrontation",
         "Cover": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner04.png",
         "Icon": "Assets/Product/Texture/Atlas/UiFubenActivityZhixian/UFAZhixianIcon1.png",
-        "Description": "Black Flash",
+        "Prefab": "Assets/Product/Ui/ComponentPrefab/FuBenActivityBossSingle/FuBenActivityBossSingle.prefab",
+        "Description": "Confrontation",
         "MinLevel": 1,
-        "MaxLevel": 100,
+        "MaxLevel": 120,
         "ShowRewardId": 1001,
         "SkipId": 20013,
         "ChallengeId": [

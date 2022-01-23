@@ -1,6 +1,7 @@
 [
     {
-        "Key": "VisibleObstacle"
+        "Key": "VisibleObstacle",
+        "CollisionEffect": 0
     },
     {
         "CellX": 26,
@@ -11699,10 +11700,12 @@
         "CellY": 19
     },
     {
-        "Key": "InvisibleObstacle"
+        "Key": "InvisibleObstacle",
+        "CollisionEffect": 0
     },
     {
-        "Key": "CG1"
+        "Key": "CG1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 25,
@@ -11861,7 +11864,8 @@
         "CellY": 51
     },
     {
-        "Key": "AW1"
+        "Key": "AW1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 44,
@@ -12092,7 +12096,8 @@
         "CellY": 80
     },
     {
-        "Key": "AW2"
+        "Key": "AW2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 81,
@@ -12335,7 +12340,8 @@
         "CellY": 80
     },
     {
-        "Key": "CG2"
+        "Key": "CG2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 78,
@@ -15162,7 +15168,8 @@
         "CellY": 74
     },
     {
-        "Key": "CG3"
+        "Key": "CG3",
+        "CollisionEffect": 0
     },
     {
         "CellX": 137,
@@ -16785,7 +16792,8 @@
         "CellY": 65
     },
     {
-        "Key": "CG4"
+        "Key": "CG4",
+        "CollisionEffect": 0
     },
     {
         "CellX": 102,
@@ -17076,7 +17084,8 @@
         "CellY": 26
     },
     {
-        "Key": "AW3"
+        "Key": "AW3",
+        "CollisionEffect": 0
     },
     {
         "CellX": 134,
@@ -17439,7 +17448,8 @@
         "CellY": 56
     },
     {
-        "Key": "CG5"
+        "Key": "CG5",
+        "CollisionEffect": 0
     },
     {
         "CellX": 91,
@@ -18322,7 +18332,8 @@
         "CellY": 64
     },
     {
-        "Key": "CG6"
+        "Key": "CG6",
+        "CollisionEffect": 0
     },
     {
         "CellX": 116,
@@ -18589,7 +18600,8 @@
         "CellY": 80
     },
     {
-        "Key": "BB1"
+        "Key": "BB1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 95,
@@ -18628,7 +18640,8 @@
         "CellY": 71
     },
     {
-        "Key": "AN11"
+        "Key": "AN11",
+        "CollisionEffect": 0
     },
     {
         "CellX": 80,
@@ -18647,7 +18660,8 @@
         "CellY": 59
     },
     {
-        "Key": "AN12"
+        "Key": "AN12",
+        "CollisionEffect": 0
     },
     {
         "CellX": 40,
@@ -18666,7 +18680,8 @@
         "CellY": 38
     },
     {
-        "Key": "AN21"
+        "Key": "AN21",
+        "CollisionEffect": 0
     },
     {
         "CellX": 101,
@@ -18685,7 +18700,8 @@
         "CellY": 80
     },
     {
-        "Key": "AN22"
+        "Key": "AN22",
+        "CollisionEffect": 0
     },
     {
         "CellX": 149,
@@ -18704,7 +18720,8 @@
         "CellY": 61
     },
     {
-        "Key": "AW4"
+        "Key": "AW4",
+        "CollisionEffect": 0
     },
     {
         "CellX": 104,
@@ -18879,7 +18896,8 @@
         "CellY": 79
     },
     {
-        "Key": "END"
+        "Key": "END",
+        "CollisionEffect": 0
     },
     {
         "CellX": 112,
@@ -18946,7 +18964,8 @@
         "CellY": 41
     },
     {
-        "Key": "CG7"
+        "Key": "CG7",
+        "CollisionEffect": 0
     },
     {
         "CellX": 100,
@@ -19089,7 +19108,8 @@
         "CellY": 63
     },
     {
-        "Key": "AW5"
+        "Key": "AW5",
+        "CollisionEffect": 0
     },
     {
         "CellX": 25,
@@ -19248,7 +19268,8 @@
         "CellY": 51
     },
     {
-        "Key": "JQ2"
+        "Key": "JQ2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 78,
@@ -19491,7 +19512,8 @@
         "CellY": 61
     },
     {
-        "Key": "AWW3"
+        "Key": "AWW3",
+        "CollisionEffect": 0
     },
     {
         "CellX": 105,
@@ -20946,7 +20968,8 @@
         "CellY": 67
     },
     {
-        "Key": "WAWA"
+        "Key": "WAWA",
+        "CollisionEffect": 0
     },
     {
         "CellX": 47,
@@ -21441,7 +21464,8 @@
         "CellY": 60
     },
     {
-        "Key": "QQ1"
+        "Key": "QQ1",
+        "CollisionEffect": 0
     },
     {
         "CellX": 63,
@@ -21708,7 +21732,8 @@
         "CellY": 59
     },
     {
-        "Key": "QQ2"
+        "Key": "QQ2",
+        "CollisionEffect": 0
     },
     {
         "CellX": 102,
@@ -21997,5 +22022,717 @@
     {
         "CellX": 120,
         "CellY": 41
+    },
+    {
+        "Key": "AW6",
+        "CollisionEffect": 1
+    },
+    {
+        "CellX": 98,
+        "CellY": 64
+    },
+    {
+        "CellX": 99,
+        "CellY": 64
+    },
+    {
+        "CellX": 100,
+        "CellY": 64
+    },
+    {
+        "CellX": 101,
+        "CellY": 64
+    },
+    {
+        "CellX": 102,
+        "CellY": 64
+    },
+    {
+        "CellX": 103,
+        "CellY": 64
+    },
+    {
+        "CellX": 104,
+        "CellY": 64
+    },
+    {
+        "CellX": 105,
+        "CellY": 64
+    },
+    {
+        "CellX": 106,
+        "CellY": 64
+    },
+    {
+        "CellX": 107,
+        "CellY": 64
+    },
+    {
+        "CellX": 108,
+        "CellY": 64
+    },
+    {
+        "CellX": 109,
+        "CellY": 64
+    },
+    {
+        "CellX": 110,
+        "CellY": 64
+    },
+    {
+        "CellX": 111,
+        "CellY": 64
+    },
+    {
+        "CellX": 112,
+        "CellY": 64
+    },
+    {
+        "CellX": 113,
+        "CellY": 64
+    },
+    {
+        "CellX": 114,
+        "CellY": 64
+    },
+    {
+        "CellX": 115,
+        "CellY": 64
+    },
+    {
+        "CellX": 116,
+        "CellY": 64
+    },
+    {
+        "CellX": 117,
+        "CellY": 64
+    },
+    {
+        "CellX": 118,
+        "CellY": 64
+    },
+    {
+        "CellX": 119,
+        "CellY": 64
+    },
+    {
+        "CellX": 120,
+        "CellY": 64
+    },
+    {
+        "CellX": 121,
+        "CellY": 64
+    },
+    {
+        "CellX": 122,
+        "CellY": 64
+    },
+    {
+        "CellX": 123,
+        "CellY": 64
+    },
+    {
+        "CellX": 124,
+        "CellY": 64
+    },
+    {
+        "CellX": 125,
+        "CellY": 64
+    },
+    {
+        "CellX": 126,
+        "CellY": 64
+    },
+    {
+        "CellX": 127,
+        "CellY": 64
+    },
+    {
+        "CellX": 128,
+        "CellY": 64
+    },
+    {
+        "CellX": 129,
+        "CellY": 64
+    },
+    {
+        "CellX": 130,
+        "CellY": 64
+    },
+    {
+        "CellX": 131,
+        "CellY": 64
+    },
+    {
+        "CellX": 132,
+        "CellY": 64
+    },
+    {
+        "CellX": 133,
+        "CellY": 64
+    },
+    {
+        "CellX": 134,
+        "CellY": 64
+    },
+    {
+        "CellX": 135,
+        "CellY": 64
+    },
+    {
+        "CellX": 136,
+        "CellY": 64
+    },
+    {
+        "CellX": 137,
+        "CellY": 64
+    },
+    {
+        "CellX": 138,
+        "CellY": 64
+    },
+    {
+        "CellX": 139,
+        "CellY": 64
+    },
+    {
+        "CellX": 140,
+        "CellY": 64
+    },
+    {
+        "CellX": 141,
+        "CellY": 64
+    },
+    {
+        "CellX": 142,
+        "CellY": 64
+    },
+    {
+        "CellX": 143,
+        "CellY": 64
+    },
+    {
+        "CellX": 144,
+        "CellY": 64
+    },
+    {
+        "CellX": 145,
+        "CellY": 64
+    },
+    {
+        "CellX": 146,
+        "CellY": 64
+    },
+    {
+        "CellX": 147,
+        "CellY": 64
+    },
+    {
+        "CellX": 148,
+        "CellY": 64
+    },
+    {
+        "CellX": 149,
+        "CellY": 64
+    },
+    {
+        "CellX": 101,
+        "CellY": 63
+    },
+    {
+        "CellX": 102,
+        "CellY": 63
+    },
+    {
+        "CellX": 103,
+        "CellY": 63
+    },
+    {
+        "CellX": 104,
+        "CellY": 63
+    },
+    {
+        "CellX": 105,
+        "CellY": 63
+    },
+    {
+        "CellX": 106,
+        "CellY": 63
+    },
+    {
+        "CellX": 107,
+        "CellY": 63
+    },
+    {
+        "CellX": 108,
+        "CellY": 63
+    },
+    {
+        "CellX": 109,
+        "CellY": 63
+    },
+    {
+        "CellX": 110,
+        "CellY": 63
+    },
+    {
+        "CellX": 111,
+        "CellY": 63
+    },
+    {
+        "CellX": 112,
+        "CellY": 63
+    },
+    {
+        "CellX": 113,
+        "CellY": 63
+    },
+    {
+        "CellX": 114,
+        "CellY": 63
+    },
+    {
+        "CellX": 115,
+        "CellY": 63
+    },
+    {
+        "CellX": 116,
+        "CellY": 63
+    },
+    {
+        "CellX": 117,
+        "CellY": 63
+    },
+    {
+        "CellX": 118,
+        "CellY": 63
+    },
+    {
+        "CellX": 119,
+        "CellY": 63
+    },
+    {
+        "CellX": 120,
+        "CellY": 63
+    },
+    {
+        "CellX": 121,
+        "CellY": 63
+    },
+    {
+        "CellX": 122,
+        "CellY": 63
+    },
+    {
+        "CellX": 123,
+        "CellY": 63
+    },
+    {
+        "CellX": 124,
+        "CellY": 63
+    },
+    {
+        "CellX": 125,
+        "CellY": 63
+    },
+    {
+        "CellX": 126,
+        "CellY": 63
+    },
+    {
+        "CellX": 127,
+        "CellY": 63
+    },
+    {
+        "CellX": 128,
+        "CellY": 63
+    },
+    {
+        "CellX": 129,
+        "CellY": 63
+    },
+    {
+        "CellX": 130,
+        "CellY": 63
+    },
+    {
+        "CellX": 131,
+        "CellY": 63
+    },
+    {
+        "CellX": 132,
+        "CellY": 63
+    },
+    {
+        "CellX": 133,
+        "CellY": 63
+    },
+    {
+        "CellX": 134,
+        "CellY": 63
+    },
+    {
+        "CellX": 135,
+        "CellY": 63
+    },
+    {
+        "CellX": 136,
+        "CellY": 63
+    },
+    {
+        "CellX": 137,
+        "CellY": 63
+    },
+    {
+        "CellX": 138,
+        "CellY": 63
+    },
+    {
+        "CellX": 139,
+        "CellY": 63
+    },
+    {
+        "CellX": 140,
+        "CellY": 63
+    },
+    {
+        "CellX": 141,
+        "CellY": 63
+    },
+    {
+        "CellX": 142,
+        "CellY": 63
+    },
+    {
+        "CellX": 143,
+        "CellY": 63
+    },
+    {
+        "CellX": 144,
+        "CellY": 63
+    },
+    {
+        "CellX": 145,
+        "CellY": 63
+    },
+    {
+        "CellX": 146,
+        "CellY": 63
+    },
+    {
+        "CellX": 147,
+        "CellY": 63
+    },
+    {
+        "CellX": 148,
+        "CellY": 63
+    },
+    {
+        "CellX": 149,
+        "CellY": 63
+    },
+    {
+        "Key": "AW7",
+        "CollisionEffect": 1
+    },
+    {
+        "CellX": 105,
+        "CellY": 59
+    },
+    {
+        "CellX": 106,
+        "CellY": 59
+    },
+    {
+        "CellX": 107,
+        "CellY": 59
+    },
+    {
+        "CellX": 108,
+        "CellY": 59
+    },
+    {
+        "CellX": 113,
+        "CellY": 58
+    },
+    {
+        "CellX": 112,
+        "CellY": 58
+    },
+    {
+        "CellX": 111,
+        "CellY": 58
+    },
+    {
+        "CellX": 114,
+        "CellY": 58
+    },
+    {
+        "CellX": 115,
+        "CellY": 58
+    },
+    {
+        "CellX": 116,
+        "CellY": 58
+    },
+    {
+        "CellX": 117,
+        "CellY": 58
+    },
+    {
+        "CellX": 109,
+        "CellY": 59
+    },
+    {
+        "CellX": 110,
+        "CellY": 59
+    },
+    {
+        "CellX": 111,
+        "CellY": 59
+    },
+    {
+        "CellX": 112,
+        "CellY": 59
+    },
+    {
+        "CellX": 113,
+        "CellY": 59
+    },
+    {
+        "CellX": 114,
+        "CellY": 59
+    },
+    {
+        "CellX": 115,
+        "CellY": 59
+    },
+    {
+        "CellX": 116,
+        "CellY": 59
+    },
+    {
+        "CellX": 117,
+        "CellY": 59
+    },
+    {
+        "CellX": 118,
+        "CellY": 59
+    },
+    {
+        "CellX": 119,
+        "CellY": 59
+    },
+    {
+        "CellX": 120,
+        "CellY": 59
+    },
+    {
+        "CellX": 121,
+        "CellY": 59
+    },
+    {
+        "CellX": 122,
+        "CellY": 59
+    },
+    {
+        "CellX": 123,
+        "CellY": 59
+    },
+    {
+        "CellX": 124,
+        "CellY": 59
+    },
+    {
+        "CellX": 125,
+        "CellY": 59
+    },
+    {
+        "CellX": 126,
+        "CellY": 59
+    },
+    {
+        "CellX": 128,
+        "CellY": 59
+    },
+    {
+        "CellX": 129,
+        "CellY": 59
+    },
+    {
+        "CellX": 130,
+        "CellY": 59
+    },
+    {
+        "CellX": 131,
+        "CellY": 59
+    },
+    {
+        "CellX": 132,
+        "CellY": 59
+    },
+    {
+        "CellX": 133,
+        "CellY": 59
+    },
+    {
+        "CellX": 134,
+        "CellY": 59
+    },
+    {
+        "CellX": 135,
+        "CellY": 59
+    },
+    {
+        "CellX": 136,
+        "CellY": 59
+    },
+    {
+        "CellX": 137,
+        "CellY": 59
+    },
+    {
+        "CellX": 138,
+        "CellY": 59
+    },
+    {
+        "CellX": 110,
+        "CellY": 58
+    },
+    {
+        "CellX": 109,
+        "CellY": 58
+    },
+    {
+        "CellX": 108,
+        "CellY": 58
+    },
+    {
+        "CellX": 107,
+        "CellY": 58
+    },
+    {
+        "CellX": 106,
+        "CellY": 58
+    },
+    {
+        "CellX": 142,
+        "CellY": 59
+    },
+    {
+        "CellX": 143,
+        "CellY": 59
+    },
+    {
+        "CellX": 144,
+        "CellY": 59
+    },
+    {
+        "CellX": 145,
+        "CellY": 59
+    },
+    {
+        "CellX": 146,
+        "CellY": 59
+    },
+    {
+        "CellX": 147,
+        "CellY": 59
+    },
+    {
+        "CellX": 149,
+        "CellY": 59
+    },
+    {
+        "CellX": 148,
+        "CellY": 59
+    },
+    {
+        "CellX": 141,
+        "CellY": 59
+    },
+    {
+        "CellX": 140,
+        "CellY": 59
+    },
+    {
+        "CellX": 139,
+        "CellY": 59
+    },
+    {
+        "CellX": 127,
+        "CellY": 59
+    },
+    {
+        "CellX": 118,
+        "CellY": 58
+    },
+    {
+        "CellX": 119,
+        "CellY": 58
+    },
+    {
+        "CellX": 120,
+        "CellY": 58
+    },
+    {
+        "CellX": 121,
+        "CellY": 58
+    },
+    {
+        "CellX": 122,
+        "CellY": 58
+    },
+    {
+        "CellX": 123,
+        "CellY": 58
+    },
+    {
+        "CellX": 124,
+        "CellY": 58
+    },
+    {
+        "CellX": 125,
+        "CellY": 58
+    },
+    {
+        "CellX": 126,
+        "CellY": 58
+    },
+    {
+        "CellX": 127,
+        "CellY": 58
+    },
+    {
+        "CellX": 128,
+        "CellY": 58
+    },
+    {
+        "CellX": 129,
+        "CellY": 58
+    },
+    {
+        "CellX": 130,
+        "CellY": 58
+    },
+    {
+        "CellX": 131,
+        "CellY": 58
+    },
+    {
+        "CellX": 132,
+        "CellY": 58
+    },
+    {
+        "CellX": 133,
+        "CellY": 58
+    },
+    {
+        "CellX": 134,
+        "CellY": 58
+    },
+    {
+        "CellX": 135,
+        "CellY": 58
     }
 ]

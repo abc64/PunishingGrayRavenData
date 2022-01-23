@@ -2598,5 +2598,1305 @@
         "CompletedType": [
             8
         ]
+    },
+    {
+        "EventId": 2001,
+        "CharacterId": 1111002,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2002,
+        "CharacterId": 1111002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2003,
+        "CharacterId": 1111002,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2004,
+        "CharacterId": 1111002,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2005,
+        "CharacterId": 1111002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2006,
+        "CharacterId": 1111002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2007,
+        "CharacterId": 1111002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2008,
+        "CharacterId": 1111002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2101,
+        "CharacterId": 81600,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2102,
+        "CharacterId": 81600,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2103,
+        "CharacterId": 81600,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2104,
+        "CharacterId": 81600,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2105,
+        "CharacterId": 81600,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2106,
+        "CharacterId": 81600,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2107,
+        "CharacterId": 81600,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2108,
+        "CharacterId": 81600,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2201,
+        "CharacterId": 81500,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2202,
+        "CharacterId": 81500,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2203,
+        "CharacterId": 81500,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2204,
+        "CharacterId": 81500,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2205,
+        "CharacterId": 81500,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2206,
+        "CharacterId": 81500,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2207,
+        "CharacterId": 81500,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2208,
+        "CharacterId": 81500,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2301,
+        "CharacterId": 92030,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2302,
+        "CharacterId": 92030,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2303,
+        "CharacterId": 92030,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2304,
+        "CharacterId": 92030,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2305,
+        "CharacterId": 92030,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2306,
+        "CharacterId": 92030,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2307,
+        "CharacterId": 92030,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2308,
+        "CharacterId": 92030,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2401,
+        "CharacterId": 1041003,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2402,
+        "CharacterId": 1041003,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2403,
+        "CharacterId": 1041003,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2404,
+        "CharacterId": 1041003,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2405,
+        "CharacterId": 1041003,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2406,
+        "CharacterId": 1041003,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2407,
+        "CharacterId": 1041003,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2408,
+        "CharacterId": 1041003,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2501,
+        "CharacterId": 1121002,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2502,
+        "CharacterId": 1121002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2503,
+        "CharacterId": 1121002,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2504,
+        "CharacterId": 1121002,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2505,
+        "CharacterId": 1121002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2506,
+        "CharacterId": 1121002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2507,
+        "CharacterId": 1121002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2508,
+        "CharacterId": 1121002,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2601,
+        "CharacterId": 92670,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2602,
+        "CharacterId": 92670,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2603,
+        "CharacterId": 92670,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2604,
+        "CharacterId": 92670,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2605,
+        "CharacterId": 92670,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2606,
+        "CharacterId": 92670,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2607,
+        "CharacterId": 92670,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2608,
+        "CharacterId": 92670,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2701,
+        "CharacterId": 813000,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2702,
+        "CharacterId": 813000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2703,
+        "CharacterId": 813000,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2704,
+        "CharacterId": 813000,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2705,
+        "CharacterId": 813000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2706,
+        "CharacterId": 813000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2707,
+        "CharacterId": 813000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2708,
+        "CharacterId": 813000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2801,
+        "CharacterId": 1000000,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2802,
+        "CharacterId": 1000000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2803,
+        "CharacterId": 1000000,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2804,
+        "CharacterId": 1000000,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2805,
+        "CharacterId": 1000000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2806,
+        "CharacterId": 1000000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2807,
+        "CharacterId": 1000000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2808,
+        "CharacterId": 1000000,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
+    },
+    {
+        "EventId": 2901,
+        "CharacterId": 1021004,
+        "Type": 1,
+        "Weight": 350,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 101,
+        "HappenReward": 102,
+        "ConditionList": [
+            101001,
+            102001,
+            107001
+        ],
+        "CompletedType": [
+            4
+        ]
+    },
+    {
+        "EventId": 2902,
+        "CharacterId": 1021004,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "TIRED",
+        "FinishReward": 201,
+        "HappenReward": 202,
+        "ConditionList": [
+            101002,
+            102002
+        ],
+        "CompletedType": [
+            2
+        ]
+    },
+    {
+        "EventId": 2903,
+        "CharacterId": 1021004,
+        "Type": 3,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 301,
+        "HappenReward": 302,
+        "ConditionList": [
+            101003,
+            102003
+        ],
+        "CompletedType": [
+            6
+        ]
+    },
+    {
+        "EventId": 2904,
+        "CharacterId": 1021004,
+        "Type": 4,
+        "Weight": 50,
+        "BehaviorId": "REWAWRD",
+        "FinishReward": 401,
+        "HappenReward": 402,
+        "ConditionList": [
+            101004,
+            102004,
+            107004
+        ],
+        "CompletedType": [
+            7
+        ]
+    },
+    {
+        "EventId": 2905,
+        "CharacterId": 1021004,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "ANNOY",
+        "FinishReward": 501,
+        "HappenReward": 502,
+        "ConditionList": [
+            101005,
+            102005
+        ],
+        "CompletedType": [
+            1
+        ]
+    },
+    {
+        "EventId": 2906,
+        "CharacterId": 1021004,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "BORING",
+        "FinishReward": 601,
+        "HappenReward": 602,
+        "ConditionList": [
+            101006,
+            102006
+        ],
+        "CompletedType": [
+            5
+        ]
+    },
+    {
+        "EventId": 2907,
+        "CharacterId": 1021004,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "LAZY",
+        "FinishReward": 701,
+        "HappenReward": 702,
+        "ConditionList": [
+            101007,
+            102007
+        ],
+        "CompletedType": [
+            3
+        ]
+    },
+    {
+        "EventId": 2908,
+        "CharacterId": 1021004,
+        "Type": 2,
+        "Weight": 10,
+        "BehaviorId": "WANTTOUCH",
+        "FinishReward": 801,
+        "HappenReward": 802,
+        "ConditionList": [
+            101008,
+            102008
+        ],
+        "CompletedType": [
+            8
+        ]
     }
 ]

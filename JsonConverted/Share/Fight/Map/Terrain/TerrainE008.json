@@ -1,7 +1,7 @@
 [
     {
         "Id": 300801010,
-        "Name": "Sceneice00102",
+        "Name": "Scene01201",
         "Info": 30080101,
         "BornPosition": [
             "PB2",
@@ -11,15 +11,21 @@
             "PB1"
         ],
         "LookPosition": [
-            "End"
+            "M307"
         ],
-        "DefaultObstacleArea": [],
-        "DefaultDynamicObject": []
+        "DefaultObstacleArea": [
+            "AW7",
+            "ZQ5"
+        ],
+        "DefaultDynamicObject": [
+            "Men2",
+            "AW7"
+        ]
     },
     {
         "Id": 300801020,
-        "Name": "Sceneice00104",
-        "Info": 30080204,
+        "Name": "Scene01201",
+        "Info": 30080102,
         "BornPosition": [
             "PB1",
             "PB1",
@@ -30,12 +36,18 @@
         "LookPosition": [
             "B101"
         ],
-        "DefaultObstacleArea": [],
-        "DefaultDynamicObject": []
+        "DefaultObstacleArea": [
+            "AW7",
+            "ZQ5"
+        ],
+        "DefaultDynamicObject": [
+            "Men2",
+            "AW7"
+        ]
     },
     {
         "Id": 300801030,
-        "Name": "Scene93101",
+        "Name": "Scene01201a",
         "Info": 30080103,
         "BornPosition": [
             "PB1",

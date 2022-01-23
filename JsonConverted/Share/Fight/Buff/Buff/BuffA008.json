@@ -1,0 +1,539 @@
+[
+    {
+        "Id": 110325,
+        "Delay": 0,
+        "Duration": 6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103250,
+        "Cover": 1102250,
+        "Effect": "FxR2KuluomuAttack21Debuff",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 110326,
+        "Delay": 0,
+        "Duration": 6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103260,
+        "Cover": "1102260|1102250",
+        "Effect": "FxR2KuluomuAttack21Debuff",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 110327,
+        "Delay": 0,
+        "Duration": 6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103270,
+        "Cover": "1102250|1102260|1102270",
+        "Effect": "FxR2KuluomuAttack21Debuff",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 110328,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103280,
+        "Magic": 110328000
+    },
+    {
+        "Id": 110337,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103370,
+        "Cover": 1102370,
+        "Magic": 110337000,
+        "Effect": "FxTongyongBati",
+        "EffectJoint": "HitCase",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110338,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103380,
+        "Cover": 1102370
+    },
+    {
+        "Id": 110339,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103390,
+        "Magic": 110339000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110340,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103400,
+        "Magic": 110340000
+    },
+    {
+        "Id": 110341,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103410|111|110|100|6",
+        "Cover": 1102410,
+        "Magic": 110341000,
+        "Effect": "FxR2KuluomuBeidongHudun",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 110342,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103420,
+        "Cover": 1102420,
+        "Effect": "FxR2KuluomuBeidongGuadianBip001RForearm",
+        "EffectJoint": "Bip001RForearm",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110344,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103440,
+        "Magic": 110344000
+    },
+    {
+        "Id": 110345,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103450,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110346,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103460,
+        "Cover": 1102420,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110347,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103470,
+        "Magic": 110347000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110348,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103480,
+        "Magic": 110348000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110349,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103490,
+        "Magic": 110349000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110351,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103510,
+        "Cover": 1000760,
+        "Effect": "FxR2KuluomuAttack51Buff",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 110352,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103520|3",
+        "Magic": 110352000
+    },
+    {
+        "Id": 110353,
+        "Delay": 0,
+        "Duration": 0.3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103530|3",
+        "Magic": 110353000
+    },
+    {
+        "Id": 110354,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103540,
+        "Magic": 110354000
+    },
+    {
+        "Id": 110356,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103560,
+        "Cover": 1102510
+    },
+    {
+        "Id": 110357,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103570,
+        "Magic": 110357000
+    },
+    {
+        "Id": 110358,
+        "Delay": 0,
+        "Duration": 0.3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103580,
+        "Magic": 110358000
+    },
+    {
+        "Id": 110359,
+        "Delay": 0,
+        "Duration": 0.3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103590,
+        "Magic": 110359000
+    },
+    {
+        "Id": 110361,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103610,
+        "Cover": "1102580|1102390"
+    },
+    {
+        "Id": 110363,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103630,
+        "Cover": "1102040|1102050|1102060|1102070|1102080|1102090|1102130|1102230|2000030|1102470|1102480|1102490|1102140",
+        "Mutex": "1102040|1102050|1102060|1102070|1102080|1102090|1102130|1102230|2000030|1102470|1102480|1102490|1102140",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110365,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103650,
+        "Cover": "1102580|1102590",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110366,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103660|1",
+        "Cover": 1102660,
+        "Magic": 110366000
+    },
+    {
+        "Id": 110368,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103680,
+        "Magic": 110368000
+    },
+    {
+        "Id": 110369,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103690,
+        "Cover": 1102590
+    },
+    {
+        "Id": 110370,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103700|401",
+        "Magic": 110370000
+    },
+    {
+        "Id": 110371,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103710|403",
+        "Magic": 110371000
+    },
+    {
+        "Id": 110372,
+        "Delay": 0,
+        "Duration": 0.25,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103720,
+        "Cover": "1102720|1102740",
+        "Magic": 110372000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110373,
+        "Delay": 0,
+        "Duration": 0.25,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103730,
+        "Cover": "1102730|1102740",
+        "Magic": 110373000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110374,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103740,
+        "Cover": "1102720|1102730",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110375,
+        "Delay": 0,
+        "Duration": 0.9,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103750,
+        "Cover": 1102750,
+        "Magic": 110375000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110376,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103760,
+        "Cover": 1102750,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110377,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103770,
+        "Cover": "1000330|1000890|5110010|5092010",
+        "Mutex": "1000330|1000890|5110010|5092010",
+        "Magic": 110377000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110381,
+        "Delay": 0,
+        "Duration": 6,
+        "EffectType": 202,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103810|202|200|5",
+        "Cover": 1102810,
+        "Magic": 110381000,
+        "Effect": "FxTongyongJianfang",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 110382,
+        "Delay": 0,
+        "Duration": 4.35,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103820|9|8",
+        "Mutex": "5|10|15|200",
+        "Magic": 110382000
+    },
+    {
+        "Id": 110383,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103830|3",
+        "Magic": 110383000
+    },
+    {
+        "Id": 110384,
+        "Delay": 0.3,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103840|3",
+        "Cover": 1102530,
+        "Magic": 110384000
+    },
+    {
+        "Id": 110385,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103850,
+        "Cover": "1102830|1102840|1102520|1102540"
+    },
+    {
+        "Id": 110386,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103860,
+        "Magic": 110386000
+    },
+    {
+        "Id": 110387,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103870,
+        "Magic": 110387000
+    },
+    {
+        "Id": 110388,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103880|102|100|6",
+        "Magic": 110388000
+    },
+    {
+        "Id": 110389,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103890|105|100|6",
+        "Magic": 110389000
+    },
+    {
+        "Id": 110390,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103900,
+        "Magic": 110390000
+    },
+    {
+        "Id": 110392,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103920,
+        "Magic": 110392000
+    },
+    {
+        "Id": 110393,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 202,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103930|202|200|5",
+        "Cover": 1102930,
+        "Magic": 110393000,
+        "Effect": "FxTongyongJianfang",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 110394,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103940,
+        "Magic": 110394000
+    },
+    {
+        "Id": 110395,
+        "Delay": 0,
+        "Duration": 1.2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103950,
+        "Magic": 110395000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 110396,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1103960|411",
+        "Magic": 110396000,
+        "Effect": "FxR2KuluomuPinzhiGuadianBip001RForearm",
+        "EffectJoint": "Bip001RForearm"
+    },
+    {
+        "Id": 110397,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1103970,
+        "TriggerOnAdd": 1
+    }
+]

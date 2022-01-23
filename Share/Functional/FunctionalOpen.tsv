@@ -35,6 +35,9 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 1001	Regular Shop	31	1	771000			1
 1002	Event Shop	37	1	771100			1
 1201	Dispatch	38	0	771200			1
+1901	Guild	38	0				1
+1902	Guild - Create	38	0				1
+1903	Guild - Join	38	0				1
 2001	Support	39	1	771300			1
 10101	Normal Story	40	0				1
 10102	Hidden Story	41	1	771400			1
@@ -43,6 +46,7 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 10202	Challenge - Lemegeton	35	0	771600			1
 10203	Challenge - Phantom Pain Cage	35	1	771700			1
 10204	Challenge - War Zone	43	1	771800			1
+10311	Challenge - Border Pact	44	1	774900			1
 10300	Event Info	44	0				1
 10301	Event Quest	44	0				1
 10302	Co-op	44	1	772000			1
@@ -52,6 +56,10 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 10306	Festival Stage	46	0	772250			1
 10307	Babel Tower	47	0	772280			1
 10308	Main Story	48	0	772260			1
+10309	Event Rerun	49	0	772260			1
+10310	Tower-Climbing Event	50	0	772290			1
+10312	Joint Warfare	51	0	8004			1
+10313	Phalanx	50	0	775000			1
 10401	Resource Mission	33	0	772400			1
 10402	Resource - N/A 1	34	0	772500			1
 10403	Resource - N/A 2	36	0	772600			1
@@ -92,7 +100,10 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 109501	Battle Exercise BE-2	96	1	9401			2
 109502	Battle Exercise BE-3	97	1	9402			2
 109503	Battle Exercise BE-4	98	1	9403			2
-2100	Collection	99	1	774600			1
+2100	Collection	99	1				1
 2101	Medal List	100	1	774600			1
-3000	Total Recharge	101	0				1
-4000	Straylight Terminal	102	0	30404			1
+2200	Codex System	101	1	774700			1
+3000	Total Recharge	102	0				1
+4000	Eden II	103	0	774800			0
+4001	Voting	104	1				1
+8001	Share Invite Code	105	0				1

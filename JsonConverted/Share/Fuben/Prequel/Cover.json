@@ -18,7 +18,8 @@
         "ChallengePrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab",
         "ChapterId": [
             1001001,
-            1001002
+            1001002,
+            1001003
         ]
     },
     {
@@ -134,7 +135,8 @@
         ],
         "ChallengePrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel07.prefab",
         "ChapterId": [
-            1007001
+            1007001,
+            1007002
         ]
     },
     {
@@ -171,6 +173,42 @@
         "ChallengePrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel09.prefab",
         "ChapterId": [
             1009001
+        ]
+    },
+    {
+        "CoverId": 1010,
+        "CoverName": "Sophia",
+        "Priority": 10,
+        "ChallengeStage": [
+            13011401
+        ],
+        "ChallengeConsumeItem": [
+            21
+        ],
+        "ChallengeConsumeCount": [
+            0
+        ],
+        "ChallengePrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel10.prefab",
+        "ChapterId": [
+            1010001
+        ]
+    },
+    {
+        "CoverId": 1011,
+        "CoverName": "Chrome",
+        "Priority": 11,
+        "ChallengeStage": [
+            13011501
+        ],
+        "ChallengeConsumeItem": [
+            21
+        ],
+        "ChallengeConsumeCount": [
+            0
+        ],
+        "ChallengePrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel11.prefab",
+        "ChapterId": [
+            1011001
         ]
     }
 ]

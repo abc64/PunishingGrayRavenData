@@ -8,6 +8,14 @@
         "ImmuneHitValue": 0
     },
     {
+        "Id": 101401081,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
         "Id": 101402031,
         "Type": 2,
         "Time": 1,
@@ -56,31 +64,7 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101404011,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 0,
-        "ImmuneHitValue": 0
-    },
-    {
         "Id": 101404021,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 0,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101404031,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 0,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101405021,
         "Type": 5,
         "Time": 1,
         "HoverTime": 0.3,
@@ -96,7 +80,7 @@
         "MoveTime": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 3,
-        "Acceleration": "-5"
+        "Acceleration": "-6"
     },
     {
         "Id": 101407021,
@@ -108,7 +92,7 @@
         "MoveTime": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 3,
-        "Acceleration": "-5"
+        "Acceleration": "-6"
     },
     {
         "Id": 101408021,
@@ -120,15 +104,18 @@
         "MoveTime": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 3,
-        "Acceleration": "-5"
+        "Acceleration": "-6"
     },
     {
         "Id": 101409051,
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
+        "Speed": 20,
+        "MoveTime": 0.25,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "Acceleration": "-80"
     },
     {
         "Id": 101409061,
@@ -148,7 +135,7 @@
     },
     {
         "Id": 101409081,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -172,78 +159,6 @@
     },
     {
         "Id": 101409111,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409121,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409131,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409141,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409151,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409161,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409171,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409181,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409191,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101409201,
         "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
@@ -252,7 +167,7 @@
     },
     {
         "Id": 101409241,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -260,7 +175,7 @@
     },
     {
         "Id": 101409251,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -276,7 +191,7 @@
     },
     {
         "Id": 101409271,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -284,7 +199,7 @@
     },
     {
         "Id": 101409281,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -292,7 +207,7 @@
     },
     {
         "Id": 101409291,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -315,12 +230,47 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101410051,
+        "Id": 101409321,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101409331,
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
         "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101409341,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101409351,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101410051,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 20,
+        "MoveTime": 0.25,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": "-80"
     },
     {
         "Id": 101410061,
@@ -348,7 +298,7 @@
     },
     {
         "Id": 101410091,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -364,7 +314,7 @@
     },
     {
         "Id": 101410111,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -380,7 +330,7 @@
     },
     {
         "Id": 101410131,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -396,7 +346,7 @@
     },
     {
         "Id": 101410151,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -404,7 +354,7 @@
     },
     {
         "Id": 101410161,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -412,7 +362,7 @@
     },
     {
         "Id": 101410171,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -420,7 +370,7 @@
     },
     {
         "Id": 101410181,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -443,39 +393,7 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101410241,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101410251,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101410261,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101410271,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101410281,
+        "Id": 101410211,
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
@@ -483,24 +401,16 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101410291,
-        "Type": 1,
+        "Id": 101410221,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101410301,
-        "Type": 1,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101410311,
-        "Type": 1,
+        "Id": 101410231,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -511,8 +421,11 @@
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
+        "Speed": 20,
+        "MoveTime": 0.25,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "Acceleration": "-80"
     },
     {
         "Id": 101411061,
@@ -540,7 +453,7 @@
     },
     {
         "Id": 101411091,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -556,7 +469,7 @@
     },
     {
         "Id": 101411111,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -572,7 +485,7 @@
     },
     {
         "Id": 101411131,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -588,7 +501,7 @@
     },
     {
         "Id": 101411151,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -596,7 +509,7 @@
     },
     {
         "Id": 101411161,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -604,7 +517,7 @@
     },
     {
         "Id": 101411171,
-        "Type": 1,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -612,7 +525,7 @@
     },
     {
         "Id": 101411181,
-        "Type": 2,
+        "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -635,39 +548,7 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101411241,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101411251,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101411261,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101411271,
-        "Type": 2,
-        "Time": 1,
-        "HoverTime": 0.3,
-        "OriginType": 1,
-        "ImmuneHitValue": 0
-    },
-    {
-        "Id": 101411281,
+        "Id": 101411211,
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
@@ -675,24 +556,24 @@
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101411291,
-        "Type": 1,
+        "Id": 101411221,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101411301,
-        "Type": 1,
+        "Id": 101411231,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
         "ImmuneHitValue": 0
     },
     {
-        "Id": 101411311,
-        "Type": 1,
+        "Id": 101412011,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -707,8 +588,24 @@
         "ImmuneHitValue": 0
     },
     {
+        "Id": 101413011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
         "Id": 101413021,
         "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101414011,
+        "Type": 2,
         "Time": 1,
         "HoverTime": 0.3,
         "OriginType": 1,
@@ -755,7 +652,76 @@
         "ImmuneHitValue": 0
     },
     {
+        "Id": 101418031,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418041,
+        "Type": 3,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "HitFlyHeight1": 0.9,
+        "HitFlyHeight2": 0.25,
+        "HitFlyTime1": 0.2,
+        "HitFlyTime2": 0.6,
+        "HitFlyTime3": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 3
+    },
+    {
         "Id": 101418051,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418061,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418071,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418081,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418091,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418101,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 101418111,
         "Type": 1,
         "Time": 1,
         "HoverTime": 0.3,
@@ -787,7 +753,19 @@
         "Acceleration": "-5"
     },
     {
-        "Id": 101425011,
+        "Id": 101425021,
+        "Type": 4,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "ImmuneHitTime": 2,
+        "Speed": 15,
+        "MoveTime": 0.25,
+        "OriginType": 1,
+        "ImmuneHitValue": 3,
+        "Acceleration": "-6"
+    },
+    {
+        "Id": 101428021,
         "Type": 4,
         "Time": 1,
         "HoverTime": 0.3,
@@ -797,5 +775,560 @@
         "OriginType": 1,
         "ImmuneHitValue": 3,
         "Acceleration": "-5"
+    },
+    {
+        "Id": 110201011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 4,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110202011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 3,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110202021,
+        "Type": 5,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 4,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110203011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110203041,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110203051,
+        "Type": 5,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1
+    },
+    {
+        "Id": 110204011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.7,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110204021,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.7,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110204031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.7,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110204041,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.7,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110204051,
+        "Type": 6,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 10,
+        "MoveTime": 0.15,
+        "OriginType": 1,
+        "Acceleration": "-50"
+    },
+    {
+        "Id": 110205011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.5,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110205021,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110205031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.5,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110206011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.5,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110206021,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110206031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.5,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110207011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.3,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110207021,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110207031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 0.3,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110208011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110209011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110210011,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110211011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110211021,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110211031,
+        "Type": 6,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 5,
+        "MoveTime": 0.15,
+        "OriginType": 1,
+        "Acceleration": "-25"
+    },
+    {
+        "Id": 110211081,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 18,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110211091,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 18,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110211101,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 3,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110212011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110212021,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110212031,
+        "Type": 6,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 5,
+        "MoveTime": 0.15,
+        "OriginType": 1,
+        "Acceleration": "-25"
+    },
+    {
+        "Id": 110212081,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 18,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110212091,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 18,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110212101,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 3,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110213011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110213021,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110213031,
+        "Type": 6,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 5,
+        "MoveTime": 0.15,
+        "OriginType": 1,
+        "Acceleration": "-25"
+    },
+    {
+        "Id": 110213081,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110213091,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110213101,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110214011,
+        "Type": 6,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1
+    },
+    {
+        "Id": 110214031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110218021,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110218031,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110223011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110223021,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110223031,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110223081,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110223091,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110223101,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 9,
+        "MoveTime": 0.1,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
+    },
+    {
+        "Id": 110224251,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110225251,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110225261,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110226251,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110226261,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110227251,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110227261,
+        "Type": 1,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
+        "Id": 110229011,
+        "Type": 2,
+        "Time": 1,
+        "HoverTime": 0.3,
+        "Speed": 4,
+        "MoveTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0,
+        "Acceleration": 0
     }
 ]

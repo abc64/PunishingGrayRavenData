@@ -130,7 +130,7 @@
     {
         "Id": 812018,
         "Delay": 0,
-        "Duration": 4,
+        "Duration": 3.7,
         "Limit": 99,
         "Cd": 0,
         "Kind": "8120180|8150000",
@@ -944,5 +944,38 @@
         "Cd": 0,
         "Kind": 8141120,
         "Magic": 814112000
+    },
+    {
+        "Id": 814113,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8141130,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 814113000
+    },
+    {
+        "Id": 814114,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8141140,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 814114000
+    },
+    {
+        "Id": 814115,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8141150,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 814115000
     }
 ]

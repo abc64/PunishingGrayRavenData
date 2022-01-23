@@ -166,6 +166,14 @@
         "Magic": 800019000
     },
     {
+        "Id": 800027,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000270
+    },
+    {
         "Id": 800031,
         "Delay": 0,
         "Duration": "-1",
@@ -191,6 +199,76 @@
         "Cd": 0,
         "Kind": 8000330,
         "Cover": "8000310|8000320"
+    },
+    {
+        "Id": 800034,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8000340|8000493",
+        "Magic": 800034000
+    },
+    {
+        "Id": 800035,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "8000350|8000493",
+        "Magic": 800035000
+    },
+    {
+        "Id": 800036,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000360,
+        "Cover": 8000080,
+        "Mutex": 8000080
+    },
+    {
+        "Id": 800037,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000370,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 800037000
+    },
+    {
+        "Id": 800038,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000380,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 800038000
+    },
+    {
+        "Id": 800039,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000390,
+        "Cover": 3,
+        "Mutex": 3,
+        "Magic": 800039000
+    },
+    {
+        "Id": 800040,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 8000400,
+        "Magic": 800040000
     },
     {
         "Id": 800041,
@@ -282,7 +360,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 8000500,
-        "Cover": "8000490|8000410"
+        "Cover": "8000490|8000410|8000340|8000350"
     },
     {
         "Id": 800051,
@@ -300,6 +378,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 8000520,
+        "Cover": 8000530,
         "Magic": 800052000,
         "Effect": "FxQte",
         "EffectJoint": "Root"
@@ -312,7 +391,6 @@
         "Cd": 0,
         "Kind": 8000530,
         "Cover": 8000520,
-        "Mutex": 8000520,
         "Effect": "FxQte",
         "EffectJoint": "Root"
     },
@@ -573,5 +651,14 @@
         "Kind": "8000980|8000983",
         "Effect": "FxJindutiao60s",
         "EffectJoint": "Root"
+    },
+    {
+        "Id": 800099,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 8000990,
+        "Magic": 800099000
     }
 ]

@@ -65,6 +65,8 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101114			0	1.7			1	0	1011140				FxR3LiangTuowei	WeaponCase1			
 101116			0	1.7			1	0	1011160			101116000	FxTongyongBati	HitCase			
 101117			0	0			1	0	1011170	1011160							
+101118			0	2			3	0	1011180			101118000					1
+101119			0	0.05			1	0	1011190								1
 101129			0	0.6			1	0	1011290								
 101136			0	4			1	0	1011360	1011360			FxR3LiangBiaoji	HitCase			
 101137			0	6			1	0	1011370	1011360|1011370			FxR3LiangBiaoji	HitCase			
@@ -76,9 +78,9 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101144			0	5	21		1	0	1011440|21|5	1011440		101144000	FxTongyongGandian	HitCase			
 101148			0	2	8		1	0	1011480|8		10|15	101148000	FxTongyongBati	HitCase			
 101149			0	0			1	0	1011490	1011480							
-101150			0	3			1	0	1011500			101150000					
+101150			0	2.6			1	0	1011500			101150000					
 101151			0	-1			1	0	1011510				FxR3LiangAttack51DandaoYujing				
-101153			0	3			1	0	1011530			101153000					
+101153			0	3			1	0	1011530	1011530		101153000					
 101154			0	3			1	0	1011540			101154000					
 101156			0	1.5			1	0	1011560|402			101156000					1
 101157			0	7			1	0	1011570			101157000					
@@ -97,13 +99,12 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101171			0	2			1	0	1011710	1011710			FxR3LiangCanying	Root			
 101172			0	0			1	0	1011720	1011710							
 101173			0	6.3			1	0	1011730								
-101174			0	5			1	0	1011740			101174000					1
-101175			0	5			1	0	1011750	1011740		101175000					1
-101176			0	5			1	0	1011760	1011750|1011760		101176000					1
+101174			0	5			3	0	1011740			101174000					
+101175			0	0.1			1	0	1011750			101175000					
+101176			0	0			1	0	1011760								
 101177			0	10			1	0	1011770			101177000					
 101178			0	10			1	0	1011780			101178000					
 101179			0	-1			1	0	1011790|411			101179000	FxR3LiangPinzhiGuadianBip001LForearm	Bip001LForearm			
-101180			0	1.5			1	0	1011800				FxTongyongGuanghuanKuosan	Root			
 101181			0	-1			1	0	1011810			101181000					
 101182			0	-1			1	0	1011820				FxR3LiangAttack51DandaoYujingJiantou				
 101190			0	-1			1	0	1011900			101190000					
@@ -149,10 +150,9 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 100370			0	10			1	0	1003700			100370000					
 100371			0	10			1	0	1003710			100371000					
 100372			0	-1			1	0	1003720|411			100372000	FxR1LifuPinzhiGuadianBip001LForearm	Bip001LForearm			
-100373			0	1.5			1	0	1003730				FxTongyongGuanghuanKuosan	Root			
 100390			0	-1			1	0	1003900			100390000					
 100392			0	-1			1	0	1003920			100392000					
-100393			0	0.3			1	0	1003930	1003930		100393000					
+100393			0	0.3			1	0	1003930			100393000					
 100394			0	-1			1	0	1003940			100394000					
 100395			0	8			1	0	1003950	1003950		100395000					
 100396			0	5			1	0	1003960			100396000					1
@@ -182,7 +182,7 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101207			0	0			1	0	1012070	1012060							
 101208			0	0.3			1	0	1012080			101208000					
 101209			0	0			1	0	1012090	1012080							
-101213			0	1.2	8		1	0	1012130|8		10|15	101213000	FxTongyongBati	HitCase			
+101213			0	1.7	8		1	0	1012130|8		10|15	101213000	FxTongyongBati	HitCase			
 101214			0	0			1	0	1012140	1012130							
 101226			0	1			1	0	1012260			101226000					
 101227			0	1			1	0	1012270			101227000					
@@ -210,17 +210,17 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101268			0	5			1	0	1012680			101268000					1
 101269			0	4.15			1	0	1012690|401			101269000					1
 101270			0	-1			1	0	1012700	1012700|1012710|1012720|1012730|1012740|1012750|1012760|1012770		101270000					
-101271			0	0			1	0	1012710	1012700							
-101272			0	1			1	0	1012720	1012720		101272000					
+101271			0	0			1	0	1012710	1012700							1
+101272			0	1			1	0	1012720	1012720		101272000					1
 101273			0	0.5			1	0	1012730	1012730		101273000					
-101274			0	1			1	0	1012740	1012720			FxR2LuxiyaWuqiChuxian01	SwordCase1			
-101275			0	1			1	0	1012750				FxR2LuxiyaWuqiChuxian02	SwordCase2			
-101276			0	1			1	0	1012760				FxR2LuxiyaWuqiChuxian03	SwordCase3			
-101277			0	1			1	0	1012770				FxR2LuxiyaWuqiChuxian04	SwordCase4			
-101278			0	15			1	0	1012780	1012780			FxR2LuxiyaAttack51WuqiBuff	SwordCase1			
-101279			0	15			1	0	1012790	1012790			FxR2LuxiyaAttack51WuqiBuff	SwordCase2			
-101280			0	15			1	0	1012800	1012800			FxR2LuxiyaAttack51WuqiBuff	SwordCase3			
-101281			0	15			1	0	1012810	1012810			FxR2LuxiyaAttack51WuqiBuff	SwordCase4			
+101274			0	1			1	0	1012740	1012720			FxR2LuxiyaWuqiChuxian01	SwordCase1			1
+101275			0	1			1	0	1012750				FxR2LuxiyaWuqiChuxian02	SwordCase2			1
+101276			0	1			1	0	1012760				FxR2LuxiyaWuqiChuxian03	SwordCase3			1
+101277			0	1			1	0	1012770				FxR2LuxiyaWuqiChuxian04	SwordCase4			1
+101278			0	15			1	0	1012780	1012780			FxR2LuxiyaAttack51WuqiBuff	SwordCase1			1
+101279			0	15			1	0	1012790	1012790			FxR2LuxiyaAttack51WuqiBuff	SwordCase2			1
+101280			0	15			1	0	1012800	1012800			FxR2LuxiyaAttack51WuqiBuff	SwordCase3			1
+101281			0	15			1	0	1012810	1012810			FxR2LuxiyaAttack51WuqiBuff	SwordCase4			1
 101283			0	0			1	0	1012830			101283000					1
 101284			0	0			1	0	1012840			101284000					1
 101285			0	0			1	0	1012850			101285000					1
@@ -231,4 +231,4 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101294			0	-1			1	0	1012940			101294000					
 101295			0	10			1	0	1012950			101295000					
 101296			0	-1			1	0	1012960|411			101296000	FxR2LuxiyaPinzhiGuadianBip001RUpperArm	Bip001RUpperArm			
-101297			0	1.5			1	0	1012970				FxTongyongGuanghuanKuosan	Root			
+101299			0	0.5			1	0	1012990|1	1012990		101299000					

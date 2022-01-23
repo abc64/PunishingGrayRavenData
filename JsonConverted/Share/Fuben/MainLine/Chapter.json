@@ -25,8 +25,7 @@
             1001003,
             1001004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor01.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor01.prefab"
     },
     {
         "ChapterId": 1002,
@@ -54,8 +53,7 @@
             1002003,
             1002004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor02.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor02.prefab"
     },
     {
         "ChapterId": 1003,
@@ -83,8 +81,7 @@
             1003003,
             1003004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor03.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor03.prefab"
     },
     {
         "ChapterId": 1004,
@@ -112,8 +109,7 @@
             1004003,
             1004004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor04.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor04.prefab"
     },
     {
         "ChapterId": 1005,
@@ -141,8 +137,7 @@
             1005003,
             1005004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor05.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor05.prefab"
     },
     {
         "ChapterId": 1006,
@@ -170,8 +165,7 @@
             1006003,
             1006004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor06.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor06.prefab"
     },
     {
         "ChapterId": 1007,
@@ -199,8 +193,7 @@
             1007003,
             1007004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor07.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor07.prefab"
     },
     {
         "ChapterId": 1008,
@@ -228,14 +221,13 @@
             1008003,
             1008004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor08.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor08.prefab"
     },
     {
         "ChapterId": 1009,
         "ChapterName": "Chapter 9",
         "ChapterEn": "Fallen Star",
-        "Bg": "UiFubenMainMapTab.ChapterBg07A",
+        "Bg": "UiFubenMainMapTab.ChapterBg09A",
         "Difficult": 1,
         "OrderId": 9,
         "StageId": [
@@ -258,8 +250,107 @@
             1009003,
             1009004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor09.prefab",
-        "ActivityCondition": 30406
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor09.prefab"
+    },
+    {
+        "ChapterId": 1010,
+        "ChapterName": "Chapter 10",
+        "ChapterEn": "Eternal Engine",
+        "Bg": "UiFubenMainMapTab.ChapterBg10A",
+        "Difficult": 1,
+        "OrderId": 10,
+        "StageId": [
+            10100101,
+            10100102,
+            10100103,
+            10100104,
+            10100201,
+            10100202,
+            10100203,
+            10100204,
+            10100301,
+            10100302,
+            10100303,
+            10100304
+        ],
+        "TreasureId": [
+            1010002,
+            1010003,
+            1010004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor10.prefab"
+    },
+    {
+        "ChapterId": 1011,
+        "ChapterName": "Chapter 11",
+        "ChapterEn": "Nona Ouroboros",
+        "Bg": "UiFubenMainMapTab.ChapterBg10A",
+        "Difficult": 1,
+        "OrderId": 11,
+        "StageId": [
+            10110101,
+            10110102,
+            10110103,
+            10110104,
+            10110105,
+            10110106,
+            10110107,
+            10110108,
+            10110109,
+            10110112,
+            10110113,
+            10110111
+        ],
+        "TreasureId": [
+            1011002,
+            1011003,
+            1011004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor11.prefab"
+    },
+    {
+        "ChapterId": 1012,
+        "ChapterName": "Chapter 12",
+        "ChapterEn": "Kowloong Metropolis",
+        "Bg": "UiFubenMainMapTab.ChapterBg10A",
+        "Difficult": 1,
+        "OrderId": 12,
+        "StageId": [
+            10120101,
+            10120102,
+            10120103,
+            10120104,
+            10120105,
+            10120106,
+            10120107,
+            10120108,
+            10120109,
+            10120110,
+            10120111,
+            10120112,
+            10120113,
+            10120114,
+            10120115,
+            10120116,
+            10120117,
+            10120118,
+            10120119,
+            10120120,
+            10120121,
+            10120122,
+            10120123,
+            10120124,
+            10120125,
+            10120126
+        ],
+        "TreasureId": [
+            1012002,
+            1012003,
+            1012004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor12Ex.prefab",
+        "ActivityCondition": 30406,
+        "ExploreGroupId": 1
     },
     {
         "ChapterId": 1101,
@@ -281,8 +372,7 @@
             1101003,
             1101004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard01.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard01.prefab"
     },
     {
         "ChapterId": 1102,
@@ -304,8 +394,7 @@
             1102003,
             1102004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard02.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard02.prefab"
     },
     {
         "ChapterId": 1103,
@@ -327,8 +416,7 @@
             1103003,
             1103004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard03.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard03.prefab"
     },
     {
         "ChapterId": 1104,
@@ -350,8 +438,7 @@
             1104003,
             1104004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard04.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard04.prefab"
     },
     {
         "ChapterId": 1105,
@@ -373,8 +460,7 @@
             1105003,
             1105004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard05.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard05.prefab"
     },
     {
         "ChapterId": 1106,
@@ -396,8 +482,7 @@
             1106003,
             1106004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard06.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard06.prefab"
     },
     {
         "ChapterId": 1107,
@@ -419,8 +504,7 @@
             1107003,
             1107004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard07.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard07.prefab"
     },
     {
         "ChapterId": 1108,
@@ -442,14 +526,13 @@
             1108003,
             1108004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard08.prefab",
-        "ActivityCondition": 30405
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard08.prefab"
     },
     {
         "ChapterId": 1109,
         "ChapterName": "Chapter 9",
         "ChapterEn": "Fallen Star",
-        "Bg": "UiFubenMainMapTab.ChapterBg07B",
+        "Bg": "UiFubenMainMapTab.ChapterBg09B",
         "Difficult": 2,
         "OrderId": 9,
         "StageId": [
@@ -462,7 +545,75 @@
             1109003,
             1109004
         ],
-        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard09.prefab",
-        "ActivityCondition": 30406
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard09.prefab"
+    },
+    {
+        "ChapterId": 1110,
+        "ChapterName": "Chapter 10",
+        "ChapterEn": "Eternal Engine",
+        "Bg": "UiFubenMainMapTab.ChapterBg10B",
+        "Difficult": 2,
+        "OrderId": 10,
+        "StageId": [
+            11100101,
+            11100102,
+            11100103,
+            11100104,
+            11100105,
+            11100106
+        ],
+        "TreasureId": [
+            1110002,
+            1110003,
+            1110004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard10.prefab"
+    },
+    {
+        "ChapterId": 1111,
+        "ChapterName": "Chapter 11",
+        "ChapterEn": "Nona Ouroboros",
+        "Bg": "UiFubenMainMapTab.ChapterBg10B",
+        "Difficult": 2,
+        "OrderId": 11,
+        "StageId": [
+            11110100,
+            11110101,
+            11110102,
+            11110105,
+            11110103,
+            11110104
+        ],
+        "TreasureId": [
+            1111002,
+            1111003,
+            1111004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard11.prefab"
+    },
+    {
+        "ChapterId": 1112,
+        "ChapterName": "Chapter 12",
+        "ChapterEn": "Kowloong Metropolis",
+        "Bg": "UiFubenMainMapTab.ChapterBg10B",
+        "Difficult": 2,
+        "OrderId": 12,
+        "StageId": [
+            11120101,
+            11120102,
+            11120103,
+            11120104,
+            11120105,
+            11120106,
+            11120107
+        ],
+        "TreasureId": [
+            1112002,
+            1112003,
+            1112004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard12Ex.prefab",
+        "ActivityCondition": 100601,
+        "ExploreGroupId": 2
     }
 ]

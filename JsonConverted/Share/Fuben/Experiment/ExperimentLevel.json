@@ -740,5 +740,68 @@
         "SingStageId": 30030213,
         "SingleDescription": "No Stamina cost\\nDifficulty: 8000",
         "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma3.png"
+    },
+    {
+        "Id": 46,
+        "GroupID": 14,
+        "Name": "Rosetta",
+        "RecommendLevel": 60,
+        "Order": 1040,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma1.png",
+        "MultStageId": 30030207,
+        "MultDescription": "No Stamina cost\\nDifficulty: 5000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma1.png"
+    },
+    {
+        "Id": 47,
+        "GroupID": 14,
+        "Name": "Nightmare Rosetta",
+        "RecommendLevel": 80,
+        "Order": 1041,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma2.png",
+        "MultStageId": 30030208,
+        "MultDescription": "No Stamina cost\\nDifficulty: 6500",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma2.png"
+    },
+    {
+        "Id": 48,
+        "GroupID": 14,
+        "Name": "Terror Rosetta",
+        "RecommendLevel": 80,
+        "Order": 1042,
+        "Type": 2,
+        "ConditionId": [
+            30499
+        ],
+        "ShowPass": 1,
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenrenma3.png",
+        "MultStageId": 30030209,
+        "MultDescription": "No Stamina cost\\nDifficulty: 8000",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenrenma3.png"
+    },
+    {
+        "Id": 49,
+        "GroupID": 15,
+        "Name": "Motorcycle Racing",
+        "RecommendLevel": 1,
+        "Order": 103,
+        "Type": 2,
+        "ConditionId": [],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenmotor1.png",
+        "TrialID": 1,
+        "TrialStatus": 2,
+        "MultStageId": 30030902,
+        "MultDescription": "No Stamina cost\\nCo-op racing mode",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenmotor001.png"
     }
 ]

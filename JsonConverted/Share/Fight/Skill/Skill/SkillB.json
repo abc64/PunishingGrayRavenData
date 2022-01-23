@@ -2,9 +2,9 @@
     {
         "Id": 903901,
         "Name": "毒龙钻戳刺",
-        "CastTime": 1.35,
+        "CastTime": 3,
         "AfterTime": 0,
-        "Animation": "Attack01",
+        "Animation": "Attack18",
         "DistNoTarget": 10,
         "SkillMoveType": 0,
         "SkillFaceType": 4
@@ -12,9 +12,9 @@
     {
         "Id": 903902,
         "Name": "毒龙钻横扫",
-        "CastTime": 1.35,
+        "CastTime": 3.15,
         "AfterTime": 0,
-        "Animation": "Attack02",
+        "Animation": "Attack19",
         "DistNoTarget": 10,
         "SkillMoveType": 0,
         "SkillFaceType": 4
@@ -80,6 +80,26 @@
         "SkillFaceType": 0
     },
     {
+        "Id": 903909,
+        "Name": "毒龙钻戳刺",
+        "CastTime": 1.3,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 903910,
+        "Name": "毒龙钻横扫",
+        "CastTime": 1.3,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 4
+    },
+    {
         "Id": 821301,
         "Name": "电球召唤物大角度",
         "CastTime": 2.35,
@@ -141,7 +161,7 @@
     },
     {
         "Id": 821502,
-        "Name": "エネルギー砲",
+        "Name": "能量炮",
         "CastTime": 1.65,
         "AfterTime": 0,
         "Animation": "Attack02",
@@ -151,7 +171,7 @@
     },
     {
         "Id": 821503,
-        "Name": "スキャターショット",
+        "Name": "急速散弹",
         "CastTime": 3,
         "AfterTime": 0,
         "Animation": "Attack03",

@@ -2,10 +2,10 @@
     {
         "Id": 900001,
         "Delay": 0,
-        "Duration": 60,
-        "Limit": "-1",
+        "Duration": 0,
+        "Limit": 1,
         "Cd": 0,
-        "Kind": "9000010|9000013"
+        "Kind": 9000010
     },
     {
         "Id": 900002,
@@ -2191,79 +2191,64 @@
         "EffectJoint": "HitCase"
     },
     {
-        "Id": 821230,
-        "Delay": 0,
-        "Duration": 0,
-        "Limit": 99,
-        "Cd": 0,
-        "Kind": 8212300,
-        "Magic": 821230000
-    },
-    {
-        "Id": 821231,
-        "Delay": 0,
-        "Duration": 0,
-        "Limit": 99,
-        "Cd": 0,
-        "Kind": 8212310,
-        "Magic": 821231000
-    },
-    {
         "Id": 821232,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": "-1",
         "Limit": 99,
         "Cd": 0,
         "Kind": 8212320,
-        "Magic": 821232000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone004"
     },
     {
         "Id": 821233,
         "Delay": 0,
-        "Duration": 5,
-        "Limit": 1,
+        "Duration": "-1",
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212330,
-        "Cover": 8212330,
-        "Magic": 821233000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bip001 L Forearm"
     },
     {
         "Id": 821234,
         "Delay": 0,
-        "Duration": 5,
-        "Limit": 1,
+        "Duration": "-1",
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212340,
-        "Cover": 8212340,
-        "Magic": 821234000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bip001 L UpperArm"
     },
     {
         "Id": 821235,
         "Delay": 0,
-        "Duration": 5,
-        "Limit": 1,
+        "Duration": "-1",
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212350,
-        "Cover": 8212350,
-        "Magic": 821235000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone005"
     },
     {
         "Id": 821236,
         "Delay": 0,
-        "Duration": 0,
-        "Limit": 1,
+        "Duration": "-1",
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212360,
-        "Magic": 821236000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone026"
     },
     {
         "Id": 821237,
         "Delay": 0,
-        "Duration": 0,
-        "Limit": 1,
+        "Duration": "-1",
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212370,
-        "Magic": 821237000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone027"
     },
     {
         "Id": 821238,
@@ -2292,59 +2277,64 @@
         "Magic": 821240000
     },
     {
-        "Id": 821241,
-        "Delay": 0,
-        "Duration": 0.05,
-        "Limit": "-1",
-        "Cd": 0,
-        "Kind": 8212410,
-        "Magic": 821241000
-    },
-    {
-        "Id": 821242,
-        "Delay": 0,
-        "Duration": "-1",
-        "Limit": "-1",
-        "Cd": 0,
-        "Kind": 8212420,
-        "Magic": 821242000
-    },
-    {
         "Id": 821243,
         "Delay": 0,
-        "Duration": 0.05,
-        "Limit": "-1",
+        "Duration": 3,
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212430,
-        "Magic": 821243000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone001"
     },
     {
         "Id": 821244,
         "Delay": 0,
-        "Duration": "-1",
-        "Limit": "-1",
+        "Duration": 3,
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212440,
-        "Cover": 13,
-        "Mutex": 13
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone024"
     },
     {
         "Id": 821245,
         "Delay": 0,
-        "Duration": 5,
-        "Limit": "-1",
+        "Duration": 3,
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212450,
-        "Magic": 821245000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone023"
+    },
+    {
+        "Id": 821246,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212460,
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bone002"
+    },
+    {
+        "Id": 821247,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 8212470,
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bip001 R UpperArm"
     },
     {
         "Id": 821248,
         "Delay": 0,
-        "Duration": 0,
-        "Limit": 1,
+        "Duration": 3,
+        "Limit": 99,
         "Cd": 0,
         "Kind": 8212480,
-        "Magic": 821248000
+        "Effect": "FxJianZuBaoZha",
+        "EffectJoint": "Bip001 R Forearm"
     },
     {
         "Id": 821249,
@@ -2358,11 +2348,14 @@
     {
         "Id": 821250,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": 15,
         "Limit": 1,
         "Cd": 0,
         "Kind": 8212500,
-        "Magic": 821250000
+        "Magic": 821250000,
+        "Effect": "FxTongyongBingdong",
+        "EffectJoint": "HitCase",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 821251,
@@ -2370,33 +2363,34 @@
         "Duration": 0,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 8212510
+        "Kind": 8212510,
+        "Magic": 821251000
     },
     {
         "Id": 821252,
         "Delay": 0,
-        "Duration": "-1",
+        "Duration": 30,
         "Limit": 1,
         "Cd": 0,
         "Kind": 8212520,
-        "Cover": "8210900|8211110|8211300",
-        "Mutex": "8210900|8211110|8211300"
+        "Magic": 821252000
     },
     {
         "Id": 821253,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": 30,
         "Limit": 1,
         "Cd": 0,
         "Kind": 8212530,
-        "Cover": 8212520,
-        "Mutex": 8212520
+        "Magic": 821253000,
+        "Effect": "FxTongyongBati",
+        "EffectJoint": "Root"
     },
     {
         "Id": 821254,
         "Delay": 0,
-        "Duration": 20,
-        "Limit": 3,
+        "Duration": "-1",
+        "Limit": 1,
         "Cd": 0,
         "Kind": 8212540,
         "Magic": 821254000
@@ -2404,8 +2398,8 @@
     {
         "Id": 821255,
         "Delay": 0,
-        "Duration": 20,
-        "Limit": 3,
+        "Duration": "-1",
+        "Limit": 1,
         "Cd": 0,
         "Kind": 8212550,
         "Magic": 821255000
@@ -2462,24 +2456,6 @@
         "Mutex": 8211490,
         "Effect": "FxMb1RobotarmorMd030001AttackBuffYExit",
         "EffectJoint": "CatRleg2"
-    },
-    {
-        "Id": 821269,
-        "Delay": 0,
-        "Duration": 0.1,
-        "Limit": 99,
-        "Cd": 0,
-        "Kind": 8212690,
-        "Magic": 821269000
-    },
-    {
-        "Id": 821270,
-        "Delay": 0,
-        "Duration": 0.1,
-        "Limit": 3,
-        "Cd": 0,
-        "Kind": 8212700,
-        "Magic": 821270000
     },
     {
         "Id": 821301,

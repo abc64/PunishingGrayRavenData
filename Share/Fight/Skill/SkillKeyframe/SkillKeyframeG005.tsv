@@ -7,33 +7,165 @@ Id	Key[1]	Key[2]	Key[3]	Key[4]	Key[5]	Key[6]	Key[7]	Key[8]	Key[9]	Key[10]	Key[11
 998202	9|Cast|99820201	30|Cast|99820202																																																																														
 998203	30|Cast|99820301	37|Cast|99820302	47|Cast|99820303																																																																													
 998204	1|Cast|99820401																																																																															
-998301	15|Cast|99830101	0|Turn|120|0.6|1	1|Effect|FxMb1OrphanMd030001Attack01||1																																																																													
+998301	15|Cast|99830101	0|Turn|120|0.6|1	1|Effect|FxMb1OrphanMd030001Attack01||1|																																																																													
 998302	11|Cast|99830201	0|Turn|1200|0.5|1																																																																														
 998303																																																																																
 998304																																																																																
-815201	15|Cast|81520101	1|Effect|FxMb1OrphanMd030001Attack0101||1	12|Turn|160|0.6|1	39|Cast|81520106	45|Cast|81520108																																																																											
-815202	35|Cast|81520201	5|Cast|81520202	35|Magic|815227|0	35|Effect|FxMb1OrphanMd030002Attack02||0	22|Effect|FxYubei02|Bone020|1																																																																											
-815203	0|Cast|81520301	20|Magic|815217|0	0|Magic|730018|0	18|Effect|FxMb1OrphanMd030002Attack03|1|	0|Magic|700027|0	0|Magic|710076|0	0|Magic|700230|0	40|Cast|81520308																																																																								
-815204	5|Cast|81520401	20|Magic|815218|0	11|Magic|730020|0	5|Effect|FxMb1OrphanMd030002Attack04Dilie|1|	40|Magic|700031|0	20|Magic|710077|0	20|Magic|700249|0	2|Magic|700271|0	2|Magic|700021|0																																																																							
-815205	70|Cast|81520501	30|Effect|FxMe1BioMd004010Attack03||1	47|Cast|81520504	70|Magic|815224|0																																																																												
-815206	0|Magic|815211|0	2|Turn|35|1.75|1	0|Magic|700027|0	0|Effect|FxYubei02|Bone020|																																																																												
+815201	15|Cast|81520101	1|Effect|FxMb1OrphanMd030001Attack0101||1|	12|Turn|160|0.6|1	39|Cast|81520106	45|Cast|81520108																																																																											
+815202	35|Cast|81520201	5|Cast|81520202	35|Magic|815227|1	35|Effect|FxMb1OrphanMd030002Attack02||0|	22|Effect|FxYubei02|Bone020|1|																																																																											
+815203	0|Cast|81520301	20|Magic|815217|0	0|Magic|730018|0	18|Effect|FxMb1OrphanMd030002Attack03|1||	0|Magic|700027|0	0|Magic|710076|0	0|Magic|700230|0	40|Cast|81520308																																																																								
+815204	5|Cast|81520401	20|Magic|815218|0	11|Magic|730020|0	5|Effect|FxMb1OrphanMd030002Attack04Dilie|1||	40|Magic|700031|0	20|Magic|710077|0	20|Magic|700249|0	2|Magic|700271|0	2|Magic|700021|0																																																																							
+815205	70|Cast|81520501	30|Effect|FxMe1BioMd004010Attack03||1|	47|Cast|81520504	70|Magic|815224|1																																																																												
+815206	0|Magic|815211|0	2|Turn|35|1.75|1	0|Magic|700027|0	0|Effect|FxYubei02|Bone020||																																																																												
 815207	0|Cast|81520701	0|Magic|815214|0	0|Move|10|10|0	0|Magic|815215|0	0|Turn|45|1.75|1																																																																											
 815208	0|Cast|81520801|81520802	0|Move|5|1|-5																																																																														
 815209																																																																																
 815210																																																																																
 815211																																																																																
-815212	11|Magic|815220|0	31|Magic|815220|0	31|Effect|FxYubei02|Bone020|1	32|Magic|815221|0	1|Turn|30|0.3|1	12|Turn|90|1|1																																																																										
-815213	0|Move|10|10|0	0|Turn|30|0.35|1	0|Cast|81521303	0|Magic|815223|0																																																																												
+815212	11|Magic|815220|1	31|Magic|815220|1	31|Effect|FxYubei02|Bone020|1|	32|Magic|815221|1	1|Turn|30|0.3|1	12|Turn|90|1|1																																																																										
+815213	0|Move|10|10|0	0|Turn|30|0.35|1	0|Cast|81521303	0|Magic|815223|1																																																																												
 815214																																																																																
 815215																																																																																
-834001	27|Cast|83400102	20|IKPosition|0|150	29|Magic|834003|0	20|Magic|834001|0	7|Cast|83400109																																																																											
-834002																																																																																
-834003																																																																																
-834004																																																																																
-834005																																																																																
-834006																																																																																
-834007																																																																																
-834008																																																																																
-834009	27|Cast|83400901																																																																															
-834010																																																																																
-834011																																																																																
+834001	27|Cast|83400101|83400102|83400103|83400105	27|IKPosition|0|201	27|Magic|834003|1	25|Magic|834001|1	6|Cast|83400109	1|IK|3|205|HitCase	1|IK|4|205|HitCase	1|IK|5|205|HitCase	1|IK|6|205|HitCase	0|Effect|FxMb1TrackalienMd010001Attack01Sound|||	64|Effect|FxMb1TrackalienMd010001Attack11Xian|YanQiu2|1|	107|Cast|83400117	107|Magic|834103|1	102|Cast|83400119	48|Effect|FxMb1TrackalienMd010001Attack11GuadianYanQiu3|YanQiu2|1|	107|Magic|834003|1																																																																
+834002	29|Cast|83400201|83400202|83400203	0|Effect|FxMb1TrackalienMd010001Attack01Sound|||	29|IKPosition|1|218	8|Cast|83400207	27|Magic|834008|1	1|IK|3|205|HitCase	29|Cast|83400210	29|Magic|834003|1	1|IK|4|205|HitCase	1|IK|5|205|HitCase	1|IK|6|205|HitCase	64|Effect|FxMb1TrackalienMd010001Attack11Xian|YanQiu1|1|	107|Cast|83400216	107|Magic|834103|1	102|Cast|83400218	48|Effect|FxMb1TrackalienMd010001Attack11GuadianYanQiu3|YanQiu1|1|	107|Magic|834003|1																																																															
+834003	27|Cast|83400301|83400302|83400303	0|Effect|FxMb1TrackalienMd010001Attack03Sound|||	6|Cast|83400306	27|IKPosition|2|205	25|Magic|834012|1	27|Cast|83400310	27|Magic|834003|1	1|IK|3|208|HitCase	1|IK|4|208|HitCase	1|IK|5|208|HitCase	1|IK|6|208|HitCase	64|Effect|FxMb1TrackalienMd010001Attack11Xian|YanQiu3|1|	107|Cast|83400317	107|Magic|834103|1	102|Cast|83400319	48|Effect|FxMb1TrackalienMd010001Attack11GuadianYanQiu3|YanQiu3|1|																																																																
+834004	29|Cast|83400401|83400406	20|Magic|834024|1	1|Effect|FxMb1TrackalienMd010001Attack07||1|	5|Magic|834085|1	0|Effect|FxMb1TrackalienMd010001Attack07Sound|||																																																																											
+834005	21|Effect|FxMb1TrackalienMd010001Attack08|Hezi1kou001|1|	21|Cast|83400502	20|Cast|83400503	25|Effect|FxMb1TrackalienMd010001Attack08|Hezi1kou002|1|	25|Cast|83400505	24|Cast|83400506	33|Effect|FxMb1TrackalienMd010001Attack08|Hezi2kou002|1|	33|Cast|83400520	32|Cast|83400521	37|Effect|FxMb1TrackalienMd010001Attack08|Hezi2kou003|1|	37|Cast|83400523	36|Cast|83400524	42|Effect|FxMb1TrackalienMd010001Attack08|Hezi3kou003|1|	42|Cast|83400538	41|Cast|83400539	0|IK|3|125|HitCase	0|IK|4|125|HitCase	0|IK|5|125|HitCase	0|IK|6|125|HitCase	0|Effect|FxMb1TrackalienMd010001Attack08Sound|||																																																												
+834006	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai5|1|	35|Magic|834003|1	0|Magic|834016|0	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5|LZhuai5|1|	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai4|LZhuai4|1|	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai3|LZhuai3|1|	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai2|LZhuai2|1|	0|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai1|LZhuai1|1|	35|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai5|1|	35|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai4||	35|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai3||	35|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai2||	35|Effect|FxMb1TrackalienMd010001Attack04GuadianLZhuai5Zha|LZhuai1||	35|Magic|834007|1	0|Magic|834088|1	0|Effect|FxMb1TrackalienMd010001Attack04Sound|||																																																																
+834007	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai5|1|	35|Magic|834003|1	0|Magic|834017|0	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5|CZhuai5|1|	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai4|CZhuai4|1|	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai3|CZhuai3|1|	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai2|CZhuai2|1|	0|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai1|CZhuai1|1|	35|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai5|1|	35|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai4|1|	35|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai3|1|	35|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai2|1|	35|Effect|FxMb1TrackalienMd010001Attack05GuadianCZhuai5Zha|CZhuai1|1|	35|Magic|834011|1	0|Magic|834089|1	0|Effect|FxMb1TrackalienMd010001Attack05Sound|||																																																																
+834008	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai5|1|	35|Magic|834003|1	0|Magic|834018|0	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5|RZhuai5|1|	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai4|RZhuai4|1|	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai3|RZhuai3|1|	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai2|RZhuai2|1|	0|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai1|RZhuai1|1|	35|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai5|1|	35|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai4|1|	35|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai3|1|	35|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai2|1|	35|Effect|FxMb1TrackalienMd010001Attack06GuadianRZhuai5Zha|RZhuai1|1|	35|Magic|834014|1	0|Magic|834090|1	0|Effect|FxMb1TrackalienMd010001Attack06Sound|||																																																																
+834009	33|Cast|83400901	8|Effect|FxMb1TrackalienMd010001Attack09GuadianYanQiu1|YanQiu1|1|	0|Effect|FxMb1TrackalienMd010001Attack09Sound|||																																																																													
+834010	53|Cast|83401001	8|Effect|FxMb1TrackalienMd010001Attack09GuadianYanQiu1|YanQiu1|1|	0|Effect|FxMb1TrackalienMd010001Attack09Sound|||																																																																													
+834011	24|Effect|FxMb1TrackalienMd010001Attack11Xian|YanQiu3|1|	57|Cast|83401102	57|Magic|834103|1	50|Cast|83401104	0|IK|3|125|HitCase	0|IK|4|125|HitCase	0|Effect|FxMb1TrackalienMd010001Attack11GuadianYanQiu3|YanQiu3|1|	58|Magic|834003|1	0|IK|5|125|HitCase	0|IK|6|125|HitCase	0|Effect|FxMb1TrackalienMd010001Attack11Sound|||																																																																					
+834012	0|IK|3|33|HitCase	0|IK|4|33|HitCase	0|IK|5|33|HitCase	0|IK|6|33|HitCase	0|Effect|FxMb1TrackalienMd010001Attack27Sound|||	0|Effect|FxMb1PrismMd010001Xishou01||1|																																																																										
+834013	43|Magic|834003|1	43|Effect|FxMb1TrackalienMd010001Attack1202|1||	0|Effect|FxMb1TrackalienMd010001Attack1201|1||	0|Magic|834085|1	0|Magic|834095|1	0|Effect|FxMb1TrackalienMd010001Attack12Sound|||																																																																										
+834014	1|IK|3|112|HitCase	1|IK|4|112|HitCase	1|IK|5|112|HitCase	1|IK|6|112|HitCase	1|Effect|FxMb1TrackalienMd010001Attack13Sound|||																																																																											
+834015	20|Cast|83401501|83401502|83401505	0|IK|5|170|HitCase	0|IK|6|170|HitCase	20|IKPosition|7|160	20|Magic|834003|1	18|Magic|834034|1	0|IK|4|170|HitCase	0|IK|3|170|HitCase	160|Magic|834046|1	9|Cast|83401512	0|Effect|FxMb1TrackalienMd010001Attack14Sound|||																																																																					
+834016	20|Cast|83401601|83401602|83401605	160|Magic|834046|1	0|IK|6|170|HitCase	20|IKPosition|8|150	20|Magic|834003|1	18|Magic|834038|1	0|IK|4|170|HitCase	0|IK|3|170|HitCase	0|IK|5|170|HitCase	9|Cast|83401612	0|Effect|FxMb1TrackalienMd010001Attack15Sound|||																																																																					
+834017	66|Magic|834046|1	13|Magic|834037|1	13|Magic|834042|1	0|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0203|Ya0203|1|	0|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0204|Ya0204|1|	0|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0205|Ya0205|1|	0|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0206Zha|Ya0206|1|	13|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0206Zha|Ya0506|1|	13|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0206Zha|Ya0505|1|	13|Effect|FxMb1TrackalienMd010001Attack16GuadianYa0206Zha|Ya0504|1|	66|Magic|834046|1	0|Effect|FxMb1TrackalienMd010001Attack16Sound|||																																																																				
+834018	66|Magic|834046|1	13|Magic|834041|1	13|Magic|834044|1	0|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0103|Ya0103|1|	0|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0104|Ya0104|1|	0|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0105|Ya0105|1|	0|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0106Zha|Ya0106|1|	13|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0106Zha|Ya0406||	13|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0106Zha|Ya0405||	13|Effect|FxMb1TrackalienMd010001Attack17GuadianYa0106Zha|Ya0404||	10|Magic|834046|1	0|Effect|FxMb1TrackalienMd010001Attack17Sound|||																																																																				
+834019	5|Effect|FxMb1TrackalienMd010001Attack20GuadianRDangban3|Mb1TrackAlienDangban01||	14|Effect|FxMb1TrackalienMd010001Attack19|||	0|Effect|FxMb1TrackalienMd010001Attack19Sound|||																																																																													
+834020	4|Effect|FxMb1TrackalienMd010001Attack20GuadianRDangban3|Mb1TrackAlienDangban02||	16|Effect|FxMb1TrackalienMd010001Attack20|||	0|Effect|FxMb1TrackalienMd010001Attack20Sound|||																																																																													
+834021	20|Magic|834028|1	15|Magic|834021|1	0|Effect|FxMb1TrackalienMd010001Attack2401||1|	0|Effect|FxMb1TrackalienMd010001Attack24Sound|||																																																																												
+834022	20|Magic|834029|1	15|Magic|834022|0	0|Effect|FxMb1TrackalienMd010001Attack2501||1|	0|Effect|FxMb1TrackalienMd010001Attack25Sound|||																																																																												
+834023	20|Magic|834030|1	15|Magic|834023|0	0|Effect|FxMb1TrackalienMd010001Attack2601||1|	0|Effect|FxMb1TrackalienMd010001Attack26Sound|||																																																																												
+834024	1|Effect|FxMb1TrackalienMd010001Attack07||1|	29|Cast|83402402|83402405	0|Effect|FxMb1TrackalienMd010001Attack07Sound|||																																																																													
+834025	39|Magic|834082|1																																																																															
+834026	0|Cast|83402601																																																																															
+834027	0|Cast|83402701	0|Turn|120|1|																																																																														
+834028	0|Effect|FxMb1TrackalienMd010001Attack11GuadianYanQiu3|||																																																																															
+834029	0|Magic|834083|1																																																																															
+834030	0|Cast|83403001																																																																															
+834031	23|Cast|83403101	23|Effect|FxMb1TrackalienMd010001Attack23DandaoGuadianYanQiu3|YanQiu3|1|	0|Effect|FxMb1TrackalienMd010001Attack2301GuadianYanQiu3|YanQiu3|1|	80|Magic|834046|1	0|IK|3|80|HitCase	0|IK|4|80|HitCase	0|IK|5|80|HitCase	0|IK|6|80|HitCase	2|Magic|834068|1																																																																							
+834032	59|Magic|834046|1	10|Magic|834096|1	10|Effect|FxMb1TrackalienMd010001Attack21GuadianLDangban2|Mb1TrackAlienDangban01||	10|Magic|834046|1	0|Effect|FxMb1TrackalienMd010001Attack21Sound|||																																																																											
+834033	10|Effect|FxMb1TrackalienMd010001Attack22GuadianRDangban3|Mb1TrackAlienDangban02||	10|Magic|834097|1	56|Magic|834046|1	10|Magic|834046|1	0|Effect|FxMb1TrackalienMd010001Attack22Sound|||																																																																											
+834101																																																																																
+834102	0|Effect|FxMb1TrackalienMd010003Attack02Sound|||																																																																															
+834103																																																																																
+834104																																																																																
+834105																																																																																
+834201	1|Effect|FxMb1TrackalienMd010003Attack01Lun03|Lun03|1|	10|Cast|83420102	10|Effect|FxMb1TrackalienMd010003Attack01Shouji|Lun03|1|	1|Effect|FxMb1TrackalienMd010003Attack01Lun03|Lun03|1|	25|Cast|83420105																																																																											
+834202	0|Effect|FxMb1TrackalienMd010003Attack02|R3Leg04|1|	53|Magic|834114|1																																																																														
+834203																																																																																
+834204																																																																																
+834205																																																																																
+834301	1|Effect|FxMb1TrackalienMd010004Attack01Lun02|Lun02|1|	10|Cast|83430102	10|Effect|FxMb1TrackalienMd010003Attack01Shouji|Lun02|1|	1|Effect|FxMb1TrackalienMd010004Attack01Lun02|Lun02|1|	25|Cast|83430105																																																																											
+834302	3|Effect|FxMb1TrackalienMd010004Attack02|R2Leg04|1|	51|Magic|834115|1																																																																														
+834303																																																																																
+834304																																																																																
+834305																																																																																
+834401	1|Effect|FxMb1TrackalienMd010005Attack01Lun01|Lun01|1|	10|Cast|83440102	10|Effect|FxMb1TrackalienMd010005HitR1Leg04|R2Leg04|1|	25|Cast|83440105																																																																												
+834402	2|Effect|FxMb1TrackalienMd010005Attack02|R1Leg04|1|	51|Magic|834116|1																																																																														
+834403																																																																																
+834404																																																																																
+834405																																																																																
+906601	0|Magic|906604|0	22|Cast|90660102	27|Cast|90660103	0|Effect|FxMo1DiaorensanxingMd000001Attack01||1|	20|Cast|90660105																																																																											
+906602	23|Cast|90660201	0|Magic|906622|1	32|Cast|90660203	0|Effect|FxMo1DiaorensanxingMd000001Attack02||1|	10|Cast|90660206	0|Effect|FxYubei02|Bip001Head|1|																																																																										
+906603	26|Magic|906601|0	26|Magic|906602|0	0|Magic|906603|0	44|Cast|90660304	22|Turn|360|1|1	40|Turn|120|0.35|1	68|Magic|906631|1	38|Cast|90660310	33|Effect|FxYubei02|Bip001Head|1|	22|Magic|906638|1	0|Effect|FxMo1DiaorensanxingMd000001Attack0301||1|	40|Effect|FxMo1DiaorensanxingMd000001Attack0302tuowei|Bip001|1|	46|Effect|FxMo1DiaorensanxingMd000001Attack0303||1|																																																																			
+906604																																																																																
+906605	65|Magic|900442|1	63|Cast|90660504	0|Magic|730021|1																																																																													
+906606	26|Cast|90660601	32|Cast|90660602	41|Cast|90660603	0|Effect|FxMo1DiaorensanxingMd000001Attack06||1|	0|Turn|360|2|1	0|Magic|906639|1	0|Effect|FxMo1DiaorensanxingMd000001Attack15||1|																																																																									
+906607	11|Cast|90660701	28|Cast|90660702	0|Magic|906619|1	11|Turn|120|1|1	0|Magic|906642|1	0|Effect|FxMo1DiaorensanxingMd000001Attack07||1|	0|Effect|FxYubei02|Bip001Head|1|																																																																									
+906608	20|Magic|906601|0	20|Magic|906602|0	20|Magic|906646|0	25|Cast|90660804	5|Turn|270|0.75|1	21|Turn|180|0.5|1	18|Effect|FxYubei02|Bip001Head|1|	56|Magic|906631|1	18|Cast|90660810	0|Effect|FxMo1DiaorensanxingMd000001Attack08||1|	22|Effect|FxMo1DiaorensanxingMd000001Attack0302tuowei|Bip001|1|	25|Effect|FxMo1DiaorensanxingMd000001Attack0303||1|																																																																				
+906609	0|Magic|906645|1																																																																															
+906610	0|Magic|906624|1																																																																															
+906611	11|Cast|90661101	0|Effect|FxMo1DiaorensanxingMd000001Attack11||1|	25|Cast|90661103	30|Magic|906615|1																																																																												
+906612	0|Magic|906649|1																																																																															
+906613																																																																																
+906614																																																																																
+906615	0|Magic|906650|1	30|Effect|FxMo1DiaorensanxingMd000001Attack15||0|																																																																														
+906616																																																																																
+906617																																																																																
+906618																																																																																
+906619																																																																																
+906620																																																																																
+906621	57|Magic|900431|1																																																																															
+906622																																																																																
+906623																																																																																
+906624																																																																																
+906625																																																																																
+906626																																																																																
+906627																																																																																
+906628																																																																																
+906629																																																																																
+906630																																																																																
+906631																																																																																
+906632																																																																																
+906633																																																																																
+906634	20|Effect|FxQianxingCallren|MarkCase|1|	15|Effect|FxQianxingCallrenSound||1|																																																																														
+906635																																																																																
+906636	27|Cast|90663601	29|Magic|900442|1	0|Magic|730021|1																																																																													
+906637	32|Cast|90663701	34|Magic|900442|1	0|Magic|730021|1																																																																													
+906638	23|Cast|90663801	24|Magic|900442|1	0|Magic|730021|1																																																																													
+906901	26|Effect|FxMo1LucunMd000001Attack01Bip001RFinger2|Bip001RFinger2|1|	0|Effect|FxMo1LucunMd000001Attack0101||1|	24|Cast|90690103	31|Cast|90690104	33|Cast|90690105	36|Cast|90690106	39|Cast|90690107	42|Cast|90690108	45|Cast|90690109	65|Cast|90690110	14|Cast|90690111	12|Effect|FxYubei02|eye|1|	48|Cast|90690113	29|Effect|FxMo1LucunMd000001Attack0102||1|	64|Effect|FxMo1LucunMd000001Attack0103||1|	4|Turn|360|0.5|1																																																																
+906902	15|Cast|90690201	6|Move|30|0.25|10	6|Turn|240|0.25|1	0|Turn|720|0.2|1	16|Effect|FxMo1LucunMd000001Attack02Dilie02||1|	4|Effect|FxMo1LucunMd000001Attack02Dilie01||1|	0|Magic|906927|1	0|Magic|730021|1	14|Magic|730026|0																																																																							
+906903	10|Magic|906905|0	0|Turn|360|0.8|1	0|Effect|FxMo1LucunMd000001Attack03||1|																																																																													
+906904	1|Turn|360|2|1	0|Move|6|2|2	0|Magic|906906|1	0|Cast|90690404	0|Effect|FxMo1LucunMd000001Attack04||1|																																																																											
+906905	0|Cast|90690501	0|Effect|FxMo1LucunMd000001Attack05||1|																																																																														
+906906	0|Catch|ZhuaQu|||	12|CatchLoose|0|0|0|906906021|906903|906904|	12|Cast|90690603	0|Effect|FxMo1LucunMd000001Attack06Dilie||1|																																																																												
+906907	17|Cast|90690701	26|Cast|90690702	49|Cast|90690703	0|Turn|360|3|1	0|Magic|906926|1	0|Effect|FxMo1LucunMd000001Attack23|||																																																																										
+906908	33|Cast|90690801	0|Magic|906908|1	21|Cast|90690803	0|Turn|360|1.05|1	0|Effect|FxMo1LucunMd000001Attack08||1|	11|Cast|90690806																																																																										
+906909	0|Effect|FxMo1LucunMd000001Attack09||1|	4|Cast|90690902	0|Turn|360|0.5|1	0|Magic|906928|1																																																																												
+906910	0|Effect|FxMo1LucunMd000001Attack10||1|																																																																															
+906911	0|Effect|FxMo1LucunMd000001Attack11||1|																																																																															
+906912	0|Effect|FxMo1LucunMd000001Attack12||1|																																																																															
+906913	0|Effect|FxMo1LucunMd000001Attack13||1|																																																																															
+906914																																																																																
+906915																																																																																
+906916	0|Effect|FxMo1LucunMd000001Attack16||1|	60|Magic|906924|1	60|Magic|906925|1																																																																													
+906917	12|Cast|90691701	0|Magic|906910|1	0|Effect|FxYubei02|eye|1|	0|Turn|120|1|1	0|Effect|FxMo1LucunMd000001Attack1702|Bip001RFinger2|1|	0|Effect|FxMo1LucunMd000001Attack1701||1|																																																																										
+906918	0|Turn|120|0.5|1	8|Cast|90691802|90691804	0|Effect|FxMo1LucunMd000001Attack18||1|																																																																													
+906919	0|Effect|FxMo1LucunMd000001Attack19Dilie01||1|	18|Cast|90691902	4|Effect|FxYubei02|eye|1|	0|Effect|FxMo1LucunMd000001Attack19Dilie01Yujing||1|	22|Cast|90691905|90691906																																																																											
+906920	0|Effect|FxMo1LucunMd000001Attack20Dilie01||1|	4|Effect|FxMo1LucunMd000001Attack20Dilie02||1|	6|Effect|FxMo1LucunMd000001Attack20Shouji01||1|	8|Effect|FxMo1LucunMd000001Attack20Shouji02||1|	10|Effect|FxMo1LucunMd000001Attack20Yujing||1|	12|Effect|FxMo1LucunMd000001Attack22Dilie||1|																																																																										
+906921	0|Effect|FxMo1LucunMd000001Attack23||1|	17|Cast|90692102	23|Cast|90692103	54|Cast|90692104	0|Turn|360|3.08|1	0|Magic|906926|1	0|Magic|906946|1																																																																									
+906922	31|Effect|FxMo1LucunMd000001Attack22Dilie||1|																																																																															
+907401																																																																																
+907402																																																																																
+907403																																																																																
+907404																																																																																
+907405																																																																																
+907406																																																																																
+907407																																																																																
+907408																																																																																
+907409																																																																																
+907410																																																																																
+907411																																																																																
+907412																																																																																
+907413																																																																																
+907414																																																																																
+907415																																																																																
+907416																																																																																
+907417																																																																																
+907418																																																																																
+907419																																																																																
+907420																																																																																
+907421																																																																																
+907422																																																																																
+907423																																																																																
+907424																																																																																
+907425																																																																																
+907426																																																																																
+907427																																																																																
+907428																																																																																
+907429																																																																																
+907430																																																																																

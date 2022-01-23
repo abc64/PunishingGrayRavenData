@@ -1,30 +1,67 @@
 [
     {
         "Id": 1,
-        "BeginTimeStr": "2021/2/8 5:00",
-        "EndTimeStr": "2021/2/22 4:59",
-        "StageList": [],
+        "BeginTimeStr": "2019/3/14 0:00",
+        "EndTimeStr": "2020/1/31 5:00",
+        "StageList": [
+            30090106,
+            30090306
+        ],
         "StageTypeList": [
             15,
             2
         ],
-        "DropItemId": [
-            96000
-        ],
-        "DropItemCount": [
+        "DropIds": [
             1
+        ]
+    },
+    {
+        "Id": 2,
+        "BeginTimeStr": "2020/7/9 10:00",
+        "EndTimeStr": "2020/8/6 9:59",
+        "StageList": [],
+        "StageTypeList": [
+            1,
+            7,
+            16,
+            21,
+            25
         ],
-        "DropRate": [
-            10000
+        "DropIds": [
+            2
+        ]
+    },
+    {
+        "Id": 3,
+        "BeginTimeStr": "2020/7/9 10:00",
+        "EndTimeStr": "2020/8/6 9:59",
+        "StageList": [
+            30130403,
+            30130404,
+            30130405
         ],
-        "DropBottomCount": [
-            1
+        "StageTypeList": [
+            2,
+            6,
+            20
         ],
-        "DropDailyCount": [
-            10
+        "DropIds": [
+            3
+        ]
+    },
+    {
+        "Id": 4,
+        "BeginTimeStr": "2022/1/14 7:00",
+        "EndTimeStr": "2022/1/21 6:59",
+        "StageList": [
+            30090553,
+            30090554,
+            30090558,
+            30090559
         ],
-        "DropActivityCount": [
-            110
+        "StageTypeList": [],
+        "DropIds": [
+            4
         ]
     }
 ]

@@ -300,7 +300,7 @@
         "Id": 503,
         "TypeId": [
             300,
-            "-1",
+            200,
             "-1",
             101,
             "-1"
@@ -344,7 +344,7 @@
         "Id": 513,
         "TypeId": [
             301,
-            "-1",
+            201,
             "-1",
             100,
             "-1"
@@ -372,7 +372,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 5
+        "AffixGroupId": 14
     },
     {
         "Id": 602,
@@ -396,7 +396,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 7
+        "AffixGroupId": 5
     },
     {
         "Id": 604,
@@ -408,7 +408,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 7
+        "AffixGroupId": 14
     },
     {
         "Id": 611,
@@ -420,7 +420,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 5
+        "AffixGroupId": 14
     },
     {
         "Id": 612,
@@ -444,7 +444,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 7
+        "AffixGroupId": 5
     },
     {
         "Id": 614,
@@ -456,7 +456,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 7
+        "AffixGroupId": 14
     },
     {
         "Id": 701,
@@ -469,7 +469,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 8
+        "AffixGroupId": 14
     },
     {
         "Id": 702,
@@ -495,7 +495,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 5
+        "AffixGroupId": 14
     },
     {
         "Id": 711,
@@ -508,7 +508,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 8
+        "AffixGroupId": 14
     },
     {
         "Id": 712,
@@ -534,22 +534,7 @@
             "-1",
             "-1"
         ],
-        "AffixGroupId": 6
-    },
-    {
-        "Id": 901,
-        "TypeId": [
-            100,
-            "-1",
-            "-1",
-            "-1",
-            "-1",
-            "-1",
-            "-1",
-            "-1",
-            "-1"
-        ],
-        "AffixGroupId": 4
+        "AffixGroupId": 14
     },
     {
         "Id": 800,
@@ -666,26 +651,24 @@
         "TypeId": [
             300,
             303,
-            "-1",
             "-1"
         ],
-        "AffixGroupId": 4
+        "AffixGroupId": 14
     },
     {
         "Id": 813,
         "TypeId": [
             301,
             304,
-            "-1",
             "-1"
         ],
-        "AffixGroupId": 4
+        "AffixGroupId": 14
     },
     {
         "Id": 814,
         "TypeId": [
             300,
-            300,
+            304,
             "-1"
         ],
         "AffixGroupId": 14
@@ -694,9 +677,327 @@
         "Id": 815,
         "TypeId": [
             301,
-            301,
+            303,
             "-1"
         ],
         "AffixGroupId": 14
+    },
+    {
+        "Id": 816,
+        "TypeId": [
+            100,
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 4
+    },
+    {
+        "Id": 900,
+        "TypeId": [
+            500,
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 901,
+        "TypeId": [
+            501,
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 902,
+        "TypeId": [
+            502,
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 903,
+        "TypeId": [
+            503,
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 904,
+        "TypeId": [
+            503,
+            503,
+            503
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 905,
+        "TypeId": [
+            504,
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 906,
+        "TypeId": [
+            506,
+            507,
+            508
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 907,
+        "TypeId": [
+            505,
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 908,
+        "TypeId": [
+            509
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 909,
+        "TypeId": [
+            511,
+            508,
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 16
+    },
+    {
+        "Id": 910,
+        "TypeId": [
+            510,
+            "-1",
+            506,
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 16
+    },
+    {
+        "Id": 911,
+        "TypeId": [
+            507,
+            507,
+            508,
+            508
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 912,
+        "TypeId": [
+            509,
+            "-1"
+        ],
+        "AffixGroupId": 15
+    },
+    {
+        "Id": 913,
+        "TypeId": [
+            512,
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 914,
+        "TypeId": [
+            513,
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 915,
+        "TypeId": [
+            515,
+            515,
+            515,
+            515,
+            515,
+            515
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 916,
+        "TypeId": [
+            514,
+            514,
+            514
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 917,
+        "TypeId": [
+            514
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 918,
+        "TypeId": [
+            515,
+            "-1",
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 919,
+        "TypeId": [
+            516,
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 920,
+        "TypeId": [
+            517,
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 921,
+        "TypeId": [
+            520
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 922,
+        "TypeId": [
+            518
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 923,
+        "TypeId": [
+            521,
+            521,
+            521
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 924,
+        "TypeId": [
+            522,
+            522,
+            522
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 925,
+        "TypeId": [
+            523,
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 926,
+        "TypeId": [
+            524
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 927,
+        "TypeId": [
+            525,
+            525,
+            525
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 928,
+        "TypeId": [
+            526,
+            "-1",
+            "-1"
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 929,
+        "TypeId": [
+            527
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 930,
+        "TypeId": [
+            528
+        ],
+        "AffixGroupId": 17
+    },
+    {
+        "Id": 931,
+        "TypeId": [
+            529
+        ],
+        "AffixGroupId": 17
     }
 ]

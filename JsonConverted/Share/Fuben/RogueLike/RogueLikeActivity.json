@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 1,
+        "BeginTimeStr": "2019/3/19 5:00",
+        "FightEndTimeStr": "2019/4/27 4:59",
+        "EndTimeStr": "2019/4/27 5:00",
+        "TeamEffectId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ActionPoint": 5,
+        "TeamMemberCount": 3,
+        "BlackShopId": 20001,
+        "FightNeedPoint": 1,
+        "RobotMax": 8
+    },
+    {
+        "Id": 2,
+        "BeginTimeStr": "2019/5/4 5:00",
+        "FightEndTimeStr": "2020/5/18 4:59",
+        "EndTimeStr": "2020/5/18 5:00",
+        "TeamEffectId": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ActionPoint": 8,
+        "TeamMemberCount": 3,
+        "BlackShopId": 30001,
+        "FightNeedPoint": 1,
+        "RobotMax": 8
+    }
+]

@@ -1,0 +1,37 @@
+Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
+11030101	普攻1-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110301011									0	HitCase		0					0	1				
+11030102	普攻1-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110301021									0	HitCase		0					0	1				
+11030201	普攻2-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110302011									0	HitCase		0					0	1				
+11030301	普攻3-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110303011									0	HitCase		0					0	1				
+11030302	普攻3-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110303021									0	HitCase		0					0	1				
+11030401	普攻4-1	1	4	3			0			4			0.39						-1	1			0.1				-1			1					0	0	0								0							0	3		0.2	0.1	110304011									0	HitCase		0					0	1				
+11030402	普攻4-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110304021									0	HitCase		0					0	1				
+11030501	普攻5-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110305011									0	HitCase		0					0	1				
+11030502	普攻5-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110305021									0	HitCase		0					0	1				
+11030503	普攻5-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110305031									0	HitCase		0					0	1				
+11030601	红球1消-1	1	4	3			0			4			0.45						-1	1			0.4				-1			1					0	0	0								0							0	3		0.2	0.1	110306011									0	HitCase		0					0	1				
+11030602	红球1消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110306021									0	HitCase		0					0	1				
+11030603	红球1消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110306031									0	HitCase		0					0	1				
+11030604	红球1消-4	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110306041									0	HitCase		0					0	1				
+11030701	红球2消-1	1	4	3			0			4			0.45						-1	1			0.4				-1			1					0	0	0								0							0	3		0.2	0.1	110307011									0	HitCase		0					0	1				
+11030702	红球2消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110307021									0	HitCase		0					0	1				
+11030703	红球2消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110307031									0	HitCase		0					0	1				
+11030704	红球2消-4	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110307041									0	HitCase		0					0	1				
+11030801	红球3消-1	1	4	3			0			4			0.45						-1	1			0.4				-1			1					0	0	0								0							0	3		0.2	0.1	110308011									0	HitCase		0					0	1				
+11030802	红球3消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110308021									0	HitCase		0					0	1				
+11030803	红球3消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110308031									0	HitCase		0					0	1				
+11030804	红球3消-4	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110308041									0	HitCase		0					0	1				
+11030901	蓝球1消-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110309011									0	HitCase		0					0	1				
+11031001	蓝球2消-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110310011									0	HitCase		0					0	1				
+11031101	蓝球3消-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110311011									0	HitCase		0					0	1				
+11031201	黄球1消-1	1	4	3			0			4			0.29						-1	1			0.1				-1			1					0	0	0								0							0	3		0.2	0.1	110312011									0	HitCase		0					0	1				
+11031202	黄球1消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110312021									0	HitCase		0					0	1				
+11031203	黄球1消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110312031									0	HitCase		0					0	1				
+11031301	黄球2消-1	1	4	3			0			4			0.29						-1	1			0.1				-1			1					0	0	0								0							0	3		0.2	0.1	110313011									0	HitCase		0					0	1				
+11031302	黄球2消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110313021									0	HitCase		0					0	1				
+11031303	黄球2消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110313031									0	HitCase		0					0	1				
+11031401	黄球3消-1	1	4	3			0			4			0.29						-1	1			0.1				-1			1					0	0	0								0							0	3		0.2	0.1	110314011									0	HitCase		0					0	1				
+11031402	黄球3消-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110314021									0	HitCase		0					0	1				
+11031403	黄球3消-3	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110314031									0	HitCase		0					0	1				
+11033001	普攻1（冲刺版）-1	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110330011									0	HitCase		0					0	1				
+11033002	普攻1（冲刺版）-2	1	4	3			0			4			0.1						-1								-1			1					0	0	0								0							0	3		0.2	0.1	110330021									0	HitCase		0					0	1				

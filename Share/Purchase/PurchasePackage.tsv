@@ -13,7 +13,7 @@ Id	Name	Desc	ConsumeId	ConsumeCount	RewardId	MailId	MailCount	DailyRewardId	Dail
 12	Weapon 10x R&D Bundle	Weapon 10x R&D Bundle	5	69	90012								2021/7/15 7:00				1	0		UioWDrew		1	5	10300	3		
 13	Value Training Pack	1 per day for 5 days	5	99		90000	5						2019/1/1 5:00	2020/1/1 9:59			1	0		UioNUp			5	10500	3		
 14	Cyberpunk Decor Set	Cyberpunk Decor Set	5	60	90013								2019/1/1 5:00	2020/1/1 9:59			1	0		UioNF			7	30200	3		
-15	Weekly Limited Pack	Weekly Limited Pack			90014								2021/7/15 7:00				1	1	10001	UioWeek	1	1	6	5000			
+15	Weekly Limited Pack	Weekly Limited Pack			90014								2021/7/15 7:00				1	1	10001	UioWeek	1	10	6	5000			
 16	Monthly Target Weapon Pack	Monthly Target Weapon Pack	5	119	90015								2021/8/3 7:00				1	1	10004	UioWDMouth	1	1	5	10700	3		
 17	Monthly Event Construct Pack	Monthly Event Construct Pack	5	99	90016								2021/8/3 7:00				1	1	10004	UioCDMouth2	1	1	5	10600	3		
 18	A-Rank Construct SSR Coating Black Card	1 per day for 10 days	5	68	90017	90001	10						2019/1/1 5:00	2020/1/1 9:59			1	0		UiPurchaseIconLb1	1		7	30300	3		
@@ -47,7 +47,7 @@ Id	Name	Desc	ConsumeId	ConsumeCount	RewardId	MailId	MailCount	DailyRewardId	Dail
 48	Field Training - Astral	Watanabe: Astral Coating - Field Training	5	98	6810304								2021/9/10 8:00	2021/10/11 7:59			1	0		UioPifu48		14	7	20217	3		
 49	Skyline Trial - Astral	Watanabe: Astral Coating - Skyline Trial	5	126	6810305								2021/9/10 8:00	2021/10/11 7:59			1	0		UioPifu49		14	7	20219	3		
 51	Shadow Vanguard - Tenebrion	Kamui: Tenebrion Coating - Shadow Vanguard	5	98	6610305								2021/9/9 2:00	2021/10/11 7:59			1	0		UioPifu51		14	7	20220	3		
-52	Serum Daily Supply Plan	Serum Daily Supply Plan			90091								2021/9/20 8:00	2021/10/4 6:59			1	1	10000	UioDay	1	10	6	5000	3		
+52	[100 days] Serum Daily Supply	[100 days] Serum Daily Supply			90091								2021/10/24 8:00	2021/11/7 6:59			1	1	10000	UioDay	1	10	6	5000	3		
 1004	[Teatime] Blueprint Bundle	[Teatime] Blueprint Bundle	5	20	90034								2021/9/9 2:00	2021/10/11 7:59			1	0		Uiojiaju47		14	7	30240	3		
 1005	[Teatime] Set Bundle	[Teatime] Set Bundle	5	68	90035								2021/9/9 2:00	2021/10/11 7:59			1	0		Uiojiaju48		14	7	30250	3		
 83001	ブーストパック	ブーストパック	5	100	2000000								2019/1/1 5:00	2020/1/1 9:59			1	0		UiPurchaseIconDh648			6	12000	3		
@@ -65,7 +65,7 @@ Id	Name	Desc	ConsumeId	ConsumeCount	RewardId	MailId	MailCount	DailyRewardId	Dail
 2000006	Lv45特別パック	Lv45特別パック	3	150	2000009						8002		2019/1/1 5:00	2020/1/1 9:59			1	0		UiB55			6	11997	4		
 2000007	Lv55特別パック	Lv55特別パック	3	250	2000010						8003		2019/1/1 5:00	2020/1/1 9:59			1	0		UiB70			6	11998	4		
 2000008	角色研发补给	角色研发补给			2000074								2019/1/1 5:00	2020/1/1 9:59			1	0		UiB25			6	11000	4		
-2000009	Monthly 6★ Memory Shard Pack	Monthly 6★ Memory Shard Pack	5	34	2000075								2021/8/3 7:00				1	1	10004	En_Libao06	1	1	5	10500	3		
+2000009	Monthly 6★ Memory Shard Pack	Monthly 6★ Memory Shard Pack	5	34	2000075								2021/10/12 2:00				3	1	10004	En_Libao06	1	1	5	10500	3		
 2000010	超高性价比材料补给	超高性价比材料补给			2000076								2019/1/1 5:00	2020/1/1 9:59			1	0		UiB25			6	11002	4		
 2000011	武器狙击礼包	武器狙击礼包			2000077								2019/1/1 5:00	2020/1/1 9:59			1	0		UiB25			6	11003	4		
 2000012	每月活动角色研发卷	每月活动角色研发卷			2000078								2019/1/1 5:00	2020/1/1 9:59			1	0		UiB25			6	11004	4		
@@ -154,11 +154,61 @@ Id	Name	Desc	ConsumeId	ConsumeCount	RewardId	MailId	MailCount	DailyRewardId	Dail
 90022	Gray Feather: Bastion		5	126	5000055								2021/8/3 7:00	2021/9/8 6:59			1	0		Jp_UioPifu2	1	14	7	2010	3		
 90023	End Messenger		5	98	5000056								2021/8/3 7:00	2021/9/8 6:59			1	0		Jp_UioPifu1	1	14	7	2012	3		
 90024	Final Journey		5	154	5000064								2021/8/4 8:00	2021/9/8 6:59			1	0		UioPifu44	1	14	7	2011	3		
-90025	[Fallen] Event R&D Pack	[Fallen] Event R&D Pack	5	119	5000075								2021/9/9 2:00	2021/10/11 7:59			1	0		En_Libao17		14	5	2000	3		
-90026	[Fallen] Weapon R&D Pack	[Fallen] Weapon R&D Pack	5	59	5000076								2021/9/9 2:00	2021/10/11 7:59			2	0		En_Libao18		14	5	2002	3		
+90025	[Eternal] Event R&D Pack	[Eternal] Event R&D Pack	5	119	5000075								2021/10/12 2:00	2021/11/16 7:59			1	0		En_Libao17		14	5	5400	3		
+90026	[Eternal] Target Weapon Pack	[Eternal] Target Weapon Pack	5	59	5000076								2021/10/12 2:00	2021/11/16 7:59			2	0		En_Libao18		14	5	5600	3		
 90027	[Fallen] Basic R&D Pack	[Fallen] Basic R&D Pack	5	119	5000077								2021/9/9 2:00	2021/10/11 7:59			1	0		En_Libao19		14	5	2003	3		
 90028	[Fallen] Construct R&D Pack	[Fallen] Construct R&D Pack	5	119	5000078								2021/9/9 2:00	2021/10/11 7:59			1	0		En_Libao20		14	5	2004	3		
 90029	[Fallen] Serum Weekly Pass	1 per day for 7 days	5	28		14000003	7						2021/9/9 2:00	2021/10/11 6:59			1	1	10001	En_Libao21		14	5	2005	3		
 90030	A-Rank Male Construct Pack	A-Rank Male Construct Pack	5	34	5000079								2021/9/24 8:00	2021/10/11 7:59			1	0		UiQingrenjie02		1	5	10110	3		
 90031	A-Rank Female Construct Pack	A-Rank Female Construct Pack	5	34	5000080								2021/9/24 8:00	2021/10/11 7:59			1	0		UiQingrenjie01		1	5	10120	3		
 90032	Monthly Pass C	Sign-in daily to get a total of <color=#ff8338>90</color> Black Cards	5	28	2000058			5000084	30				2021/7/15 7:00					3	30	CardC	1	1	2		2		83028
+90033	[Eternal] Weapon Reso. Bundle	[Eternal] Weapon Reso. Bundle	5	229	5000085								2021/10/12 2:00	2021/11/16 7:59			1	0		En_Libao25		14	5	5700	3		
+90034	[Eternal] Basic R&D Pack	[Eternal] Basic R&D Pack	5	119	5000086								2021/10/12 2:00	2021/11/16 7:59			1	0		En_Libao26		14	5	5500	3		
+90035	[Eternal] Tactical Support Bundle	[Eternal] Tactical Support Bundle	5	28	5000087								2021/10/12 2:00	2021/11/16 7:59			2	0		En_Libao27		14	5	5800	3		
+90036	Weekly Good Value Pack	Weekly Good Value Pack	5	28	5000088								2021/10/12 2:00	2021/11/16 7:59			1	1	10001	En_Libao28	1	14	5	5900	3		
+90037	[100 days] Basic R&D Supply	[100 days] Basic R&D Supply	5	59	5000089								2021/10/24 8:00	2021/11/7 7:59			1	0		En_Libao29		14	5	5200	3		
+90038	[100 days] Special Gifts	[100 days] Special Gifts	5	34	5000090								2021/10/24 8:00	2021/11/7 7:59			3	0		Jp_Libao63		14	5	6000	3		
+90039	Fate Arrival Construct R&D Pack	Fate Arrival Construct R&D Pack	5	119	5000091								2021/11/5 8:00	2021/11/12 7:59			1	0		En_Libao32		14	5	5100	3		
+90040	[100 days] Weapon R&D Bundle	[100 days] Weapon R&D Bundle	5	59	5000092								2021/10/24 8:00	2021/11/7 7:59			1	0		En_Libao31		14	5	5300	3		
+90041	[Snowy] Set Bundle	[Snowy] Set Bundle	5	68	90046								2021/10/12 2:00	2021/11/16 7:59			1	0		UiLieche03		14	7	30100	3		
+90042	[Snowy] Blueprint Bundle	[Snowy] Blueprint Bundle	5	20	90044								2021/10/12 2:00	2021/11/16 7:59			1	0		UiLieche04		14	7	30200	3		
+90043	Pact of Zero - Veritas	Pact of Zero - Veritas	5	98	6410304								2021/10/13 8:00	2021/11/16 7:59			1	0		UioPifu53		14	7	2001	3		
+90044	Starry Desert - Silverfang	Starry Desert - Silverfang	5	98	6000105								2021/10/20 8:00	2021/11/16 7:59			1	0		UioPifu55		14	7	2002	3		
+90045	Chief Mechanic - Silverfang	Chief Mechanic - Silverfang	5	98	6000104								2021/10/20 8:00	2021/11/16 7:59			1	0		UioPifu54		14	7	2003	3		
+90046	Spectral Parade Coating Bundle	Spectral Parade Coating Bundle	5	168	5000093								2021/10/29 8:00	2021/11/16 7:59			1	0		UioPifu57		14	7	2004	3		
+90050	[Nona] Event R&D Pack	[Nona] Event R&D Pack	5	119	5000160								2021/11/17 2:00	2021/12/21 7:59			1	0		En_Libao17		14	5	5700	3		
+90051	[Nona] Basic R&D Pack	[Nona] Basic R&D Pack	5	119	5000161								2021/11/17 2:00	2021/12/21 7:59			1	0		En_Libao26		14	5	5800	3		
+90052	[Nona] Weapon Reso. Bundle	[Nona] Weapon Reso. Bundle	5	229	5000162								2021/11/17 2:00	2021/12/21 7:59			1	0		En_Libao33		14	5	6000	3		
+90053	[Nona] Target Weapon Pack	[Nona] Target Weapon Pack	5	59	5000163								2021/11/17 2:00	2021/12/21 7:59			2	0		En_Libao18		14	5	5900	3		
+90054	[Nona] Arclight Awaken Bundle	[Nona] Arclight Awaken Bundle	5	59	5000164								2021/11/17 2:00	2021/12/21 7:59			4	0		En_Libao34		14	5	5600	3		
+90055	[Nona] Strike Hawk Support	[Nona] Strike Hawk Support	5	28	5000165								2021/11/17 2:00	2021/12/21 7:59			3	0		En_Libao35		14	5	5500	3		
+90056	Weekly Materials Supply Bundle	Weekly Materials Supply Bundle	5	28	5000166								2021/11/17 2:00	2021/12/21 7:59			1	1	10001	En_Libao28	1	14	5	6100	3		
+90057	Serum Daily Supply	Serum Daily Supply			5000167								2021/11/17 2:00				1	1	10000	UioDay	1	10	6	4500	3		
+90058	[T-Day] R&D Special Offer	[T-Day] R&D Special Offer	5	59	5000168								2021/11/24 8:00	2021/12/8 7:59			2	0		En_Libao36		14	5	5100	3		
+90059	[T-Day] Reso. Bundle	[T-Day] Reso. Bundle	5	299	5000169								2021/11/24 8:00	2021/12/8 7:59			1	0		En_Libao37		14	5	5200	3		
+90060	[T-Day] Serum Support - 7D	1 per day for 7 days	5	34	5000170	14000006	7						2021/11/24 8:00	2021/12/6 6:59			1	1	10001	En_Libao38	1	14	5	5400	3		
+90061	[T-Day] Battle Power Support - 5D	1 per day for 5 days	5	28	5000171	14000007	5						2021/11/24 8:00	2021/12/6 6:59			1	1	10001	En_Libao39	1	14	5	5300	3		
+90062	[Christmas] Set Bundle	[Christmas] Set Bundle	5	68	5000174								2021/12/6 8:00	2021/12/27 7:59			1	0		Jp_Libao22		14	7	30100	3		
+90063	[Christmas] Blueprint Bundle	[Christmas] Blueprint Bundle	5	20	5000175								2021/12/6 8:00	2021/12/27 7:59			1	0		En_Libao40		14	7	30200	3		
+90064	Dream Eater - Arclight	Dream Eater - Arclight	5	68	5000172								2021/11/18 8:00	2021/12/21 7:59			1	0		UioPifu57		14	7	2002	3		
+90065	Ink-lit Hermit Coating Bundle	Ink-lit Hermit Coating Bundle	5	168	5000173								2021/11/24 8:00	2021/12/21 7:59			1	0		En_UioPifu1		14	7	2001	3		
+90070	[K.M.] Event R&D Pack	[K.M.] Event R&D Pack	5	119	5000210								2021/12/22 2:00	2022/1/25 7:59			1	0		En_Libao41		14	5	5900	3		
+90071	[K.M.] Target Weapon Pack	[K.M.] Target Weapon Pack	5	59	5000211								2021/12/22 2:00	2022/1/25 7:59			2	0		En_Libao44		14	5	6100	3		
+90072	[K.M.] Basic R&D Pack	[K.M.] Basic R&D Pack	5	59	5000212								2021/12/22 2:00	2022/1/25 7:59			2	0		En_Libao42		14	5	6000	3		
+90073	[K.M.] Reso. Materials Bundle	[K.M.] Reso. Materials Bundle	5	199	5000213								2021/12/22 2:00	2022/1/25 7:59			1	0		En_Libao43		14	5	6200	3		
+90074	[Fest.] Advanced R&D Bundle	[Fest.] Advanced R&D Bundle	5	299	5000214								2021/12/23 8:00	2022/1/7 7:59			1	0		En_Libao45		14	5	5400	3		
+90075	[Fest.] Primary R&D Bundle	[Fest.] Primary R&D Bundle	5	59	5000215								2021/12/23 8:00	2022/1/7 7:59			1	0		En_Libao46		14	5	5500	3		
+90076	[Fest.] Serum Weekly Pass	1 per day for 7 days	5	34		14000010	7						2021/12/23 8:00	2022/1/7 7:59			1	0		En_Libao51		14	5	5800	3		
+90077	[Fest.] R&D Special Bundle	[Fest.] R&D Special Bundle	5	28	5000216								2021/12/23 8:00	2022/1/7 7:59			2	0		En_Libao47		14	5	5600	3		
+90078	[Fest.] Coating Blueprint Bundle	[Fest.] Coating Blueprint Bundle	5	28	5000217								2021/12/23 8:00	2022/1/7 7:59			4	0		En_Libao48		14	5	5700	3		
+90079	[Half Anniv.] Limited Bundle	[0.5 Anniv.] Limited Bundle	5	239	5000218								2022/1/14 8:00	2022/1/21 7:59			1	0		En_Libao49		14	5	5100	3		
+90080	[Half Anniv.] A-rank Pix Bundle	[0.5 Anniv.] A-rank Pix Bundle	5	34	5000219								2022/1/14 8:00	2022/1/21 7:59			1	0		En_Libao50		14	5	5200	3		
+90081	[Half Anniv.] Mini 5-day Pass	1 per day for 5 days	5	5	5000220	14000011	5						2022/1/14 8:00	2022/1/21 7:59			1	0		En_Libao52		14	5	5300	3		
+90082	[Chess] Set Bundle	[Chess] Set Bundle	5	68	5000221								2021/12/30 8:00	2022/1/25 7:59			1	0		Jp_JiajuLibao1		14	7	30080	3		
+90083	[Chess] Blueprint Bundle	[Chess] Blueprint Bundle	5	20	5000222								2021/12/30 8:00	2022/1/25 7:59			1	0		Jp_JiajuLibao2		14	7	30090	3		
+90084	Eventide Glow Coating Bundle	Eventide Glow Coating Bundle	5	168	5000223								2021/12/23 8:00	2022/1/25 7:59			1	0		En_UioPifu2		14	7	2001	3		
+90085	Benizakura - Plume	Benizakura - Plume	5	28	5000224								2021/12/23 8:00	2022/1/25 7:59			1	0		En_UioPifu3		14	7	2003	3		
+90086	Jolly Santanami - Pulse	Jolly Santanami - Pulse	5	126	5000225								2021/12/23 8:00	2022/1/7 7:59			1	0		En_UioPifu4		14	7	2002	3		
+90087	Hymn of Stars - Pulse	Hymn of Stars - Pulse	5	28	5000226								2021/12/23 8:00	2022/1/7 7:59			1	0		En_UioPifu5		14	7	2004	3		
+90088	Iris - Veritas	Iris - Veritas	5	28	5000227								2021/12/23 8:00	2022/1/25 7:59			1	0		En_UioPifu6		14	7	2005	3		
+90089	Danza Macabra - Tenebrion	Danza Macabra - Tenebrion	5	28	5000228								2021/12/23 8:00	2022/1/25 7:59			1	0		En_UioPifu7		14	7	2006	3		

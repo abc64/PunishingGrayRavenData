@@ -2102,7 +2102,7 @@
         "HitEffect": [
             "FxMb1OsirisMd000001ShouJiFire"
         ],
-        "DamageInterval": 0.5,
+        "DamageInterval": 0.7,
         "Effect": "FxMb1OsirisMd000002Attack102R",
         "DamageCount": "-1",
         "LineType": 1,
@@ -2346,7 +2346,7 @@
             "FxMb1OsirisMd000001Shouji2"
         ],
         "DamageInterval": 1,
-        "Effect": "FxYujingRing",
+        "Effect": "FxMb1OsirisMd000001Attack07YuJing",
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -2375,7 +2375,7 @@
     },
     {
         "Id": 87310104,
-        "Name": "近战-扇形伤害子弹出现",
+        "Name": "近战-扇形伤害子弹出现帧+1",
         "Shape": 3,
         "SizeX": 4.6,
         "SizeY": 140,
@@ -2406,7 +2406,7 @@
         "BeHitCenter": 1,
         "BeHitState": 873101041,
         "Magic": [
-            801025,
+            801027,
             873150
         ],
         "MagicLauncherNpc": [],
@@ -2418,7 +2418,7 @@
     },
     {
         "Id": 87310203,
-        "Name": "近战-矩形伤害子弹出现",
+        "Name": "近战-矩形伤害子弹出现帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 5,
@@ -2459,7 +2459,7 @@
     },
     {
         "Id": 87310302,
-        "Name": "近战-扇伤子弹出现",
+        "Name": "近战-扇伤子弹出现帧+1",
         "Shape": 3,
         "SizeX": 3.7,
         "SizeY": 140,
@@ -2502,7 +2502,7 @@
     },
     {
         "Id": 87310306,
-        "Name": "近战-扇伤出现",
+        "Name": "近战-扇伤出现帧+1",
         "Shape": 1,
         "SizeX": 2.5,
         "SizeY": 7.5,
@@ -2533,7 +2533,7 @@
         "BeHitCenter": 3,
         "BeHitState": 873103061,
         "Magic": [
-            801010,
+            801015,
             873153
         ],
         "MagicLauncherNpc": [],
@@ -2545,7 +2545,7 @@
     },
     {
         "Id": 87310310,
-        "Name": "近战-扇伤开始",
+        "Name": "近战-扇伤开始帧+1",
         "Shape": 3,
         "SizeX": 5,
         "SizeY": 180,
@@ -2576,7 +2576,7 @@
         "BeHitCenter": 1,
         "BeHitState": 873103101,
         "Magic": [
-            801033,
+            801015,
             873154
         ],
         "MagicLauncherNpc": [],
@@ -2588,7 +2588,7 @@
     },
     {
         "Id": 87310506,
-        "Name": "近战击飞-扫击开始",
+        "Name": "近战击飞-扫击开始帧+1",
         "Shape": 3,
         "SizeX": 5,
         "SizeY": 130,
@@ -2631,7 +2631,7 @@
     },
     {
         "Id": 87310508,
-        "Name": "近战击飞-挑击",
+        "Name": "近战击飞-挑击帧+1",
         "Shape": 1,
         "SizeX": 2.5,
         "SizeY": 4.5,
@@ -3143,7 +3143,7 @@
     },
     {
         "Id": 87310802,
-        "Name": "位移-扫动开始",
+        "Name": "位移-扫动开始帧+1",
         "Shape": 3,
         "SizeX": 5,
         "SizeY": 110,
@@ -3185,7 +3185,7 @@
     },
     {
         "Id": 87310804,
-        "Name": "位移-扫动开始",
+        "Name": "位移-扫动开始帧+1",
         "Shape": 3,
         "SizeX": 5,
         "SizeY": 150,
@@ -3265,7 +3265,7 @@
     },
     {
         "Id": 87310906,
-        "Name": "近战-伤害帧",
+        "Name": "近战-伤害帧帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 10,
@@ -3339,7 +3339,7 @@
     },
     {
         "Id": 87311002,
-        "Name": "远程-横扫开始",
+        "Name": "远程-横扫开始帧+1",
         "Shape": 1,
         "SizeX": 6,
         "SizeY": 4,
@@ -3380,7 +3380,7 @@
     },
     {
         "Id": 87311004,
-        "Name": "远程-竖劈",
+        "Name": "远程-竖劈帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 5,
@@ -3421,7 +3421,7 @@
     },
     {
         "Id": 87311005,
-        "Name": "远程-十字斩出击",
+        "Name": "远程-十字斩出击帧+1",
         "Shape": 3,
         "SizeX": 15,
         "SizeY": 120,
@@ -3462,7 +3462,7 @@
     },
     {
         "Id": 87311304,
-        "Name": "骚套路-挑击",
+        "Name": "骚套路-挑击帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 5,
@@ -3536,7 +3536,7 @@
     },
     {
         "Id": 87330106,
-        "Name": "空中戳-落地",
+        "Name": "空中戳-落地帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -3565,7 +3565,7 @@
         "BeHitCenter": 3,
         "BeHitState": 873301061,
         "Magic": [
-            801015,
+            801020,
             873301
         ],
         "MagicLauncherNpc": [],
@@ -3577,7 +3577,7 @@
     },
     {
         "Id": 87330107,
-        "Name": "空中戳-扫",
+        "Name": "空中戳-扫帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -3606,7 +3606,7 @@
         "BeHitCenter": 3,
         "BeHitState": 873301071,
         "Magic": [
-            801020,
+            801025,
             873302
         ],
         "MagicLauncherNpc": [],
@@ -3651,7 +3651,7 @@
     },
     {
         "Id": 87330201,
-        "Name": "盾击突刺-1",
+        "Name": "盾击突刺-1帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -3692,7 +3692,7 @@
     },
     {
         "Id": 87330202,
-        "Name": "盾击突刺-2",
+        "Name": "盾击突刺-2帧+1",
         "Shape": 3,
         "SizeX": 4,
         "SizeY": 72,
@@ -3723,7 +3723,7 @@
         "BeHitCenter": 1,
         "BeHitState": 873302021,
         "Magic": [
-            801020,
+            801002,
             873304
         ],
         "MagicLauncherNpc": [],
@@ -3735,7 +3735,7 @@
     },
     {
         "Id": 87330301,
-        "Name": "快速三连-1",
+        "Name": "快速三连-1帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -3776,7 +3776,7 @@
     },
     {
         "Id": 87330302,
-        "Name": "快速三连-2",
+        "Name": "快速三连-2帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -3817,7 +3817,7 @@
     },
     {
         "Id": 87330303,
-        "Name": "快速三连-3",
+        "Name": "快速三连-3帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -4232,7 +4232,7 @@
         "OffsetY": 2,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.2,
+        "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
             "FxMb1LuosaitaMd010002Attack05Shouji02"
@@ -4484,7 +4484,7 @@
     },
     {
         "Id": 87330705,
-        "Name": "落地-5",
+        "Name": "落地-5帧+1",
         "Shape": 2,
         "SizeX": 4,
         "Speed": 0,
@@ -4523,7 +4523,7 @@
     },
     {
         "Id": 87330706,
-        "Name": "落地-6",
+        "Name": "落地-6帧+1",
         "Shape": 3,
         "SizeX": 4,
         "SizeY": 90,
@@ -4553,7 +4553,7 @@
         "BeHitCenter": 1,
         "BeHitState": 873307061,
         "Magic": [
-            801005,
+            801002,
             873313
         ],
         "MagicLauncherNpc": [],
@@ -4566,8 +4566,9 @@
     {
         "Id": 87331101,
         "Name": "移动剑风-1",
-        "Shape": 2,
-        "SizeX": 0.1,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 4,
         "Speed": 50,
         "Direction": 0,
         "TargetType": 4,
@@ -4831,7 +4832,7 @@
     },
     {
         "Id": 87331501,
-        "Name": "旋转连击-1",
+        "Name": "旋转连击-1帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -4872,7 +4873,7 @@
     },
     {
         "Id": 87331502,
-        "Name": "旋转连击-2",
+        "Name": "旋转连击-2帧+1",
         "Shape": 3,
         "SizeX": 4,
         "SizeY": 72,
@@ -4903,7 +4904,7 @@
         "BeHitCenter": 1,
         "BeHitState": 873315021,
         "Magic": [
-            801010,
+            801001,
             873321
         ],
         "MagicLauncherNpc": [],
@@ -4915,7 +4916,7 @@
     },
     {
         "Id": 87331503,
-        "Name": "旋转连击-3",
+        "Name": "旋转连击-3帧+1",
         "Shape": 3,
         "SizeX": 4,
         "SizeY": 72,
@@ -4955,7 +4956,7 @@
     },
     {
         "Id": 87331601,
-        "Name": "地裂斩-1",
+        "Name": "地裂斩-1帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -4998,7 +4999,7 @@
     },
     {
         "Id": 87331602,
-        "Name": "地裂斩-2",
+        "Name": "地裂斩-2帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,
@@ -5041,7 +5042,7 @@
     },
     {
         "Id": 87331603,
-        "Name": "地裂斩-3",
+        "Name": "地裂斩-3帧+1",
         "Shape": 1,
         "SizeX": 2,
         "SizeY": 4,

@@ -1,30 +1,12 @@
 [
     {
-        "Id": 10100101,
-        "Behavior": 10100101,
-        "Name": "第一次boss战",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 50,
-        "CameraId": 9,
-        "Terrains": [
-            101001010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 10100102,
         "Behavior": 10100102,
-        "Name": "永动列车车顶",
+        "Name": "第一回BOSS戦",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 43,
-        "CameraId": 9,
+        "SceneCamera": 11,
+        "CameraId": 13,
         "Terrains": [
             101001020
         ],
@@ -38,10 +20,12 @@
     {
         "Id": 10100103,
         "Behavior": 10100103,
-        "Name": "第一节车厢",
+        "Name": "永久列車車輌屋根",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 52,
+        "SceneCamera": 63,
         "CameraId": 9,
         "Terrains": [
             101001030
@@ -56,11 +40,11 @@
     {
         "Id": 10100104,
         "Behavior": 10100104,
-        "Name": "第二节车厢",
+        "Name": "第1車輌",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 52,
-        "CameraId": 1,
+        "SceneCamera": 11,
+        "CameraId": 9,
         "Terrains": [
             101001040
         ],
@@ -72,15 +56,15 @@
         ]
     },
     {
-        "Id": 10100105,
-        "Behavior": 10100105,
-        "Name": "第二次boss战",
+        "Id": 10100201,
+        "Behavior": 10100201,
+        "Name": "第2車輌",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 43,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
-            101001050
+            101002010
         ],
         "Position": [
             "0|0|0"
@@ -90,91 +74,109 @@
         ]
     },
     {
-        "Id": 10100106,
-        "Behavior": 10100106,
-        "Name": "比安卡清除障碍",
+        "Id": 10100202,
+        "Behavior": 10100202,
+        "Name": "第二回BOSS戦",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 63,
+        "CameraId": 13,
+        "Terrains": [
+            101002020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100203,
+        "Behavior": 10100203,
+        "Name": "ビアンカ障害除去",
         "Environment": "Scene01003",
         "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 46,
+        "SceneCamera": 22,
+        "CameraId": 9,
+        "Terrains": [
+            101002030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100204,
+        "Behavior": 10100204,
+        "Name": "蓝球1消-红球被动子弹2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 22,
+        "CameraId": 9,
+        "Terrains": [
+            101002040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100301,
+        "Behavior": 10100301,
+        "Name": "ビアンカの車輌の上の戦闘",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 65,
+        "CameraId": 9,
+        "Terrains": [
+            101003010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100302,
+        "Behavior": 10100302,
+        "Name": "蓝球2消-红球被动子弹2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 64,
+        "CameraId": 9,
+        "Terrains": [
+            101003020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10100303,
+        "Behavior": 10100303,
+        "Name": "最終BOSS戦",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
         "CameraId": 10,
         "Terrains": [
-            101001060
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10100107,
-        "Behavior": 10100107,
-        "Name": "比安卡跳入列车",
-        "Environment": "Scene01003",
-        "TerrainRoot": "Test",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 46,
-        "CameraId": 9,
-        "Terrains": [
-            101001070
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10100108,
-        "Behavior": 10100108,
-        "Name": "比安卡在车顶的战斗",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 52,
-        "CameraId": 1,
-        "Terrains": [
-            101001080
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10100109,
-        "Behavior": 10100109,
-        "Name": "摩托追逐战",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 52,
-        "CameraId": 9,
-        "Terrains": [
-            101001090
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10100110,
-        "Behavior": 10100110,
-        "Name": "最终boss战",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 50,
-        "CameraId": 9,
-        "Terrains": [
-            101001100
+            101003030
         ],
         "Position": [
             "0|0|0"

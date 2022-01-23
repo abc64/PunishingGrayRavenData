@@ -5,7 +5,7 @@
         "Name": "空间站 - 合二为一",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 30,
+        "SceneCamera": 17,
         "CameraId": 9,
         "Terrains": [
             110901010
@@ -23,7 +23,7 @@
         "Name": "空间站 - 始即为终",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             110901020
@@ -41,10 +41,122 @@
         "Name": "空间站 - 从虚至实",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             110901030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100101,
+        "Behavior": 11100101,
+        "Name": "第十章隐藏1-1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111001010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100102,
+        "Behavior": 11100102,
+        "Name": "第十章隐藏1-2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111001020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100103,
+        "Behavior": 11100103,
+        "Name": "第十章隐藏1-3",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111001030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100104,
+        "Behavior": 11100104,
+        "Name": "第十章隐藏1-4",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 63,
+        "CameraId": 9,
+        "Terrains": [
+            111001040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100105,
+        "Behavior": 11100105,
+        "Name": "第十章隐藏1-5",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 63,
+        "CameraId": 9,
+        "Terrains": [
+            111001050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11100106,
+        "Behavior": 11100106,
+        "Name": "第十章隐藏1-6",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111001060
         ],
         "Position": [
             "0|0|0"

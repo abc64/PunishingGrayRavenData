@@ -40,8 +40,8 @@ Id	Key[1]	Key[2]	Key[3]	Key[4]	Key[5]	Key[6]	Key[7]	Key[8]	Key[9]	Key[10]	Key[11
 101616	0|Magic|100091|0	62|Magic|100092|0	2|Cast|10161604	11|Cast|10161605	22|Cast|10161606	28|Cast|10161607	31|Cast|10161608	34|Cast|10161609	38|Cast|10161610	41|Cast|10161611	0|Effect|FxR3ShenweiQte||	0|Cast|10161613	0|Effect|FxR3ShenweiQteWuqi|WeaponCase1|	41|Cast|10161615																																																																		
 101617	0|Magic|100090|0	1|Effect|FxR3ShenweiAttackMove01|Bip001RFoot|	10|Magic|100094|0																																																																													
 101618	0|Magic|100090|0	1|Effect|FxR3ShenweiAttackMove02|Bip001LFoot|	10|Magic|100094|0																																																																													
-101619	40|Magic|101670|0	0|Magic|101673|0	0|Magic|101674|0	0|Magic|100091|0	60|Magic|100092|0	34|Cast|10161906	0|Effect|FxR3ShenweiAttack51||	0|Magic|101677|0	0|Magic|101678|0	0|Cast|10161910	0|Magic|101697|0	0|Magic|101698|0	0|Magic|101699|0																																																																			
-101620	0|Magic|101663|0	1|Effect|FxR3ShenweiWin||	0|Magic|101687|0																																																																													
+101619	0|Magic|101670|0	0|Magic|101673|0	0|Magic|101674|0	0|Magic|100091|0	60|Magic|100092|0	34|Cast|10161906	0|Effect|FxR3ShenweiAttack51||	0|Magic|101677|0	0|Magic|101678|0	0|Cast|10161910	0|Magic|101697|0	0|Magic|101698|0	34|Magic|101689|0	0|Magic|101699|0																																																																		
+101620	0|Magic|101663|0	1|Effect|FxR3ShenweiWin||	0|Magic|101687|0	0|Magic|101619|0	0|Magic|101689|0																																																																											
 101621																																																																																
 101622	0|Magic|101662|0	1|Effect|FxR3ShenweiBorn||1	0|Magic|101686|0																																																																													
 101623	0|Effect|FxR3ShenweiAttackB01||1	3|Cast|10162302																																																																														
@@ -75,7 +75,7 @@ Id	Key[1]	Key[2]	Key[3]	Key[4]	Key[5]	Key[6]	Key[7]	Key[8]	Key[9]	Key[10]	Key[11
 102312	1|Effect|FxR3LifuAttack31||	8|Magic|102333|0	8|Magic|102334|0	1|Move|2|0.7|	8|Shake|4|0.25|-0.5|8|0.2|0																																																																											
 102313	1|Effect|FxR3LifuAttack31||	8|Magic|102335|0	8|Magic|102336|0	1|Move|2|0.7|	8|Shake|4|0.25|-0.5|8|0.2|0																																																																											
 102314	1|Effect|FxR3LifuAttack31||	8|Magic|102337|0	8|Magic|102338|0	1|Move|2|0.7|	8|Shake|4|0.25|-0.5|8|0.2|0																																																																											
-102315	26|Move|5|5|	1|Effect|FxR3LifuAttack51||	0|Magic|102351|0	0|Magic|102352|0	0|Magic|100091|0	25|Magic|100092|0	25|Magic|102350|0	25|Cast|10231508	0|Cast|10231509	126|Magic|102358|0																																																																						
+102315	26|Move|5|5|	1|Effect|FxR3LifuAttack51||	0|Magic|102351|0	0|Magic|102352|0	0|Magic|100091|0	25|Magic|100092|0	25|Magic|102350|0	25|Cast|10231509	0|Cast|10231510																																																																							
 102316	0|Magic|102361|0	1|Effect|FxR3LifuBorn||	0|Magic|102373|0																																																																													
 102317	1|Effect|FxR3LifuAttack13||	1|Move|2|1|	6|Cast|10231703	6|Cast|10231704	7|Shake|3|0.2|-1|10|0.15|0																																																																											
 102318	0|Magic|100091|0	45|Magic|100092|0	12|Cast|10231803	12|Cast|10231806	29|Cast|10231807																																																																											
@@ -85,55 +85,8 @@ Id	Key[1]	Key[2]	Key[3]	Key[4]	Key[5]	Key[6]	Key[7]	Key[8]	Key[9]	Key[10]	Key[11
 102322																																																																																
 102323																																																																																
 102324																																																																																
-101701	4|Cast|10170101	0|Effect|FxR3KalieninaAttack01||1																																																																														
-101702	3|Cast|10170201	0|Effect|FxR3KalieninaAttack02||1																																																																														
-101703	4|Cast|10170301	8|Cast|10170302	12|Cast|10170303	0|Effect|FxR3KalieninaAttack03||1																																																																												
-101704	6|Cast|10170401	8|Cast|10170402	12|Cast|10170403	14|Cast|10170404	17|Cast|10170405	0|Effect|FxR3KalieninaAttack04||1																																																																										
-101705	5|Cast|10170501	14|Cast|10170502	0|Effect|FxR3KalieninaAttack11||1	14|Cast|10170504	14|Shake|2|0.3|-0.5|25|0.35|1	0|Magic|101798|0																																																																										
-101706	5|Cast|10170601	14|Cast|10170602	0|Effect|FxR3KalieninaAttack11||1	14|Cast|10170604	14|Shake|2|0.3|-0.5|25|0.35|1	0|Magic|101798|0																																																																										
-101707	5|Cast|10170701	14|Cast|10170702	0|Effect|FxR3KalieninaAttack13||1	14|Cast|10170704	0|Effect|FxR3KalieninaAttack13Weapon|WeaponCase1|1	14|Shake|2|0.3|-0.5|25|0.35|1	0|Magic|101798|0																																																																									
-101708	0|Magic|101727|0	0|Effect|FxR3KalieninaAttack21||1	1|Magic|101726|0	1|Magic|101723|0	0|Cast|10170806	6|Cast|10170807																																																																										
-101709	0|Magic|101727|0	0|Effect|FxR3KalieninaAttack21||1	1|Magic|101726|0	1|Magic|101724|0	0|Cast|10170905	6|Cast|10170906																																																																										
-101710	0|Magic|101727|0	0|Effect|FxR3KalieninaAttack23||1	1|Magic|101726|0	1|Magic|101725|0	0|Cast|10171005	6|Cast|10171006																																																																										
-101711	10|Cast|10171101	0|Magic|101798|0	13|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10171111	0|Effect|FxR3KalieninaAttack31Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101712	10|Cast|10171201	0|Magic|101798|0	13|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10171211	0|Effect|FxR3KalieninaAttack31Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101713	10|Cast|10171301	0|Magic|101798|0	13|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10171311	0|Effect|FxR3KalieninaAttack33Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101714	0|Magic|101791|0	0|Magic|101765|0																																																																														
-101715	5|Cast|10171501	14|Cast|10171502	0|Effect|FxR3KalieninaAttack13||1	14|Cast|10171504	0|Effect|FxR3KalieninaAttack13Weapon|WeaponCase1|1	14|Shake|2|0.3|-0.5|25|0.35|1																																																																										
-101716	42|Cast|10171601|10171602	0|Magic|100091|0	98|Magic|100092|0	0|Cast|10171616	0|Effect|FxR3KalieninaAttack51Weapon|WeaponCase1|0	0|Magic|101794|0	0|Cast|10171619																																																																									
-101717	0|Magic|101793|0	0|Magic|101792|0	0|Magic|101759|0																																																																													
-101718																																																																																
-101719	6|Cast|10171901	0|Magic|100091|0	40|Magic|100092|0	5|Cast|10171909	0|Effect|FxR3KalieninaAttackQteWeapon|WeaponCase1|1	4|Cast|10171911	5|Magic|101709|0	5|Magic|101719|0	40|Magic|101739|0	35|Cast|10171915																																																																						
-101720	0|Magic|100090|0	10|Magic|100094|0	1|Cast|10172003	7|Cast|10172004	1|Effect|FxR3KalieninaMove00|HitCase|0																																																																											
-101721	0|Magic|100090|0	10|Magic|100094|0	1|Cast|10172103	7|Cast|10172104	1|Effect|FxR3KalieninaMove00|HitCase|0																																																																											
-101722																																																																																
-101723	4|Cast|10172301	0|Effect|FxR3KalieninaAttack01Ex||1	0|Effect|FxR3KalieninaAttack01ExWeapon|WeaponCase1|1																																																																													
-101724	3|Cast|10172401	0|Effect|FxR3KalieninaAttack02Ex||1	0|Effect|FxR3KalieninaAttack02ExWeapon|WeaponCase1|1																																																																													
-101725	4|Cast|10172501	8|Cast|10172502	12|Cast|10172503	0|Effect|FxR3KalieninaAttack03Ex||1	0|Effect|FxR3KalieninaAttack03ExWeapon|WeaponCase1|1																																																																											
-101726	6|Cast|10172601	8|Cast|10172602	12|Cast|10172603	14|Cast|10172604	17|Cast|10172605	0|Effect|FxR3KalieninaAttack04Ex||1	0|Effect|FxR3KalieninaAttack04ExWeapon|WeaponCase1|1																																																																									
-101727	5|Cast|10172701	14|Cast|10172702	0|Effect|FxR3KalieninaAttack11Ex||1	14|Cast|10172704	0|Effect|FxR3KalieninaAttack11ExWeapon|WeaponCase1|1	14|Shake|2|0.4|-0.5|25|0.35|1	0|Magic|101798|0																																																																									
-101728	5|Cast|10172801	14|Cast|10172802	0|Effect|FxR3KalieninaAttack11Ex||1	14|Cast|10172804	0|Effect|FxR3KalieninaAttack11ExWeapon|WeaponCase1|1	14|Shake|2|0.4|-0.5|25|0.35|1	0|Magic|101798|0																																																																									
-101729	5|Cast|10172901	14|Cast|10172902	0|Effect|FxR3KalieninaAttack13Ex||1	14|Cast|10172904	0|Effect|FxR3KalieninaAttack13ExWeapon|WeaponCase1|1	14|Shake|2|0.4|-0.5|25|0.35|1	0|Magic|101798|0																																																																									
-101730	10|Cast|10173001	0|Magic|101798|0	10|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10173011	0|Effect|FxR3KalieninaAttack31Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101731	10|Cast|10173101	0|Magic|101798|0	10|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10173111	0|Effect|FxR3KalieninaAttack31Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101732	10|Cast|10173201	0|Magic|101798|0	10|Magic|101799|0	10|Shake|2|0.35|-1|25|0.2|3	10|Shake|1|0|0.2|25|0.8|4	10|Cast|10173211	0|Effect|FxR3KalieninaAttack33Move||1	0|Magic|101770|0	13|Magic|101771|0																																																																							
-101733	4|Cast|10173301	0|Effect|FxR3KalieninaAttack01||1	1|Move|15|0.1|0																																																																													
-101734	4|Cast|10173401	0|Effect|FxR3KalieninaAttack01Ex||1	0|Effect|FxR3KalieninaAttack01ExWeapon|WeaponCase1|1	1|Move|15|0.1|0																																																																												
-111701	6|Cast|11170101	6|Cast|11170102	0|Turn|60|0.3|1																																																																													
-111702	6|Cast|11170201	6|Cast|11170202	0|Turn|60|0.3|1																																																																													
-111703	6|Cast|11170301	6|Cast|11170302	0|Turn|60|0.3|1																																																																													
-111704	16|Cast|11170402	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-111705	16|Cast|11170502	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-111706	16|Cast|11170602	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-111707	0|Effect|FxR3KalieninaFlyBorn||1																																																																															
-111708	0|Cast|11170802																																																																															
-111709	6|Cast|11170901	6|Cast|11170902	0|Turn|60|0.3|1																																																																													
-111710	6|Cast|11171001	6|Cast|11171002	0|Turn|60|0.3|1																																																																													
-111711	6|Cast|11171101	6|Cast|11171102	0|Turn|60|0.3|1																																																																													
-111712	16|Cast|11171202	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-111713	16|Cast|11171302	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-111714	16|Cast|11171402	0|Effect|FxR3KalieninaFlyAttack02||1	0|Turn|100|0.8|1																																																																													
-121701	999|Cast|12170101	0|Turn|960|1.66|1	0|Effect|FxEquipKuroChusheng|Root|1	30|Effect|FxEquipKuroChongzhuang|Root|1																																																																												
+121701	0|Magic|760616|0	0|Cast|12170103	79|Cast|12170104																																																																													
+121702																																																																																
 131701	0|Effect|FxRE2SwordMd120111Attack01||1	2|Cast|13170102	7|Cast|13170103	14|Cast|13170104	31|Cast|13170105																																																																											
 131702	0|Effect|FxRE2SwordMd120111Attack02||1	7|Cast|13170202	12|Cast|13170203	22|Cast|13170204	25|Cast|13170205	28|Cast|13170206	37|Cast|13170207																																																																									
 131703	0|Effect|FxRE2SwordMd120111Attack03||1	1|Cast|13170302																																																																														

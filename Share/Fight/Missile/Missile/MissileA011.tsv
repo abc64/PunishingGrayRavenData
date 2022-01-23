@@ -1,0 +1,39 @@
+Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
+12320101	普攻1-1	3	2.25	180		0.3	0			4			0.1						-1		FxR4LuxiyaAttack01AShouji						-1			1					0	0	0								0							0	3		0.2	0.1	123201011	103201							123201012	1			0					0	1				
+12320201	普攻2-1	1	3	2.75		1.25	0			4			0.1						-1		FxR4LuxiyaAttack02AShouji						-1			1					0	0	0								0							0	3		0.2	0.1	123202011	103202							123202012	1.2			0					0	1				
+12320301	普攻3-1	1	3	2.75		1	0			4			0.1						-1		FxR4LuxiyaAttack03AShouji						-1			1					0	0	0								0							0	3		0.2	0.1	123203011	103203	103207				103206			1.2			0					0	1				
+12320401	普攻4-1	3	2.5	210		0.5	0			4			0.1						-1		FxR4LuxiyaAttack04AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123204011	103204							123204012	0.9			0					0	1				
+12320402	普攻4-2	3	2.25	210		0.5	0			4			0.1						-1		FxR4LuxiyaAttack04AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123204021	103204							123204022	1.2			0					0	1				
+12320403	普攻4-3	3	2.5	210		0.5	0			4			0.1						-1		FxR4LuxiyaAttack04AShouji03						-1			1					0	0	0								0							0	3		0.2	0.1	123204031	103204							123204032	1			0					0	1				
+12320404	普攻4-4	3	2.5	210		0.5	0			4			0.1						-1		FxR4LuxiyaAttack04AShouji04						-1			1					0	0	0								0							0	3		0.2	0.1	123204041	103204							123204042	0.8			0					0	1				
+12320501	普攻5-1	3	2.5	210		0.5	0			4			0.1						-1		FxR4LuxiyaAttack05AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123205011	103205							123205012	1.2			0					0	1				
+12320502	普攻5-2	3	3.5	240		1	0			4			0.1						-1		FxR4LuxiyaAttack05AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123205021	103205	103209				103208		123205022	1.1			0					0	1				
+12320601	红球1消-1	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123206011	103210							123206012	1			0					0	1				
+12320602	红球1消-2	3	2.5	210	0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123206021	103210							123206022	1.1			0					0	1				
+12320603	红球1消-3	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji03						-1			1					0	0	0								0							0	3		0.2	0.1	123206031	103210							123206032	1			0					0	1				
+12320604	红球1消-4	1	3	4.5	0.5	2.25	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji04						-1			1					0	0	0								0							0	3		0.2	0.1	123206041	103210								1			0					0	1				
+12320701	红球2消-1	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123207011	103211							123207012	1			0					0	1				
+12320702	红球2消-2	3	2.5	210	0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123207021	103211							123207022	1.1			0					0	1				
+12320703	红球2消-3	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji03						-1			1					0	0	0								0							0	3		0.2	0.1	123207031	103211							123207032	1			0					0	1				
+12320704	红球2消-4	1	3	4.5	0.5	2.25	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji04						-1			1					0	0	0								0							0	3		0.2	0.1	123207041	103211								1			0					0	1				
+12320801	红球3消-1	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123208011	103212							123208012	1			0					0	1				
+12320802	红球3消-2	3	2.5	210	0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123208021	103212							123208022	1.1			0					0	1				
+12320803	红球3消-3	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji03						-1			1					0	0	0								0							0	3		0.2	0.1	123208031	103212							123208032	1			0					0	1				
+12320804	红球3消-4	1	3	4.5	0.5	2.25	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji04						-1			1					0	0	0								0							0	3		0.2	0.1	123208041	103212								1			0					0	1				
+12320811	红球3消-11	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji05						-1			1					0	0	0								0							0	3		0.2	0.1	123208111	103212								1			0					0	1				
+12320812	红球3消-12	3	2.5	210	0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji06						-1			1					0	0	0								0							0	3		0.2	0.1	123208121	103212								1.1			0					0	1				
+12320813	红球3消-13	3	2.5	210	-0.75	0.5	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji07						-1			1					0	0	0								0							0	3		0.2	0.1	123208131	103212								1			0					0	1				
+12320814	红球3消-14	1	3	4.5	0.5	2.25	0			4			0.1						-1		FxR4LuxiyaAttack11AShouji08						-1			1					0	0	0								0							0	3		0.2	0.1	123208141	103212								1			0					0	1				
+12320901	蓝球1消-1	1	2	3.75			0			4			0.4						-1	1	FxR4LuxiyaAttack21AShouji01		0.1				-1			1					0	0	0								0							0	3		0.2	0.1	123209011	103213								1			1					0	1				
+12320902	蓝球1消-2	1	2	4		2	0			4			0.1						-1		FxR4LuxiyaAttack21AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123209021	103214								1			1					0	1				
+12321001	蓝球2消-1	1	2	3.75			0			4			0.4						-1	1	FxR4LuxiyaAttack21AShouji01		0.1				-1			1					0	0	0								0							0	3		0.2	0.1	123210011	103215								1			1					0	1				
+12321002	蓝球2消-2	1	2	4		2	0			4			0.1						-1		FxR4LuxiyaAttack21AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123210021	103216								1			1					0	1				
+12321101	蓝球3消-1	1	2	3.75			0			4			0.4						-1	1	FxR4LuxiyaAttack21AShouji01		0.1				-1			1					0	0	0								0							0	3		0.2	0.1	123211011	103217								1			1					0	1				
+12321102	蓝球3消-2	1	2	6		4	0			4			0.1						-1		FxR4LuxiyaAttack21AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123211021	103218								1			1					0	1				
+12321201	黄球1消-1	2	3			0.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123212011	103219	103222				103222		123212012	0.2			0					0	1				
+12321202	黄球1消-2	1	2.5	5		2.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123212021	103219	103222				103222			1			0					0	1				
+12321301	黄球2消-1	2	3			0.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123213011	103220	103222				103222		123213012	0.2			0					0	1				
+12321302	黄球2消-2	1	2.5	5		2.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123213021	103220	103222				103222			1			0					0	1				
+12321401	黄球3消-1	2	3			0.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji01						-1			1					0	0	0								0							0	3		0.2	0.1	123214011	103221	103222				103222		123214012	0.2			0					0	1				
+12321402	黄球3消-2	1	2.5	5		2.5	0			4			0.1						-1		FxR4LuxiyaAttack31AShouji02						-1			1					0	0	0								0							0	3		0.2	0.1	123214021	103221	103222				103222			1			0					0	1				
+12322401	普攻1（突进）-1	3	2.25	180		0.5	0			4			0.1						-1		FxR4LuxiyaAttack01AShouji						-1			1					0	0	0								0							0	3		0.2	0.1	123224011	103201							123224012	1			0					0	1				

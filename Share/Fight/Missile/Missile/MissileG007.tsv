@@ -1,0 +1,18 @@
+Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
+99811001	激光	1	2	15		7	0			2			2.8						-1								-1			1					0	0	0								0							0	1				998110011	700210								0	HitCase	1	0		1			0					
+99811003	激光	1	2	15		7	0			4			2.8						-1							2.25	-1			1					0	0	0								0							0	1					760491								0	HitCase	1	0		1			0					
+99811004	激光	1	2	15		7	0			4			2.8						-1							2.25	-1			1					0	0	0								0							0	1					701052	701053	701054	701055					0	HitCase	1	0		1			0					
+99811005	传送点子弹CS11	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750501	750504							0	HitCase	0	0		0			0					
+99811006	传送点子弹CS22	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750502	750505							0	HitCase	0	0		0			0					
+99811007	传送点子弹CS4	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750503	750508							0	HitCase	0	0		0			0					
+99811008	传送点子弹BD1	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750509								0	HitCase	0	0		0			0					
+99811009	传送点子弹BD2	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750510								0	HitCase	0	0		0			0					
+99811010	传送点子弹BK	2	2				0			4			300						-1	1							-1			1					0	0	0								3							0	1					750513								0	HitCase	0	0		0			0					
+99811011	回血BUFF子弹	2	0.1				0			1			0.1						-1	1							-1			1					0	0	0								1							0	1					750521								0	HitCase	0	1		0			0					
+99811012	强化BUFF子弹	2	0.1				0			1			0.1						-1	1							-1			1					0	0	0								1							0	1					750522								0	HitCase	0	1		0			0					
+99811013	削弱BUFF子弹	2	0.1				0			1			0.1						-1	1							-1			1					0	0	0								1							0	1					750523								0	HitCase	0	1		0			0					
+99811014	削弱BUFF子子弹	2	5				0			3			0.1						-1	1							-1			1					0	0	0								1							0	1					750518								0	HitCase	0	1		0			0					
+99811015	削弱BUFF子子弹	2	5				0			3			0.1						-1	1							-1			1					0	0	0								1							0	1					750519								0	HitCase	0	1		0			0					
+99811016	削弱BUFF子子弹	2	5				0			3			0.1						-1	1							-1			1					0	0	0								1							0	1					750520								0	HitCase	0	1		0			0					
+99811017	伤害子弹	2	2				40			4			5						1	1							-1			1					0	0	0								3							1	1					801010								0	HitCase		0					0					
+99811018	眩晕子弹	2	2				40			4			1						1	1							-1			1					0	0	0								3							1	1					750524								0	HitCase		0					0					

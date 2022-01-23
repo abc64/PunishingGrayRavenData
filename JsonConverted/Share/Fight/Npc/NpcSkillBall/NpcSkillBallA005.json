@@ -1,37 +1,107 @@
 [
     {
         "Id": 101401,
-        "Icon": "Assets/Product/Texture/Image/UiFightBallBox/FightSkillIconR2Bianka11.png",
-        "LinkEffect": "FxUiBallLinkRed",
-        "ReleaseEffect": "FxUi009",
-        "ExEffect": "FxUijixianshanbi"
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR3Bianka11.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkRed"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
     },
     {
         "Id": 101402,
-        "Icon": "Assets/Product/Texture/Image/UiFightBallBox/FightSkillIconR2Bianka21.png",
-        "LinkEffect": "FxUiBallLinkBlue",
-        "ReleaseEffect": "FxUi009",
-        "ExEffect": "FxUijixianshanbi"
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR3Bianka21.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkBlue"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
     },
     {
         "Id": 101403,
-        "Icon": "Assets/Product/Texture/Image/UiFightBallBox/FightSkillIconR2Bianka31.png",
-        "LinkEffect": "FxUiBallLinkYellow",
-        "ReleaseEffect": "FxUi009",
-        "ExEffect": "FxUijixianshanbi"
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR3Bianka31.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkYellow"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
     },
     {
-        "Id": 101404,
-        "Icon": "Assets/Product/Texture/Image/UiFightBallBox/FightSupportSkillIcon.png",
-        "LinkEffect": "FxUiBallLinkBlue",
-        "ReleaseEffect": "FxUi009",
-        "ExEffect": "FxUijixianshanbi"
+        "Id": 110201,
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR2Kuluomu11.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkRed"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
     },
     {
-        "Id": 101405,
-        "Icon": "Assets/Product/Texture/Image/UiFightBallBox/FightSupSkillIcon.png",
-        "LinkEffect": "FxUiBallLinkBlue",
-        "ReleaseEffect": "FxUi009",
-        "ExEffect": "FxUijixianshanbi"
+        "Id": 110202,
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR2Kuluomu21.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkBlue"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
+    },
+    {
+        "Id": 110203,
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconR2Kuluomu31.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkYellow"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
+    },
+    {
+        "Id": 110204,
+        "Icon": [
+            "Assets/Product/Texture/Image/UiFight/FightSkillIconSneak.png"
+        ],
+        "LinkEffect": [
+            "FxUiBallLinkBlue"
+        ],
+        "ReleaseEffect": [
+            "FxUi009"
+        ],
+        "ExEffect": [
+            "FxUijixianshanbi"
+        ]
     }
 ]

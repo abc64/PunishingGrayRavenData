@@ -55,6 +55,11 @@
         "Value": 6
     },
     {
+        "Key": "MinEquipAwakeStar",
+        "Type": "int",
+        "Value": 6
+    },
+    {
         "Key": "EquipTransformChipUseCount",
         "Type": "int",
         "Value": 3
@@ -220,41 +225,6 @@
         "Value": "Common.CommonProp"
     },
     {
-        "Key": "QualityIconColor1",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipWhite.png"
-    },
-    {
-        "Key": "QualityIconColor2",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipGreen.png"
-    },
-    {
-        "Key": "QualityIconColor3",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipBlue.png"
-    },
-    {
-        "Key": "QualityIconColor4",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipPurple.png"
-    },
-    {
-        "Key": "QualityIconColor5",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipGold.png"
-    },
-    {
-        "Key": "QualityIconColor6",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipRed.png"
-    },
-    {
-        "Key": "QualityIconColor7",
-        "Type": "string",
-        "Value": "Assets/Product/Texture/Atlas/Common/CommonEquipRed.png"
-    },
-    {
         "Key": "StoryPlayTimeOneToFive",
         "Type": "float",
         "Value": 0.3
@@ -297,7 +267,7 @@
     {
         "Key": "PlayerMaxLevel",
         "Type": "int",
-        "Value": 100
+        "Value": 120
     },
     {
         "Key": "BuyAssetCoinBase",
@@ -845,6 +815,26 @@
         "Value": 5
     },
     {
+        "Key": "DormLayoutMaxCount",
+        "Type": "int",
+        "Value": 12
+    },
+    {
+        "Key": "DormMaxCreateCount",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "DormMaxPutFurnitureCount",
+        "Type": "int",
+        "Value": 150
+    },
+    {
+        "Key": "DormRemoveFurnitureOrder",
+        "Type": "string",
+        "Value": "25011|25012|25010|25009|25008|25013|25007|25006|25004|25005"
+    },
+    {
         "Key": "TrustGameCount",
         "Type": "int",
         "Value": 3
@@ -885,6 +875,16 @@
         "Value": 1800
     },
     {
+        "Key": "ArenaOnlineCharMaxEndurance",
+        "Type": "int",
+        "Value": 1
+    },
+    {
+        "Key": "ArenaOnlineOpenTimestamp",
+        "Type": "int",
+        "Value": 1591822800
+    },
+    {
         "Key": "BaseEquipMaxCount",
         "Type": "int",
         "Value": 30
@@ -897,7 +897,7 @@
     {
         "Key": "DormReNameLen",
         "Type": "int",
-        "Value": 6
+        "Value": 12
     },
     {
         "Key": "ReportInterval",
@@ -980,14 +980,14 @@
         "Value": 3000
     },
     {
+        "Key": "DelayReconnectTime",
+        "Type": "int",
+        "Value": 2000
+    },
+    {
         "Key": "MaxDisconnectTime",
         "Type": "int",
         "Value": 600
-    },
-    {
-        "Key": "PurchasePayLockGoodsTime",
-        "Type": "float",
-        "Value": 15
     },
     {
         "Key": "RedEnvelopeWeightReduceValue",
@@ -1007,11 +1007,201 @@
     {
         "Key": "EquipSuitPrefabMaxNum",
         "Type": "int",
-        "Value": 8
+        "Value": 20
     },
     {
         "Key": "ItemRecycleText",
         "Type": "string",
         "Value": "{0} × {1}"
+    },
+    {
+        "Key": "GuildCreateCostItemType",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "GuildCreateCostItemCount",
+        "Type": "int",
+        "Value": 300
+    },
+    {
+        "Key": "GuildApplyPlayerMaxCount",
+        "Type": "int",
+        "Value": 200
+    },
+    {
+        "Key": "GuildApplyGuildMaxCount",
+        "Type": "int",
+        "Value": 60
+    },
+    {
+        "Key": "GuildRecruitGuildMaxCount",
+        "Type": "int",
+        "Value": 60
+    },
+    {
+        "Key": "GuildLikedItemId",
+        "Type": "int",
+        "Value": 37
+    },
+    {
+        "Key": "GuildAddPopularity",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "GuildImpeachDays",
+        "Type": "int",
+        "Value": 7
+    },
+    {
+        "Key": "GuildImpeachDuration",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "GuildImpeachExtend",
+        "Type": "int",
+        "Value": 1
+    },
+    {
+        "Key": "GuildScriptCount",
+        "Type": "int",
+        "Value": 5
+    },
+    {
+        "Key": "GuildScriptLength",
+        "Type": "int",
+        "Value": 25
+    },
+    {
+        "Key": "GuildTouristDuration",
+        "Type": "int",
+        "Value": 48
+    },
+    {
+        "Key": "GuildPlayerRecommendLevel",
+        "Type": "int",
+        "Value": 15
+    },
+    {
+        "Key": "GuildPlayerRecommendCount",
+        "Type": "int",
+        "Value": 30
+    },
+    {
+        "Key": "GuildPlayerRecommendCountPage",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "GuildPlayerRecommendRefresh",
+        "Type": "int",
+        "Value": 1
+    },
+    {
+        "Key": "GuildRecruitTimeout",
+        "Type": "int",
+        "Value": 24
+    },
+    {
+        "Key": "GuildRecruitPlayerMaxCount",
+        "Type": "int",
+        "Value": 30
+    },
+    {
+        "Key": "GuildContributeRewardMin",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "GuildContributeRewardCoA",
+        "Type": "float",
+        "Value": 0.8
+    },
+    {
+        "Key": "GuildContributeRewardCoB",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildWishContributeAddCoin",
+        "Type": "int",
+        "Value": 20
+    },
+    {
+        "Key": "GuildNewsMaxCount",
+        "Type": "int",
+        "Value": 30
+    },
+    {
+        "Key": "GuildEnterCd",
+        "Type": "int",
+        "Value": 1
+    },
+    {
+        "Key": "GuildChatMaxCount",
+        "Type": "int",
+        "Value": 50
+    },
+    {
+        "Key": "GuildCoinCd",
+        "Type": "int",
+        "Value": 72
+    },
+    {
+        "Key": "GuildApplyCd",
+        "Type": "int",
+        "Value": 24
+    },
+    {
+        "Key": "GuildRecommendCount",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildRecommendCountPage",
+        "Type": "int",
+        "Value": 30
+    },
+    {
+        "Key": "GuildRecommendRefresh",
+        "Type": "int",
+        "Value": 24
+    },
+    {
+        "Key": "GuildFindLikeCount",
+        "Type": "int",
+        "Value": 25
+    },
+    {
+        "Key": "BossOnlineKillFloorValue",
+        "Type": "int",
+        "Value": 12
+    },
+    {
+        "Key": "BossOnlineKillCeilingValue",
+        "Type": "int",
+        "Value": 19
+    },
+    {
+        "Key": "SparkServer",
+        "Type": "string",
+        "Value": "Star in the Dark Server"
+    },
+    {
+        "Key": "BeaconServer",
+        "Type": "string",
+        "Value": "Beacon Server"
+    },
+    {
+        "Key": "TestServer",
+        "Type": "string",
+        "Value": "Testing Server"
+    },
+    {
+        "Key": "PurchasePayLockGoodsTime",
+        "Type": "float",
+        "Value": 15
     }
 ]

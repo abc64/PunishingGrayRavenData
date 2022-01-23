@@ -1,4 +1,10 @@
-Id	Behavior	Name	Environment	TerrainRoot	CloseLoadingDelay	SwitchNpcCd	SceneCamera	CameraId	Terrains[1]	Terrains[2]	Terrains[3]	Position[1]	Position[2]	Position[3]	Rotation[1]	Rotation[2]	Rotation[3]
-11090101	11090101	空间站 - 合二为一			0.15	15	30	9	110901010			0|0|0			0|0|0		
-11090102	11090102	空间站 - 始即为终			0.15	15	9	9	110901020			0|0|0			0|0|0		
-11090103	11090103	空间站 - 从虚至实			0.15	15	9	9	110901030			0|0|0			0|0|0		
+Id	Behavior	Name	Environment	TerrainRoot	CloseLoadingDelay	IsAsyncLoadNpc	SwitchNpcCd	SceneCamera	CameraId	Terrains[1]	Terrains[2]	Terrains[3]	Position[1]	Position[2]	Position[3]	Rotation[1]	Rotation[2]	Rotation[3]
+11090101	11090101	空间站 - 合二为一			0.15		15	17	9	110901010			0|0|0			0|0|0		
+11090102	11090102	空间站 - 始即为终			0.15		15	11	9	110901020			0|0|0			0|0|0		
+11090103	11090103	空间站 - 从虚至实			0.15		15	11	9	110901030			0|0|0			0|0|0		
+11100101	11100101	第十章隐藏1-1			0.15		15	11	9	111001010			0|0|0			0|0|0		
+11100102	11100102	第十章隐藏1-2			0.15		15	11	9	111001020			0|0|0			0|0|0		
+11100103	11100103	第十章隐藏1-3			0.15		15	11	9	111001030			0|0|0			0|0|0		
+11100104	11100104	第十章隐藏1-4	Scene01001b	Test	0.15		15	63	9	111001040			0|0|0			0|0|0		
+11100105	11100105	第十章隐藏1-5	Scene01001b	Test	0.15		15	63	9	111001050			0|0|0			0|0|0		
+11100106	11100106	第十章隐藏1-6			0.15		15	11	9	111001060			0|0|0			0|0|0		

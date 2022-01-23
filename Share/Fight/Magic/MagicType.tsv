@@ -6,6 +6,7 @@ AddMissile	2|2
 AddNpc	2|2|2|0|4|4|0|4|4
 AddAttribValue	2|2|2
 ChangeAttribAdditive	2|2|2
+ChangeAttribGroupAdditive	2|2|2
 ChangeAttribValue	2|2|2
 ChangeDamageAdditive	2|2|2
 ChangeCureAdditive	2|2|2
@@ -30,7 +31,12 @@ ResetCombo
 SetCameraPosition	3|3|3|3|3
 SetCameraRotation	3|3|3|3|3|1|1
 SetCameraPositionOffset	3|3|3|3|3|1
+SetCameraFov	3|3|3
+SetCameraRotationModify	3|3|3|3|3
+SetCameraFocusOnCenter	3
 SetDamage	2|2
+MulDamage	2
+AddDamage	2
 ShakeCamera	2|3|3|3|3|2
 ShakeAllCamera	2|3|3|3|3|2
 CameraNoise	0|3|3|3
@@ -54,3 +60,6 @@ PauseCountDown
 PauseFightTime	
 AddChain	2
 SetTimeDependency	
+AddAccuBuff	2
+Event	
+DoNpcToNpcTimeLine	0|3|3

@@ -150,7 +150,7 @@
         "SkillId": 103201,
         "Icon": "Assets/Product/Texture/Image/IconSkill/R2lifuhong1.png",
         "Description": "Red Orb Level +1",
-        "Name": "Homing Projectile"
+        "Name": "Ion Cannons"
     },
     {
         "Id": 21,
@@ -708,7 +708,7 @@
         "SkillId": 103121,
         "Icon": "Assets/Product/Texture/Image/IconSkill/R1lifuhexin1.png",
         "Description": "Core Passive +1",
-        "Name": "Core Laser"
+        "Name": "Laser Cluster"
     },
     {
         "Id": 83,
@@ -1294,5 +1294,293 @@
         "Icon": "Assets/Product/Texture/Image/IconSkill/R2ailahexin1.png",
         "Description": "Class Skill Level +1",
         "Name": "Tank"
+    },
+    {
+        "Id": 148,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 111201,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyahong1.png",
+        "Description": "Red Orb Level +1",
+        "Name": "Strafe"
+    },
+    {
+        "Id": 149,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 111206,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyahuang1.png",
+        "Description": "Yellow Orb Level +1",
+        "Name": "Jet Propulsion"
+    },
+    {
+        "Id": 150,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 111211,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyalan1.png",
+        "Description": "Blue Orb Level +1",
+        "Name": "Spread Shot"
+    },
+    {
+        "Id": 151,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 111216,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/lipugong1.png",
+        "Description": "Basic Attack Level +1",
+        "Name": "Rapid Shot"
+    },
+    {
+        "Id": 152,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 111217,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyadazhao1.png",
+        "Description": "Signature Move Level + 1",
+        "Name": "Signature - Fusion Burst"
+    },
+    {
+        "Id": 153,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 111218,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/QTE1.png",
+        "Description": "QTE Level +1",
+        "Name": "Fire Support"
+    },
+    {
+        "Id": 154,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 111221,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyahexin1.png",
+        "Description": "Core Passive +1",
+        "Name": "Field Supplies"
+    },
+    {
+        "Id": 155,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 111223,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2Sufeiyahexin1.png",
+        "Description": "Class Skill Level +1",
+        "Name": "Support"
+    },
+    {
+        "Id": 156,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 104301,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankahong1.png",
+        "Description": "Red Orb Level +1",
+        "Name": "Thunder Spike"
+    },
+    {
+        "Id": 157,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 104306,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankahuang1.png",
+        "Description": "Yellow Orb Level +1",
+        "Name": "Lightning Flash"
+    },
+    {
+        "Id": 158,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 104311,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankalan1.png",
+        "Description": "Blue Orb Level +1",
+        "Name": "Magnetic Voltage"
+    },
+    {
+        "Id": 159,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 104316,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/biankapugong1.png",
+        "Description": "Basic Attack Level +1",
+        "Name": "Voltaic Discharge"
+    },
+    {
+        "Id": 160,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 104317,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankadazhao1.png",
+        "Description": "Signature Move Level + 1",
+        "Name": "Signature - Ire of Lightning"
+    },
+    {
+        "Id": 161,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 104318,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/QTE1.png",
+        "Description": "QTE Level +1",
+        "Name": "Blitz Bolt"
+    },
+    {
+        "Id": 162,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 104321,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankahexin1.png",
+        "Description": "Core Passive +1",
+        "Name": "Critical Moment"
+    },
+    {
+        "Id": 163,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 104323,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R3biankahexin1.png",
+        "Description": "Class Skill Level +1",
+        "Name": "Attacker"
+    },
+    {
+        "Id": 164,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 112201,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomuhong1.png",
+        "Description": "Red Orb Level +1",
+        "Name": "Shifting Nimbus"
+    },
+    {
+        "Id": 165,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 112206,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomuhuang1.png",
+        "Description": "Yellow Orb Level +1",
+        "Name": "Culling Maelstrom"
+    },
+    {
+        "Id": 166,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 112211,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomulan1.png",
+        "Description": "Blue Orb Level +1",
+        "Name": "Pulse Overload"
+    },
+    {
+        "Id": 167,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 112216,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/ailapugong1.png",
+        "Description": "Basic Attack Level +1",
+        "Name": "Thunderstorm"
+    },
+    {
+        "Id": 168,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 112217,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomudazhao1.png",
+        "Description": "Signature Move Level + 1",
+        "Name": "Signature - Storm World"
+    },
+    {
+        "Id": 169,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 112218,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/QTE1.png",
+        "Description": "QTE Lv+1",
+        "Name": "Blue Bolt"
+    },
+    {
+        "Id": 170,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 112221,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomuhexin1.png",
+        "Description": "Core Passive +1",
+        "Name": "Arclight Shield"
+    },
+    {
+        "Id": 171,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 112223,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R2kuluomuhexin1.png",
+        "Description": "Class Skill Level +1",
+        "Name": "Tank"
+    },
+    {
+        "Id": 172,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 102401,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyahong1.png",
+        "Description": "Red Orb Level +1",
+        "Name": "Mute Winter"
+    },
+    {
+        "Id": 173,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 102406,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyahuang1.png",
+        "Description": "Yellow Orb Level +1",
+        "Name": "Glacier Puncture"
+    },
+    {
+        "Id": 174,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 102411,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyalan1.png",
+        "Description": "Blue Orb Level +1",
+        "Name": "Frigid Roundabout"
+    },
+    {
+        "Id": 175,
+        "PoolId": 1,
+        "Weight": 100,
+        "SkillId": 102416,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/luxiyapugong1.png",
+        "Description": "Basic Attack Level +1",
+        "Name": "Frost Blade"
+    },
+    {
+        "Id": 176,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 102417,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyadazhao1.png",
+        "Description": "Signature Move Level + 1",
+        "Name": "Signature - Halcyonic Blossoms"
+    },
+    {
+        "Id": 177,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 102418,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/QTE1.png",
+        "Description": "QTE Level +1",
+        "Name": "Frost Blade - Icebreak"
+    },
+    {
+        "Id": 178,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 102421,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyahexin1.png",
+        "Description": "Core Passive +1",
+        "Name": "Hyperborea"
+    },
+    {
+        "Id": 179,
+        "PoolId": 2,
+        "Weight": 100,
+        "SkillId": 102423,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/R4luxiyahexin1.png",
+        "Description": "Class Skill Level +1",
+        "Name": "Attacker"
     }
 ]

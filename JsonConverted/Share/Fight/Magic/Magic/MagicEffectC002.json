@@ -22,9 +22,9 @@
     },
     {
         "Id": 720002000,
-        "Name": "ChangeAttribValue",
+        "Name": "HideJoint",
         "Level": [
-            "1|10000|"
+            "Bip001Prop2"
         ]
     },
     {
@@ -36,9 +36,9 @@
     },
     {
         "Id": 720003000,
-        "Name": "ChangeAttribValue",
+        "Name": "PlayScreenEffect",
         "Level": [
-            "1|20000|"
+            100010
         ]
     },
     {
@@ -441,6 +441,13 @@
         ]
     },
     {
+        "Id": 720037000,
+        "Name": "AddBehavior",
+        "Level": [
+            720037
+        ]
+    },
+    {
         "Id": 720038,
         "Name": "AddBuff",
         "Level": [
@@ -508,6 +515,27 @@
         "Name": "AddNpcState",
         "Level": [
             30
+        ]
+    },
+    {
+        "Id": 720043,
+        "Name": "AddBuff",
+        "Level": [
+            720043
+        ]
+    },
+    {
+        "Id": 720044,
+        "Name": "AddBuff",
+        "Level": [
+            720044
+        ]
+    },
+    {
+        "Id": 720044000,
+        "Name": "HideJoint",
+        "Level": [
+            "WeaponCase1"
         ]
     },
     {
@@ -641,6 +669,13 @@
         "Name": "AddBuff",
         "Level": [
             720208
+        ]
+    },
+    {
+        "Id": 720208000,
+        "Name": "HideJoint",
+        "Level": [
+            "WeaponBone"
         ]
     },
     {
@@ -791,13 +826,6 @@
         ]
     },
     {
-        "Id": 720220000,
-        "Name": "AddBehavior",
-        "Level": [
-            720220
-        ]
-    },
-    {
         "Id": 720221,
         "Name": "AddBuff",
         "Level": [
@@ -907,6 +935,90 @@
         "Name": "ChangeAttribAdditive",
         "Level": [
             "25|-2000|"
+        ]
+    },
+    {
+        "Id": 720350,
+        "Name": "AddBuff",
+        "Level": [
+            720350
+        ]
+    },
+    {
+        "Id": 720350000,
+        "Name": "AddBehavior",
+        "Level": [
+            720350
+        ]
+    },
+    {
+        "Id": 720351,
+        "Name": "AddBuff",
+        "Level": [
+            720351
+        ]
+    },
+    {
+        "Id": 720351000,
+        "Name": "AddBehavior",
+        "Level": [
+            720351
+        ]
+    },
+    {
+        "Id": 720352,
+        "Name": "AddBuff",
+        "Level": [
+            720352
+        ]
+    },
+    {
+        "Id": 720352000,
+        "Name": "AddBehavior",
+        "Level": [
+            720352
+        ]
+    },
+    {
+        "Id": 720353,
+        "Name": "AddBuff",
+        "Level": [
+            720353
+        ]
+    },
+    {
+        "Id": 720353000,
+        "Name": "AddBehavior",
+        "Level": [
+            720353
+        ]
+    },
+    {
+        "Id": 720354,
+        "Name": "AddBuff",
+        "Level": [
+            720354
+        ]
+    },
+    {
+        "Id": 720354000,
+        "Name": "AddBehavior",
+        "Level": [
+            720354
+        ]
+    },
+    {
+        "Id": 720355,
+        "Name": "AddBuff",
+        "Level": [
+            720355
+        ]
+    },
+    {
+        "Id": 720355000,
+        "Name": "ChangeAttribValue",
+        "Level": [
+            "1|0|20000"
         ]
     }
 ]

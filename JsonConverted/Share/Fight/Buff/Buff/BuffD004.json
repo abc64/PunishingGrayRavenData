@@ -1158,7 +1158,7 @@
         "Duration": 10,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802440,
+        "Kind": "7802440|111|110|100|6",
         "Cover": 7802440,
         "Magic": 780244000,
         "Effect": "FxCizhuiHudunTiaozhan",
@@ -1170,7 +1170,7 @@
         "Duration": 10,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802450,
+        "Kind": "7802450|111|110|100|6",
         "Cover": 7802450,
         "Magic": 780245000,
         "Effect": "FxCizhuiHudunTiaozhan",
@@ -1182,7 +1182,7 @@
         "Duration": 10,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802460,
+        "Kind": "7802460|111|110|100|6",
         "Cover": 7802460,
         "Magic": 780246000,
         "Effect": "FxCizhuiHudunTiaozhan",
@@ -1402,7 +1402,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802840,
+        "Kind": "7802840|111|110|100|6",
         "Magic": 780284000,
         "Effect": "FxCizhuiBilei",
         "EffectJoint": "HitCase"
@@ -1413,7 +1413,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802850,
+        "Kind": "7802850|111|110|100|6",
         "Magic": 780285000,
         "Effect": "FxCizhuiBilei",
         "EffectJoint": "HitCase"
@@ -1424,7 +1424,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7802860,
+        "Kind": "7802860|111|110|100|6",
         "Magic": 780286000,
         "Effect": "FxCizhuiBilei",
         "EffectJoint": "HitCase"
@@ -2214,7 +2214,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7803970,
-        "Magic": 780397000
+        "Magic": 780397000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780401,
@@ -2542,7 +2543,7 @@
     {
         "Id": 780460,
         "Delay": 0.3,
-        "Duration": 0.3,
+        "Duration": 0.7,
         "Limit": 1,
         "Cd": 0,
         "Kind": "7804600|18|5|10",
@@ -2554,7 +2555,7 @@
     {
         "Id": 780461,
         "Delay": 0.3,
-        "Duration": 0.5,
+        "Duration": 0.7,
         "Limit": 1,
         "Cd": 0,
         "Kind": "7804610|18|5|10",
@@ -3405,8 +3406,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7805780,
-        "Cover": "7806010|7806020|7806030|7700000",
-        "Mutex": "7806010|7806020|7806030|7700000"
+        "Cover": "7806010|7806020|7806030|7720490|7720500|7720510|7700000",
+        "Mutex": "7806010|7806020|7806030|7720490|7720500|7720510|7700000"
     },
     {
         "Id": 780601,
@@ -3472,7 +3473,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806100,
-        "Magic": 780610000
+        "Magic": 780610000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780611,
@@ -3481,7 +3483,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806110,
-        "Magic": 780611000
+        "Magic": 780611000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780612,
@@ -3490,7 +3493,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806120,
-        "Magic": 780612000
+        "Magic": 780612000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780613,
@@ -3499,7 +3503,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806130,
-        "Magic": 780613000
+        "Magic": 780613000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780614,
@@ -3508,7 +3513,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806140,
-        "Magic": 780614000
+        "Magic": 780614000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780615,
@@ -3516,8 +3522,9 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7806150,
-        "Magic": 780615000
+        "Kind": "7806150|1000",
+        "Magic": 780615000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780616,
@@ -3526,7 +3533,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806160,
-        "Magic": 780616000
+        "Magic": 780616000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 780617,
@@ -3916,7 +3924,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7806570,
+        "Kind": "7806570|1000",
         "Magic": 780657000
     },
     {
@@ -4145,7 +4153,7 @@
     {
         "Id": 780697,
         "Delay": 0,
-        "Duration": 4,
+        "Duration": 3,
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806970,
@@ -4155,7 +4163,7 @@
     {
         "Id": 780698,
         "Delay": 0,
-        "Duration": 5,
+        "Duration": 3,
         "Limit": 1,
         "Cd": 0,
         "Kind": 7806980,

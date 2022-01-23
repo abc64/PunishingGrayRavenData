@@ -638,49 +638,49 @@
         "Id": 700191,
         "Name": "AddAttribValue",
         "Level": [
-            "2|100|0"
+            "2|-100|0"
         ]
     },
     {
         "Id": 700192,
         "Name": "AddAttribValue",
         "Level": [
-            "2|80|0"
+            "2|-80|0"
         ]
     },
     {
         "Id": 700193,
         "Name": "AddAttribValue",
         "Level": [
-            "2|60|0"
+            "2|-60|0"
         ]
     },
     {
         "Id": 700194,
         "Name": "AddAttribValue",
         "Level": [
-            "2|40|0"
+            "2|-40|0"
         ]
     },
     {
         "Id": 700195,
         "Name": "AddAttribValue",
         "Level": [
-            "2|20|0"
+            "2|-20|0"
         ]
     },
     {
         "Id": 700196,
         "Name": "AddAttribValue",
         "Level": [
-            "2|10|0"
+            "2|-10|0"
         ]
     },
     {
         "Id": 700197,
         "Name": "AddAttribValue",
         "Level": [
-            "2|5|0"
+            "2|-5|0"
         ]
     },
     {
@@ -1142,7 +1142,7 @@
         "Id": 700244000,
         "Name": "ChangeAttribAdditive",
         "Level": [
-            "32|4500|"
+            "32|3500|"
         ]
     },
     {
@@ -1156,7 +1156,7 @@
         "Id": 700245000,
         "Name": "ChangeAttribAdditive",
         "Level": [
-            "32|4500|"
+            "32|3500|"
         ]
     },
     {
@@ -1777,6 +1777,13 @@
     },
     {
         "Id": 700301,
+        "Name": "AddBuff",
+        "Level": [
+            700301
+        ]
+    },
+    {
+        "Id": 700301000,
         "Name": "ClearFromNpcThreat",
         "Level": []
     },
@@ -1791,7 +1798,7 @@
         "Id": 700302000,
         "Name": "AddThreat",
         "Level": [
-            9
+            99
         ]
     },
     {
@@ -1805,7 +1812,7 @@
         "Id": 700303000,
         "Name": "AddThreat",
         "Level": [
-            999
+            9999
         ]
     },
     {
@@ -1819,7 +1826,7 @@
         "Id": 700304000,
         "Name": "AddThreat",
         "Level": [
-            9999
+            99999
         ]
     },
     {
@@ -3118,6 +3125,27 @@
         ]
     },
     {
+        "Id": 700933,
+        "Name": "AddBuff",
+        "Level": [
+            700933
+        ]
+    },
+    {
+        "Id": 700933000,
+        "Name": "AddNpcState",
+        "Level": [
+            26
+        ]
+    },
+    {
+        "Id": 700934,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "1|100000|"
+        ]
+    },
+    {
         "Id": 701001,
         "Name": "AddBuff",
         "Level": [
@@ -3451,6 +3479,188 @@
         "Name": "Damage",
         "Level": [
             "1|6|1|||||"
+        ]
+    },
+    {
+        "Id": 701040,
+        "Name": "AddBuff",
+        "Level": [
+            701040
+        ]
+    },
+    {
+        "Id": 701040000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "27|1000|0"
+        ]
+    },
+    {
+        "Id": 701041,
+        "Name": "AddBuff",
+        "Level": [
+            701041
+        ]
+    },
+    {
+        "Id": 701041000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "28|1000|0"
+        ]
+    },
+    {
+        "Id": 701042,
+        "Name": "AddBuff",
+        "Level": [
+            701042
+        ]
+    },
+    {
+        "Id": 701042000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "25|1000|0"
+        ]
+    },
+    {
+        "Id": 701043,
+        "Name": "AddBuff",
+        "Level": [
+            701043
+        ]
+    },
+    {
+        "Id": 701043000,
+        "Name": "AddBehavior",
+        "Level": [
+            701043
+        ]
+    },
+    {
+        "Id": 701044,
+        "Name": "AddBuff",
+        "Level": [
+            701044
+        ]
+    },
+    {
+        "Id": 701044000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "45|10000|"
+        ]
+    },
+    {
+        "Id": 701045,
+        "Name": "AddBuff",
+        "Level": [
+            701045
+        ]
+    },
+    {
+        "Id": 701045000,
+        "Name": "AddBehavior",
+        "Level": [
+            701045
+        ]
+    },
+    {
+        "Id": 701046,
+        "Name": "AddBuff",
+        "Level": [
+            701046
+        ]
+    },
+    {
+        "Id": 701046000,
+        "Name": "ChangeAttribAdditive",
+        "Level": [
+            "30|1000|"
+        ]
+    },
+    {
+        "Id": 701047,
+        "Name": "AddBuff",
+        "Level": [
+            701047
+        ]
+    },
+    {
+        "Id": 701048,
+        "Name": "AddBuff",
+        "Level": [
+            701048
+        ]
+    },
+    {
+        "Id": 701049,
+        "Name": "AddBuff",
+        "Level": [
+            701049
+        ]
+    },
+    {
+        "Id": 701050,
+        "Name": "AddBuff",
+        "Level": [
+            701050
+        ]
+    },
+    {
+        "Id": 701051,
+        "Name": "AddBuff",
+        "Level": [
+            701051
+        ]
+    },
+    {
+        "Id": 701052,
+        "Name": "AddBuff",
+        "Level": [
+            701052
+        ]
+    },
+    {
+        "Id": 701052000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "760491|3"
+        ]
+    },
+    {
+        "Id": 701053,
+        "Name": "AddBuff",
+        "Level": [
+            701053
+        ]
+    },
+    {
+        "Id": 701053000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "760492|3"
+        ]
+    },
+    {
+        "Id": 701054,
+        "Name": "AddBuff",
+        "Level": [
+            701054
+        ]
+    },
+    {
+        "Id": 701054000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "760493|3"
+        ]
+    },
+    {
+        "Id": 701055,
+        "Name": "AddBuff",
+        "Level": [
+            701055
         ]
     },
     {

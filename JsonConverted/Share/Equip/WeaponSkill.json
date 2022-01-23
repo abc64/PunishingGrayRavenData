@@ -19,7 +19,7 @@
         "Ability": 100,
         "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png",
         "Name": "Dead Point Countdown",
-        "Description": "Gain 1 additional Signal Orb at the start of battle, and 3 identical skill orbs every 45s."
+        "Description": "Gain 1 additional Signal Orb at the start of battle, and 3 identical Signal Orbs every 45s."
     },
     {
         "Id": 103,
@@ -30,7 +30,7 @@
         "Ability": 100,
         "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png",
         "Name": "Matrix Lightning",
-        "Description": "After EX Dodge, Movement Speed is greatly increased and all enemies take 10% more DMG in Matrix."
+        "Description": "After EX Dodge, Movement Speed is greatly increased and all enemies' Extra DMG Reduction is decreased by 10% in Matrix."
     },
     {
         "Id": 201,
@@ -52,7 +52,7 @@
         "Ability": 100,
         "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png",
         "Name": "Dead Point Countdown",
-        "Description": "Gain 1 additional Signal Orb at the start of battle, and 3 identical skill orbs every 45s."
+        "Description": "Gain 1 additional Signal Orb at the start of battle, and 3 identical Signal Orbs every 45s."
     },
     {
         "Id": 203,
@@ -63,7 +63,7 @@
         "Ability": 100,
         "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png",
         "Name": "Matrix Lightning",
-        "Description": "After EX Dodge, Movement Speed is greatly increased and all enemies take 10% more DMG in Matrix."
+        "Description": "After EX Dodge, Movement Speed is greatly increased and all enemies' Extra DMG Reduction is decreased by 10% in Matrix."
     },
     {
         "Id": 2013001,
@@ -89,7 +89,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Saturated Loading",
-        "Description": "Consume Red, Yellow and Blue Signal Orbs within 5s to increase all DMG dealt by 15% for 5s. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Pinging all 3 types of Signal Orbs within 5s increases Extra DMG Bonus by 15% for 5s. Duration resets every time it is triggered."
     },
     {
         "Id": 2015002,
@@ -110,7 +110,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Predator's Maxim",
-        "Description": "All DMG increased by 20% when attacking enemies in a burning area."
+        "Description": "Extra DMG Bonus increases by 20% when attacking enemies in a burning area."
     },
     {
         "Id": 2016002,
@@ -120,7 +120,17 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Cycle of Stars",
-        "Description": "Skill - Space Lord deals 10% more DMG. Physical DMG is increased by 15% for 5s after a 3-Ping. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Increases Skill - Space Lord's Extra DMG Bonus by 10%. Physical DMG is increased by 15% for 5s after a 3-Ping. Duration resets every time it is triggered."
+    },
+    {
+        "Id": 2016003,
+        "BornMagic": [
+            501315
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Measurement Theory",
+        "Description": "When picking up an Energy Ball, increases Extra DMG Bonus by 3% for 5s. Can be stacked up to 5 times. For every 5 Energy Balls picked up, gains an additional random Signal Orb and 10 Energy. 10s cooldown."
     },
     {
         "Id": 2022001,
@@ -142,7 +152,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Unbranded Slash",
-        "Description": "Red Orb DMG increased by 15%."
+        "Description": "Extra DMG Bonus of Red Orb skills increases by 15%."
     },
     {
         "Id": 2025001,
@@ -174,7 +184,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Blade of Fury",
-        "Description": "Basic Attack DMG increased by 10%. Physical DMG increased by 5% for 2s after each Basic Attack. Stacks up to 5 times. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Basic Attack DMG increases by 10%. Physical DMG increases by 5% for 2s after each Basic Attack. Can be stacked up to 5 times. Duration resets every time it is triggered."
     },
     {
         "Id": 2026002,
@@ -186,7 +196,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Inverse Shadow",
-        "Description": "When dealing Lightning DMG, Lightning DMG Bonus is increased by 5% for 4 seconds, stacking up to 4 times. Duration refreshes when the effect is repeatedly triggered. When casting a Signature Move, Extra DMG is increased by 10% for 10 seconds. Duration refreshes after the effect is repeatedly triggered."
+        "Description": "Lightning DMG Bonus increases by 5% for 4s when dealing Lightning DMG. Can be stacked up to 4 times. Signature Move increases own Extra DMG Bonus by 10% for 10s. Both duration will reset every time it is triggered."
     },
     {
         "Id": 2026003,
@@ -197,7 +207,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Energy Incarnate",
-        "Description": "All DMG increased by 5%. Pinging an orb will accumulate energy based on the number of orbs pinged. Consume 50 energy to summon Sirius for 45s. 60s cooldown. Its power as a weapon is nothing to write home about, but it is much sought after for its attractive appearance."
+        "Description": "Extra DMG Bonus increases by 5%. Pinging orbs will accumulate energy based on the number of orbs pinged. Consumes 50 energy to summon Sirius for 45s. 60s cooldown.          Its power as a weapon is nothing to write home about, but it is much sought after for its attractive appearance."
     },
     {
         "Id": 2026004,
@@ -207,7 +217,18 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Falling Blossoms",
-        "Description": "For each orb pinged, Physical DMG increased by 2% for 5s. Can be stacked up to 10 times. Duration refreshes when the effect is repeatedly triggered. Gain an extra Swordwave Orb in Swordwave Mode. 10s cooldown."
+        "Description": "For each orb pinged, Physical DMG increases by 2% for 5s. Can be stacked up to 10 times. Duration resets every time it is triggered. Gains an extra Swordwave Orb in Swordwave Mode. 10s cooldown."
+    },
+    {
+        "Id": 2026005,
+        "BornMagic": [
+            502326,
+            502327
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Crimson Snow",
+        "Description": "Ice DMG increased by 15%. After a 3-Ping, All DMG is increased by 10% for 5s."
     },
     {
         "Id": 2032001,
@@ -229,7 +250,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Deep Pursuit",
-        "Description": "Basic Attack DMG increased by 10%."
+        "Description": "Basic Attack's Extra DMG Bonus increases by 10%."
     },
     {
         "Id": 2035001,
@@ -239,7 +260,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Chain Combo",
-        "Description": "Gain 1 Signal Orb every 30 combo. 8s cooldown."
+        "Description": "Gains 1 random Signal Orb every 30 combos. 8s cooldown."
     },
     {
         "Id": 2035002,
@@ -261,7 +282,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Original Number",
-        "Description": "Laser Shot DMG increased by 50%. Gain 15% ATK after a 3-Ping for 5s. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Laser Shot's Extra DMG Bonus increases by 50%. Gains 15% ATK after a 3-Ping for 5s. Duration resets every time it is triggered."
     },
     {
         "Id": 2036002,
@@ -273,7 +294,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Ring of Praise",
-        "Description": "For every 12 orbs pinged, increases all DMG dealt by the allies within 5m by 10% for 5s. Duration refreshes when the effect is repeatedly triggered. DMG against Imprisoned enemies increased by 10%."
+        "Description": "For every 12 orbs pinged, increases Extra DMG Bonus of the allies within 5m by 10% for 5s. Duration resets every time it is triggered. When attacking Imprisoned enemies, Extra DMG Bonus increases by 10%."
     },
     {
         "Id": 2036003,
@@ -284,7 +305,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Storm Hunt",
-        "Description": "Basic Attacks have a 10% chance to inflict Frail, reducing the target's ATK by 10% for 5s. Duration refreshes when the effect is repeatedly triggered. Attacking a Frail enemy has a 10% chance to restore 1 orb. 6s cooldown."
+        "Description": "Basic Attacks have a 10% chance to inflict Frail, reducing the target's ATK by 10% for 5s. Duration resets every time it is triggered. Attacking a Frail enemy has a 10% chance to restore 1 Signal Orb. 6s cooldown."
     },
     {
         "Id": 2043001,
@@ -331,13 +352,18 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Now, I Am the Master",
-        "Description": "Signature Move DMG increased by 15%. When a Signature Move hits an enemy, increases its Physical DMG taken by 2% for 5s. Can be stacked up to 8 times. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Signature Move's Extra DMG Bonus increases by 15%. Signature Move reduces its target's Physical Resistance by 2% for 5s per hit. Can be stacked up to 8 times. Duration resets every time it is triggered."
     },
     {
         "Id": 2046002,
-        "BornMagic": [],
+        "BornMagic": [
+            504310,
+            504316
+        ],
         "SubSkillId": [],
-        "Ability": 0
+        "Ability": 0,
+        "Name": "Raging Tempest",
+        "Description": "Lightning DMG is increased by 15%. When dealing Lightning DMG caused by skills to the same target 5 times, calls down a lightning strike that deals 150% Lightning DMG. 2s cooldown."
     },
     {
         "Id": 2053001,
@@ -363,7 +389,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Echo Halls",
-        "Description": "Attacks have a 30% chance to inflict Broken Armor, reducing an enemy's DEF by 5% for 3s. Can be stacked up to 5 times. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Attacks have a 30% chance to inflict Broken Armor, reducing an enemy's DEF by 5% for 3s. Can be stacked up to 5 times. Duration resets every time it is triggered."
     },
     {
         "Id": 2055002,
@@ -385,7 +411,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Fusion Shadow",
-        "Description": "Attacks have a 20% chance to inflict Breach, dealing 2% Physical DMG per second for 3s. The chance is doubled if the enemy's DEF has been reduced. Can be stacked up to 10 times. Duration refreshes when the effect is repeatedly triggered. Physical DMG increased by 10% when attacking a Breached enemy."
+        "Description": "Attacks have a 20% chance to inflict Breach, dealing 2% Physical DMG per second for 3s. The chance is doubled if the enemy's DEF has been reduced. Can be stacked up to 10 times. Duration resets every time it is triggered. Physical DMG increases by 10% when attacking a Breached enemy."
     },
     {
         "Id": 2056002,
@@ -454,7 +480,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Unified Will",
-        "Description": "Physical DMG increased by 15%. Upon a successful parry, DMG of the next skill is increased by 30%."
+        "Description": "Physical DMG increases by 15%. Upon a successful parry, Extra DMG Bonus of the next skill increases by 30%."
     },
     {
         "Id": 2066002,
@@ -465,7 +491,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Shadow Burst",
-        "Description": "After a 3-Ping, Physical DMG and Dark DMG dealt increased by 20% for 5s. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "After a 3-Ping, Physical DMG and Dark DMG dealt increase by 20% for 5s. Duration resets every time it is triggered."
     },
     {
         "Id": 2073001,
@@ -491,7 +517,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Unquenchable",
-        "Description": "ATK increased by 12% for 4s after a 3-Ping. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "ATK increases by 12% for 4s after a 3-Ping. Duration resets every time it is triggered."
     },
     {
         "Id": 2075002,
@@ -513,7 +539,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Chaos Particle",
-        "Description": "Physical DMG increased by 10%. After a 3-Ping, Basic Attack DMG is increased by 30% for 5s. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Physical DMG increases by 10%. After a 3-Ping, Basic Attack's Extra DMG Bonus increases by 30% for 5s. Duration resets every time it is triggered."
     },
     {
         "Id": 2076002,
@@ -525,7 +551,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Raging Red",
-        "Description": "Fire DMG increased by 10%. When a Red Orb is pinged, Fire DMG is increased by 10% for 5s. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Fire DMG increases by 10%. Pinging Red Orbs increases Fire DMG by 10% for 5s. Duration resets every time it is triggered."
     },
     {
         "Id": 2083001,
@@ -541,7 +567,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Silent Hunter",
-        "Description": "Movement Speed is increased by 30% and ATK is increased by 10% for 3s after a 3-Ping. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Movement Speed is increased by 30% and ATK is increased by 10% for 3s after a 3-Ping. Duration resets every time it is triggered."
     },
     {
         "Id": 2085001,
@@ -551,7 +577,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Heart of Gravel",
-        "Description": "All DMG dealt increased by 15% for 5s after performing a 3-Ping consecutively. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Extra DMG Bonus increases by 15% for 5s after performing a 3-Ping consecutively. Duration resets every time it is triggered."
     },
     {
         "Id": 2085002,
@@ -573,7 +599,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Zero Pierce",
-        "Description": "When attacking an enemy's back with a CRIT Strike, the enemy becomes Impaired and takes 50% of Physical DMG every second for 3 seconds. Duration refreshes when the effect is repeatedly triggered. When attacking an Impaired enemy, Physical DMG is increased by 20%."
+        "Description": "Dealing a Critical Hit from behind inflicts Breach, dealing 50% Physical DMG per second for 3s. Duration resets every time it is triggered. Physical DMG increases by 20% when attacking a Breached enemy."
     },
     {
         "Id": 2086002,
@@ -584,7 +610,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Soul Strike",
-        "Description": "All DMG increases by 10%. Dark DMG increases by 10% while under Cosmic Wave state."
+        "Description": "Extra DMG Bonus increases by 10%. Dark DMG increases by 10% while under Cosmic Wave state."
     },
     {
         "Id": 2991001,
@@ -624,7 +650,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Color of Bleakness",
-        "Description": "All DMG increases by 7% when attacking enemies with Super Armor."
+        "Description": "Extra DMG Bonus increases by 7% when attacking enemies with Super Armor."
     },
     {
         "Id": 2095001,
@@ -634,7 +660,7 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Line Drawing",
-        "Description": "All DMG increases by 10% for 4s when performing a QTE or 3-Ping skill. Duration refreshes when the effect is repeatedly triggered."
+        "Description": "Extra DMG Bonus increases by 10% for 4s when performing a QTE or 3-Ping skill. Duration resets every time it is triggered."
     },
     {
         "Id": 2096001,
@@ -646,6 +672,17 @@
         "SubSkillId": [],
         "Ability": 0,
         "Name": "Color Splash",
-        "Description": "All DMG increases by 2% for 5s when dealing damage to enemies with Super Armor. Can be stacked up to 3 times. Duration refreshes when the effect is repeatedly triggered. Stuns an enemy for 2s when breaking its Super Armor. 10s cooldown for the same target. Physical DMG increases by 15% for 7s when releasing Vector Cube."
+        "Description": "Extra DMG Bonus increases by 2% for 5s when dealing DMG to enemies with Super Armor. Can be stacked up to 3 times. Duration resets every time it is triggered. Stuns an enemy for 2s when breaking its Super Armor. 10s cooldown for the same target. Physical DMG increases by 15% for 7s when releasing Vector Cube. Duration resets every time it is triggered."
+    },
+    {
+        "Id": 2096002,
+        "BornMagic": [
+            531311,
+            531312
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "St. Elmo's Fire",
+        "Description": "Lightning DMG increases by 10%. No. of Lightning Strikes required to trigger Core Passive reduced to 3 under \"Signature - Lightning Charge\"."
     }
 ]

@@ -124,5 +124,56 @@
         "TaskDailyLimitId": 1001,
         "TaskCumulativeLimitId": 1002,
         "MailId": 14000000
+    },
+    {
+        "Id": 3,
+        "Name": "Thanksgiving Special Detector",
+        "DifferentAddScore": 400,
+        "TwoSameAddScore": 450,
+        "ConsumeItemId": 400020,
+        "ConsumeCount": 20,
+        "ScoreLimit": 10000,
+        "BgImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachineBg01.png",
+        "MachineImage": "Assets/Product/Texture/Image/UiFubenSlotmachine/UiFubenSlotmachine01.png",
+        "RulesIds": [
+            4,
+            5,
+            6
+        ],
+        "Icons": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "Weights": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "RewardIds": [
+            5000185,
+            5000186,
+            5000188,
+            5000189,
+            5000190
+        ],
+        "RewardScores": [
+            2000,
+            4000,
+            6000,
+            8000,
+            10000
+        ],
+        "PrixBottomTimes": 9,
+        "TenTimesPrixLimit": 3,
+        "TaskDailyLimitId": 3000120,
+        "TaskCumulativeLimitId": 3000130,
+        "MailId": 14000008
     }
 ]

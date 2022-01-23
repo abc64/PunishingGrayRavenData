@@ -7,8 +7,8 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 870106	旋转法杖关键帧		2	0	Attack07			10	2		2	0	0	
 870107	第二阶段表演		5.7	0	Attack08			10	2		2	0	0	
 870108	最终阶段前摇		1.15	0	Attack09			10	2		2	0	0	
-870109	最终阶段循环		1.1	0	Attack11			10	2		2	0	0	
-870110	原因不明のエラーにより最終段階を離脱		0.6	0	Attack12			10	2		2	0	0	
+870109	最终阶段循环		1	0.1	Attack11			10	2		2	0	0	
+870110	最终阶意外退出阶段		0.6	0	Attack12			10	2		2	0	0	
 870111	意外跳跃起身		2.2	0	Attack13			10	3		0	0	2	
 870112	待机表演帧		2.65	0	Attack14			10	2		2	0	0	
 870201	审判之眼全场石化		1.35	0	Attack01			10	2		2	0	0	
@@ -47,7 +47,7 @@ Id	Name	SkillType	CastTime	AfterTime	Animation	FinalMagicIds	Cd	DistNoTarget	Ski
 873305	抽枪		2.7	0	Attack05			10	6		2	0	4	
 873306	飞天		1.33	0	Attack06			10	6		2	0	4	
 873307	落地		2.27	0	Attack07			10	3		2	0	4	
-873308	Block		3.17	0	Attack08			10	3		2	0	4	
+873308	格挡		3.17	0	Attack08			10	3		2	0	4	
 873309	格挡突击		3.17	0	Attack08			10	3		2	0	4	
 873311	移动剑风		1.67	0	Attack11			10	3		2	0	4	
 873312	追踪离子弹		3.33	0	Attack12			10	6		2	0	4	

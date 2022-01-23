@@ -5,7 +5,7 @@
         "Name": "互动传送测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 4,
+        "SceneCamera": 26,
         "CameraId": 9,
         "Terrains": [
             800102050
@@ -41,7 +41,7 @@
         "Name": "沙虫测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 8,
+        "SceneCamera": 10,
         "CameraId": 9,
         "Terrains": [
             800102090
@@ -59,7 +59,7 @@
         "Name": "逃生-大电球",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             800103010
@@ -77,7 +77,7 @@
         "Name": "行为类型测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             800103020
@@ -95,7 +95,7 @@
         "Name": "行为类型测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             800103030
@@ -113,7 +113,7 @@
         "Name": "竞技玩法测试-5",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 47,
         "CameraId": 9,
         "Terrains": [
             800104010
@@ -131,7 +131,7 @@
         "Name": "竞技玩法测试-2",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 2,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             800104020
@@ -149,7 +149,7 @@
         "Name": "控制孤儿测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 15,
+        "SceneCamera": 16,
         "CameraId": 9,
         "Terrains": [
             800201010
@@ -167,10 +167,118 @@
         "Name": "自走棋测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 4,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             800201020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020200,
+        "Behavior": 80020200,
+        "Name": "大世界测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202000
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020201,
+        "Behavior": 80020201,
+        "Name": "子战斗测试01-旋转棱镜",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020202,
+        "Behavior": 80020202,
+        "Name": "子战斗测试02-boss",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020203,
+        "Behavior": 80020203,
+        "Name": "子战斗测试03-黎明",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020204,
+        "Behavior": 80020204,
+        "Name": "子战斗测试04-怪物",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 80020205,
+        "Behavior": 80020205,
+        "Name": "子战斗测试05-潜行",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            800202050
         ],
         "Position": [
             "0|0|0"

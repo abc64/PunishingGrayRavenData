@@ -1,14 +1,14 @@
 [
     {
-        "Id": 78787878,
-        "Behavior": 78787878,
-        "Name": "华韬怪物测试01",
+        "Id": 99930001,
+        "Behavior": 99930001,
+        "Name": "潜入ステージテスト",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 9,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            787878780
+            999300010
         ],
         "Position": [
             "0|0|0"
@@ -18,15 +18,15 @@
         ]
     },
     {
-        "Id": 78787879,
-        "Behavior": 78787879,
-        "Name": "轨道BOSS测试关卡",
+        "Id": 99930002,
+        "Behavior": 99930002,
+        "Name": "潜入ステージテストAI",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 50,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            787878790
+            999300020
         ],
         "Position": [
             "0|0|0"
@@ -36,15 +36,15 @@
         ]
     },
     {
-        "Id": 78787880,
-        "Behavior": 78787880,
-        "Name": "隧道场景验收关卡",
+        "Id": 99930003,
+        "Behavior": 99930003,
+        "Name": "二番目の倉庫潜行ステージテスト",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 52,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
-            787878800
+            999300030
         ],
         "Position": [
             "0|0|0"
@@ -54,15 +54,15 @@
         ]
     },
     {
-        "Id": 78787881,
-        "Behavior": 78787881,
-        "Name": "车站场景验收关卡",
+        "Id": 99930004,
+        "Behavior": 99930004,
+        "Name": "自動案内テストステージ",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 46,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            787878810
+            999300040
         ],
         "Position": [
             "0|0|0"
@@ -72,15 +72,159 @@
         ]
     },
     {
-        "Id": 78787882,
-        "Behavior": 78787882,
-        "Name": "第一节贵族车厢关卡",
+        "Id": 99930005,
+        "Behavior": 99930005,
+        "Name": "自動案内テストステージ（敵性体多数）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 52,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            787878820
+            999300050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930006,
+        "Behavior": 99930006,
+        "Name": "潜入ステージテストAI",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930007,
+        "Behavior": 99930007,
+        "Name": "最初の車両（敵性体AIテスト）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999300070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930008,
+        "Behavior": 99930008,
+        "Name": "大昌兄視点弾丸テストステージ",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930013,
+        "Behavior": 99930013,
+        "Name": "新版刺杀测试关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930009,
+        "Behavior": 99930009,
+        "Name": "地下场景白模测试关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930010,
+        "Behavior": 99930010,
+        "Name": "Ta的测试场景",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999300100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930011,
+        "Behavior": 99930011,
+        "Name": "沙滩白模场景",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930012,
+        "Behavior": 99930012,
+        "Name": "游乐园白模场景",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300120
         ],
         "Position": [
             "0|0|0"

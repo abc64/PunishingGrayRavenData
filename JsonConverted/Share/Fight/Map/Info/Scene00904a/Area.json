@@ -1,6 +1,7 @@
 [
     {
-        "Key": "VisibleObstacle"
+        "Key": "VisibleObstacle",
+        "CollisionEffect": 0
     },
     {
         "CellX": 14,
@@ -1047,12 +1048,12 @@
         "CellY": 34
     },
     {
-        "CellX": 33,
-        "CellY": 90
+        "CellX": 39,
+        "CellY": 32
     },
     {
-        "CellX": 33,
-        "CellY": 89
+        "CellX": 38,
+        "CellY": 32
     },
     {
         "CellX": 100,
@@ -1116,23 +1117,31 @@
     },
     {
         "CellX": 35,
-        "CellY": 88
+        "CellY": 32
     },
     {
         "CellX": 101,
         "CellY": 102
     },
     {
-        "CellX": 34,
-        "CellY": 88
+        "CellX": 36,
+        "CellY": 32
     },
     {
-        "CellX": 33,
-        "CellY": 88
+        "CellX": 37,
+        "CellY": 32
     },
     {
         "CellX": 40,
         "CellY": 93
+    },
+    {
+        "CellX": 36,
+        "CellY": 97
+    },
+    {
+        "CellX": 35,
+        "CellY": 97
     },
     {
         "CellX": 40,
@@ -1151,6 +1160,14 @@
         "CellY": 97
     },
     {
+        "CellX": 39,
+        "CellY": 91
+    },
+    {
+        "CellX": 36,
+        "CellY": 91
+    },
+    {
         "CellX": 40,
         "CellY": 92
     },
@@ -1159,7 +1176,27 @@
         "CellY": 91
     },
     {
+        "CellX": 34,
+        "CellY": 91
+    },
+    {
         "CellX": 33,
+        "CellY": 91
+    },
+    {
+        "CellX": 37,
+        "CellY": 97
+    },
+    {
+        "CellX": 37,
+        "CellY": 91
+    },
+    {
+        "CellX": 38,
+        "CellY": 91
+    },
+    {
+        "CellX": 35,
         "CellY": 91
     },
     {
@@ -1173,6 +1210,10 @@
     {
         "CellX": 33,
         "CellY": 94
+    },
+    {
+        "CellX": 34,
+        "CellY": 97
     },
     {
         "CellX": 33,
@@ -1205,6 +1246,10 @@
     {
         "CellX": 109,
         "CellY": 102
+    },
+    {
+        "CellX": 39,
+        "CellY": 97
     },
     {
         "CellX": 7,
@@ -1273,6 +1318,10 @@
     {
         "CellX": 39,
         "CellY": 47
+    },
+    {
+        "CellX": 38,
+        "CellY": 97
     },
     {
         "CellX": 113,
@@ -1707,32 +1756,32 @@
         "CellY": 33
     },
     {
-        "CellX": 36,
-        "CellY": 88
-    },
-    {
-        "CellX": 38,
-        "CellY": 29
-    },
-    {
-        "CellX": 37,
-        "CellY": 29
-    },
-    {
-        "CellX": 36,
-        "CellY": 29
-    },
-    {
-        "CellX": 35,
-        "CellY": 29
+        "CellX": 34,
+        "CellY": 32
     },
     {
         "CellX": 34,
-        "CellY": 29
+        "CellY": 39
     },
     {
-        "CellX": 33,
-        "CellY": 29
+        "CellX": 35,
+        "CellY": 39
+    },
+    {
+        "CellX": 36,
+        "CellY": 39
+    },
+    {
+        "CellX": 37,
+        "CellY": 39
+    },
+    {
+        "CellX": 38,
+        "CellY": 39
+    },
+    {
+        "CellX": 39,
+        "CellY": 39
     },
     {
         "CellX": 40,
@@ -2283,138 +2332,12 @@
         "CellY": 80
     },
     {
-        "CellX": 33,
-        "CellY": 40
+        "Key": "InvisibleObstacle",
+        "CollisionEffect": 0
     },
     {
-        "CellX": 33,
-        "CellY": 41
-    },
-    {
-        "CellX": 34,
-        "CellY": 41
-    },
-    {
-        "CellX": 33,
-        "CellY": 30
-    },
-    {
-        "CellX": 33,
-        "CellY": 31
-    },
-    {
-        "CellX": 35,
-        "CellY": 41
-    },
-    {
-        "CellX": 36,
-        "CellY": 41
-    },
-    {
-        "CellX": 37,
-        "CellY": 41
-    },
-    {
-        "CellX": 38,
-        "CellY": 41
-    },
-    {
-        "CellX": 39,
-        "CellY": 41
-    },
-    {
-        "CellX": 40,
-        "CellY": 41
-    },
-    {
-        "CellX": 40,
-        "CellY": 40
-    },
-    {
-        "CellX": 39,
-        "CellY": 29
-    },
-    {
-        "CellX": 40,
-        "CellY": 29
-    },
-    {
-        "CellX": 40,
-        "CellY": 31
-    },
-    {
-        "CellX": 40,
-        "CellY": 30
-    },
-    {
-        "CellX": 37,
-        "CellY": 88
-    },
-    {
-        "CellX": 38,
-        "CellY": 88
-    },
-    {
-        "CellX": 39,
-        "CellY": 88
-    },
-    {
-        "CellX": 40,
-        "CellY": 88
-    },
-    {
-        "CellX": 40,
-        "CellY": 90
-    },
-    {
-        "CellX": 40,
-        "CellY": 89
-    },
-    {
-        "CellX": 33,
-        "CellY": 99
-    },
-    {
-        "CellX": 33,
-        "CellY": 98
-    },
-    {
-        "CellX": 34,
-        "CellY": 99
-    },
-    {
-        "CellX": 35,
-        "CellY": 99
-    },
-    {
-        "CellX": 36,
-        "CellY": 99
-    },
-    {
-        "CellX": 37,
-        "CellY": 99
-    },
-    {
-        "CellX": 38,
-        "CellY": 99
-    },
-    {
-        "CellX": 39,
-        "CellY": 99
-    },
-    {
-        "CellX": 40,
-        "CellY": 99
-    },
-    {
-        "CellX": 40,
-        "CellY": 98
-    },
-    {
-        "Key": "InvisibleObstacle"
-    },
-    {
-        "Key": "door"
+        "Key": "door",
+        "CollisionEffect": 0
     },
     {
         "CellX": 58,

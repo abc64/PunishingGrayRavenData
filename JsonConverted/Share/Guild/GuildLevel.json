@@ -1,67 +1,82 @@
 [
     {
         "Level": 1,
-        "Capacity": 100,
+        "Capacity": 20,
         "PositionNum": [
-            1,
-            1,
+            2,
+            8,
             10
         ],
         "Build": 100,
         "Contribution": 100,
         "EmergencyMaintenance": 100,
-        "EmergencyDay": 1
+        "EmergencyDay": 1,
+        "WishMaxCount": 1,
+        "WishItemCount": 1,
+        "WishContributeMaxCount": 3
     },
     {
         "Level": 2,
-        "Capacity": 100,
+        "Capacity": 20,
         "PositionNum": [
-            1,
-            1,
-            20
+            2,
+            8,
+            10
         ],
         "Build": 200,
         "Contribution": 200,
         "EmergencyMaintenance": 200,
-        "EmergencyDay": 2
+        "EmergencyDay": 2,
+        "WishMaxCount": 2,
+        "WishItemCount": 1,
+        "WishContributeMaxCount": 4
     },
     {
         "Level": 3,
-        "Capacity": 100,
+        "Capacity": 30,
         "PositionNum": [
-            1,
-            1,
-            30
+            2,
+            13,
+            10
         ],
         "Build": 300,
         "Contribution": 300,
         "EmergencyMaintenance": 300,
-        "EmergencyDay": 3
+        "EmergencyDay": 3,
+        "WishMaxCount": 2,
+        "WishItemCount": 1,
+        "WishContributeMaxCount": 4
     },
     {
         "Level": 4,
-        "Capacity": 100,
+        "Capacity": 35,
         "PositionNum": [
-            1,
-            1,
-            40
+            2,
+            15,
+            10
         ],
         "Build": 400,
         "Contribution": 400,
         "EmergencyMaintenance": 400,
-        "EmergencyDay": 4
+        "EmergencyDay": 4,
+        "WishMaxCount": 3,
+        "WishItemCount": 1,
+        "WishContributeMaxCount": 5
     },
     {
         "Level": 5,
-        "Capacity": 100,
+        "Capacity": 40,
         "PositionNum": [
-            1,
-            1,
-            50
+            2,
+            18,
+            10
         ],
         "Build": 500,
         "Contribution": 500,
         "EmergencyMaintenance": 500,
-        "EmergencyDay": 5
+        "EmergencyDay": 5,
+        "WishMaxCount": 3,
+        "WishItemCount": 1,
+        "WishContributeMaxCount": 5
     }
 ]

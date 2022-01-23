@@ -79,7 +79,7 @@
     },
     {
         "Id": 101807,
-        "Name": "Basic Charge Attack",
+        "Name": "突进普攻",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.2,
@@ -92,7 +92,7 @@
     },
     {
         "Id": 101808,
-        "Name": "Basic Charge Attack Branch",
+        "Name": "突进普攻分支",
         "SkillType": 1,
         "CastTime": 0.85,
         "AfterTime": 1.4,
@@ -106,7 +106,7 @@
     },
     {
         "Id": 101809,
-        "Name": "Basic Attack 1 (Enhance)",
+        "Name": "普攻1（强化）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.2,
@@ -119,7 +119,7 @@
     },
     {
         "Id": 101810,
-        "Name": "Basic Attack 2 (Enhance)",
+        "Name": "普攻2（强化）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.6,
@@ -132,7 +132,7 @@
     },
     {
         "Id": 101811,
-        "Name": "Basic Attack 3 (Enhance)",
+        "Name": "普攻3（强化）",
         "SkillType": 1,
         "CastTime": 0.7,
         "AfterTime": 1.5,
@@ -145,7 +145,7 @@
     },
     {
         "Id": 101812,
-        "Name": "Basic Attack 4 (Enhance)",
+        "Name": "普攻4（强化）",
         "SkillType": 1,
         "CastTime": 1.05,
         "AfterTime": 1.55,
@@ -158,7 +158,7 @@
     },
     {
         "Id": 101813,
-        "Name": "Basic Attack 5 (Enhance)",
+        "Name": "普攻5（强化）",
         "SkillType": 1,
         "CastTime": 0.8,
         "AfterTime": 1.4,
@@ -171,7 +171,7 @@
     },
     {
         "Id": 101814,
-        "Name": "Basic Attack 6 (Enhance)",
+        "Name": "普攻6（强化）",
         "SkillType": 1,
         "CastTime": 0.55,
         "AfterTime": 1.3,
@@ -184,7 +184,7 @@
     },
     {
         "Id": 101815,
-        "Name": "Basic Charge Attack (Enhance)",
+        "Name": "突进普攻（强化）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.2,
@@ -197,7 +197,7 @@
     },
     {
         "Id": 101816,
-        "Name": "Basic Charge Attack Branch (Enhance)",
+        "Name": "突进普攻分支（强化）",
         "SkillType": 1,
         "CastTime": 0.85,
         "AfterTime": 1.4,
@@ -250,7 +250,7 @@
     },
     {
         "Id": 101820,
-        "Name": "Red Orb EX",
+        "Name": "红球EX",
         "SkillType": 41,
         "CastTime": 1.35,
         "AfterTime": 1.15,
@@ -320,7 +320,7 @@
     },
     {
         "Id": 101825,
-        "Name": "普攻4（突进）",
+        "Name": "黄球2消",
         "SkillType": 32,
         "CastTime": 1.15,
         "AfterTime": 1.25,
@@ -354,7 +354,7 @@
         "AfterTime": 1.25,
         "Animation": "Attack51",
         "FinalMagicIds": 100092,
-        "DistNoTarget": 10,
+        "DistNoTarget": 0,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
         "MissileLockTarget": 0,
@@ -410,6 +410,7 @@
         "CastTime": 1.15,
         "AfterTime": 1.25,
         "Animation": "Attack31",
+        "FinalMagicIds": 101838,
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillMoveTrackDistance": 2,
@@ -766,7 +767,7 @@
     },
     {
         "Id": 100923,
-        "Name": "樱花爆炸",
+        "Name": "普攻1（追击）",
         "SkillType": 1,
         "CastTime": 0.35,
         "AfterTime": 1.15,

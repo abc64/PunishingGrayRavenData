@@ -4,6 +4,7 @@
         "ModelId": "Me1SwordMd002001",
         "BossName": "Musashi IX",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -11,14 +12,18 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fused Armor",
             "Jet Blade",
             "Leaguestep",
             "Blade Storm"
         ],
         "SkillDesc": [
-            "Riot control robot, only specially designed frames can break its armor. (Increases damage received from Tank-type Constructs.)",
             "Musashi IX fires a powerful blade shockwave at the enemy.",
             "Musashi IX closes the distance quickly with an enemy.",
             "Musashi IX spins his great sword, unleashing shockwaves at nearby enemies."
@@ -30,6 +35,7 @@
         "ModelId": "Me1SwordMd002001",
         "BossName": "Musashi IX",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -37,15 +43,19 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fused Armor",
             "Heart of Sword Mode",
             "Jet Blade",
             "Leaguestep",
             "Blade Storm"
         ],
         "SkillDesc": [
-            "Riot control robot, only specially designed frames can break its armor. (Increases damage received from Tank-type Constructs.)",
             "Musashi IX conceals his own form, leaving only a shadow behind, and unleashes a shockwave at the enemy.",
             "Musashi IX fires a powerful blade shockwave at the enemy.",
             "Musashi IX closes the distance quickly with an enemy.",
@@ -58,6 +68,7 @@
         "ModelId": "Me1SwordMd002001",
         "BossName": "Musashi IX",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -65,8 +76,13 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fused Armor",
             "Blade Shockwave",
             "Heart of Sword Mode",
             "Jet Blade",
@@ -74,7 +90,6 @@
             "Blade Storm"
         ],
         "SkillDesc": [
-            "Riot control robot, only specially designed frames can break its armor. (Increases damage received from Tank-type Constructs.)",
             "Musashi IX unleashes multiple shockwaves at an enemy from multiple directions.",
             "Musashi IX conceals his own form, leaving only a shadow behind, and unleashes a shockwave at the enemy.",
             "Musashi IX fires a powerful blade shockwave at the enemy.",
@@ -88,6 +103,7 @@
         "ModelId": "Me1SwordMd002001",
         "BossName": "Musashi IX",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -95,8 +111,13 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fused Armor",
             "Scorched Earth",
             "Blade Shockwave",
             "Heart of Sword Mode",
@@ -105,8 +126,7 @@
             "Blade Storm"
         ],
         "SkillDesc": [
-            "Riot control robot, only specially designed frames can break its armor. (Increases damage received from Tank-type Constructs.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Musashi IX unleashes multiple shockwaves at an enemy from multiple directions.",
             "Musashi IX conceals his own form, leaving only a shadow behind, and unleashes a shockwave at the enemy.",
             "Musashi IX fires a powerful blade shockwave at the enemy.",
@@ -120,6 +140,7 @@
         "ModelId": "Me1SwordMd002001",
         "BossName": "Musashi IX",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -127,8 +148,13 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fused Armor",
             "Scorched Earth",
             "Blade Shockwave",
             "Heart of Sword Mode",
@@ -137,8 +163,46 @@
             "Blade Storm"
         ],
         "SkillDesc": [
-            "Riot control robot, only specially designed frames can break its armor. (Increases damage received from Tank-type Constructs.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Musashi IX unleashes multiple shockwaves at an enemy from multiple directions.",
+            "Musashi IX conceals his own form, leaving only a shadow behind, and unleashes a shockwave at the enemy.",
+            "Musashi IX fires a powerful blade shockwave at the enemy.",
+            "Musashi IX closes the distance quickly with an enemy.",
+            "Musashi IX spins his great sword, unleashing shockwaves at nearby enemies."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000106,
+        "ModelId": "Me1SwordMd002001",
+        "BossName": "Musashi IX",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420001
+        ],
+        "BuffDetailsId": [
+            90000
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Blade Shockwave",
+            "Heart of Sword Mode",
+            "Jet Blade",
+            "Leaguestep",
+            "Blade Storm"
+        ],
+        "SkillDesc": [
+            60,
             "Musashi IX unleashes multiple shockwaves at an enemy from multiple directions.",
             "Musashi IX conceals his own form, leaving only a shadow behind, and unleashes a shockwave at the enemy.",
             "Musashi IX fires a powerful blade shockwave at the enemy.",
@@ -152,6 +216,7 @@
         "ModelId": "Mb1OrphanMd030001",
         "BossName": "Nozzle",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -159,16 +224,19 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fire Fear",
-            "Ice Proof",
             "Burst",
             "Leap Attack",
             "Spray"
         ],
         "SkillDesc": [
-            "The external tubing has stored a lot of organic composite pigments. Highly flammable and prone to explode. (Reduces Fire Resistance.)",
-            "Its body is made with a special metal for storing new types of pigments. Performs well in low temperatures and not easily corroded. (Reduces Ice DMG received.)",
             "Throws an ice bomb at an enemy.",
             "Smashes the ground, dealing area damage.",
             "Sprays the ground with ice, which deals damage over time to enemies."
@@ -180,6 +248,7 @@
         "ModelId": "Mb1OrphanMd030001",
         "BossName": "Nozzle",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -187,17 +256,20 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fire Fear",
-            "Ice Proof",
             "Jump Smash",
             "Burst",
             "Leap Attack",
             "Spray"
         ],
         "SkillDesc": [
-            "The external tubing has stored a lot of organic composite pigments. Highly flammable and prone to explode. (Reduces Fire Resistance.)",
-            "Its body is made with a special metal for storing new types of pigments. Performs well in low temperatures and not easily corroded. (Reduces Ice DMG received.)",
             "Smashes the ground multiple times, dealing area damage.",
             "Throws an ice bomb at an enemy.",
             "Smashes the ground, dealing area damage.",
@@ -210,6 +282,7 @@
         "ModelId": "Mb1OrphanMd030001",
         "BossName": "Nozzle",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -217,17 +290,20 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fire Fear",
-            "Ice Proof",
             "Jump Smash",
             "Burst",
             "Leap Attack",
             "Spray"
         ],
         "SkillDesc": [
-            "The external tubing has stored a lot of organic composite pigments. Highly flammable and prone to explode. (Reduces Fire Resistance.)",
-            "Its body is made with a special metal for storing new types of pigments. Performs well in low temperatures and not easily corroded. (Reduces Ice DMG received.)",
             "Smashes the ground multiple times, dealing area damage.",
             "Throws an ice bomb at an enemy.",
             "Smashes the ground, dealing area damage.",
@@ -240,6 +316,7 @@
         "ModelId": "Mb1OrphanMd030001",
         "BossName": "Nozzle",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -247,23 +324,28 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fire Fear",
-            "Ice Proof",
             "Scorched Earth",
             "Boosted Spray",
             "Jump Smash",
             "Burst",
-            "Leap Attack"
+            "Leap Attack",
+            "Reinforcements"
         ],
         "SkillDesc": [
-            "The external tubing has stored a lot of organic composite pigments. Highly flammable and prone to explode. (Reduces Fire Resistance.)",
-            "Its body is made with a special metal for storing new types of pigments. Performs well in low temperatures and not easily corroded. (Reduces Ice DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Sprays the ground with ice, which deals damage over time to enemies. Ice duration extended",
             "Smashes the ground multiple times, dealing area damage.",
             "Throws an ice bomb at an enemy.",
-            "Smashes the ground, dealing area damage."
+            "Smashes the ground, dealing area damage.",
+            "Call upon Jitterbombs to defeat the enemies"
         ],
         "AttackName": []
     },
@@ -272,6 +354,7 @@
         "ModelId": "Mb1OrphanMd030001",
         "BossName": "Nozzle",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -279,23 +362,70 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Fire Fear",
-            "Ice Proof",
             "Scorched Earth",
             "Boosted Spray",
             "Jump Smash",
             "Burst",
-            "Leap Attack"
+            "Leap Attack",
+            "Reinforcements"
         ],
         "SkillDesc": [
-            "The external tubing has stored a lot of organic composite pigments. Highly flammable and prone to explode. (Reduces Fire Resistance.)",
-            "Its body is made with a special metal for storing new types of pigments. Performs well in low temperatures and not easily corroded. (Reduces Ice DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Sprays the ground with ice, which deals damage over time to enemies. Ice duration extended",
             "Smashes the ground multiple times, dealing area damage.",
             "Throws an ice bomb at an enemy.",
-            "Smashes the ground, dealing area damage."
+            "Smashes the ground, dealing area damage.",
+            "Call upon Jitterbombs to defeat the enemies"
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000206,
+        "ModelId": "Mb1OrphanMd030001",
+        "BossName": "Nozzle",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420002
+        ],
+        "BuffDetailsId": [
+            90001,
+            90002
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Boosted Spray",
+            "Jump Smash",
+            "Burst",
+            "Leap Attack",
+            "Reinforcements"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Sprays the ground with ice, which deals damage over time to enemies. Ice duration extended",
+            "Smashes the ground multiple times, dealing area damage.",
+            "Throws an ice bomb at an enemy.",
+            "Smashes the ground, dealing area damage.",
+            "Call upon Jitterbombs to defeat the enemies"
         ],
         "AttackName": []
     },
@@ -304,6 +434,7 @@
         "ModelId": "Mb1LuolanMd010001",
         "BossName": "Roland",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -311,16 +442,19 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Armor Break",
-            "Dark Proof",
-            "Fire",
-            "Jump Slash",
+            "Open Fire",
+            "Step Slash",
             "Bullet Kick"
         ],
         "SkillDesc": [
-            "An old model made with old experimental frame materials. Its tenacity and attack resistance is average. (Reduces Physical Resistance.)",
-            "A machine deeply corrupted by the Punishing Virus. It has high dark energy resistance. (Reduces Dark DMG received.)",
             "Roland fires his shotgun at an enemy.",
             "Roland leaps in front and swipes at the enemy.",
             "Roland kicks the enemy multiple times, dealing damage and knocking them away."
@@ -332,6 +466,7 @@
         "ModelId": "Mb1LuolanMd010001",
         "BossName": "Roland",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -339,17 +474,20 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Armor Break",
-            "Dark Proof",
             "Scythe Form",
-            "Fire",
-            "Jump Slash",
+            "Open Fire",
+            "Step Slash",
             "Bullet Kick"
         ],
         "SkillDesc": [
-            "An old model made with old experimental frame materials. Its tenacity and attack resistance is average. (Reduces Physical Resistance.)",
-            "A machine deeply corrupted by the Punishing Virus. It has high dark energy resistance. (Reduces Dark DMG received.)",
             "Roland swings his chain blade, unleashing a powerful shockwave.",
             "Roland fires his shotgun at an enemy.",
             "Roland leaps in front and swipes at the enemy.",
@@ -362,6 +500,7 @@
         "ModelId": "Mb1LuolanMd010001",
         "BossName": "Roland",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -369,17 +508,20 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Armor Break",
-            "Dark Proof",
             "Scythe Form",
-            "Fire",
-            "Jump Slash",
+            "Open Fire",
+            "Step Slash",
             "Bullet Kick"
         ],
         "SkillDesc": [
-            "An old model made with old experimental frame materials. Its tenacity and attack resistance is average. (Reduces Physical Resistance.)",
-            "A machine deeply corrupted by the Punishing Virus. It has high dark energy resistance. (Reduces Dark DMG received.)",
             "Roland swings his chain blade, unleashing a powerful shockwave.",
             "Roland fires his shotgun at an enemy.",
             "Roland leaps in front and swipes at the enemy.",
@@ -392,6 +534,7 @@
         "ModelId": "Mb1LuolanMd010001",
         "BossName": "Roland",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -399,21 +542,24 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Armor Break",
-            "Dark Proof",
             "Scorched Earth",
             "Explosive Barrel",
             "Flying Man",
             "Scythe Form",
-            "Fire",
-            "Jump Slash",
+            "Open Fire",
+            "Step Slash",
             "Bullet Kick"
         ],
         "SkillDesc": [
-            "An old model made with old experimental frame materials. Its tenacity and attack resistance is average. (Reduces Physical Resistance.)",
-            "A machine deeply corrupted by the Punishing Virus. It has high dark energy resistance. (Reduces Dark DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Roland hooks an explosive barrel and detonates it in mid-air, dealing heavy damage.",
             "Roland pulls himself into the air with his chain blade, dropping powerful bombs on the enemy.",
             "Roland swings his chain blade, unleashing a powerful shockwave.",
@@ -428,6 +574,7 @@
         "ModelId": "Mb1LuolanMd010001",
         "BossName": "Roland",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -435,21 +582,68 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Armor Break",
-            "Dark Proof",
             "Scorched Earth",
             "Explosive Barrel",
             "Flying Man",
             "Scythe Form",
-            "Fire",
-            "Jump Slash",
+            "Open Fire",
+            "Step Slash",
             "Bullet Kick"
         ],
         "SkillDesc": [
-            "An old model made with old experimental frame materials. Its tenacity and attack resistance is average. (Reduces Physical Resistance.)",
-            "A machine deeply corrupted by the Punishing Virus. It has high dark energy resistance. (Reduces Dark DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Roland hooks an explosive barrel and detonates it in mid-air, dealing heavy damage.",
+            "Roland pulls himself into the air with his chain blade, dropping powerful bombs on the enemy.",
+            "Roland swings his chain blade, unleashing a powerful shockwave.",
+            "Roland fires his shotgun at an enemy.",
+            "Roland leaps in front and swipes at the enemy.",
+            "Roland kicks the enemy multiple times, dealing damage and knocking them away."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000306,
+        "ModelId": "Mb1LuolanMd010001",
+        "BossName": "Roland",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420003
+        ],
+        "BuffDetailsId": [
+            90003,
+            90004
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Explosive Barrel",
+            "Flying Man",
+            "Scythe Form",
+            "Open Fire",
+            "Step Slash",
+            "Bullet Kick"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Roland hooks an explosive barrel and detonates it in mid-air, dealing heavy damage.",
             "Roland pulls himself into the air with his chain blade, dropping powerful bombs on the enemy.",
             "Roland swings his chain blade, unleashing a powerful shockwave.",
@@ -464,6 +658,7 @@
         "ModelId": "Mb1SandwormMd030001",
         "BossName": "Vassago",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -471,18 +666,21 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Lightning Fear",
-            "Fire Proof",
-            "Furious Smash",
-            "Dig",
+            "Fury Attack",
+            "Submerge",
             "Air Blast"
         ],
         "SkillDesc": [
-            "Vassago, a mechanoid serpent that strikes with precision and conceals itself in the sand by using strong electric currents. (Reduces Lightning Resistance.)",
-            "Vassago hides in the sand, away from all that is flammable. (Reduces Fire DMG received.)",
             "Smashes the ground multiple times at the enemy.",
-            "Dig underground, then emerges to deal heavy damage.",
+            "Digs underground, then emerges to deal heavy damage.",
             "Fires an energy blast mixed with sand at an enemy."
         ],
         "AttackName": []
@@ -492,6 +690,7 @@
         "ModelId": "Mb1SandwormMd030001",
         "BossName": "Vassago",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -499,18 +698,21 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Lightning Fear",
-            "Fire Proof",
-            "Furious Smash",
-            "Dig",
+            "Fury Attack",
+            "Submerge",
             "Air Blast"
         ],
         "SkillDesc": [
-            "Vassago, a mechanoid serpent that strikes with precision and conceals itself in the sand by using strong electric currents. (Reduces Lightning Resistance.)",
-            "Vassago hides in the sand, away from all that is flammable. (Reduces Fire DMG received.)",
             "Smashes the ground multiple times at the enemy.",
-            "Dig underground, then emerges to deal heavy damage.",
+            "Digs underground, then emerges to deal heavy damage.",
             "Fires an energy blast mixed with sand at an enemy."
         ],
         "AttackName": []
@@ -520,6 +722,7 @@
         "ModelId": "Mb1SandwormMd030001",
         "BossName": "Vassago",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -527,20 +730,23 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Lightning Fear",
-            "Fire Proof",
-            "Furious Air Blast",
-            "Furious Smash",
-            "Dig",
+            "Ex Air Blast",
+            "Fury Attack",
+            "Submerge",
             "Air Blast"
         ],
         "SkillDesc": [
-            "Vassago, a mechanoid serpent that strikes with precision and conceals itself in the sand by using strong electric currents. (Reduces Lightning Resistance.)",
-            "Vassago hides in the sand, away from all that is flammable. (Reduces Fire DMG received.)",
             "Fires multiple energy blasts at the enemy.",
             "Smashes the ground multiple times at the enemy.",
-            "Dig underground, then emerges to deal heavy damage.",
+            "Digs underground, then emerges to deal heavy damage.",
             "Fires an energy blast mixed with sand at an enemy."
         ],
         "AttackName": []
@@ -550,6 +756,7 @@
         "ModelId": "Mb1SandwormMd030001",
         "BossName": "Vassago",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -557,26 +764,27 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Lightning Fear",
-            "Fire Proof",
             "Scorched Earth",
             "Sandstorm",
-            null,
-            "Furious Air Blast",
-            "Furious Smash",
-            "Dig",
+            "Ex Air Blast",
+            "Fury Attack",
+            "Submerge",
             "Air Blast"
         ],
         "SkillDesc": [
-            "Vassago, a mechanoid serpent that strikes with precision and conceals itself in the sand by using strong electric currents. (Reduces Lightning Resistance.)",
-            "Vassago hides in the sand, away from all that is flammable. (Reduces Fire DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Charges energy to create a sandstorm that continuously deals damage.",
-            null,
             "Fires multiple energy blasts at the enemy.",
             "Smashes the ground multiple times at the enemy.",
-            "Dig underground, then emerges to deal heavy damage.",
+            "Digs underground, then emerges to deal heavy damage.",
             "Fires an energy blast mixed with sand at an enemy."
         ],
         "AttackName": []
@@ -586,6 +794,7 @@
         "ModelId": "Mb1SandwormMd030001",
         "BossName": "Vassago",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -593,26 +802,69 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Lightning Fear",
-            "Fire Proof",
             "Scorched Earth",
             "Sandstorm",
-            null,
-            "Furious Air Blast",
-            "Furious Smash",
-            "Dig",
+            "Ex Air Blast",
+            "Fury Attack",
+            "Submerge",
             "Air Blast"
         ],
         "SkillDesc": [
-            "Vassago, a mechanoid serpent that strikes with precision and conceals itself in the sand by using strong electric currents. (Reduces Lightning Resistance.)",
-            "Vassago hides in the sand, away from all that is flammable. (Reduces Fire DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Charges energy to create a sandstorm that continuously deals damage.",
-            null,
             "Fires multiple energy blasts at the enemy.",
             "Smashes the ground multiple times at the enemy.",
-            "Dig underground, then emerges to deal heavy damage.",
+            "Digs underground, then emerges to deal heavy damage.",
+            "Fires an energy blast mixed with sand at an enemy."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000606,
+        "ModelId": "Mb1SandwormMd030001",
+        "BossName": "Vassago",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420006
+        ],
+        "BuffDetailsId": [
+            90005,
+            90006
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Sandstorm",
+            "Ex Air Blast",
+            "Fury Attack",
+            "Submerge",
+            "Air Blast"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Charges energy to create a sandstorm that continuously deals damage.",
+            "Fires multiple energy blasts at the enemy.",
+            "Smashes the ground multiple times at the enemy.",
+            "Digs underground, then emerges to deal heavy damage.",
             "Fires an energy blast mixed with sand at an enemy."
         ],
         "AttackName": []
@@ -622,6 +874,7 @@
         "ModelId": "Mb1LuxiyaMd000003",
         "BossName": "Unknown Construct α",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -629,15 +882,19 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
         "SkillTitle": [
-            "Opposition",
             "Quick Slash",
-            "Zigzag",
+            "Z-Move",
             "Block",
-            "Batto"
+            "Quick Draw"
         ],
         "SkillDesc": [
-            "The real conflict is a clash of will. Rosetta’s fighting spirit burns more fiercely. (Increases damage received from Rosetta.)",
             "A quick slash that creates a shockwave front before self.",
             "Zigzags to close the distance with an enemy.",
             "Holds up weapon to block some damage from attacks.",
@@ -650,6 +907,7 @@
         "ModelId": "Mb1LuxiyaMd000003",
         "BossName": "Unknown Construct α",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -657,17 +915,21 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
         "SkillTitle": [
-            "Opposition",
             "Dodge",
             "Cross Slash",
             "Quick Slash",
-            "Zigzag",
+            "Z-Move",
             "Block",
-            "Batto"
+            "Quick Draw"
         ],
         "SkillDesc": [
-            "The real conflict is a clash of will. Rosetta’s fighting spirit burns more fiercely. (Increases damage received from Rosetta.)",
             "Dodge attacks from enemies.",
             "Unleashes a quick cross slash at enemies.",
             "A quick slash that creates a shockwave front before self.",
@@ -682,6 +944,7 @@
         "ModelId": "Mb1LuxiyaMd000003",
         "BossName": "Unknown Construct α",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -689,18 +952,22 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
         "SkillTitle": [
-            "Opposition",
-            "Sword Wave",
+            "Swordwave",
             "Dodge",
             "Cross Slash",
             "Quick Slash",
-            "Zigzag",
+            "Z-Move",
             "Block",
-            "Batto"
+            "Quick Draw"
         ],
         "SkillDesc": [
-            "The real conflict is a clash of will. Rosetta’s fighting spirit burns more fiercely. (Increases damage received from Rosetta.)",
             "Unleashes an air-bending sword wave at the enemy.",
             "Dodge attacks from enemies.",
             "Unleashes a quick cross slash at enemies.",
@@ -716,6 +983,7 @@
         "ModelId": "Mb1LuxiyaMd000003",
         "BossName": "Unknown Construct α",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -723,18 +991,22 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
         "SkillTitle": [
-            "Opposition",
             "Wave Blast",
-            "Sword Wave",
+            "Swordwave",
             "Dodge",
             "Cross Slash",
             "Quick Slash",
-            "Zigzag",
+            "Z-Move",
             "Block"
         ],
         "SkillDesc": [
-            "The real conflict is a clash of will. Rosetta’s fighting spirit burns more fiercely. (Increases damage received from Rosetta.)",
             "Unleashes multiple air-bending sword waves at the enemy.",
             "Unleashes an air-bending sword wave at the enemy.",
             "Dodge attacks from enemies.",
@@ -750,6 +1022,7 @@
         "ModelId": "Mb1LuxiyaMd000003",
         "BossName": "Unknown Construct α",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -757,19 +1030,66 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
         "SkillTitle": [
-            "Opposition",
             "Scorched Earth",
             "Wave Blast",
-            "Sword Wave",
+            "Swordwave",
             "Dodge",
-            "Zigzag",
+            "Z-Move",
             "Block",
             "Cross Slash"
         ],
         "SkillDesc": [
-            "The real conflict is a clash of will. Rosetta’s fighting spirit burns more fiercely. (Increases damage received from Rosetta.)",
-            "Bends the battlefield to her will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Unleashes multiple air-bending sword waves at the enemy.",
+            "Unleashes an air-bending sword wave at the enemy.",
+            "Dodge attacks from enemies.",
+            "Zigzags to close the distance with an enemy.",
+            "Holds up weapon to block some damage from attacks.",
+            "Unleashes a quick cross slash at enemies."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000506,
+        "ModelId": "Mb1LuxiyaMd000003",
+        "BossName": "Unknown Construct α ",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420005
+        ],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            1
+        ],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Wave Blast",
+            "Swordwave",
+            "Dodge",
+            "Z-Move",
+            "Block",
+            "Cross Slash"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
             "Unleashes multiple air-bending sword waves at the enemy.",
             "Unleashes an air-bending sword wave at the enemy.",
             "Dodge attacks from enemies.",
@@ -784,6 +1104,7 @@
         "ModelId": "Mb1SwordMd030001",
         "BossName": "Roseblade",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -791,16 +1112,19 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Ice Fear",
-            "Lightning Proof",
             "Shadow Strike",
-            "Devil Kiss",
-            "Lunge"
+            "Devil's Kiss",
+            "Flash"
         ],
         "SkillDesc": [
-            "An AI mechanoid designed to imitate humans, its low cold resistance is its weakness. (Reduces Ice Resistance.)",
-            "An AI mechanoid designed to imitate humans, its high level bioelectric signal simulation makes it resistant to electric threats. (Reduces Lightning DMG received.)",
             "Creates multiple shadows to impale the enemy, dealing heavy damage.",
             "Creates a rose-shaped energy field beneath the enemy, which explodes to deal damage.",
             "Quickly closes the distance with the enemy and impales them."
@@ -812,6 +1136,7 @@
         "ModelId": "Mb1SwordMd030001",
         "BossName": "Roseblade",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -819,18 +1144,21 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Ice Fear",
-            "Lightning Proof",
-            "Blaze Trifecta",
-            "Erupt",
+            "Three Flame Strikes",
+            "Earth Flame",
             "Shadow Strike",
-            "Devil Kiss",
-            "Lunge"
+            "Devil's Kiss",
+            "Flash"
         ],
         "SkillDesc": [
-            "An AI mechanoid designed to imitate humans, its low cold resistance is its weakness. (Reduces Ice Resistance.)",
-            "An AI mechanoid designed to imitate humans, its high level bioelectric signal simulation makes it resistant to electric threats. (Reduces Lightning DMG received.)",
             "Imbues sword with fire, unleashing flaming shockwaves at nearby enemies.",
             "Creates a field of fire beneath the enemy, which explodes to deal damage.",
             "Creates multiple shadows to impale the enemy, dealing heavy damage.",
@@ -844,6 +1172,7 @@
         "ModelId": "Mb1SwordMd030001",
         "BossName": "Roseblade",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -851,20 +1180,23 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Ice Fear",
-            "Lightning Proof",
             "Corrupting Darkness",
-            "Dark Wave",
-            "Blaze Trifecta",
-            "Erupt",
+            "Dark Swordwind",
+            "Three Flame Strikes",
+            "Earth Flame",
             "Shadow Strike",
-            "Devil Kiss",
-            "Lunge"
+            "Devil's Kiss",
+            "Flash"
         ],
         "SkillDesc": [
-            "An AI mechanoid designed to imitate humans, its low cold resistance is its weakness. (Reduces Ice Resistance.)",
-            "An AI mechanoid designed to imitate humans, its high level bioelectric signal simulation makes it resistant to electric threats. (Reduces Lightning DMG received.)",
             "Hides in darkness before charging at the enemy, knocking them away.",
             "Unleashes a dark shockwave at a distant enemy.",
             "Imbues sword with fire, unleashing flaming shockwaves at nearby enemies.",
@@ -880,6 +1212,7 @@
         "ModelId": "Mb1SwordMd030001",
         "BossName": "Roseblade",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -887,21 +1220,24 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Ice Fear",
-            "Lightning Proof",
             "Scorched Earth",
             "Corrupting Darkness",
-            "Dark Wave",
-            "Blaze Trifecta",
-            "Erupt",
+            "Dark Swordwind",
+            "Three Flame Strikes",
+            "Earth Flame",
             "Shadow Strike",
-            "Devil Kiss"
+            "Devil's Kiss"
         ],
         "SkillDesc": [
-            "An AI mechanoid designed to imitate humans, its low cold resistance is its weakness. (Reduces Ice Resistance.)",
-            "An AI mechanoid designed to imitate humans, its high level bioelectric signal simulation makes it resistant to electric threats. (Reduces Lightning DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Hides in darkness before charging at the enemy, knocking them away.",
             "Unleashes a dark shockwave at a distant enemy.",
             "Imbues sword with fire, unleashing flaming shockwaves at nearby enemies.",
@@ -916,6 +1252,7 @@
         "ModelId": "Mb1SwordMd030001",
         "BossName": "Roseblade",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -923,21 +1260,68 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Ice Fear",
-            "Lightning Proof",
             "Scorched Earth",
             "Corrupting Darkness",
-            "Dark Wave",
-            "Blaze Trifecta",
-            "Erupt",
+            "Dark Swordwind",
+            "Three Flame Strikes",
+            "Earth Flame",
             "Shadow Strike",
-            "Devil Kiss"
+            "Devil's Kiss"
         ],
         "SkillDesc": [
-            "An AI mechanoid designed to imitate humans, its low cold resistance is its weakness. (Reduces Ice Resistance.)",
-            "An AI mechanoid designed to imitate humans, its high level bioelectric signal simulation makes it resistant to electric threats. (Reduces Lightning DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Hides in darkness before charging at the enemy, knocking them away.",
+            "Unleashes a dark shockwave at a distant enemy.",
+            "Imbues sword with fire, unleashing flaming shockwaves at nearby enemies.",
+            "Creates a field of fire beneath the enemy, which explodes to deal damage.",
+            "Creates multiple shadows to impale the enemy, dealing heavy damage.",
+            "Creates a rose-shaped energy field beneath the enemy, which explodes to deal damage."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000706,
+        "ModelId": "Mb1SwordMd030001",
+        "BossName": "Roseblade",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420007
+        ],
+        "BuffDetailsId": [
+            90007,
+            90008
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Corrupting Darkness",
+            "Dark Swordwind",
+            "Three Flame Strikes",
+            "Earth Flame",
+            "Shadow Strike",
+            "Devil's Kiss"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Hides in darkness before charging at the enemy, knocking them away.",
             "Unleashes a dark shockwave at a distant enemy.",
             "Imbues sword with fire, unleashing flaming shockwaves at nearby enemies.",
@@ -952,6 +1336,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -959,6 +1344,10 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Energy Blast",
             "Gravity Bomb"
@@ -974,6 +1363,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -981,6 +1371,10 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Shot",
             "Energy Blast",
@@ -998,6 +1392,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -1005,6 +1400,10 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Laser",
             "Scatter Shot",
@@ -1024,6 +1423,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -1031,6 +1431,10 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1052,6 +1456,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -1059,6 +1464,10 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1076,10 +1485,48 @@
         "AttackName": []
     },
     {
+        "StageId": 30000918,
+        "ModelId": "Mb1BraveMd010011",
+        "BossName": "Riot",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420001
+        ],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Random Laser",
+            "Scatter Laser",
+            "Grapeshot Blast",
+            "Energy Blast",
+            "Gravity Bomb"
+        ],
+        "SkillDesc": [
+            60,
+            "Fires multiple laser beams on the map. Increased number of laser beams with random position and movement.",
+            "Fires multiple laser beams on the map.",
+            "Quickly fires bullets in a fan-shape.",
+            "Fires a powerful energy beam.",
+            "Bomb follows the target slowly, exploding on contact."
+        ],
+        "AttackName": []
+    },
+    {
         "StageId": 30000401,
         "ModelId": "Mb1VirginbioMd030001",
         "BossName": "Iron Maiden",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -1087,17 +1534,20 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Dark Fear",
-            "Solid",
             "Advancing Thorn",
             "Retreating Thorn",
-            "Chain Bomb",
+            "Spin",
             "Chain Bomb"
         ],
         "SkillDesc": [
-            "The damage on its Inver-Device renders its consciousness unstable and prone to corruption. (Reduces Dark Resistance.)",
-            "Tifa's sturdy outer armor protects her from a certain degree of Physical DMG. (Reduces Physical DMG received.)",
             "Iron Maiden moves towards the enemy, and creates thorns beneath the target.",
             "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
             "Iron Maiden fires powerful thorn missiles at nearby enemies.",
@@ -1110,6 +1560,7 @@
         "ModelId": "Mb1VirginbioMd030001",
         "BossName": "Iron Maiden",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -1117,17 +1568,20 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Dark Fear",
-            "Solid",
             "Advancing Thorn",
             "Retreating Thorn",
-            "Chain Bomb",
+            "Spin",
             "Chain Bomb"
         ],
         "SkillDesc": [
-            "The damage on its Inver-Device renders its consciousness unstable and prone to corruption. (Reduces Dark Resistance.)",
-            "Tifa's sturdy outer armor protects her from a certain degree of Physical DMG. (Reduces Physical DMG received.)",
             "Iron Maiden moves towards the enemy, and creates thorns beneath the target.",
             "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
             "Iron Maiden fires powerful thorn missiles at nearby enemies.",
@@ -1140,6 +1594,7 @@
         "ModelId": "Mb1VirginbioMd030001",
         "BossName": "Iron Maiden",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -1147,23 +1602,28 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Dark Fear",
-            "Solid",
             "Thorn Hell",
             "Projectile",
+            "Spin",
             "Chain Bomb",
-            "Chain Bomb",
-            "Retreating Thorn"
+            "Retreating Thorn",
+            "Piercing Scream"
         ],
         "SkillDesc": [
-            "The damage on its Inver-Device renders its consciousness unstable and prone to corruption. (Reduces Dark Resistance.)",
-            "Tifa's sturdy outer armor protects her from a certain degree of Physical DMG. (Reduces Physical DMG received.)",
             "Iron Maiden fires numerous thorns at the enemy.",
             "Iron Maiden throws multiple spherical bombs at the enemy.",
             "Iron Maiden fires powerful thorn missiles at nearby enemies.",
             "Iron Maiden removes her crown and fires multiple spherical bombs at the enemy.",
-            "Iron Maiden moves away from the enemy, and creates thorns beneath the target."
+            "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
+            "Iron Maiden screams painfully, dealing damage to nearby targets."
         ],
         "AttackName": []
     },
@@ -1172,6 +1632,7 @@
         "ModelId": "Mb1VirginbioMd030001",
         "BossName": "Iron Maiden",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -1179,23 +1640,28 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Dark Fear",
-            "Solid",
             "Thorn Barrier",
             "Projectile",
+            "Spin",
             "Chain Bomb",
-            "Chain Bomb",
-            "Retreating Thorn"
+            "Retreating Thorn",
+            "Piercing Scream"
         ],
         "SkillDesc": [
-            "The damage on its Inver-Device renders its consciousness unstable and prone to corruption. (Reduces Dark Resistance.)",
-            "Tifa's sturdy outer armor protects her from a certain degree of Physical DMG. (Reduces Physical DMG received.)",
             "Iron Maiden blocks the enemy's path with thorns.",
             "Iron Maiden throws multiple spherical bombs at the enemy.",
             "Iron Maiden fires powerful thorn missiles at nearby enemies.",
             "Iron Maiden removes her crown and fires multiple spherical bombs at the enemy.",
-            "Iron Maiden moves away from the enemy, and creates thorns beneath the target."
+            "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
+            "Iron Maiden screams painfully, dealing damage to nearby targets."
         ],
         "AttackName": []
     },
@@ -1204,6 +1670,7 @@
         "ModelId": "Mb1VirginbioMd030001",
         "BossName": "Iron Maiden",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -1211,33 +1678,83 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
         "SkillTitle": [
-            "Dark Fear",
-            "Solid",
             "Scorched Earth",
             "Thorn Barrier",
             "Projectile",
+            "Spin",
             "Chain Bomb",
-            "Chain Bomb",
-            "Retreating Thorn"
+            "Retreating Thorn",
+            "Piercing Scream"
         ],
         "SkillDesc": [
-            "The damage on its Inver-Device renders its consciousness unstable and prone to corruption. (Reduces Dark Resistance.)",
-            "Tifa's sturdy outer armor protects her from a certain degree of Physical DMG. (Reduces Physical DMG received.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Iron Maiden blocks the enemy's path with thorns.",
             "Iron Maiden throws multiple spherical bombs at the enemy.",
             "Iron Maiden fires powerful thorn missiles at nearby enemies.",
             "Iron Maiden removes her crown and fires multiple spherical bombs at the enemy.",
-            "Iron Maiden moves away from the enemy, and creates thorns beneath the target."
+            "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
+            "Iron Maiden screams painfully, dealing damage to nearby targets."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000406,
+        "ModelId": "Mb1VirginbioMd030001",
+        "BossName": "Iron Maiden",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420004
+        ],
+        "BuffDetailsId": [
+            90009,
+            90010
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Thorn Barrier",
+            "Projectile",
+            "Spin",
+            "Chain Bomb",
+            "Retreating Thorn",
+            "Piercing Scream"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Iron Maiden blocks the enemy's path with thorns.",
+            "Iron Maiden throws multiple spherical bombs at the enemy.",
+            "Iron Maiden fires powerful thorn missiles at nearby enemies.",
+            "Iron Maiden removes her crown and fires multiple spherical bombs at the enemy.",
+            "Iron Maiden moves away from the enemy, and creates thorns beneath the target.",
+            "Iron Maiden screams painfully, dealing damage to nearby targets."
         ],
         "AttackName": []
     },
     {
         "StageId": 30000801,
-        "ModelId": "Mb1XiuMd010001",
+        "ModelId": "Mb1XiuMd010003",
         "BossName": "Camu",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -1245,16 +1762,20 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
         "SkillTitle": [
-            "Dark Fear",
-            "Destiny",
             "Phantom Hand",
             "Explosive Escape",
-            "Quad Combo"
+            "Quadruple Combo"
         ],
         "SkillDesc": [
-            "Its unstable consciousness signal makes it prone to corruption. (Reduces Dark Resistance.)",
-            "Good and evil are two sides of the same coin. The real battle happens within oneself. (Increases DMG received from Kamui.)",
             "Camu grabs a distant enemy and pulls them towards him.",
             "When attacked, Camu creates a shockwave that pushes away the enemy.",
             "Camu performs multiple attacks at an enemy."
@@ -1263,9 +1784,10 @@
     },
     {
         "StageId": 30000802,
-        "ModelId": "Mb1XiuMd010001",
+        "ModelId": "Mb1XiuMd010003",
         "BossName": "Camu",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -1273,16 +1795,20 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
         "SkillTitle": [
-            "Dark Fear",
-            "Destiny",
             "Phantom Hand",
             "Explosive Escape",
-            "Quad Combo"
+            "Quadruple Combo"
         ],
         "SkillDesc": [
-            "Its unstable consciousness signal makes it prone to corruption. (Reduces Dark Resistance.)",
-            "Good and evil are two sides of the same coin. The real battle happens within oneself. (Increases DMG received from Kamui.)",
             "Camu grabs a distant enemy and pulls them towards him.",
             "When attacked, Camu creates a shockwave that pushes away the enemy.",
             "Camu performs multiple attacks at an enemy."
@@ -1291,9 +1817,10 @@
     },
     {
         "StageId": 30000803,
-        "ModelId": "Mb1XiuMd010001",
+        "ModelId": "Mb1XiuMd010003",
         "BossName": "Camu",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -1301,18 +1828,22 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
         "SkillTitle": [
-            "Dark Fear",
-            "Destiny",
             "Block Counter",
-            "Explosive Escape Pursuit",
+            "Burst Charge",
             "Phantom Hand",
             "Explosive Escape",
-            "Quad Combo"
+            "Quadruple Combo"
         ],
         "SkillDesc": [
-            "Its unstable consciousness signal makes it prone to corruption. (Reduces Dark Resistance.)",
-            "Good and evil are two sides of the same coin. The real battle happens within oneself. (Increases DMG received from Kamui.)",
             "Camu counters the enemy's attack with his own.",
             "Camu pursues enemies hit by the shockwave.",
             "Camu grabs a distant enemy and pulls them towards him.",
@@ -1323,9 +1854,10 @@
     },
     {
         "StageId": 30000804,
-        "ModelId": "Mb1XiuMd010001",
+        "ModelId": "Mb1XiuMd010003",
         "BossName": "Camu",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -1333,19 +1865,23 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
         "SkillTitle": [
-            "Dark Fear",
-            "Destiny",
             "Berserk Quintuple Combo",
             "Block Counter",
-            "Explosive Escape Pursuit",
+            "Burst Charge",
             "Phantom Hand",
             "Explosive Escape",
-            "Quad Combo"
+            "Quadruple Combo"
         ],
         "SkillDesc": [
-            "Its unstable consciousness signal makes it prone to corruption. (Reduces Dark Resistance.)",
-            "Good and evil are two sides of the same coin. The real battle happens within oneself. (Increases DMG received from Kamui.)",
             "Camu goes berserk, furiously attacking the enemy.",
             "Camu counters the enemy's attack with his own.",
             "Camu pursues enemies hit by the shockwave.",
@@ -1357,9 +1893,10 @@
     },
     {
         "StageId": 30000805,
-        "ModelId": "Mb1XiuMd010001",
+        "ModelId": "Mb1XiuMd010003",
         "BossName": "Camu",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -1367,20 +1904,67 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
         "SkillTitle": [
-            "Dark Fear",
-            "Destiny",
             "Scorched Earth",
             "Berserk Quintuple Combo",
             "Block Counter",
-            "Explosive Escape Pursuit",
+            "Burst Charge",
             "Phantom Hand",
             "Explosive Escape"
         ],
         "SkillDesc": [
-            "Its unstable consciousness signal makes it prone to corruption. (Reduces Dark Resistance.)",
-            "Good and evil are two sides of the same coin. The real battle happens within oneself. (Increases DMG received from Kamui.)",
-            "Bends the battlefield to his will, causing enemies on the battlefield to continuously take extra damage.",
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Camu goes berserk, furiously attacking the enemy.",
+            "Camu counters the enemy's attack with his own.",
+            "Camu pursues enemies hit by the shockwave.",
+            "Camu grabs a distant enemy and pulls them towards him.",
+            "When attacked, Camu creates a shockwave that pushes away the enemy."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000806,
+        "ModelId": "Mb1XiuMd010003",
+        "BossName": "Camu",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420008
+        ],
+        "BuffDetailsId": [
+            90011
+        ],
+        "FeaturesId": [
+            2
+        ],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Berserk Quintuple Combo",
+            "Block Counter",
+            "Burst Charge",
+            "Phantom Hand",
+            "Explosive Escape"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
             "Camu goes berserk, furiously attacking the enemy.",
             "Camu counters the enemy's attack with his own.",
             "Camu pursues enemies hit by the shockwave.",
@@ -1394,6 +1978,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -1401,6 +1986,10 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Energy Blast",
             "Gravity Bomb"
@@ -1416,6 +2005,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -1423,6 +2013,10 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Shot",
             "Energy Blast",
@@ -1440,6 +2034,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -1447,6 +2042,10 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Laser",
             "Scatter Shot",
@@ -1466,6 +2065,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -1473,6 +2073,10 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1494,6 +2098,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -1501,6 +2106,10 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1518,10 +2127,48 @@
         "AttackName": []
     },
     {
+        "StageId": 30000916,
+        "ModelId": "Mb1BraveMd010011",
+        "BossName": "Riot",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420010
+        ],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Random Laser",
+            "Scatter Laser",
+            "Grapeshot Blast",
+            "Energy Blast",
+            "Gravity Bomb"
+        ],
+        "SkillDesc": [
+            60,
+            "Fires multiple laser beams on the map. Increased number of laser beams with random position and movement.",
+            "Fires multiple laser beams on the map.",
+            "Quickly fires bullets in a fan-shape.",
+            "Fires a powerful energy beam.",
+            "Bomb follows the target slowly, exploding on contact."
+        ],
+        "AttackName": []
+    },
+    {
         "StageId": 30000911,
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 12500,
+        "PreFullScore": [],
         "BossLoseHpScore": 5000,
         "LeftTimeScore": 6000,
         "LeftHpScore": 1500,
@@ -1529,6 +2176,10 @@
         "DifficultyDesc": "Test",
         "DifficultyDescEn": "TEST",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Energy Blast",
             "Gravity Bomb"
@@ -1544,6 +2195,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 25000,
+        "PreFullScore": [],
         "BossLoseHpScore": 10000,
         "LeftTimeScore": 12000,
         "LeftHpScore": 3000,
@@ -1551,6 +2203,10 @@
         "DifficultyDesc": "Elite",
         "DifficultyDescEn": "ELITES",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Shot",
             "Energy Blast",
@@ -1568,6 +2224,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 50000,
+        "PreFullScore": [],
         "BossLoseHpScore": 20000,
         "LeftTimeScore": 24000,
         "LeftHpScore": 6000,
@@ -1575,6 +2232,10 @@
         "DifficultyDesc": "Knight",
         "DifficultyDescEn": "KNIGHT",
         "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Scatter Laser",
             "Scatter Shot",
@@ -1594,6 +2255,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 100000,
+        "PreFullScore": [],
         "BossLoseHpScore": 40000,
         "LeftTimeScore": 48000,
         "LeftHpScore": 12000,
@@ -1601,6 +2263,10 @@
         "DifficultyDesc": "Chaos",
         "DifficultyDescEn": "CHAOS",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1622,6 +2288,7 @@
         "ModelId": "Mb1BraveMd010011",
         "BossName": "Riot",
         "Score": 200000,
+        "PreFullScore": [],
         "BossLoseHpScore": 80000,
         "LeftTimeScore": 96000,
         "LeftHpScore": 24000,
@@ -1629,6 +2296,10 @@
         "DifficultyDesc": "Hell",
         "DifficultyDescEn": "HELL",
         "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
         "SkillTitle": [
             "Random Laser",
             "Scatter Laser",
@@ -1642,6 +2313,533 @@
             "Quickly fires bullets in a fan-shape.",
             "Fires a powerful energy beam.",
             "Bomb follows the target slowly, exploding on contact."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30000917,
+        "ModelId": "Mb1BraveMd010011",
+        "BossName": "Riot",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420011
+        ],
+        "BuffDetailsId": [],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Random Laser",
+            "Scatter Laser",
+            "Grapeshot Blast",
+            "Energy Blast",
+            "Gravity Bomb"
+        ],
+        "SkillDesc": [
+            60,
+            "Fires multiple laser beams on the map. Increased number of laser beams with random position and movement.",
+            "Fires multiple laser beams on the map.",
+            "Quickly fires bullets in a fan-shape.",
+            "Fires a powerful energy beam.",
+            "Bomb follows the target slowly, exploding on contact."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001001,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 12500,
+        "PreFullScore": [],
+        "BossLoseHpScore": 5000,
+        "LeftTimeScore": 6000,
+        "LeftHpScore": 1500,
+        "DifficultyType": 1,
+        "DifficultyDesc": "Test",
+        "DifficultyDescEn": "TEST",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001002,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 25000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 10000,
+        "LeftTimeScore": 12000,
+        "LeftHpScore": 3000,
+        "DifficultyType": 2,
+        "DifficultyDesc": "Elite",
+        "DifficultyDescEn": "ELITES",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001003,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 50000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 20000,
+        "LeftTimeScore": 24000,
+        "LeftHpScore": 6000,
+        "DifficultyType": 3,
+        "DifficultyDesc": "Knight",
+        "DifficultyDescEn": "KNIGHT",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001004,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 100000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 40000,
+        "LeftTimeScore": 48000,
+        "LeftHpScore": 12000,
+        "DifficultyType": 4,
+        "DifficultyDesc": "Chaos",
+        "DifficultyDescEn": "CHAOS",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001005,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 5,
+        "DifficultyDesc": "Hell",
+        "DifficultyDescEn": "HELL",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Scorched Earth",
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001006,
+        "ModelId": "Mb1LuosaitarenMd000001",
+        "BossName": "Rosetta",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420012
+        ],
+        "BuffDetailsId": [],
+        "FeaturesId": [
+            3
+        ],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Fighting Will",
+            "Leap",
+            "Piercing Strike",
+            "Joust",
+            "Rider Shield",
+            "Ring of Repulsion",
+            "Take Off",
+            "Motion Counterattack",
+            "Homing Missile",
+            "Windblade Assault"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "The frequency of skills will change according to the battle difficulty.",
+            "Rosetta leaps into the air and impales the target with her lance.",
+            "Rosetta launches her lance forward at her target, then slams the target with her shield upon hitting it.",
+            "Rosetta rapidly launches multiple jabs with her lance.",
+            "Rosetta hurls her shield and launches multiple strikes.",
+            "Rosetta spins her lance to swipe the target multiple times.",
+            "Rosetta rams the enemy, then propels herself into the sky.",
+            "Rosetta dodges and moves while striking back with a wind blade.",
+            "Rosetta launches multiple missiles that track the enemy.",
+            "Rosetta swings her weapon to cast a few blades of wind."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001201,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 12500,
+        "PreFullScore": [],
+        "BossLoseHpScore": 5000,
+        "LeftTimeScore": 6000,
+        "LeftHpScore": 1500,
+        "DifficultyType": 1,
+        "DifficultyDesc": "Test",
+        "DifficultyDescEn": "TEST",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001202,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 25000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 10000,
+        "LeftTimeScore": 12000,
+        "LeftHpScore": 3000,
+        "DifficultyType": 2,
+        "DifficultyDesc": "Elite",
+        "DifficultyDescEn": "ELITES",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001203,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 50000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 20000,
+        "LeftTimeScore": 24000,
+        "LeftHpScore": 6000,
+        "DifficultyType": 3,
+        "DifficultyDesc": "Knight",
+        "DifficultyDescEn": "KNIGHT",
+        "AutoFight": 1,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001204,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 100000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 40000,
+        "LeftTimeScore": 48000,
+        "LeftHpScore": 12000,
+        "DifficultyType": 4,
+        "DifficultyDesc": "Chaos",
+        "DifficultyDescEn": "CHAOS",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001205,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 5,
+        "DifficultyDesc": "Hell",
+        "DifficultyDescEn": "HELL",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Scorched Earth",
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
+        ],
+        "AttackName": []
+    },
+    {
+        "StageId": 30001206,
+        "ModelId": "Mb1MelodyhuaxuMd10001",
+        "BossName": "Huaxu",
+        "Score": 200000,
+        "PreFullScore": [],
+        "BossLoseHpScore": 80000,
+        "LeftTimeScore": 96000,
+        "LeftHpScore": 24000,
+        "DifficultyType": 6,
+        "DifficultyDesc": "Hidden",
+        "DifficultyDescEn": "HIDE",
+        "AutoFight": 0,
+        "FightCharCount": 2,
+        "OpenCondition": [
+            420013
+        ],
+        "BuffDetailsId": [
+            90012,
+            90013
+        ],
+        "FeaturesId": [],
+        "SkillTitle": [
+            "Infinite",
+            "Scorched Earth",
+            "Inception",
+            "Origin",
+            "Lightning Storm",
+            "Claw of Expulsion"
+        ],
+        "SkillDesc": [
+            60,
+            "Bends the battlefield to one's will, causing enemies on the battlefield to continuously take extra damage.",
+            "Huaxu puts her palms together to channel two giant hands from her M.I.N.D. that slap the enemies.",
+            "After channeling, Huaxu launches 3 consecutive attacks under her enemies that also knock them back for a short duration.",
+            "Huaxu creates 7 circular lightning zones near the enemies, damaging any enemy caught within.",
+            "Huaxu swings her arms to claw at the enemies in mid range."
         ],
         "AttackName": []
     }

@@ -1,5 +1,5 @@
-Key	CellX	CellY
-VisibleObstacle		
+Key	CellX	CellY	CollisionEffect
+VisibleObstacle			0
 	286	65
 	287	65
 	285	65
@@ -3754,8 +3754,8 @@ VisibleObstacle
 	205	59
 	206	59
 	204	59
-InvisibleObstacle		
-AW1		
+InvisibleObstacle			0
+AW1			1
 	155	61
 	156	61
 	154	61
@@ -3795,7 +3795,7 @@ AW1
 	156	50
 	154	52
 	154	50
-AW2		
+AW2			1
 	219	61
 	220	61
 	218	61

@@ -41,6 +41,28 @@
         "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel01a.prefab"
     },
     {
+        "ChapterId": 1001003,
+        "ChapterName": "Treasure",
+        "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner01C.png",
+        "Priority": 100,
+        "ActivityBegin": "2021/12/22 2:00",
+        "ActivityEnd": "2022/1/25 6:59",
+        "ActivityCondition": 5001,
+        "OpenCondition": [
+            6107
+        ],
+        "StageId": [
+            13011620,
+            13011611,
+            13011612,
+            13011613,
+            13011614,
+            13011615,
+            13011616
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel01b.prefab"
+    },
+    {
         "ChapterId": 1002001,
         "ChapterName": "Under a Pale Moon",
         "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner02.png",
@@ -159,8 +181,8 @@
         "ChapterName": "The Land of the Fallen Star",
         "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner07B.png",
         "Priority": 60,
-        "ActivityBegin": "2021/9/9 2:00",
-        "ActivityEnd": "2021/10/11 6:59",
+        "ActivityBegin": "2021/1/27 5:00",
+        "ActivityEnd": "2021/2/21 5:00",
         "ActivityCondition": 5001,
         "OpenCondition": [
             6103
@@ -196,6 +218,28 @@
         "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel07.prefab"
     },
     {
+        "ChapterId": 1007002,
+        "ChapterName": "Lost Verity",
+        "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner05B.png",
+        "Priority": 40,
+        "ActivityBegin": "2021/10/13 7:00",
+        "ActivityEnd": "2021/11/15 6:59",
+        "ActivityCondition": 5001,
+        "OpenCondition": [
+            6104
+        ],
+        "StageId": [
+            13011320,
+            13011311,
+            13011312,
+            13011313,
+            13011314,
+            13011315,
+            13011316
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel07a.prefab"
+    },
+    {
         "ChapterId": 1008001,
         "ChapterName": "Crimson Sunset",
         "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner08.png",
@@ -222,8 +266,8 @@
         "ChapterName": "Curtains and Canvases",
         "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner09.png",
         "Priority": 120,
-        "ActivityBegin": "2021/9/9 2:00",
-        "ActivityEnd": "2021/10/11 6:59",
+        "ActivityBegin": "2021/1/27 5:00",
+        "ActivityEnd": "2021/2/21 5:00",
         "ActivityCondition": 5001,
         "OpenCondition": [
             6009
@@ -238,5 +282,48 @@
             13011216
         ],
         "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel09.prefab"
+    },
+    {
+        "ChapterId": 1010001,
+        "ChapterName": "Front Sight Focus",
+        "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner10.png",
+        "Priority": 130,
+        "ActivityBegin": "2021/10/20 7:00",
+        "ActivityEnd": "2021/11/15 6:59",
+        "ActivityCondition": 5001,
+        "OpenCondition": [
+            6105
+        ],
+        "StageId": [
+            13011420,
+            13011411,
+            13011412,
+            13011413,
+            13011414,
+            13011415,
+            13011416
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel10.prefab"
+    },
+    {
+        "ChapterId": 1011001,
+        "ChapterName": "Flawless",
+        "Bg": "Assets/Product/Texture/Image/UiFubenPrequelBanner/PrequelBanner11.png",
+        "Priority": 140,
+        "ActivityBegin": "2021/4/1 5:00",
+        "ActivityEnd": "2021/4/24 5:00",
+        "OpenCondition": [
+            6106
+        ],
+        "StageId": [
+            13011520,
+            13011511,
+            13011512,
+            13011513,
+            13011514,
+            13011515,
+            13011516
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenPrequel/FuBenPrequel11.prefab"
     }
 ]

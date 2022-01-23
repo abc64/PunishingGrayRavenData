@@ -15,6 +15,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1000010,
+        "Cover": "3|401|402",
+        "Mutex": "3|401|402",
         "Magic": 100001000
     },
     {
@@ -488,7 +490,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1000650,
+        "Kind": "1000650|3",
         "Cover": 1000650,
         "Magic": 100065000
     },
@@ -684,7 +686,8 @@
         "Kind": "1000920|9|8",
         "Cover": 1000920,
         "Mutex": "5|10|15|200",
-        "Magic": 100092000
+        "Magic": 100092000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 100093,
@@ -815,6 +818,67 @@
         "Cover": 1999040
     },
     {
+        "Id": 199906,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1999060,
+        "Cover": "8|9|5|10|15|200",
+        "Mutex": "8|9|5|10|15|200",
+        "Magic": 199906000
+    },
+    {
+        "Id": 199910,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1999100,
+        "Cover": 1999100,
+        "Magic": 199910000
+    },
+    {
+        "Id": 199911,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1999110,
+        "Cover": 1999110,
+        "Magic": 199911000
+    },
+    {
+        "Id": 199912,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1999120,
+        "Cover": 1999120,
+        "Magic": 199912000
+    },
+    {
+        "Id": 199913,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1999130,
+        "Cover": 1999130,
+        "Magic": 199913000
+    },
+    {
+        "Id": 199914,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1999140|1999130",
+        "Cover": 1999140,
+        "Magic": 199914000
+    },
+    {
         "Id": 199997,
         "Delay": 0,
         "Duration": "-1",
@@ -841,6 +905,102 @@
         "Cd": 0,
         "Kind": 1999990,
         "Magic": 199999000
+    },
+    {
+        "Id": 220000,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200000
+    },
+    {
+        "Id": 220001,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200010
+    },
+    {
+        "Id": 220002,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200020
+    },
+    {
+        "Id": 220003,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200030
+    },
+    {
+        "Id": 220004,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200040
+    },
+    {
+        "Id": 220005,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200050
+    },
+    {
+        "Id": 220006,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200060
+    },
+    {
+        "Id": 220007,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200070
+    },
+    {
+        "Id": 220008,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200080
+    },
+    {
+        "Id": 220009,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200090
+    },
+    {
+        "Id": 220010,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2200100
+    },
+    {
+        "Id": 230410,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 2304100
     },
     {
         "Id": 100200,
@@ -1148,18 +1308,6 @@
         "Magic": 100278000,
         "Effect": "FxR1LuxiyaPinzhiGuadianBip001RForearm",
         "EffectJoint": "Bip001RForearm"
-    },
-    {
-        "Id": 100279,
-        "Delay": 0,
-        "Duration": 1.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1002790,
-        "Cover": 1002780,
-        "Mutex": 1002780,
-        "Effect": "FxTongyongGuanghuanKuosan",
-        "EffectJoint": "Root"
     },
     {
         "Id": 100290,

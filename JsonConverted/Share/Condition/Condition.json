@@ -66,6 +66,18 @@
         "Desc": "Complete Normal Story 5-6"
     },
     {
+        "Id": 9,
+        "Type": 15110,
+        "Params": [],
+        "Desc": "War Zone is now available"
+    },
+    {
+        "Id": 10,
+        "Type": 15111,
+        "Params": [],
+        "Desc": "Phantom Pain Cage is now available"
+    },
+    {
         "Id": 301,
         "Type": 10102,
         "Params": [
@@ -143,7 +155,7 @@
         "Params": [
             1031002
         ],
-        "Desc": "Own Construct Liv: Core"
+        "Desc": "Own Construct Liv: Lux"
     },
     {
         "Id": 311,
@@ -208,6 +220,38 @@
             1091002
         ],
         "Desc": "Own Construct Ayla: Brilliance"
+    },
+    {
+        "Id": 319,
+        "Type": 10102,
+        "Params": [
+            1041003
+        ],
+        "Desc": "Own Construct Bianca: Veritas"
+    },
+    {
+        "Id": 320,
+        "Type": 10102,
+        "Params": [
+            1111002
+        ],
+        "Desc": "Own Construct Sophia: Silverfang"
+    },
+    {
+        "Id": 321,
+        "Type": 10102,
+        "Params": [
+            1121002
+        ],
+        "Desc": "Own Construct Chrome: Arclight"
+    },
+    {
+        "Id": 322,
+        "Type": 10102,
+        "Params": [
+            1021004
+        ],
+        "Desc": "Own Construct Lucia: Plume"
     },
     {
         "Id": 401,
@@ -312,6 +356,14 @@
             55
         ],
         "Desc": "Reach Commandant Level 55"
+    },
+    {
+        "Id": 8004,
+        "Type": 10101,
+        "Params": [
+            62
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.62"
     },
     {
         "Id": 10001,
@@ -971,6 +1023,14 @@
             10010203
         ],
         "Desc": "Complete Normal Story 1-7"
+    },
+    {
+        "Id": 100601,
+        "Type": 10105,
+        "Params": [
+            10120111
+        ],
+        "Desc": "Complete Normal Story 12-11"
     },
     {
         "Id": 109000,
@@ -1719,7 +1779,7 @@
             1031002,
             1
         ],
-        "Desc": "Liv: Core required"
+        "Desc": "Liv: Lux required"
     },
     {
         "Id": 40055,
@@ -3200,6 +3260,38 @@
             1081003
         ],
         "Desc": "Unlock Watanabe: Astral to open"
+    },
+    {
+        "Id": 6104,
+        "Type": 10102,
+        "Params": [
+            1041003
+        ],
+        "Desc": "Unlock Bianca: Veritas to open"
+    },
+    {
+        "Id": 6105,
+        "Type": 10102,
+        "Params": [
+            1111002
+        ],
+        "Desc": "Unlock Sophia: Silverfang to open"
+    },
+    {
+        "Id": 6106,
+        "Type": 10102,
+        "Params": [
+            1121002
+        ],
+        "Desc": "Unlock Chrome: Arclight to open"
+    },
+    {
+        "Id": 6107,
+        "Type": 10102,
+        "Params": [
+            1021004
+        ],
+        "Desc": "Unlock Lucia: Plume to open"
     },
     {
         "Id": 18108001,
@@ -4700,7 +4792,7 @@
         "Params": [
             16
         ],
-        "Desc": "Have an S-rank Construct reach Lv.16"
+        "Desc": "Construct reaches Lv.16 and evolves to S-rank"
     },
     {
         "Id": 60302,
@@ -4708,7 +4800,7 @@
         "Params": [
             20
         ],
-        "Desc": "Have an S-rank Construct reach Lv.20"
+        "Desc": "Construct reaches Lv.20 and evolves to S-rank"
     },
     {
         "Id": 60303,
@@ -4716,7 +4808,7 @@
         "Params": [
             24
         ],
-        "Desc": "Have an S-rank Construct reach Lv.24"
+        "Desc": "Construct reaches Lv.24 and evolves to S-rank"
     },
     {
         "Id": 60304,
@@ -4724,7 +4816,7 @@
         "Params": [
             28
         ],
-        "Desc": "Have an S-rank Construct reach Lv.28"
+        "Desc": "Construct reaches Lv.28 and evolves to S-rank"
     },
     {
         "Id": 60305,
@@ -4732,7 +4824,7 @@
         "Params": [
             32
         ],
-        "Desc": "Have an S-rank Construct reach Lv.32"
+        "Desc": "Construct reaches Lv.32 and evolves to S-rank"
     },
     {
         "Id": 60306,
@@ -4740,7 +4832,7 @@
         "Params": [
             36
         ],
-        "Desc": "Have an S-rank Construct reach Lv.36"
+        "Desc": "Construct reaches Lv.36 and evolves to S-rank"
     },
     {
         "Id": 60307,
@@ -4748,7 +4840,7 @@
         "Params": [
             40
         ],
-        "Desc": "Have an S-rank Construct reach Lv.40"
+        "Desc": "Construct reaches Lv.40 and evolves to S-rank"
     },
     {
         "Id": 60308,
@@ -4756,7 +4848,7 @@
         "Params": [
             44
         ],
-        "Desc": "Have an S-rank Construct reach Lv.44"
+        "Desc": "Construct reaches Lv.44 and evolves to S-rank"
     },
     {
         "Id": 60309,
@@ -4764,7 +4856,7 @@
         "Params": [
             48
         ],
-        "Desc": "Have an S-rank Construct reach Lv.48"
+        "Desc": "Construct reaches Lv.48 and evolves to S-rank"
     },
     {
         "Id": 60310,
@@ -4772,7 +4864,7 @@
         "Params": [
             52
         ],
-        "Desc": "Have an S-rank Construct reach Lv.52"
+        "Desc": "Construct reaches Lv.52 and evolves to S-rank"
     },
     {
         "Id": 60311,
@@ -4780,7 +4872,7 @@
         "Params": [
             56
         ],
-        "Desc": "Have an S-rank Construct reach Lv.56"
+        "Desc": "Construct reaches Lv.56 and evolves to S-rank"
     },
     {
         "Id": 60312,
@@ -4788,7 +4880,7 @@
         "Params": [
             60
         ],
-        "Desc": "Have an S-rank Construct reach Lv.60"
+        "Desc": "Construct reaches Lv.60 and evolves to S-rank"
     },
     {
         "Id": 60313,
@@ -4796,7 +4888,7 @@
         "Params": [
             64
         ],
-        "Desc": "Have an S-rank Construct reach Lv.64"
+        "Desc": "Construct reaches Lv.64 and evolves to S-rank"
     },
     {
         "Id": 60314,
@@ -4804,7 +4896,7 @@
         "Params": [
             68
         ],
-        "Desc": "Have an S-rank Construct reach Lv.68"
+        "Desc": "Construct reaches Lv.68 and evolves to S-rank"
     },
     {
         "Id": 60315,
@@ -4812,7 +4904,7 @@
         "Params": [
             72
         ],
-        "Desc": "Have an S-rank Construct reach Lv.72"
+        "Desc": "Construct reaches Lv.72 and evolves to S-rank"
     },
     {
         "Id": 60316,
@@ -4820,7 +4912,7 @@
         "Params": [
             76
         ],
-        "Desc": "Have an S-rank Construct reach Lv.76"
+        "Desc": "Construct reaches Lv.76 and evolves to S-rank"
     },
     {
         "Id": 60317,
@@ -4828,7 +4920,7 @@
         "Params": [
             80
         ],
-        "Desc": "Have an S-rank Construct reach Lv.80"
+        "Desc": "Construct reaches Lv.80 and evolves to S-rank"
     },
     {
         "Id": 60501,
@@ -5129,6 +5221,42 @@
         "Desc": "Awaken Astral's Ultima Rank"
     },
     {
+        "Id": 60418,
+        "Type": 11102,
+        "Params": [
+            1111002,
+            4
+        ],
+        "Desc": "Awaken Silverfang's Ultima Rank"
+    },
+    {
+        "Id": 60419,
+        "Type": 11102,
+        "Params": [
+            1041003,
+            4
+        ],
+        "Desc": "Awaken Veritas' Ultima Rank"
+    },
+    {
+        "Id": 60420,
+        "Type": 11102,
+        "Params": [
+            1121002,
+            4
+        ],
+        "Desc": "Awaken Arclight's Ultima Rank"
+    },
+    {
+        "Id": 60421,
+        "Type": 11102,
+        "Params": [
+            1021004,
+            4
+        ],
+        "Desc": "Awaken Plume's Ultima Rank"
+    },
+    {
         "Id": 61001,
         "Type": 13105,
         "Params": [
@@ -5189,7 +5317,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.16"
+        "Desc": "Construct reaches Lv.16 and evolves to S-rank"
     },
     {
         "Id": 61302,
@@ -5198,7 +5326,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.20"
+        "Desc": "Construct reaches Lv.20 and evolves to S-rank"
     },
     {
         "Id": 61303,
@@ -5207,7 +5335,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.24"
+        "Desc": "Construct reaches Lv.24 and evolves to S-rank"
     },
     {
         "Id": 61304,
@@ -5216,7 +5344,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.28"
+        "Desc": "Construct reaches Lv.28 and evolves to S-rank"
     },
     {
         "Id": 61305,
@@ -5225,7 +5353,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.32"
+        "Desc": "Construct reaches Lv.32 and evolves to S-rank"
     },
     {
         "Id": 61306,
@@ -5234,7 +5362,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.36"
+        "Desc": "Construct reaches Lv.36 and evolves to S-rank"
     },
     {
         "Id": 61307,
@@ -5243,7 +5371,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.40"
+        "Desc": "Construct reaches Lv.40 and evolves to S-rank"
     },
     {
         "Id": 61308,
@@ -5252,7 +5380,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.44"
+        "Desc": "Construct reaches Lv.44 and evolves to S-rank"
     },
     {
         "Id": 61309,
@@ -5261,7 +5389,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.48"
+        "Desc": "Construct reaches Lv.48 and evolves to S-rank"
     },
     {
         "Id": 61310,
@@ -5270,7 +5398,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.52"
+        "Desc": "Construct reaches Lv.52 and evolves to S-rank"
     },
     {
         "Id": 61311,
@@ -5279,7 +5407,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.56"
+        "Desc": "Construct reaches Lv.56 and evolves to S-rank"
     },
     {
         "Id": 61312,
@@ -5288,7 +5416,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.60"
+        "Desc": "Construct reaches Lv.60 and evolves to S-rank"
     },
     {
         "Id": 61313,
@@ -5297,7 +5425,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.64"
+        "Desc": "Construct reaches Lv.64 and evolves to S-rank"
     },
     {
         "Id": 61314,
@@ -5306,7 +5434,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.68"
+        "Desc": "Construct reaches Lv.68 and evolves to S-rank"
     },
     {
         "Id": 61315,
@@ -5315,7 +5443,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.72"
+        "Desc": "Construct reaches Lv.72 and evolves to S-rank"
     },
     {
         "Id": 61316,
@@ -5324,7 +5452,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.76"
+        "Desc": "Construct reaches Lv.76 and evolves to S-rank"
     },
     {
         "Id": 61317,
@@ -5333,7 +5461,7 @@
             3,
             0
         ],
-        "Desc": "Have an S-rank Construct reach Lv.80"
+        "Desc": "Construct reaches Lv.80 and evolves to S-rank"
     },
     {
         "Id": 70000,
@@ -5672,6 +5800,38 @@
         "Desc": "Clear Stronghold Chapter 1"
     },
     {
+        "Id": 70120,
+        "Type": 10105,
+        "Params": [
+            12090303
+        ],
+        "Desc": "Clear Stronghold Chapter 9"
+    },
+    {
+        "Id": 70121,
+        "Type": 10105,
+        "Params": [
+            12100304
+        ],
+        "Desc": "Clear Stronghold Chapter 10"
+    },
+    {
+        "Id": 70122,
+        "Type": 10105,
+        "Params": [
+            12110304
+        ],
+        "Desc": "Clear Stronghold Chapter 11"
+    },
+    {
+        "Id": 70123,
+        "Type": 10105,
+        "Params": [
+            12120304
+        ],
+        "Desc": "Clear Stronghold Chapter 12"
+    },
+    {
         "Id": 770100,
         "Type": 10105,
         "Params": [
@@ -5889,6 +6049,14 @@
         "Desc": "Unlocked when Commandant reaches Lv.60"
     },
     {
+        "Id": 772290,
+        "Type": 10101,
+        "Params": [
+            55
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.55"
+    },
+    {
         "Id": 772300,
         "Type": 10101,
         "Params": [
@@ -6093,9 +6261,41 @@
         "Id": 777700,
         "Type": 10101,
         "Params": [
-            100
+            200
         ],
-        "Desc": "Unlocked when Commandant reaches Lv.100"
+        "Desc": "Unlocked when Commandant reaches Lv.200"
+    },
+    {
+        "Id": 774800,
+        "Type": 10101,
+        "Params": [
+            40
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.40"
+    },
+    {
+        "Id": 774700,
+        "Type": 10101,
+        "Params": [
+            42
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.42"
+    },
+    {
+        "Id": 774900,
+        "Type": 10101,
+        "Params": [
+            70
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.70"
+    },
+    {
+        "Id": 775000,
+        "Type": 10101,
+        "Params": [
+            40
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.40"
     },
     {
         "Id": 850000,
@@ -8865,6 +9065,102 @@
         "Desc": "Construct Lv.80"
     },
     {
+        "Id": 40061055,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Construct Lv.50"
+    },
+    {
+        "Id": 40061056,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Construct Lv.65"
+    },
+    {
+        "Id": 40061057,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Construct Lv.80"
+    },
+    {
+        "Id": 40061058,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Construct Lv.50"
+    },
+    {
+        "Id": 40061059,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Construct Lv.65"
+    },
+    {
+        "Id": 40061060,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Construct Lv.80"
+    },
+    {
+        "Id": 40061061,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Construct Lv.50"
+    },
+    {
+        "Id": 40061062,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Construct Lv.65"
+    },
+    {
+        "Id": 40061063,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Construct Lv.80"
+    },
+    {
+        "Id": 40061064,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Construct Lv.50"
+    },
+    {
+        "Id": 40061065,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Construct Lv.65"
+    },
+    {
+        "Id": 40061066,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Construct Lv.80"
+    },
+    {
         "Id": 40062001,
         "Type": 13108,
         "Params": [
@@ -9297,6 +9593,102 @@
         "Desc": "Construct reaches 5500 BP"
     },
     {
+        "Id": 40062055,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Construct reaches 2500 BP"
+    },
+    {
+        "Id": 40062056,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Construct reaches 4000 BP"
+    },
+    {
+        "Id": 40062057,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Construct reaches 5500 BP"
+    },
+    {
+        "Id": 40062058,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Construct reaches 2500 BP"
+    },
+    {
+        "Id": 40062059,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Construct reaches 4000 BP"
+    },
+    {
+        "Id": 40062060,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Construct reaches 5500 BP"
+    },
+    {
+        "Id": 40062061,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Construct reaches 2500 BP"
+    },
+    {
+        "Id": 40062062,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Construct reaches 4000 BP"
+    },
+    {
+        "Id": 40062063,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Construct reaches 5500 BP"
+    },
+    {
+        "Id": 40062064,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Construct reaches 2500 BP"
+    },
+    {
+        "Id": 40062065,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Construct reaches 4000 BP"
+    },
+    {
+        "Id": 40062066,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Construct reaches 5500 BP"
+    },
+    {
         "Id": 40063001,
         "Type": 13109,
         "Params": [
@@ -9451,6 +9843,42 @@
     },
     {
         "Id": 40063018,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
+        "Id": 40063019,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
+        "Id": 40063020,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
+        "Id": 40063021,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
+        "Id": 40063022,
         "Type": 13109,
         "Params": [
             6,
@@ -10068,6 +10496,15 @@
         "Desc": "Required units: 3"
     },
     {
+        "Id": 30000103,
+        "Type": 18111,
+        "Params": [
+            1,
+            1
+        ],
+        "Desc": "Max unit: 1"
+    },
+    {
         "Id": 9001,
         "Type": 10105,
         "Params": [
@@ -10306,6 +10743,38 @@
             1081003
         ],
         "Desc": "Unlock Construct - Watanabe: Astral"
+    },
+    {
+        "Id": 30100819,
+        "Type": 10102,
+        "Params": [
+            1041003
+        ],
+        "Desc": "Unlock Construct - Bianca: Veritas"
+    },
+    {
+        "Id": 30100820,
+        "Type": 10102,
+        "Params": [
+            1111002
+        ],
+        "Desc": "Unlock Construct - Sophia: Silverfang"
+    },
+    {
+        "Id": 30100821,
+        "Type": 10102,
+        "Params": [
+            1121002
+        ],
+        "Desc": "Unlock Construct - Chrome: Arclight"
+    },
+    {
+        "Id": 30100822,
+        "Type": 10102,
+        "Params": [
+            1021004
+        ],
+        "Desc": "Unlock Construct - Lucia: Plume"
     },
     {
         "Id": 555,
@@ -10566,6 +11035,14 @@
         "Desc": "Coating owned"
     },
     {
+        "Id": 6310107,
+        "Type": 11105,
+        "Params": [
+            6310107
+        ],
+        "Desc": "所持済の塗装です"
+    },
+    {
         "Id": 6210304,
         "Type": 11105,
         "Params": [
@@ -10618,6 +11095,86 @@
         "Type": 11105,
         "Params": [
             6610305
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6710105,
+        "Type": 11105,
+        "Params": [
+            6710105
+        ],
+        "Desc": "所持済の塗装です"
+    },
+    {
+        "Id": 6410302,
+        "Type": 11105,
+        "Params": [
+            6410302
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6410303,
+        "Type": 11105,
+        "Params": [
+            6410303
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6410304,
+        "Type": 11105,
+        "Params": [
+            6410304
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000102,
+        "Type": 11105,
+        "Params": [
+            6000102
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000103,
+        "Type": 11105,
+        "Params": [
+            6000103
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000104,
+        "Type": 11105,
+        "Params": [
+            6000104
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000105,
+        "Type": 11105,
+        "Params": [
+            6000105
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000204,
+        "Type": 11105,
+        "Params": [
+            6000204
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6210404,
+        "Type": 11105,
+        "Params": [
+            6210404
         ],
         "Desc": "Coating owned"
     },
@@ -10935,7 +11492,9 @@
             1051003,
             1021003,
             1081003,
-            1091002
+            1091002,
+            1011003,
+            1121002
         ],
         "Desc": "Deploy a Melee-Type Construct"
     },
@@ -10952,9 +11511,45 @@
             1061003,
             1071002,
             1071003,
-            1081003
+            1081003,
+            1041003,
+            1111002,
+            1121002
         ],
         "Desc": "Deploy a Construct with Elemental Stats"
+    },
+    {
+        "Id": 410007,
+        "Type": 18103,
+        "Params": [
+            1,
+            1011002,
+            1031001,
+            1041002,
+            1031002,
+            1031003,
+            1041003,
+            1111002
+        ],
+        "Desc": "Deploy a Ranged-Type Construct"
+    },
+    {
+        "Id": 410008,
+        "Type": 18106,
+        "Params": [
+            4500,
+            1
+        ],
+        "Desc": "Deploy 1 or more Constructs with at least 4500 BP"
+    },
+    {
+        "Id": 410009,
+        "Type": 18106,
+        "Params": [
+            1,
+            3
+        ],
+        "Desc": "Deploy 3 Constructs"
     },
     {
         "Id": 7100,
@@ -11045,6 +11640,4590 @@
         "Desc": "Valentine's Message: Lucia"
     },
     {
+        "Id": 420001,
+        "Type": 11109,
+        "Params": [
+            30000105,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420002,
+        "Type": 11109,
+        "Params": [
+            30000205,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420003,
+        "Type": 11109,
+        "Params": [
+            30000305,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420004,
+        "Type": 11109,
+        "Params": [
+            30000405,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420005,
+        "Type": 11109,
+        "Params": [
+            30000505,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420006,
+        "Type": 11109,
+        "Params": [
+            30000605,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420007,
+        "Type": 11109,
+        "Params": [
+            30000705,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420008,
+        "Type": 11109,
+        "Params": [
+            30000805,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420009,
+        "Type": 11109,
+        "Params": [
+            30000905,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420010,
+        "Type": 11109,
+        "Params": [
+            30000910,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420011,
+        "Type": 11109,
+        "Params": [
+            30000915,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420012,
+        "Type": 11109,
+        "Params": [
+            30001005,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 420013,
+        "Type": 11109,
+        "Params": [
+            30001205,
+            180
+        ],
+        "Desc": "Clear Hell in 180s"
+    },
+    {
+        "Id": 300901,
+        "Type": 11108,
+        "Params": [
+            3
+        ],
+        "Desc": "Reach Eternal Throne Lv.3"
+    },
+    {
+        "Id": 300902,
+        "Type": 11108,
+        "Params": [
+            8
+        ],
+        "Desc": "Reach Eternal Throne Lv.8"
+    },
+    {
+        "Id": 300903,
+        "Type": 11108,
+        "Params": [
+            12
+        ],
+        "Desc": "Reach Eternal Throne Lv.12"
+    },
+    {
+        "Id": 300904,
+        "Type": 11108,
+        "Params": [
+            18
+        ],
+        "Desc": "Reach Eternal Throne Lv.18"
+    },
+    {
+        "Id": 300905,
+        "Type": 11108,
+        "Params": [
+            22
+        ],
+        "Desc": "Reach Eternal Throne Lv.22"
+    },
+    {
+        "Id": 300906,
+        "Type": 10105,
+        "Params": [
+            30090512
+        ],
+        "Desc": "Clear Abyss Mode stage once"
+    },
+    {
+        "Id": 300907,
+        "Type": 11108,
+        "Params": [
+            1
+        ],
+        "Desc": "Reach Eternal Throne Lv.1"
+    },
+    {
+        "Id": 300908,
+        "Type": 11108,
+        "Params": [
+            2
+        ],
+        "Desc": "Reach Eternal Throne Lv.2"
+    },
+    {
+        "Id": 300909,
+        "Type": 11108,
+        "Params": [
+            2
+        ],
+        "Desc": "Reach Eternal Throne Lv.2"
+    },
+    {
+        "Id": 301001,
+        "Type": 11108,
+        "Params": [
+            2
+        ],
+        "Desc": "Reach Authority Lv.2"
+    },
+    {
+        "Id": 301002,
+        "Type": 11108,
+        "Params": [
+            8
+        ],
+        "Desc": "Reach Authority Lv.8"
+    },
+    {
+        "Id": 301003,
+        "Type": 11108,
+        "Params": [
+            13
+        ],
+        "Desc": "Reach Authority Lv.13"
+    },
+    {
+        "Id": 301004,
+        "Type": 11108,
+        "Params": [
+            17
+        ],
+        "Desc": "Reach Authority Lv.17"
+    },
+    {
+        "Id": 301005,
+        "Type": 11108,
+        "Params": [
+            20
+        ],
+        "Desc": "Reach Authority Lv.20"
+    },
+    {
+        "Id": 301006,
+        "Type": 10105,
+        "Params": [
+            30090541
+        ],
+        "Desc": "Clear Abyss Mode stage once"
+    },
+    {
+        "Id": 301101,
+        "Type": 11108,
+        "Params": [
+            2
+        ],
+        "Desc": "Reach Authority Lv.2"
+    },
+    {
+        "Id": 301102,
+        "Type": 11108,
+        "Params": [
+            8
+        ],
+        "Desc": "Reach Authority Lv.8"
+    },
+    {
+        "Id": 301103,
+        "Type": 11108,
+        "Params": [
+            13
+        ],
+        "Desc": "Reach Authority Lv.13"
+    },
+    {
+        "Id": 301104,
+        "Type": 11108,
+        "Params": [
+            17
+        ],
+        "Desc": "Reach Authority Lv.17"
+    },
+    {
+        "Id": 301105,
+        "Type": 11108,
+        "Params": [
+            20
+        ],
+        "Desc": "Reach Authority Lv.20"
+    },
+    {
+        "Id": 800000,
+        "Type": 30101,
+        "Params": [
+            1
+        ],
+        "Desc": "Kill more than 1 enemy"
+    },
+    {
+        "Id": 800001,
+        "Type": 30101,
+        "Params": [
+            3
+        ],
+        "Desc": "Kill more than 5 enemies"
+    },
+    {
+        "Id": 800002,
+        "Type": 30101,
+        "Params": [
+            5
+        ],
+        "Desc": "Kill more than 10 enemies"
+    },
+    {
+        "Id": 800003,
+        "Type": 30101,
+        "Params": [
+            7
+        ],
+        "Desc": "Unlocks after defeating 7 enemies"
+    },
+    {
+        "Id": 800004,
+        "Type": 30101,
+        "Params": [
+            10
+        ],
+        "Desc": "Unlocks after defeating 10 enemies"
+    },
+    {
+        "Id": 800005,
+        "Type": 30101,
+        "Params": [
+            15
+        ],
+        "Desc": "Unlocks after defeating 15 enemies"
+    },
+    {
+        "Id": 800006,
+        "Type": 30101,
+        "Params": [
+            20
+        ],
+        "Desc": "Unlocks after defeating 20 enemies"
+    },
+    {
+        "Id": 800007,
+        "Type": 30101,
+        "Params": [
+            30
+        ],
+        "Desc": "Unlocks after defeating 30 enemies"
+    },
+    {
+        "Id": 800008,
+        "Type": 30101,
+        "Params": [
+            50
+        ],
+        "Desc": "Unlocks after defeating 50 enemies"
+    },
+    {
+        "Id": 810000,
+        "Type": 31101,
+        "Params": [],
+        "Desc": "Unlocks after obtaining this weapon"
+    },
+    {
+        "Id": 810001,
+        "Type": 31102,
+        "Params": [
+            5
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.5"
+    },
+    {
+        "Id": 810002,
+        "Type": 31102,
+        "Params": [
+            10
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.10"
+    },
+    {
+        "Id": 810003,
+        "Type": 31102,
+        "Params": [
+            15
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.15"
+    },
+    {
+        "Id": 810004,
+        "Type": 31102,
+        "Params": [
+            20
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.20"
+    },
+    {
+        "Id": 810005,
+        "Type": 31102,
+        "Params": [
+            25
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.25"
+    },
+    {
+        "Id": 810006,
+        "Type": 31102,
+        "Params": [
+            30
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.30"
+    },
+    {
+        "Id": 810007,
+        "Type": 31102,
+        "Params": [
+            35
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.35"
+    },
+    {
+        "Id": 810008,
+        "Type": 31102,
+        "Params": [
+            40
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.40"
+    },
+    {
+        "Id": 810009,
+        "Type": 31102,
+        "Params": [
+            45
+        ],
+        "Desc": "Unlocks after upgrading this weapon to Lv.45"
+    },
+    {
+        "Id": 810010,
+        "Type": 31103,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks after overclocking this weapon 1 time"
+    },
+    {
+        "Id": 810011,
+        "Type": 31103,
+        "Params": [
+            2
+        ],
+        "Desc": "Unlocks after overclocking this weapon 2 times"
+    },
+    {
+        "Id": 810012,
+        "Type": 31103,
+        "Params": [
+            3
+        ],
+        "Desc": "Unlocks after overclocking this weapon 3 times"
+    },
+    {
+        "Id": 810013,
+        "Type": 31103,
+        "Params": [
+            4
+        ],
+        "Desc": "Unlocks after overclocking this weapon 4 times"
+    },
+    {
+        "Id": 811001,
+        "Type": 31106,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks after obtaining 1 Memory of a set"
+    },
+    {
+        "Id": 811002,
+        "Type": 31106,
+        "Params": [
+            2
+        ],
+        "Desc": "Unlocks after obtaining 2 Memories of a set"
+    },
+    {
+        "Id": 811003,
+        "Type": 31106,
+        "Params": [
+            3
+        ],
+        "Desc": "Unlocks after obtaining 3 Memories of a set"
+    },
+    {
+        "Id": 811004,
+        "Type": 31106,
+        "Params": [
+            4
+        ],
+        "Desc": "Unlocks after obtaining 4 Memories of a set"
+    },
+    {
+        "Id": 811005,
+        "Type": 31106,
+        "Params": [
+            5
+        ],
+        "Desc": "Unlocks after obtaining 5 Memories of a set"
+    },
+    {
+        "Id": 811006,
+        "Type": 31106,
+        "Params": [
+            6
+        ],
+        "Desc": "Unlocks after obtaining 6 Memories of a set"
+    },
+    {
+        "Id": 811007,
+        "Type": 31104,
+        "Params": [
+            5
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.5"
+    },
+    {
+        "Id": 811008,
+        "Type": 31104,
+        "Params": [
+            10
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.10"
+    },
+    {
+        "Id": 811009,
+        "Type": 31104,
+        "Params": [
+            15
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.15"
+    },
+    {
+        "Id": 811010,
+        "Type": 31104,
+        "Params": [
+            20
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.20"
+    },
+    {
+        "Id": 811011,
+        "Type": 31104,
+        "Params": [
+            25
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.25"
+    },
+    {
+        "Id": 811012,
+        "Type": 31104,
+        "Params": [
+            30
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.30"
+    },
+    {
+        "Id": 811013,
+        "Type": 31104,
+        "Params": [
+            35
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.35"
+    },
+    {
+        "Id": 811014,
+        "Type": 31104,
+        "Params": [
+            40
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.40"
+    },
+    {
+        "Id": 811015,
+        "Type": 31104,
+        "Params": [
+            45
+        ],
+        "Desc": "Unlocks after upgrading any Memory of a set to Lv.45"
+    },
+    {
+        "Id": 811016,
+        "Type": 31105,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks after overclocking a Memory of a set 1 time"
+    },
+    {
+        "Id": 811017,
+        "Type": 31105,
+        "Params": [
+            2
+        ],
+        "Desc": "Unlocks after overclocking a Memory of a set 2 times"
+    },
+    {
+        "Id": 811018,
+        "Type": 31105,
+        "Params": [
+            3
+        ],
+        "Desc": "Unlocks after overclocking a Memory of a set 3 times"
+    },
+    {
+        "Id": 811019,
+        "Type": 31105,
+        "Params": [
+            4
+        ],
+        "Desc": "Unlocks after overclocking a Memory of a set 4 times"
+    },
+    {
+        "Id": 841001,
+        "Type": 10105,
+        "Params": [
+            14010133
+        ],
+        "Desc": "Clear all stages"
+    },
+    {
+        "Id": 841002,
+        "Type": 10101,
+        "Params": [
+            80
+        ],
+        "Desc": "Commandant reaches Lv.80"
+    },
+    {
+        "Id": 841003,
+        "Type": 15102,
+        "Params": [
+            2001
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841011,
+        "Type": 10105,
+        "Params": [
+            14010234
+        ],
+        "Desc": "Clear all stages"
+    },
+    {
+        "Id": 841012,
+        "Type": 10101,
+        "Params": [
+            80
+        ],
+        "Desc": "Commandant reaches Lv.80"
+    },
+    {
+        "Id": 841013,
+        "Type": 15102,
+        "Params": [
+            2002
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841021,
+        "Type": 10105,
+        "Params": [
+            14010334
+        ],
+        "Desc": "Clear all stages"
+    },
+    {
+        "Id": 841022,
+        "Type": 10101,
+        "Params": [
+            80
+        ],
+        "Desc": "Commandant reaches Lv.80"
+    },
+    {
+        "Id": 841023,
+        "Type": 15102,
+        "Params": [
+            2003
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841031,
+        "Type": 10105,
+        "Params": [
+            14010434
+        ],
+        "Desc": "Clear all stages"
+    },
+    {
+        "Id": 841032,
+        "Type": 10101,
+        "Params": [
+            80
+        ],
+        "Desc": "Commandant reaches Lv.80"
+    },
+    {
+        "Id": 841033,
+        "Type": 15102,
+        "Params": [
+            2004
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841043,
+        "Type": 15102,
+        "Params": [
+            2005
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841053,
+        "Type": 15102,
+        "Params": [
+            2006
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841063,
+        "Type": 15102,
+        "Params": [
+            2007
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 841073,
+        "Type": 15102,
+        "Params": [
+            2008
+        ],
+        "Desc": "Clear all stages in this area"
+    },
+    {
+        "Id": 842001,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "A member reaches Lv.80"
+    },
+    {
+        "Id": 842002,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "A member reaches 5500 BP"
+    },
+    {
+        "Id": 842003,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip a member with 6★ Resonance Skill * 12"
+    },
+    {
+        "Id": 842011,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "A member reaches Lv.80"
+    },
+    {
+        "Id": 842012,
+        "Type": 13108,
+        "Params": [
+            5600
+        ],
+        "Desc": "A member reaches 5600 BP"
+    },
+    {
+        "Id": 842013,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842021,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "A member reaches Lv.80"
+    },
+    {
+        "Id": 842022,
+        "Type": 13108,
+        "Params": [
+            5800
+        ],
+        "Desc": "A member reaches 5800 BP"
+    },
+    {
+        "Id": 842023,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842031,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "A member reaches Lv.80"
+    },
+    {
+        "Id": 842032,
+        "Type": 13108,
+        "Params": [
+            6000
+        ],
+        "Desc": "A member reaches 6000 BP"
+    },
+    {
+        "Id": 842033,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842043,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842053,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842063,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 842073,
+        "Type": 13114,
+        "Params": [
+            4
+        ],
+        "Desc": "Awaken a member's Ultima Rank"
+    },
+    {
+        "Id": 843001,
+        "Type": 18106,
+        "Params": [
+            5500,
+            1
+        ],
+        "Desc": "Unlocks after all members reach 5500 BP"
+    },
+    {
+        "Id": 843002,
+        "Type": 18106,
+        "Params": [
+            5500,
+            2
+        ],
+        "Desc": "Unlocks after all members reach 5500 BP"
+    },
+    {
+        "Id": 843003,
+        "Type": 18106,
+        "Params": [
+            5500,
+            3
+        ],
+        "Desc": "Unlocks after all members reach 5500 BP"
+    },
+    {
+        "Id": 843004,
+        "Type": 18106,
+        "Params": [
+            5000,
+            1
+        ],
+        "Desc": "Unlocks after all members reach 5000 BP"
+    },
+    {
+        "Id": 843005,
+        "Type": 18106,
+        "Params": [
+            5000,
+            2
+        ],
+        "Desc": "Unlocks after all members reach 5000 BP"
+    },
+    {
+        "Id": 843006,
+        "Type": 18106,
+        "Params": [
+            5000,
+            3
+        ],
+        "Desc": "Unlocks after all members reach 5000 BP"
+    },
+    {
+        "Id": 850001,
+        "Type": 15103,
+        "Params": [
+            13005001,
+            3
+        ],
+        "Desc": "Collect 3 Crimson Love"
+    },
+    {
+        "Id": 850002,
+        "Type": 15103,
+        "Params": [
+            13005001,
+            6
+        ],
+        "Desc": "Collect 6 Crimson Love"
+    },
+    {
+        "Id": 850003,
+        "Type": 15103,
+        "Params": [
+            13005001,
+            10
+        ],
+        "Desc": "Collect 10 Crimson Love"
+    },
+    {
+        "Id": 850004,
+        "Type": 10105,
+        "Params": [
+            10040304
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-12"
+    },
+    {
+        "Id": 850005,
+        "Type": 10105,
+        "Params": [
+            30070110
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Aife\""
+    },
+    {
+        "Id": 850006,
+        "Type": 15105,
+        "Params": [
+            20000105,
+            1
+        ],
+        "Desc": "Clear Co-op [Event] Osiris Overclock - Easy"
+    },
+    {
+        "Id": 850007,
+        "Type": 15105,
+        "Params": [
+            20000105,
+            2
+        ],
+        "Desc": "Clear Co-op [Event] Osiris Overclock - Elite"
+    },
+    {
+        "Id": 850008,
+        "Type": 15105,
+        "Params": [
+            20000105,
+            3
+        ],
+        "Desc": "Clear Co-op [Event] Osiris Overclock - Nightmare"
+    },
+    {
+        "Id": 850009,
+        "Type": 11115,
+        "Params": [
+            1012
+        ],
+        "Desc": "Unlocks after clearing Stronghold Chapter 12"
+    },
+    {
+        "Id": 84100101,
+        "Type": 10105,
+        "Params": [
+            10010101
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-1"
+    },
+    {
+        "Id": 84100102,
+        "Type": 10105,
+        "Params": [
+            10010102
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-2"
+    },
+    {
+        "Id": 84100103,
+        "Type": 10105,
+        "Params": [
+            10010103
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-3"
+    },
+    {
+        "Id": 84100104,
+        "Type": 10105,
+        "Params": [
+            10010104
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-4"
+    },
+    {
+        "Id": 84100105,
+        "Type": 10105,
+        "Params": [
+            10010201
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-5"
+    },
+    {
+        "Id": 84100106,
+        "Type": 10105,
+        "Params": [
+            10010202
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-6"
+    },
+    {
+        "Id": 84100107,
+        "Type": 10105,
+        "Params": [
+            10010203
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-7"
+    },
+    {
+        "Id": 84100108,
+        "Type": 10105,
+        "Params": [
+            10010204
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-8"
+    },
+    {
+        "Id": 84100109,
+        "Type": 10105,
+        "Params": [
+            10010301
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-9"
+    },
+    {
+        "Id": 84100110,
+        "Type": 10105,
+        "Params": [
+            10010302
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-10"
+    },
+    {
+        "Id": 84100111,
+        "Type": 10105,
+        "Params": [
+            10010303
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-11"
+    },
+    {
+        "Id": 84100112,
+        "Type": 10105,
+        "Params": [
+            10010304
+        ],
+        "Desc": "Unlocks after clearing Main Story 1-12"
+    },
+    {
+        "Id": 84100201,
+        "Type": 10105,
+        "Params": [
+            10020101
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-1"
+    },
+    {
+        "Id": 84100202,
+        "Type": 10105,
+        "Params": [
+            10020102
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-2"
+    },
+    {
+        "Id": 84100203,
+        "Type": 10105,
+        "Params": [
+            10020103
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-3"
+    },
+    {
+        "Id": 84100204,
+        "Type": 10105,
+        "Params": [
+            10020104
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-4"
+    },
+    {
+        "Id": 84100205,
+        "Type": 10105,
+        "Params": [
+            10020201
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-5"
+    },
+    {
+        "Id": 84100206,
+        "Type": 10105,
+        "Params": [
+            10020202
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-6"
+    },
+    {
+        "Id": 84100207,
+        "Type": 10105,
+        "Params": [
+            10020203
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-7"
+    },
+    {
+        "Id": 84100208,
+        "Type": 10105,
+        "Params": [
+            10020204
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-8"
+    },
+    {
+        "Id": 84100209,
+        "Type": 10105,
+        "Params": [
+            10020301
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-9"
+    },
+    {
+        "Id": 84100210,
+        "Type": 10105,
+        "Params": [
+            10020302
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-10"
+    },
+    {
+        "Id": 84100211,
+        "Type": 10105,
+        "Params": [
+            10020303
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-11"
+    },
+    {
+        "Id": 84100212,
+        "Type": 10105,
+        "Params": [
+            10020304
+        ],
+        "Desc": "Unlocks after clearing Main Story 2-12"
+    },
+    {
+        "Id": 84100301,
+        "Type": 10105,
+        "Params": [
+            10030101
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-1"
+    },
+    {
+        "Id": 84100302,
+        "Type": 10105,
+        "Params": [
+            10030102
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-2"
+    },
+    {
+        "Id": 84100303,
+        "Type": 10105,
+        "Params": [
+            10030103
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-3"
+    },
+    {
+        "Id": 84100304,
+        "Type": 10105,
+        "Params": [
+            10030104
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-4"
+    },
+    {
+        "Id": 84100305,
+        "Type": 10105,
+        "Params": [
+            10030201
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-5"
+    },
+    {
+        "Id": 84100306,
+        "Type": 10105,
+        "Params": [
+            10030202
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-6"
+    },
+    {
+        "Id": 84100307,
+        "Type": 10105,
+        "Params": [
+            10030203
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-7"
+    },
+    {
+        "Id": 84100308,
+        "Type": 10105,
+        "Params": [
+            10030204
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-8"
+    },
+    {
+        "Id": 84100309,
+        "Type": 10105,
+        "Params": [
+            10030301
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-9"
+    },
+    {
+        "Id": 84100310,
+        "Type": 10105,
+        "Params": [
+            10030302
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-10"
+    },
+    {
+        "Id": 84100311,
+        "Type": 10105,
+        "Params": [
+            10030303
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-11"
+    },
+    {
+        "Id": 84100312,
+        "Type": 10105,
+        "Params": [
+            10030304
+        ],
+        "Desc": "Unlocks after clearing Main Story 3-12"
+    },
+    {
+        "Id": 84100401,
+        "Type": 10105,
+        "Params": [
+            10040101
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-1"
+    },
+    {
+        "Id": 84100402,
+        "Type": 10105,
+        "Params": [
+            10040102
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-2"
+    },
+    {
+        "Id": 84100403,
+        "Type": 10105,
+        "Params": [
+            10040103
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-3"
+    },
+    {
+        "Id": 84100404,
+        "Type": 10105,
+        "Params": [
+            10040104
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-4"
+    },
+    {
+        "Id": 84100405,
+        "Type": 10105,
+        "Params": [
+            10040201
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-5"
+    },
+    {
+        "Id": 84100406,
+        "Type": 10105,
+        "Params": [
+            10040202
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-6"
+    },
+    {
+        "Id": 84100407,
+        "Type": 10105,
+        "Params": [
+            10040203
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-7"
+    },
+    {
+        "Id": 84100408,
+        "Type": 10105,
+        "Params": [
+            10040204
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-8"
+    },
+    {
+        "Id": 84100409,
+        "Type": 10105,
+        "Params": [
+            10040301
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-9"
+    },
+    {
+        "Id": 84100410,
+        "Type": 10105,
+        "Params": [
+            10040302
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-10"
+    },
+    {
+        "Id": 84100411,
+        "Type": 10105,
+        "Params": [
+            10040303
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-11"
+    },
+    {
+        "Id": 84100412,
+        "Type": 10105,
+        "Params": [
+            10040304
+        ],
+        "Desc": "Unlocks after clearing Main Story 4-12"
+    },
+    {
+        "Id": 84100501,
+        "Type": 10105,
+        "Params": [
+            10050101
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-1"
+    },
+    {
+        "Id": 84100502,
+        "Type": 10105,
+        "Params": [
+            10050102
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-2"
+    },
+    {
+        "Id": 84100503,
+        "Type": 10105,
+        "Params": [
+            10050103
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-3"
+    },
+    {
+        "Id": 84100504,
+        "Type": 10105,
+        "Params": [
+            10050104
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-4"
+    },
+    {
+        "Id": 84100505,
+        "Type": 10105,
+        "Params": [
+            10050201
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-5"
+    },
+    {
+        "Id": 84100506,
+        "Type": 10105,
+        "Params": [
+            10050202
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-6"
+    },
+    {
+        "Id": 84100507,
+        "Type": 10105,
+        "Params": [
+            10050203
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-7"
+    },
+    {
+        "Id": 84100508,
+        "Type": 10105,
+        "Params": [
+            10050204
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-8"
+    },
+    {
+        "Id": 84100509,
+        "Type": 10105,
+        "Params": [
+            10050301
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-9"
+    },
+    {
+        "Id": 84100510,
+        "Type": 10105,
+        "Params": [
+            10050302
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-10"
+    },
+    {
+        "Id": 84100511,
+        "Type": 10105,
+        "Params": [
+            10050303
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-11"
+    },
+    {
+        "Id": 84100512,
+        "Type": 10105,
+        "Params": [
+            10050304
+        ],
+        "Desc": "Unlocks after clearing Main Story 5-12"
+    },
+    {
+        "Id": 84100601,
+        "Type": 10105,
+        "Params": [
+            10060101
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-1"
+    },
+    {
+        "Id": 84100602,
+        "Type": 10105,
+        "Params": [
+            10060102
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-2"
+    },
+    {
+        "Id": 84100603,
+        "Type": 10105,
+        "Params": [
+            10060103
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-3"
+    },
+    {
+        "Id": 84100604,
+        "Type": 10105,
+        "Params": [
+            10060104
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-4"
+    },
+    {
+        "Id": 84100605,
+        "Type": 10105,
+        "Params": [
+            10060201
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-5"
+    },
+    {
+        "Id": 84100606,
+        "Type": 10105,
+        "Params": [
+            10060202
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-6"
+    },
+    {
+        "Id": 84100607,
+        "Type": 10105,
+        "Params": [
+            10060203
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-7"
+    },
+    {
+        "Id": 84100608,
+        "Type": 10105,
+        "Params": [
+            10060204
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-8"
+    },
+    {
+        "Id": 84100609,
+        "Type": 10105,
+        "Params": [
+            10060301
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-9"
+    },
+    {
+        "Id": 84100610,
+        "Type": 10105,
+        "Params": [
+            10060302
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-10"
+    },
+    {
+        "Id": 84100611,
+        "Type": 10105,
+        "Params": [
+            10060303
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-11"
+    },
+    {
+        "Id": 84100612,
+        "Type": 10105,
+        "Params": [
+            10060304
+        ],
+        "Desc": "Unlocks after clearing Main Story 6-12"
+    },
+    {
+        "Id": 84100701,
+        "Type": 10105,
+        "Params": [
+            10070101
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-1"
+    },
+    {
+        "Id": 84100702,
+        "Type": 10105,
+        "Params": [
+            10070102
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-2"
+    },
+    {
+        "Id": 84100703,
+        "Type": 10105,
+        "Params": [
+            10070103
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-3"
+    },
+    {
+        "Id": 84100704,
+        "Type": 10105,
+        "Params": [
+            10070104
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-4"
+    },
+    {
+        "Id": 84100705,
+        "Type": 10105,
+        "Params": [
+            10070201
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-5"
+    },
+    {
+        "Id": 84100706,
+        "Type": 10105,
+        "Params": [
+            10070202
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-6"
+    },
+    {
+        "Id": 84100707,
+        "Type": 10105,
+        "Params": [
+            10070203
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-7"
+    },
+    {
+        "Id": 84100708,
+        "Type": 10105,
+        "Params": [
+            10070204
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-8"
+    },
+    {
+        "Id": 84100709,
+        "Type": 10105,
+        "Params": [
+            10070301
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-9"
+    },
+    {
+        "Id": 84100710,
+        "Type": 10105,
+        "Params": [
+            10070302
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-10"
+    },
+    {
+        "Id": 84100711,
+        "Type": 10105,
+        "Params": [
+            10070303
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-11"
+    },
+    {
+        "Id": 84100712,
+        "Type": 10105,
+        "Params": [
+            10070304
+        ],
+        "Desc": "Unlocks after clearing Main Story 7-12"
+    },
+    {
+        "Id": 84100801,
+        "Type": 10105,
+        "Params": [
+            10080101
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-1"
+    },
+    {
+        "Id": 84100802,
+        "Type": 10105,
+        "Params": [
+            10080102
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-2"
+    },
+    {
+        "Id": 84100803,
+        "Type": 10105,
+        "Params": [
+            10080103
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-3"
+    },
+    {
+        "Id": 84100804,
+        "Type": 10105,
+        "Params": [
+            10080104
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-4"
+    },
+    {
+        "Id": 84100805,
+        "Type": 10105,
+        "Params": [
+            10080201
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-5"
+    },
+    {
+        "Id": 84100806,
+        "Type": 10105,
+        "Params": [
+            10080202
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-6"
+    },
+    {
+        "Id": 84100807,
+        "Type": 10105,
+        "Params": [
+            10080203
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-7"
+    },
+    {
+        "Id": 84100808,
+        "Type": 10105,
+        "Params": [
+            10080204
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-8"
+    },
+    {
+        "Id": 84100809,
+        "Type": 10105,
+        "Params": [
+            10080301
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-9"
+    },
+    {
+        "Id": 84100810,
+        "Type": 10105,
+        "Params": [
+            10080302
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-10"
+    },
+    {
+        "Id": 84100811,
+        "Type": 10105,
+        "Params": [
+            10080303
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-11"
+    },
+    {
+        "Id": 84100812,
+        "Type": 10105,
+        "Params": [
+            10080304
+        ],
+        "Desc": "Unlocks after clearing Main Story 8-12"
+    },
+    {
+        "Id": 84100901,
+        "Type": 10105,
+        "Params": [
+            10090101
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-1"
+    },
+    {
+        "Id": 84100902,
+        "Type": 10105,
+        "Params": [
+            10090102
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-2"
+    },
+    {
+        "Id": 84100903,
+        "Type": 10105,
+        "Params": [
+            10090103
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-3"
+    },
+    {
+        "Id": 84100904,
+        "Type": 10105,
+        "Params": [
+            10090104
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-4"
+    },
+    {
+        "Id": 84100905,
+        "Type": 10105,
+        "Params": [
+            10090201
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-5"
+    },
+    {
+        "Id": 84100906,
+        "Type": 10105,
+        "Params": [
+            10090202
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-6"
+    },
+    {
+        "Id": 84100907,
+        "Type": 10105,
+        "Params": [
+            10090203
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-7"
+    },
+    {
+        "Id": 84100908,
+        "Type": 10105,
+        "Params": [
+            10090204
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-8"
+    },
+    {
+        "Id": 84100909,
+        "Type": 10105,
+        "Params": [
+            10090301
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-9"
+    },
+    {
+        "Id": 84100910,
+        "Type": 10105,
+        "Params": [
+            10090302
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-10"
+    },
+    {
+        "Id": 84100911,
+        "Type": 10105,
+        "Params": [
+            10090303
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-11"
+    },
+    {
+        "Id": 84100912,
+        "Type": 10105,
+        "Params": [
+            10090304
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-12"
+    },
+    {
+        "Id": 84100913,
+        "Type": 10105,
+        "Params": [
+            10090401
+        ],
+        "Desc": "Unlocks after clearing Main Story 9-13"
+    },
+    {
+        "Id": 84101001,
+        "Type": 10105,
+        "Params": [
+            10100101
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-1"
+    },
+    {
+        "Id": 84101002,
+        "Type": 10105,
+        "Params": [
+            10100102
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-2"
+    },
+    {
+        "Id": 84101003,
+        "Type": 10105,
+        "Params": [
+            10100103
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-3"
+    },
+    {
+        "Id": 84101004,
+        "Type": 10105,
+        "Params": [
+            10100104
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-4"
+    },
+    {
+        "Id": 84101005,
+        "Type": 10105,
+        "Params": [
+            10100201
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-5"
+    },
+    {
+        "Id": 84101006,
+        "Type": 10105,
+        "Params": [
+            10100202
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-6"
+    },
+    {
+        "Id": 84101007,
+        "Type": 10105,
+        "Params": [
+            10100203
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-7"
+    },
+    {
+        "Id": 84101008,
+        "Type": 10105,
+        "Params": [
+            10100204
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-8"
+    },
+    {
+        "Id": 84101009,
+        "Type": 10105,
+        "Params": [
+            10100301
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-9"
+    },
+    {
+        "Id": 84101010,
+        "Type": 10105,
+        "Params": [
+            10100302
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-10"
+    },
+    {
+        "Id": 84101011,
+        "Type": 10105,
+        "Params": [
+            10100303
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-11"
+    },
+    {
+        "Id": 84101012,
+        "Type": 10105,
+        "Params": [
+            10100304
+        ],
+        "Desc": "Unlocks after clearing Main Story 10-12"
+    },
+    {
+        "Id": 84101101,
+        "Type": 10105,
+        "Params": [
+            10110101
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-1"
+    },
+    {
+        "Id": 84101102,
+        "Type": 10105,
+        "Params": [
+            10110102
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-2"
+    },
+    {
+        "Id": 84101103,
+        "Type": 10105,
+        "Params": [
+            10110103
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-3"
+    },
+    {
+        "Id": 84101104,
+        "Type": 10105,
+        "Params": [
+            10110104
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-4"
+    },
+    {
+        "Id": 84101105,
+        "Type": 10105,
+        "Params": [
+            10110105
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-5"
+    },
+    {
+        "Id": 84101106,
+        "Type": 10105,
+        "Params": [
+            10110106
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-6"
+    },
+    {
+        "Id": 84101107,
+        "Type": 10105,
+        "Params": [
+            10110107
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-7"
+    },
+    {
+        "Id": 84101108,
+        "Type": 10105,
+        "Params": [
+            10110108
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-8"
+    },
+    {
+        "Id": 84101109,
+        "Type": 10105,
+        "Params": [
+            10110109
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-9"
+    },
+    {
+        "Id": 84101110,
+        "Type": 10105,
+        "Params": [
+            10110112
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-10"
+    },
+    {
+        "Id": 84101111,
+        "Type": 10105,
+        "Params": [
+            10110113
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-11"
+    },
+    {
+        "Id": 84101112,
+        "Type": 10105,
+        "Params": [
+            10110111
+        ],
+        "Desc": "Unlocks after clearing Main Story 11-12"
+    },
+    {
+        "Id": 84101201,
+        "Type": 10105,
+        "Params": [
+            10120101
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-1"
+    },
+    {
+        "Id": 84101202,
+        "Type": 10105,
+        "Params": [
+            10120102
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-2"
+    },
+    {
+        "Id": 84101203,
+        "Type": 10105,
+        "Params": [
+            10120103
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-3"
+    },
+    {
+        "Id": 84101204,
+        "Type": 10105,
+        "Params": [
+            10120104
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-4"
+    },
+    {
+        "Id": 84101205,
+        "Type": 10105,
+        "Params": [
+            10120105
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-5"
+    },
+    {
+        "Id": 84101206,
+        "Type": 10105,
+        "Params": [
+            10120106
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-6"
+    },
+    {
+        "Id": 84101207,
+        "Type": 10105,
+        "Params": [
+            10120107
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-7"
+    },
+    {
+        "Id": 84101208,
+        "Type": 10105,
+        "Params": [
+            10120108
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-8"
+    },
+    {
+        "Id": 84101209,
+        "Type": 10105,
+        "Params": [
+            10120109
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-9"
+    },
+    {
+        "Id": 84101210,
+        "Type": 10105,
+        "Params": [
+            10120110
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-10"
+    },
+    {
+        "Id": 84101211,
+        "Type": 10105,
+        "Params": [
+            10120111
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-11"
+    },
+    {
+        "Id": 84101212,
+        "Type": 10105,
+        "Params": [
+            10120112
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-12"
+    },
+    {
+        "Id": 84101213,
+        "Type": 10105,
+        "Params": [
+            10120113
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-13"
+    },
+    {
+        "Id": 84101214,
+        "Type": 10105,
+        "Params": [
+            10120114
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-14"
+    },
+    {
+        "Id": 84101215,
+        "Type": 10105,
+        "Params": [
+            10120115
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-15"
+    },
+    {
+        "Id": 84101216,
+        "Type": 10105,
+        "Params": [
+            10120116
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-16"
+    },
+    {
+        "Id": 84101217,
+        "Type": 10105,
+        "Params": [
+            10120117
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-17"
+    },
+    {
+        "Id": 84101218,
+        "Type": 10105,
+        "Params": [
+            10120118
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-18"
+    },
+    {
+        "Id": 84101219,
+        "Type": 10105,
+        "Params": [
+            10120119
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-19"
+    },
+    {
+        "Id": 84101220,
+        "Type": 10105,
+        "Params": [
+            10120120
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-20"
+    },
+    {
+        "Id": 84101221,
+        "Type": 10105,
+        "Params": [
+            10120121
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-21"
+    },
+    {
+        "Id": 84101222,
+        "Type": 10105,
+        "Params": [
+            10120122
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-22"
+    },
+    {
+        "Id": 84101223,
+        "Type": 10105,
+        "Params": [
+            10120123
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-23"
+    },
+    {
+        "Id": 84101224,
+        "Type": 10105,
+        "Params": [
+            10120124
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-24"
+    },
+    {
+        "Id": 84101225,
+        "Type": 10105,
+        "Params": [
+            10120125
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-25"
+    },
+    {
+        "Id": 84101226,
+        "Type": 10105,
+        "Params": [
+            10120126
+        ],
+        "Desc": "Unlocks after clearing Main Story 12-26"
+    },
+    {
+        "Id": 84200101,
+        "Type": 10105,
+        "Params": [
+            11010101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 1-1"
+    },
+    {
+        "Id": 84200102,
+        "Type": 10105,
+        "Params": [
+            11010102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 1-2"
+    },
+    {
+        "Id": 84200106,
+        "Type": 10105,
+        "Params": [
+            11010106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 1-6"
+    },
+    {
+        "Id": 84200201,
+        "Type": 10105,
+        "Params": [
+            11020101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 2-1"
+    },
+    {
+        "Id": 84200202,
+        "Type": 10105,
+        "Params": [
+            11020102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 2-2"
+    },
+    {
+        "Id": 84200203,
+        "Type": 10105,
+        "Params": [
+            11020103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 2-3"
+    },
+    {
+        "Id": 84200206,
+        "Type": 10105,
+        "Params": [
+            11020106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 2-6"
+    },
+    {
+        "Id": 84200301,
+        "Type": 10105,
+        "Params": [
+            11030101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 3-1"
+    },
+    {
+        "Id": 84200302,
+        "Type": 10105,
+        "Params": [
+            11030102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 3-2"
+    },
+    {
+        "Id": 84200303,
+        "Type": 10105,
+        "Params": [
+            11030103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 3-3"
+    },
+    {
+        "Id": 84200304,
+        "Type": 10105,
+        "Params": [
+            11030104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 3-4"
+    },
+    {
+        "Id": 84200306,
+        "Type": 10105,
+        "Params": [
+            11030106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 3-6"
+    },
+    {
+        "Id": 84200401,
+        "Type": 10105,
+        "Params": [
+            11040101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-1"
+    },
+    {
+        "Id": 84200402,
+        "Type": 10105,
+        "Params": [
+            11040102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-2"
+    },
+    {
+        "Id": 84200403,
+        "Type": 10105,
+        "Params": [
+            11040103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-3"
+    },
+    {
+        "Id": 84200404,
+        "Type": 10105,
+        "Params": [
+            11040104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-4"
+    },
+    {
+        "Id": 84200405,
+        "Type": 10105,
+        "Params": [
+            11040105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-5"
+    },
+    {
+        "Id": 84200406,
+        "Type": 10105,
+        "Params": [
+            11040106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 4-6"
+    },
+    {
+        "Id": 84200501,
+        "Type": 10105,
+        "Params": [
+            11050101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-1"
+    },
+    {
+        "Id": 84200502,
+        "Type": 10105,
+        "Params": [
+            11050102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-2"
+    },
+    {
+        "Id": 84200503,
+        "Type": 10105,
+        "Params": [
+            11050103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-3"
+    },
+    {
+        "Id": 84200504,
+        "Type": 10105,
+        "Params": [
+            11050104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-4"
+    },
+    {
+        "Id": 84200505,
+        "Type": 10105,
+        "Params": [
+            11050105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-5"
+    },
+    {
+        "Id": 84200506,
+        "Type": 10105,
+        "Params": [
+            11050106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 5-6"
+    },
+    {
+        "Id": 84200601,
+        "Type": 10105,
+        "Params": [
+            11060101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-1"
+    },
+    {
+        "Id": 84200602,
+        "Type": 10105,
+        "Params": [
+            11060102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-2"
+    },
+    {
+        "Id": 84200603,
+        "Type": 10105,
+        "Params": [
+            11060103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-3"
+    },
+    {
+        "Id": 84200604,
+        "Type": 10105,
+        "Params": [
+            11060104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-4"
+    },
+    {
+        "Id": 84200605,
+        "Type": 10105,
+        "Params": [
+            11060105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-5"
+    },
+    {
+        "Id": 84200606,
+        "Type": 10105,
+        "Params": [
+            11060106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 6-6"
+    },
+    {
+        "Id": 84200701,
+        "Type": 10105,
+        "Params": [
+            11070101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-1"
+    },
+    {
+        "Id": 84200702,
+        "Type": 10105,
+        "Params": [
+            11070102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-2"
+    },
+    {
+        "Id": 84200703,
+        "Type": 10105,
+        "Params": [
+            11070103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-3"
+    },
+    {
+        "Id": 84200704,
+        "Type": 10105,
+        "Params": [
+            11070104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-4"
+    },
+    {
+        "Id": 84200705,
+        "Type": 10105,
+        "Params": [
+            11070105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-5"
+    },
+    {
+        "Id": 84200706,
+        "Type": 10105,
+        "Params": [
+            11070106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 7-6"
+    },
+    {
+        "Id": 84200801,
+        "Type": 10105,
+        "Params": [
+            11080101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-1"
+    },
+    {
+        "Id": 84200802,
+        "Type": 10105,
+        "Params": [
+            11080102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-2"
+    },
+    {
+        "Id": 84200803,
+        "Type": 10105,
+        "Params": [
+            11080103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-3"
+    },
+    {
+        "Id": 84200804,
+        "Type": 10105,
+        "Params": [
+            11080104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-4"
+    },
+    {
+        "Id": 84200805,
+        "Type": 10105,
+        "Params": [
+            11080105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-5"
+    },
+    {
+        "Id": 84200806,
+        "Type": 10105,
+        "Params": [
+            11080106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 8-6"
+    },
+    {
+        "Id": 84200901,
+        "Type": 10105,
+        "Params": [
+            11090101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 9-1"
+    },
+    {
+        "Id": 84200902,
+        "Type": 10105,
+        "Params": [
+            11090102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 9-2"
+    },
+    {
+        "Id": 84200903,
+        "Type": 10105,
+        "Params": [
+            11090103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 9-3"
+    },
+    {
+        "Id": 84201001,
+        "Type": 10105,
+        "Params": [
+            11100101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-1"
+    },
+    {
+        "Id": 84201002,
+        "Type": 10105,
+        "Params": [
+            11100102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-2"
+    },
+    {
+        "Id": 84201003,
+        "Type": 10105,
+        "Params": [
+            11100103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-3"
+    },
+    {
+        "Id": 84201004,
+        "Type": 10105,
+        "Params": [
+            11100104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-4"
+    },
+    {
+        "Id": 84201005,
+        "Type": 10105,
+        "Params": [
+            11100105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-5"
+    },
+    {
+        "Id": 84201006,
+        "Type": 10105,
+        "Params": [
+            11100106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 10-6"
+    },
+    {
+        "Id": 84201100,
+        "Type": 10105,
+        "Params": [
+            11110100
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-1"
+    },
+    {
+        "Id": 84201101,
+        "Type": 10105,
+        "Params": [
+            11110101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-1"
+    },
+    {
+        "Id": 84201102,
+        "Type": 10105,
+        "Params": [
+            11110102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-2"
+    },
+    {
+        "Id": 84201103,
+        "Type": 10105,
+        "Params": [
+            11110105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-3"
+    },
+    {
+        "Id": 84201104,
+        "Type": 10105,
+        "Params": [
+            11110103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-4"
+    },
+    {
+        "Id": 84201105,
+        "Type": 10105,
+        "Params": [
+            11110104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 11-5"
+    },
+    {
+        "Id": 84201201,
+        "Type": 10105,
+        "Params": [
+            11120101
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-1"
+    },
+    {
+        "Id": 84201202,
+        "Type": 10105,
+        "Params": [
+            11120102
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-2"
+    },
+    {
+        "Id": 84201203,
+        "Type": 10105,
+        "Params": [
+            11120103
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-3"
+    },
+    {
+        "Id": 84201204,
+        "Type": 10105,
+        "Params": [
+            11120104
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-4"
+    },
+    {
+        "Id": 84201205,
+        "Type": 10105,
+        "Params": [
+            11120105
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-5"
+    },
+    {
+        "Id": 84201206,
+        "Type": 10105,
+        "Params": [
+            11120106
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-6"
+    },
+    {
+        "Id": 84201207,
+        "Type": 10105,
+        "Params": [
+            11120107
+        ],
+        "Desc": "Unlocks after clearing Hidden Story 12-7"
+    },
+    {
+        "Id": 84301001,
+        "Type": 10105,
+        "Params": [
+            13010111
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 1"
+    },
+    {
+        "Id": 84301002,
+        "Type": 10105,
+        "Params": [
+            13010112
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 2"
+    },
+    {
+        "Id": 84301003,
+        "Type": 10105,
+        "Params": [
+            13010113
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 3"
+    },
+    {
+        "Id": 84301004,
+        "Type": 10105,
+        "Params": [
+            13010114
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 4"
+    },
+    {
+        "Id": 84301005,
+        "Type": 10105,
+        "Params": [
+            13010115
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 5"
+    },
+    {
+        "Id": 84301006,
+        "Type": 10105,
+        "Params": [
+            13010116
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Stage 6"
+    },
+    {
+        "Id": 84301007,
+        "Type": 10105,
+        "Params": [
+            13010120
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Escape to Somewhere\" Hidden Stage"
+    },
+    {
+        "Id": 84301011,
+        "Type": 10105,
+        "Params": [
+            13011011
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 1"
+    },
+    {
+        "Id": 84301012,
+        "Type": 10105,
+        "Params": [
+            13011012
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 2"
+    },
+    {
+        "Id": 84301013,
+        "Type": 10105,
+        "Params": [
+            13011013
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 3"
+    },
+    {
+        "Id": 84301014,
+        "Type": 10105,
+        "Params": [
+            13011014
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 4"
+    },
+    {
+        "Id": 84301015,
+        "Type": 10105,
+        "Params": [
+            13011015
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 5"
+    },
+    {
+        "Id": 84301016,
+        "Type": 10105,
+        "Params": [
+            13011016
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Stage 6"
+    },
+    {
+        "Id": 84301017,
+        "Type": 10105,
+        "Params": [
+            13011020
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Metamorphosis\" Hidden Stage"
+    },
+    {
+        "Id": 84301021,
+        "Type": 10105,
+        "Params": [
+            13011611
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 1"
+    },
+    {
+        "Id": 84301022,
+        "Type": 10105,
+        "Params": [
+            13011612
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 2"
+    },
+    {
+        "Id": 84301023,
+        "Type": 10105,
+        "Params": [
+            13011613
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 3"
+    },
+    {
+        "Id": 84301024,
+        "Type": 10105,
+        "Params": [
+            13011614
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 4"
+    },
+    {
+        "Id": 84301025,
+        "Type": 10105,
+        "Params": [
+            13011615
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 5"
+    },
+    {
+        "Id": 84301026,
+        "Type": 10105,
+        "Params": [
+            13011616
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Stage 6"
+    },
+    {
+        "Id": 84301027,
+        "Type": 10105,
+        "Params": [
+            13011620
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Treasure\" Hidden Stage"
+    },
+    {
+        "Id": 84302011,
+        "Type": 10105,
+        "Params": [
+            13010211
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 1"
+    },
+    {
+        "Id": 84302012,
+        "Type": 10105,
+        "Params": [
+            13010212
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 2"
+    },
+    {
+        "Id": 84302013,
+        "Type": 10105,
+        "Params": [
+            13010213
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 3"
+    },
+    {
+        "Id": 84302014,
+        "Type": 10105,
+        "Params": [
+            13010214
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 4"
+    },
+    {
+        "Id": 84302015,
+        "Type": 10105,
+        "Params": [
+            13010215
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 5"
+    },
+    {
+        "Id": 84302016,
+        "Type": 10105,
+        "Params": [
+            13010216
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Stage 6"
+    },
+    {
+        "Id": 84302017,
+        "Type": 10105,
+        "Params": [
+            13010220
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Under a Pale Moon\" Hidden Stage"
+    },
+    {
+        "Id": 84303011,
+        "Type": 10105,
+        "Params": [
+            13010311
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 1"
+    },
+    {
+        "Id": 84303012,
+        "Type": 10105,
+        "Params": [
+            13010312
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 2"
+    },
+    {
+        "Id": 84303013,
+        "Type": 10105,
+        "Params": [
+            13010313
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 3"
+    },
+    {
+        "Id": 84303014,
+        "Type": 10105,
+        "Params": [
+            13010314
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 4"
+    },
+    {
+        "Id": 84303015,
+        "Type": 10105,
+        "Params": [
+            13010315
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 5"
+    },
+    {
+        "Id": 84303016,
+        "Type": 10105,
+        "Params": [
+            13010316
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Stage 6"
+    },
+    {
+        "Id": 84303017,
+        "Type": 10105,
+        "Params": [
+            13010320
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Devour\" Hidden Stage"
+    },
+    {
+        "Id": 84303021,
+        "Type": 10105,
+        "Params": [
+            13010911
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 1"
+    },
+    {
+        "Id": 84303022,
+        "Type": 10105,
+        "Params": [
+            13010912
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 2"
+    },
+    {
+        "Id": 84303023,
+        "Type": 10105,
+        "Params": [
+            13010913
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 3"
+    },
+    {
+        "Id": 84303024,
+        "Type": 10105,
+        "Params": [
+            13010914
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 4"
+    },
+    {
+        "Id": 84303025,
+        "Type": 10105,
+        "Params": [
+            13010915
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 5"
+    },
+    {
+        "Id": 84303026,
+        "Type": 10105,
+        "Params": [
+            13010916
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Stage 6"
+    },
+    {
+        "Id": 84303027,
+        "Type": 10105,
+        "Params": [
+            13010920
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Friendship\" Hidden Stage"
+    },
+    {
+        "Id": 84304011,
+        "Type": 10105,
+        "Params": [
+            13010411
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 1"
+    },
+    {
+        "Id": 84304012,
+        "Type": 10105,
+        "Params": [
+            13010412
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 2"
+    },
+    {
+        "Id": 84304013,
+        "Type": 10105,
+        "Params": [
+            13010413
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 3"
+    },
+    {
+        "Id": 84304014,
+        "Type": 10105,
+        "Params": [
+            13010414
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 4"
+    },
+    {
+        "Id": 84304015,
+        "Type": 10105,
+        "Params": [
+            13010415
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 5"
+    },
+    {
+        "Id": 84304016,
+        "Type": 10105,
+        "Params": [
+            13010416
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Stage 6"
+    },
+    {
+        "Id": 84304017,
+        "Type": 10105,
+        "Params": [
+            13010420
+        ],
+        "Desc": "Unlocks after clearing Interlude \"421\" Hidden Stage"
+    },
+    {
+        "Id": 84305011,
+        "Type": 10105,
+        "Params": [
+            13010511
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 1"
+    },
+    {
+        "Id": 84305012,
+        "Type": 10105,
+        "Params": [
+            13010512
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 2"
+    },
+    {
+        "Id": 84305013,
+        "Type": 10105,
+        "Params": [
+            13010513
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 3"
+    },
+    {
+        "Id": 84305014,
+        "Type": 10105,
+        "Params": [
+            13010514
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 4"
+    },
+    {
+        "Id": 84305015,
+        "Type": 10105,
+        "Params": [
+            13010515
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 5"
+    },
+    {
+        "Id": 84305016,
+        "Type": 10105,
+        "Params": [
+            13010516
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Stage 6"
+    },
+    {
+        "Id": 84305017,
+        "Type": 10105,
+        "Params": [
+            13010520
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Frozen Heart\" Hidden Stage"
+    },
+    {
+        "Id": 84306011,
+        "Type": 10105,
+        "Params": [
+            13010611
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 1"
+    },
+    {
+        "Id": 84306012,
+        "Type": 10105,
+        "Params": [
+            13010612
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 2"
+    },
+    {
+        "Id": 84306013,
+        "Type": 10105,
+        "Params": [
+            13010613
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 3"
+    },
+    {
+        "Id": 84306014,
+        "Type": 10105,
+        "Params": [
+            13010614
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 4"
+    },
+    {
+        "Id": 84306015,
+        "Type": 10105,
+        "Params": [
+            13010615
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 5"
+    },
+    {
+        "Id": 84306016,
+        "Type": 10105,
+        "Params": [
+            13010616
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Stage 6"
+    },
+    {
+        "Id": 84306017,
+        "Type": 10105,
+        "Params": [
+            13010620
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Fostered by Blade\" Hidden Stage"
+    },
+    {
+        "Id": 84306021,
+        "Type": 10105,
+        "Params": [
+            13011111
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 1"
+    },
+    {
+        "Id": 84306022,
+        "Type": 10105,
+        "Params": [
+            13011112
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 2"
+    },
+    {
+        "Id": 84306023,
+        "Type": 10105,
+        "Params": [
+            13011113
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 3"
+    },
+    {
+        "Id": 84306024,
+        "Type": 10105,
+        "Params": [
+            13011114
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 4"
+    },
+    {
+        "Id": 84306025,
+        "Type": 10105,
+        "Params": [
+            13011115
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 5"
+    },
+    {
+        "Id": 84306026,
+        "Type": 10105,
+        "Params": [
+            13011116
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Stage 6"
+    },
+    {
+        "Id": 84306027,
+        "Type": 10105,
+        "Params": [
+            13011120
+        ],
+        "Desc": "Unlocks after clearing Interlude \"The Land of the Fallen Star\" Hidden Stage"
+    },
+    {
+        "Id": 84307011,
+        "Type": 10105,
+        "Params": [
+            13010711
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 1"
+    },
+    {
+        "Id": 84307012,
+        "Type": 10105,
+        "Params": [
+            13010712
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 2"
+    },
+    {
+        "Id": 84307013,
+        "Type": 10105,
+        "Params": [
+            13010713
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 3"
+    },
+    {
+        "Id": 84307014,
+        "Type": 10105,
+        "Params": [
+            13010714
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 4"
+    },
+    {
+        "Id": 84307015,
+        "Type": 10105,
+        "Params": [
+            13010715
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 5"
+    },
+    {
+        "Id": 84307016,
+        "Type": 10105,
+        "Params": [
+            13010716
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Stage 6"
+    },
+    {
+        "Id": 84307017,
+        "Type": 10105,
+        "Params": [
+            13010720
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Faith on the Snow\" Hidden Stage"
+    },
+    {
+        "Id": 84307021,
+        "Type": 10105,
+        "Params": [
+            13011311
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 1"
+    },
+    {
+        "Id": 84307022,
+        "Type": 10105,
+        "Params": [
+            13011312
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 2"
+    },
+    {
+        "Id": 84307023,
+        "Type": 10105,
+        "Params": [
+            13011313
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 3"
+    },
+    {
+        "Id": 84307024,
+        "Type": 10105,
+        "Params": [
+            13011314
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 4"
+    },
+    {
+        "Id": 84307025,
+        "Type": 10105,
+        "Params": [
+            13011315
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 5"
+    },
+    {
+        "Id": 84307026,
+        "Type": 10105,
+        "Params": [
+            13011316
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Stage 6"
+    },
+    {
+        "Id": 84307027,
+        "Type": 10105,
+        "Params": [
+            13011320
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Lost Veritas\" Hidden Stage"
+    },
+    {
+        "Id": 84308011,
+        "Type": 10105,
+        "Params": [
+            13010811
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 1"
+    },
+    {
+        "Id": 84308012,
+        "Type": 10105,
+        "Params": [
+            13010812
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 2"
+    },
+    {
+        "Id": 84308013,
+        "Type": 10105,
+        "Params": [
+            13010813
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 3"
+    },
+    {
+        "Id": 84308014,
+        "Type": 10105,
+        "Params": [
+            13010814
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 4"
+    },
+    {
+        "Id": 84308015,
+        "Type": 10105,
+        "Params": [
+            13010815
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 5"
+    },
+    {
+        "Id": 84308016,
+        "Type": 10105,
+        "Params": [
+            13010816
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Stage 6"
+    },
+    {
+        "Id": 84308017,
+        "Type": 10105,
+        "Params": [
+            13010820
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Crimson Sunset\" Hidden Stage"
+    },
+    {
+        "Id": 84309011,
+        "Type": 10105,
+        "Params": [
+            13011211
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 1"
+    },
+    {
+        "Id": 84309012,
+        "Type": 10105,
+        "Params": [
+            13011212
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 2"
+    },
+    {
+        "Id": 84309013,
+        "Type": 10105,
+        "Params": [
+            13011213
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 3"
+    },
+    {
+        "Id": 84309014,
+        "Type": 10105,
+        "Params": [
+            13011214
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 4"
+    },
+    {
+        "Id": 84309015,
+        "Type": 10105,
+        "Params": [
+            13011215
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 5"
+    },
+    {
+        "Id": 84309016,
+        "Type": 10105,
+        "Params": [
+            13011216
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Stage 6"
+    },
+    {
+        "Id": 84309017,
+        "Type": 10105,
+        "Params": [
+            13011220
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Curtains and Canvases\" Hidden Stage"
+    },
+    {
+        "Id": 84310011,
+        "Type": 10105,
+        "Params": [
+            13011411
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 1"
+    },
+    {
+        "Id": 84310012,
+        "Type": 10105,
+        "Params": [
+            13011412
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 2"
+    },
+    {
+        "Id": 84310013,
+        "Type": 10105,
+        "Params": [
+            13011413
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 3"
+    },
+    {
+        "Id": 84310014,
+        "Type": 10105,
+        "Params": [
+            13011414
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 4"
+    },
+    {
+        "Id": 84310015,
+        "Type": 10105,
+        "Params": [
+            13011415
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 5"
+    },
+    {
+        "Id": 84310016,
+        "Type": 10105,
+        "Params": [
+            13011416
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Stage 6"
+    },
+    {
+        "Id": 84310017,
+        "Type": 10105,
+        "Params": [
+            13011420
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Front Sight Focus\" Hidden Stage"
+    },
+    {
+        "Id": 84311011,
+        "Type": 10105,
+        "Params": [
+            13011511
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 1"
+    },
+    {
+        "Id": 84311012,
+        "Type": 10105,
+        "Params": [
+            13011512
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 2"
+    },
+    {
+        "Id": 84311013,
+        "Type": 10105,
+        "Params": [
+            13011513
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 3"
+    },
+    {
+        "Id": 84311014,
+        "Type": 10105,
+        "Params": [
+            13011514
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 4"
+    },
+    {
+        "Id": 84311015,
+        "Type": 10105,
+        "Params": [
+            13011515
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 5"
+    },
+    {
+        "Id": 84311016,
+        "Type": 10105,
+        "Params": [
+            13011516
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Stage 6"
+    },
+    {
+        "Id": 84311017,
+        "Type": 10105,
+        "Params": [
+            13011520
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Flawless\" Hidden Stage"
+    },
+    {
+        "Id": 84400101,
+        "Type": 10105,
+        "Params": [
+            30070101
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Cottie\""
+    },
+    {
+        "Id": 84400102,
+        "Type": 10105,
+        "Params": [
+            30070102
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Einsteina\""
+    },
+    {
+        "Id": 84400103,
+        "Type": 10105,
+        "Params": [
+            30070103
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Becky\""
+    },
+    {
+        "Id": 84400104,
+        "Type": 10105,
+        "Params": [
+            30070104
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Condelina\""
+    },
+    {
+        "Id": 84400105,
+        "Type": 10105,
+        "Params": [
+            30070105
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Athmail\""
+    },
+    {
+        "Id": 84400106,
+        "Type": 10105,
+        "Params": [
+            30070106
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Guinevere\""
+    },
+    {
+        "Id": 84400107,
+        "Type": 10105,
+        "Params": [
+            30070107
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Heisen\""
+    },
+    {
+        "Id": 84400108,
+        "Type": 10105,
+        "Params": [
+            30070108
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Shakespeare\""
+    },
+    {
+        "Id": 84400109,
+        "Type": 10105,
+        "Params": [
+            30070109
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Catherine\""
+    },
+    {
+        "Id": 84400110,
+        "Type": 10105,
+        "Params": [
+            30070110
+        ],
+        "Desc": "Unlocks after clearing Memory Rescue \"Aife\""
+    },
+    {
+        "Id": 845001001,
+        "Type": 15101,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-1 Unveiling the Golden Veil\""
+    },
+    {
+        "Id": 845001002,
+        "Type": 15101,
+        "Params": [
+            3
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-3 Mystery of the Light Pillar\""
+    },
+    {
+        "Id": 845001003,
+        "Type": 15101,
+        "Params": [
+            5
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B II-1 Value of Existence\""
+    },
+    {
+        "Id": 845001004,
+        "Type": 15101,
+        "Params": [
+            8
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B II-4 Contribution\""
+    },
+    {
+        "Id": 845001005,
+        "Type": 15101,
+        "Params": [
+            9
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-5 Lone Raven\""
+    },
+    {
+        "Id": 845001006,
+        "Type": 15101,
+        "Params": [
+            12
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-8 Royal Guards\""
+    },
+    {
+        "Id": 845001007,
+        "Type": 15101,
+        "Params": [
+            13
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B III-1 Red Light, Green Light\""
+    },
+    {
+        "Id": 845001008,
+        "Type": 15101,
+        "Params": [
+            15
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B III-3 Big Gamble\""
+    },
+    {
+        "Id": 845001009,
+        "Type": 15101,
+        "Params": [
+            16
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-9 Letter of Invitation\""
+    },
+    {
+        "Id": 845001010,
+        "Type": 15101,
+        "Params": [
+            18
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-11 Queen's Arrival\""
+    },
+    {
+        "Id": 845001011,
+        "Type": 15101,
+        "Params": [
+            20
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B I-2 Digging Site\""
+    },
+    {
+        "Id": 845001012,
+        "Type": 15101,
+        "Params": [
+            22
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B I-4 Aftermath\""
+    },
+    {
+        "Id": 845001013,
+        "Type": 15101,
+        "Params": [
+            24
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B I-6 Cheap Shot\""
+    },
+    {
+        "Id": 845001014,
+        "Type": 15101,
+        "Params": [
+            25
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B I-7 Explosive Encounter\""
+    },
+    {
+        "Id": 845001015,
+        "Type": 15101,
+        "Params": [
+            51
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-1 Maverick\""
+    },
+    {
+        "Id": 845001016,
+        "Type": 15101,
+        "Params": [
+            53
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-3 Risk Transfer\""
+    },
+    {
+        "Id": 845001017,
+        "Type": 15101,
+        "Params": [
+            54
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M II-1 Saving the Earth\""
+    },
+    {
+        "Id": 845001018,
+        "Type": 15101,
+        "Params": [
+            56
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-4 Old Habit\""
+    },
+    {
+        "Id": 845001019,
+        "Type": 15101,
+        "Params": [
+            58
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-6 Choice\""
+    },
+    {
+        "Id": 845001020,
+        "Type": 15101,
+        "Params": [
+            60
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-8 Relic\""
+    },
+    {
+        "Id": 845001021,
+        "Type": 15101,
+        "Params": [
+            61
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M II-3 Queen's Treat\""
+    },
+    {
+        "Id": 845001022,
+        "Type": 15101,
+        "Params": [
+            63
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-12 Queen's Request\""
+    },
+    {
+        "Id": 845001023,
+        "Type": 15101,
+        "Params": [
+            65
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-10 Promise\""
+    },
+    {
+        "Id": 845001024,
+        "Type": 15101,
+        "Params": [
+            66
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B-1 Off Form\""
+    },
+    {
+        "Id": 845001025,
+        "Type": 15101,
+        "Params": [
+            68
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-11 Promise Keeper\""
+    },
+    {
+        "Id": 845001026,
+        "Type": 15101,
+        "Params": [
+            69
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M II-5 Hostage\""
+    },
+    {
+        "Id": 845001027,
+        "Type": 15101,
+        "Params": [
+            71
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M II-7 Two Ways of Rescue\""
+    },
+    {
+        "Id": 845001028,
+        "Type": 15101,
+        "Params": [
+            72
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M II-8 Golden Antibody\""
+    },
+    {
+        "Id": 845001029,
+        "Type": 15101,
+        "Params": [
+            74
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B-3 Negotiation\""
+    },
+    {
+        "Id": 845001030,
+        "Type": 15101,
+        "Params": [
+            75
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-13 For Commandant\""
+    },
+    {
+        "Id": 845001031,
+        "Type": 15101,
+        "Params": [
+            101
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M I-1 Follower\""
+    },
+    {
+        "Id": 845001032,
+        "Type": 15101,
+        "Params": [
+            104
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-4 Human Experiment\""
+    },
+    {
+        "Id": 845001033,
+        "Type": 15101,
+        "Params": [
+            106
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-6 Starting Again\""
+    },
+    {
+        "Id": 845001034,
+        "Type": 15101,
+        "Params": [
+            107
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-7 Resistance\""
+    },
+    {
+        "Id": 845001035,
+        "Type": 15101,
+        "Params": [
+            109
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-9 Merge\""
+    },
+    {
+        "Id": 845001036,
+        "Type": 15101,
+        "Params": [
+            111
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-11 Vision\""
+    },
+    {
+        "Id": 845001037,
+        "Type": 15101,
+        "Params": [
+            113
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M l-13 Tracking the Sound\""
+    },
+    {
+        "Id": 845001038,
+        "Type": 15101,
+        "Params": [
+            114
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B ll-1 Deterrence\""
+    },
+    {
+        "Id": 845001039,
+        "Type": 15101,
+        "Params": [
+            116
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M ll-1 Hospitality\""
+    },
+    {
+        "Id": 845001040,
+        "Type": 15101,
+        "Params": [
+            118
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M ll-3 Seeking Help\""
+    },
+    {
+        "Id": 845001041,
+        "Type": 15101,
+        "Params": [
+            119
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B l-1 Communication Disorder\""
+    },
+    {
+        "Id": 845001042,
+        "Type": 15101,
+        "Params": [
+            121
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M ll-4 Blockage\""
+    },
+    {
+        "Id": 845001043,
+        "Type": 15101,
+        "Params": [
+            123
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M ll-6 Mutual Destruction\""
+    },
+    {
+        "Id": 845001044,
+        "Type": 15101,
+        "Params": [
+            124
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M ll-7 Annihilation\""
+    },
+    {
+        "Id": 845001045,
+        "Type": 15101,
+        "Params": [
+            151
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-1 Hound or Eagle\""
+    },
+    {
+        "Id": 845001046,
+        "Type": 15101,
+        "Params": [
+            154
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-4 Unity\""
+    },
+    {
+        "Id": 845001047,
+        "Type": 15101,
+        "Params": [
+            155
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-5 Total Alert\""
+    },
+    {
+        "Id": 845001048,
+        "Type": 15101,
+        "Params": [
+            157
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-7 Prelude of Pandemic\""
+    },
+    {
+        "Id": 845001049,
+        "Type": 15101,
+        "Params": [
+            158
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-8 Climb\""
+    },
+    {
+        "Id": 845001050,
+        "Type": 15101,
+        "Params": [
+            159
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B ll-1 Expansion\""
+    },
+    {
+        "Id": 845001051,
+        "Type": 15101,
+        "Params": [
+            162
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B ll-2 Scorching Hot\""
+    },
+    {
+        "Id": 845001052,
+        "Type": 15101,
+        "Params": [
+            163
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-9 Gambit\""
+    },
+    {
+        "Id": 845001053,
+        "Type": 15101,
+        "Params": [
+            166
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-12 Dynasty\""
+    },
+    {
+        "Id": 845001054,
+        "Type": 15101,
+        "Params": [
+            167
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B l-1 Master Gamer\""
+    },
+    {
+        "Id": 845001055,
+        "Type": 15101,
+        "Params": [
+            169
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"B l-3 Exit\""
+    },
+    {
+        "Id": 845001056,
+        "Type": 15101,
+        "Params": [
+            171
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-14 Collapse\""
+    },
+    {
+        "Id": 845001057,
+        "Type": 15101,
+        "Params": [
+            172
+        ],
+        "Desc": "Unlocks after clearing Golden Vortex Stage \"M-15 Source of Disaster\""
+    },
+    {
+        "Id": 8470100,
+        "Type": 15102,
+        "Params": [
+            2001
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Port Kyaranta\" Area"
+    },
+    {
+        "Id": 8470200,
+        "Type": 15102,
+        "Params": [
+            2002
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Glazed Arch\" Area"
+    },
+    {
+        "Id": 8470300,
+        "Type": 15102,
+        "Params": [
+            2003
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Yazaki Reclaimed Land\" Area"
+    },
+    {
+        "Id": 8470400,
+        "Type": 15102,
+        "Params": [
+            2004
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Bayside Fort\" Area"
+    },
+    {
+        "Id": 8470500,
+        "Type": 15102,
+        "Params": [
+            2005
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Southwood Road\" Area"
+    },
+    {
+        "Id": 8470600,
+        "Type": 15102,
+        "Params": [
+            2006
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"K-44 Defense Line\" Area"
+    },
+    {
+        "Id": 8470700,
+        "Type": 15102,
+        "Params": [
+            2007
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Achilles\" Area"
+    },
+    {
+        "Id": 8470800,
+        "Type": 15102,
+        "Params": [
+            2008
+        ],
+        "Desc": "Unlocks after clearing Border Pact \"Cape Nohama Air Base\" Area"
+    },
+    {
+        "Id": 84600101,
+        "Type": 10105,
+        "Params": [
+            30150136
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage A-1\""
+    },
+    {
+        "Id": 84600102,
+        "Type": 10105,
+        "Params": [
+            30150137
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage A-2\""
+    },
+    {
+        "Id": 84600103,
+        "Type": 11111,
+        "Params": [
+            16
+        ],
+        "Desc": "Unlocks after clearing 16 locations in Path of Stars"
+    },
+    {
+        "Id": 84600104,
+        "Type": 10105,
+        "Params": [
+            30150138
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage B-1\""
+    },
+    {
+        "Id": 84600105,
+        "Type": 10105,
+        "Params": [
+            30150139
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage B-2\""
+    },
+    {
+        "Id": 84600106,
+        "Type": 11111,
+        "Params": [
+            32
+        ],
+        "Desc": "Unlocks after clearing 32 locations in Path of Stars"
+    },
+    {
+        "Id": 84600107,
+        "Type": 10105,
+        "Params": [
+            30150140
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage C-1\""
+    },
+    {
+        "Id": 84600108,
+        "Type": 10105,
+        "Params": [
+            30150141
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage C-2\""
+    },
+    {
+        "Id": 84600109,
+        "Type": 11111,
+        "Params": [
+            48
+        ],
+        "Desc": "Unlocks after clearing 48 locations in Path of Stars"
+    },
+    {
+        "Id": 84600110,
+        "Type": 10105,
+        "Params": [
+            30150142
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage D-1\""
+    },
+    {
+        "Id": 84600111,
+        "Type": 10105,
+        "Params": [
+            30150143
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage D-2\""
+    },
+    {
+        "Id": 84600112,
+        "Type": 11111,
+        "Params": [
+            64
+        ],
+        "Desc": "Unlocks after clearing 64 locations in Path of Stars"
+    },
+    {
+        "Id": 84600113,
+        "Type": 10105,
+        "Params": [
+            30150144
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage E-1\""
+    },
+    {
+        "Id": 84600114,
+        "Type": 10105,
+        "Params": [
+            30150145
+        ],
+        "Desc": "Unlocks after clearing Path of Stars \"Story Stage E-2\""
+    },
+    {
+        "Id": 84600115,
+        "Type": 11111,
+        "Params": [
+            80
+        ],
+        "Desc": "Unlocks after clearing 80 locations in Path of Stars"
+    },
+    {
+        "Id": 84600201,
+        "Type": 15106,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks after clearing any Joint Warfare stage"
+    },
+    {
+        "Id": 84600301,
+        "Type": 10105,
+        "Params": [
+            10130150
+        ],
+        "Desc": "Unlocks after clearing \"Stranded\" Event Stage 1"
+    },
+    {
+        "Id": 84600302,
+        "Type": 10105,
+        "Params": [
+            10130151
+        ],
+        "Desc": "Unlocks after clearing \"Stranded\" Event Stage 2"
+    },
+    {
+        "Id": 84600311,
+        "Type": 10105,
+        "Params": [
+            30130401
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 1"
+    },
+    {
+        "Id": 84600312,
+        "Type": 10105,
+        "Params": [
+            30130402
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 2"
+    },
+    {
+        "Id": 84600313,
+        "Type": 10105,
+        "Params": [
+            30130403
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 3"
+    },
+    {
+        "Id": 84600314,
+        "Type": 10105,
+        "Params": [
+            30130404
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 4"
+    },
+    {
+        "Id": 84600315,
+        "Type": 10105,
+        "Params": [
+            30130405
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 5"
+    },
+    {
+        "Id": 84600316,
+        "Type": 10105,
+        "Params": [
+            30130406
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 6"
+    },
+    {
+        "Id": 84600317,
+        "Type": 10105,
+        "Params": [
+            30130407
+        ],
+        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 7"
+    },
+    {
+        "Id": 84600401,
+        "Type": 10105,
+        "Params": [
+            30130301
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 1"
+    },
+    {
+        "Id": 84600402,
+        "Type": 10105,
+        "Params": [
+            30130302
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 2"
+    },
+    {
+        "Id": 84600403,
+        "Type": 10105,
+        "Params": [
+            30130303
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 3"
+    },
+    {
+        "Id": 84600404,
+        "Type": 10105,
+        "Params": [
+            30130304
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 4"
+    },
+    {
+        "Id": 84600405,
+        "Type": 10105,
+        "Params": [
+            30130305
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 5"
+    },
+    {
+        "Id": 84600406,
+        "Type": 10105,
+        "Params": [
+            30130306
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 6"
+    },
+    {
+        "Id": 84600407,
+        "Type": 10105,
+        "Params": [
+            30130307
+        ],
+        "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 7"
+    },
+    {
+        "Id": 84700101,
+        "Type": 15104,
+        "Params": [
+            1
+        ],
+        "Desc": "Help other to clear Joint Warfare once"
+    },
+    {
+        "Id": 84700102,
+        "Type": 15104,
+        "Params": [
+            10
+        ],
+        "Desc": "Help other to clear Joint Warfare 10 times"
+    },
+    {
+        "Id": 84700103,
+        "Type": 15104,
+        "Params": [
+            50
+        ],
+        "Desc": "Help other to clear Joint Warfare 50 times"
+    },
+    {
+        "Id": 84700104,
+        "Type": 15104,
+        "Params": [
+            200
+        ],
+        "Desc": "Help other to clear Joint Warfare 200 times"
+    },
+    {
+        "Id": 12040001,
+        "Type": 11113,
+        "Params": [
+            12040001
+        ],
+        "Desc": "Own Weapon Coating [Iris]"
+    },
+    {
+        "Id": 12070001,
+        "Type": 11113,
+        "Params": [
+            12070001
+        ],
+        "Desc": "Own Weapon Coating [Firecrackers]"
+    },
+    {
         "Id": 900000001,
         "Type": 10105,
         "Params": [
@@ -11084,5 +16263,85 @@
             90032
         ],
         "Desc": "Claim Monthly Pass?"
+    },
+    {
+        "Id": 1400000,
+        "Type": 10105,
+        "Params": [
+            10010103
+        ],
+        "Desc": "deeplink跳转条件，通关1-3关卡时开启deeplink；1.12版本配置；关联clientconfig表格deeplinkcondition字段"
+    },
+    {
+        "Id": 96000001,
+        "Type": 10105,
+        "Params": [
+            30130101
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 1"
+    },
+    {
+        "Id": 96000002,
+        "Type": 10105,
+        "Params": [
+            30130102
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 2"
+    },
+    {
+        "Id": 96000003,
+        "Type": 10105,
+        "Params": [
+            30130103
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 3"
+    },
+    {
+        "Id": 96000004,
+        "Type": 10105,
+        "Params": [
+            30130104
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 4"
+    },
+    {
+        "Id": 96000005,
+        "Type": 10105,
+        "Params": [
+            30130105
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 5"
+    },
+    {
+        "Id": 96000006,
+        "Type": 10105,
+        "Params": [
+            30130106
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 6"
+    },
+    {
+        "Id": 96000007,
+        "Type": 10105,
+        "Params": [
+            30130107
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 7"
+    },
+    {
+        "Id": 96000008,
+        "Type": 10105,
+        "Params": [
+            30130108
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 8"
+    },
+    {
+        "Id": 96000009,
+        "Type": 10105,
+        "Params": [
+            30130109
+        ],
+        "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 9"
     }
 ]

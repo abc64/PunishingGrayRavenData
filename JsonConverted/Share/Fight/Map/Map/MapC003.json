@@ -4,7 +4,7 @@
         "Behavior": 99980001,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999800010
@@ -38,7 +38,7 @@
         "Behavior": 99980003,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999800030
@@ -55,7 +55,7 @@
         "Behavior": 99980004,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999800040
@@ -72,7 +72,7 @@
         "Behavior": 99980005,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 46,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999800050
@@ -89,7 +89,7 @@
         "Behavior": 99980006,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 45,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999800060
@@ -102,14 +102,15 @@
         ]
     },
     {
-        "Id": 99980007,
-        "Behavior": 99980007,
+        "Id": 30030902,
+        "Behavior": 30030902,
+        "Name": "摩托车",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 48,
+        "SceneCamera": 71,
         "CameraId": 9,
         "Terrains": [
-            999800070
+            300309020
         ],
         "Position": [
             "0|0|0"
@@ -123,7 +124,7 @@
         "Behavior": 99980008,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 47,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999800080
@@ -140,7 +141,7 @@
         "Behavior": 99980009,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 31,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999800090
@@ -157,10 +158,185 @@
         "Behavior": 99980010,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 39,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999800100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99980011,
+        "Behavior": 99980011,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999800110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99980012,
+        "Behavior": 99980012,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999800120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99980013,
+        "Behavior": 99980013,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999800130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99980014,
+        "Behavior": 99980014,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999800140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99980015,
+        "Behavior": 99980015,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999800150
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120102,
+        "Behavior": 10120102,
+        "Name": "商业区1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120109,
+        "Behavior": 10120109,
+        "Name": "商业区2",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120116,
+        "Behavior": 10120116,
+        "Name": " ",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201160
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 10120118,
+        "Behavior": 10120118,
+        "Name": "商业区保护神威",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            101201180
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 11120101,
+        "Behavior": 11120101,
+        "Name": "平民区自控机兵",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            111201010
         ],
         "Position": [
             "0|0|0"

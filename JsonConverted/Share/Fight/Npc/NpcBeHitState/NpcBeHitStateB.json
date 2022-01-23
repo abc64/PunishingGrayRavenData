@@ -1,5 +1,13 @@
 [
     {
+        "Id": 900001721,
+        "Type": 1,
+        "Time": 0.8,
+        "HoverTime": 0.2,
+        "OriginType": 1,
+        "ImmuneHitValue": 0
+    },
+    {
         "Id": 971000101,
         "Type": 3,
         "Time": 1,
@@ -74,6 +82,23 @@
         "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1
+    },
+    {
+        "Id": 903909011,
+        "Type": 6,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "Speed": 2,
+        "MoveTime": 0.6,
+        "OriginType": 1,
+        "Acceleration": -1.5
+    },
+    {
+        "Id": 903910011,
+        "Type": 5,
+        "Time": 0.6,
+        "HoverTime": 0.2,
+        "OriginType": 1
     },
     {
         "Id": 821300021,

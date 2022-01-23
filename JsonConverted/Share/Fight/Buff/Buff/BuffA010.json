@@ -1,0 +1,126 @@
+[
+    {
+        "Id": 113206,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132060,
+        "Magic": 113206000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113207,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132070,
+        "Magic": 113207000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113208,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132080,
+        "Magic": 113208000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113209,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132090,
+        "Magic": 113209000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113222,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132220,
+        "Magic": 113222000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113223,
+        "Delay": 0,
+        "Duration": 0.15,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "1132230|8",
+        "Cover": 1132230,
+        "Mutex": "10|15",
+        "Magic": 113223000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113261,
+        "Delay": 0,
+        "Duration": 0.5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132610,
+        "Effect": "FxR4LuxiyaSanreqi",
+        "EffectJoint": "Root",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113262,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132620,
+        "Cover": 1132610,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113263,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132630,
+        "Magic": 113263000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113264,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132640,
+        "Magic": 113264000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113265,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132650,
+        "Cover": "1132230|1132630|1132640",
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 113266,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 1132660,
+        "Cover": 1132660,
+        "Magic": 113266000,
+        "TriggerOnAdd": 1
+    }
+]

@@ -58,14 +58,282 @@
         "SkillFaceType": 0
     },
     {
-        "Id": 994501,
-        "Name": "蓄力激光",
+        "Id": 994107,
+        "Name": "列车电网用收起",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994108,
+        "Name": "列车电网用持续",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994109,
+        "Name": "列车电网用展开",
+        "CastTime": 2.75,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994110,
+        "Name": "溜めレーザー",
         "CastTime": 6.267,
         "AfterTime": 0,
         "Animation": "Attack01",
         "DistNoTarget": 10,
         "SkillMoveType": 0,
         "SkillFaceType": 4
+    },
+    {
+        "Id": 994201,
+        "Name": "普攻1",
+        "CastTime": 0.4,
+        "AfterTime": 0.833,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 5,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994202,
+        "Name": "普攻2",
+        "CastTime": 0.233,
+        "AfterTime": 0.537,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 5,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994203,
+        "Name": "普攻3",
+        "CastTime": 2.533,
+        "AfterTime": 1.967,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 5,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994204,
+        "Name": "闪避1",
+        "CastTime": 1.166,
+        "AfterTime": 1.167,
+        "Animation": "Move1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994205,
+        "Name": "闪避2",
+        "CastTime": 1.433,
+        "AfterTime": 0.734,
+        "Animation": "Move1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994206,
+        "Name": "起身瞄准",
+        "CastTime": 2.2,
+        "AfterTime": 0,
+        "Animation": "Standup",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994207,
+        "Name": "受击",
+        "CastTime": 0.666,
+        "AfterTime": 0.9,
+        "Animation": "Hit1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994208,
+        "Name": "受击2",
+        "CastTime": 0.666,
+        "AfterTime": 0.9,
+        "Animation": "Hit2",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994501,
+        "Name": "回避",
+        "CastTime": 1.166,
+        "AfterTime": 1.167,
+        "Animation": "Move1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 994502,
+        "Name": "障害物に衝突後に跳ね返る",
+        "CastTime": 0.15,
+        "AfterTime": 0.05,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994503,
+        "Name": "障害物に衝突後に跳ね返る",
+        "CastTime": 0.15,
+        "AfterTime": 0.05,
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994504,
+        "Name": "左折",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Runl",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994505,
+        "Name": "右折",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Runr",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994506,
+        "Name": "摆正",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Run",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994507,
+        "Name": "左漂移1",
+        "CastTime": 0.333,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994508,
+        "Name": "左漂移2",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994509,
+        "Name": "左漂移3",
+        "CastTime": 0.333,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994510,
+        "Name": "右漂移1",
+        "CastTime": 0.333,
+        "AfterTime": 0,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994511,
+        "Name": "右漂移2",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994512,
+        "Name": "右漂移3",
+        "CastTime": 0.333,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994513,
+        "Name": "胜利动作1",
+        "CastTime": 2.367,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994514,
+        "Name": "胜利动作2",
+        "CastTime": 2.933,
+        "AfterTime": 0,
+        "Animation": "Attack08",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994515,
+        "Name": "受击",
+        "CastTime": 0.4,
+        "AfterTime": 0.3,
+        "Animation": "Hit1",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 994516,
+        "Name": "受击2",
+        "CastTime": 0.3,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
     },
     {
         "Id": 904001,
@@ -312,7 +580,7 @@
     },
     {
         "Id": 904512,
-        "Name": "出生动作",
+        "Name": "跳跃出生动作1",
         "CastTime": 2.967,
         "AfterTime": 0,
         "Animation": "Attack12",
@@ -374,6 +642,141 @@
         "DistNoTarget": 10,
         "SkillMoveType": 0,
         "SkillFaceType": 1
+    },
+    {
+        "Id": 904551,
+        "Name": "玩家操作-冲锋前摇",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904552,
+        "Name": "玩家操作-链勾",
+        "CastTime": 1.867,
+        "AfterTime": 0,
+        "Animation": "Attack03",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904553,
+        "Name": "玩家操作-buff",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 2,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904554,
+        "Name": "玩家操作-战斧斜劈",
+        "CastTime": 1.6,
+        "AfterTime": 0.7,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 5,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904555,
+        "Name": "玩家操作-战斧上挑",
+        "CastTime": 1.6,
+        "AfterTime": 0.6,
+        "Animation": "Attack02",
+        "DistNoTarget": 10,
+        "SkillMoveType": 5,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904556,
+        "Name": "玩家操作-冲锋",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "FinalMagicIds": "904555|904556|904557|904558|904529|904578",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904557,
+        "Name": "玩家操作-正义降临-升",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 7,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904558,
+        "Name": "结算动作",
+        "CastTime": 3.5,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904559,
+        "Name": "玩家操作-正义降临-落",
+        "CastTime": 2.44,
+        "AfterTime": 0,
+        "Animation": "Attack14",
+        "FinalMagicIds": "700031|710077|700249",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 1
+    },
+    {
+        "Id": 904560,
+        "Name": "玩家操作-链钩回拽",
+        "CastTime": 0.76,
+        "AfterTime": 0.5,
+        "Animation": "Attack04",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904561,
+        "Name": "玩家操作-撞人结束",
+        "CastTime": 1.2,
+        "AfterTime": 0.833,
+        "Animation": "Attack13",
+        "FinalMagicIds": "700031|730020",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904562,
+        "Name": "玩家操作-跳跃出生动作",
+        "CastTime": 2.967,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "FinalMagicIds": "700249|710077",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904563,
+        "Name": "玩家操作-冲锋",
+        "CastTime": 9999,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "FinalMagicIds": "904555|904556|904557|904558|904529|904578",
+        "DistNoTarget": 10,
+        "SkillMoveType": 1,
+        "SkillFaceType": 2
     },
     {
         "Id": 904601,

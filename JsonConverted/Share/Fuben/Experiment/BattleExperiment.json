@@ -10,9 +10,8 @@
     {
         "Id": 2,
         "CharacterID": 1011002,
-        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Li03.png",
         "Title": "Recommended Combo",
-        "Description": "Inflicts Electrocute on enemies after a Blue Orb 3-Ping, then ping a Yellow Orb and Red Orb to deal great Physical DMG and additional Fire DMG.",
+        "Description": "Infernal Shot will create a burning area after hitting enemies. Attacking the enemies within it will deal additional Fire DMG.",
         "NextTrialID": 1
     },
     {
@@ -35,8 +34,8 @@
         "Id": 5,
         "CharacterID": 1031001,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Lifu01.png",
-        "Title": "Core Laser",
-        "Description": "Pinging a Red Orb after any 3-Ping will trigger core lasers to deal 10 times of Physical DMG to a wide area.",
+        "Title": "Laser Cluster",
+        "Description": "Pinging a Red Orb after any 3-Ping will trigger Laser Cluster to deal 10 times of Physical DMG to a wide area.",
         "NextTrialID": 6
     },
     {
@@ -44,7 +43,7 @@
         "CharacterID": 1031001,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Lifu02.png",
         "Title": "Recommended Combo",
-        "Description": "Attracts the nearby enemies by a Yellow Orb 3-Ping, then ping a Red Orb to unleash 'Core Lasers' that deal high Group DMG.",
+        "Description": "Attract the nearby enemies by a Yellow Orb 3-Ping, then ping a Red Orb to unleash \"Laser Cluster\" that deals substantial DMG to multiple enemies.",
         "NextTrialID": 5
     },
     {
@@ -84,7 +83,7 @@
         "CharacterID": 1051001,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Qishi02.png",
         "Title": "Recommended Combo",
-        "Description": "Quickly dash at the target location with a Red Orb 3-Ping, then ping a Yellow Orb to perform 'Ex - Slash Storm' to deal high Physical DMG.",
+        "Description": "Quickly dash at the target location with a Red Orb 3-Ping, then ping a Yellow Orb to perform \"Ex - Slash Storm\" to deal high Physical DMG.",
         "NextTrialID": 12
     },
     {
@@ -92,7 +91,7 @@
         "CharacterID": 1051001,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR1Qishi03.png",
         "Title": "Recommended Combo",
-        "Description": "Pulls the nearby enemies by a Blue Orb 3-Ping, then ping a Yellow Orb to perform : 'Ex - Slash Storm' and deals Physical DMG to a wide area.",
+        "Description": "Pull the nearby enemies by a Blue Orb 3-Ping, then ping a Yellow Orb to perform \"Ex - Slash Storm\" and deal Physical DMG to a wide area.",
         "NextTrialID": 10
     },
     {
@@ -188,7 +187,7 @@
         "CharacterID": 1031002,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Lifu01.png",
         "Title": "Reversed Egretfield",
-        "Description": "Attacking a marked enemy with Basic Attacks and Red Orb attacks has a chance to trigger Lightning Lure. When it's triggered for the 5th time, Ex - Lightning Lure will be used, dealing Lightning DMG to enemies and healing the allies in the area.",
+        "Description": "Attacking a marked enemy with Basic Attacks and Red Orb may trigger Lightning Lure. The 5th trigger will make Ex - Lightning Lure, dealing Lightning DMG to enemies and healing the allies in the area.",
         "NextTrialID": 25
     },
     {
@@ -212,7 +211,7 @@
         "CharacterID": 1061003,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Shenwei01.png",
         "Title": "Fighting Will",
-        "Description": "Gains 10 Energy by a 3-Ping. Takes less Physical and Dark DMG under the effect of Twin Cores.",
+        "Description": "Gains 10 Energy from a 3-Ping. Increases Physical and Dark Resistance under the effect of Twin Cores.",
         "NextTrialID": 28
     },
     {
@@ -251,7 +250,7 @@
         "Id": 32,
         "CharacterID": 1071003,
         "Title": "Thermal System",
-        "Description": "Gathers thermal energy by a 3-Ping or Signature Move. Becomes Enhanced when thermal energy reaches 50%.",
+        "Description": "Gains initial thermal energy based on the skill level, and also by using certain skills. All skills become Enhanced when thermal energy is above 50%. Fire DMG increases when in Thermal mode.",
         "NextTrialID": 33
     },
     {
@@ -273,7 +272,7 @@
         "Id": 35,
         "CharacterID": 1051003,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Qishi01.png",
-        "Title": "Core Passive +1",
+        "Title": "Overclocking Resonance",
         "Description": "For a period of time after performing a Signature Move, Movement Speed will be increased and Basic Attacks will deal Fire DMG and reduce Fire Resistance of the target.",
         "NextTrialID": 35
     },
@@ -289,16 +288,88 @@
         "Id": 37,
         "CharacterID": 1091002,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Aila01.png",
-        "Title": "Core Passive +1",
-        "Description": "Ping a Blue Orb after any 3-Ping to release Vector Cube. Draws in enemies when storing power, reduces their DMG dealt, and receives a shield for 7s. Deals DMG to a large area after storing power.",
+        "Title": "Vector Cube",
+        "Description": "Pinging a Blue Orb after any 3-Ping releases Vector Cube. While charging, draws in enemies, increases Extra DMG Reduction, and receives a shield for 7s. Releases the charge to deal DMG to a large area.",
         "NextTrialID": 37
     },
     {
         "Id": 38,
         "CharacterID": 1081003,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Dubian01.png",
-        "Title": "Core Passive +1",
+        "Title": "Cosmic Wave",
         "Description": "Ping a Red Orb after any 3-Ping to release Cosmic Wave. Enters a stat-enhanced state after using the skill, adding Dark DMG to Basic Attack.",
         "NextTrialID": 38
+    },
+    {
+        "Id": 39,
+        "CharacterID": 1041003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Bianka01.png",
+        "Title": "Critical Moment",
+        "Description": "Enters into sniping mode when pinging a Blue Orb after a Red Orb 3-Ping. During so, Basic Attack shoots a long-ranged lightning arrow. Exits sniping mode if 6 lightning arrows are shot or if 6 seconds pass.",
+        "NextTrialID": 40
+    },
+    {
+        "Id": 40,
+        "CharacterID": 1041003,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR3Bianka01.png",
+        "Title": "Critical Moment",
+        "Description": "Dodging in sniping mode will lower the charge time of the next Basic Attack.",
+        "NextTrialID": 39
+    },
+    {
+        "Id": 41,
+        "CharacterID": 1111002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Sufeiya01.png",
+        "Title": "Field Supplies",
+        "Description": "On the last combo of Basic Attack, 3-Ping, Signature Move, or QTE, targets will drop an Energy Ball. Picking up an Energy Ball heals friendly members and boosts their Fire DMG.",
+        "NextTrialID": 42
+    },
+    {
+        "Id": 42,
+        "CharacterID": 1111002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Sufeiya01.png",
+        "Title": "Field Supplies",
+        "Description": "When an Energy Ball is picked up, Sophia gains Energy and Heat. When her Heat is over a certain level, her ATK will be increased.",
+        "NextTrialID": 41
+    },
+    {
+        "Id": 43,
+        "CharacterID": 1121002,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Kuluomu01.png",
+        "Title": "Arclight Shield",
+        "Description": "Creates a shield that lasts 4s after any 3-Ping followed by a Blue Orb. The shield will explode upon expiry or when replaced by a new shield, causing Lightning DMG to nearby targets.",
+        "NextTrialID": 43
+    },
+    {
+        "Id": 44,
+        "CharacterID": 1021004,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR4Luxiya01.png",
+        "Title": "Normal Form",
+        "Description": "Every 3-ping made in the Normal Form increases 50 Energy and 1 Signature point. Up to 2 Signature points can be accumulated in this form.",
+        "NextTrialID": 45
+    },
+    {
+        "Id": 45,
+        "CharacterID": 1021004,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR4Luxiya01.png",
+        "Title": "Form Switch",
+        "Description": "Using Form Switch in the Normal Form will transform Plume into the Arctic Form. During the switch, she has Super Armor. Switching at full Energy will re-arrange all the existing Signal Orbs in 3-ping order.",
+        "NextTrialID": 46
+    },
+    {
+        "Id": 46,
+        "CharacterID": 1021004,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR4Luxiya01.png",
+        "Title": "Arctic Form",
+        "Description": "The Arctic Form provides bonus Ice damage and slowly consumes Energy over time. Every 3-ping will increase 1 Signature point (up to 4 points in this form).",
+        "NextTrialID": 47
+    },
+    {
+        "Id": 47,
+        "CharacterID": 1021004,
+        "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR4Luxiya01.png",
+        "Title": "Final - Halcyonic Blossoms",
+        "Description": "The more Signature Points you have in Arctic Form, Signature deals more DMG. Unleash Final - Halcyonic Blossoms when you have 4 Signature Points. After that, Plume returns to Normal Form with 0 Energy.",
+        "NextTrialID": 44
     }
 ]

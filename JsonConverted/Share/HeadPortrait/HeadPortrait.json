@@ -1,300 +1,511 @@
 [
     {
         "Id": 9000001,
+        "IsInit": 1,
         "Name": "Gray Raven",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer01.png",
-        "LockDescId": 1,
+        "LockDesc": "Default Portrait",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "One of the default portraits.",
-        "Priority": 53
+        "Priority": 53,
+        "LimitType": 0
     },
     {
         "Id": 9000002,
+        "IsInit": 1,
         "Name": "Repairer",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer02.png",
-        "LockDescId": 1,
+        "LockDesc": "Default Portrait",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "One of the default portraits.",
-        "Priority": 52
+        "Priority": 52,
+        "LimitType": 0
     },
     {
         "Id": 9000003,
+        "IsInit": 1,
         "Name": "Tag",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer03.png",
-        "LockDescId": 1,
+        "LockDesc": "Default Portrait",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "One of the default portraits.",
-        "Priority": 50
+        "Priority": 50,
+        "LimitType": 0
     },
     {
         "Id": 9010101,
         "Name": "Portrait - Lotus",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadluxiya5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 30
+        "Priority": 32,
+        "LimitType": 0
     },
     {
         "Id": 9010102,
         "Name": "Portrait - Dawn",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadluxiya5S.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 29
+        "Priority": 31,
+        "LimitType": 0
     },
     {
         "Id": 9010103,
         "Name": "Portrait - Crimson Abyss",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadluxiyaaerfa5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 28
+        "Priority": 30,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010104,
+        "Name": "Portrait - Plume",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadR4Luxiya5.png",
+        "LockDesc": "Available after Ultima Awakening the Construct",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
+        "Priority": 48,
+        "LimitType": 0
     },
     {
         "Id": 9010201,
         "Name": "Portrait - Eclipse",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadLifu5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 27
+        "Priority": 29,
+        "LimitType": 0
     },
     {
         "Id": 9010202,
         "Name": "Portrait - Lux",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadLifu5S.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 26
+        "Priority": 28,
+        "LimitType": 0
     },
     {
         "Id": 9010203,
         "Name": "Portrait - Luminance",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadLifu5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 25
+        "Priority": 27,
+        "LimitType": 0
     },
     {
         "Id": 9010301,
         "Name": "Portrait - Palefire",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadLi5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 24
+        "Priority": 26,
+        "LimitType": 0
     },
     {
         "Id": 9010302,
         "Name": "Portrait - Entropy",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadLi5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 23
+        "Priority": 25,
+        "LimitType": 0
     },
     {
         "Id": 9010401,
         "Name": "Portrait - Storm",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadYongyechao5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 22
+        "Priority": 24,
+        "LimitType": 0
     },
     {
         "Id": 9010402,
         "Name": "Portrait - Pulse",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadYongyechao5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 21
+        "Priority": 23,
+        "LimitType": 0
     },
     {
         "Id": 9010501,
         "Name": "Portrait - Blast",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadKalienina5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 20
+        "Priority": 22,
+        "LimitType": 0
     },
     {
         "Id": 9010502,
         "Name": "Portrait - Ember",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadKalienina5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 19
+        "Priority": 21,
+        "LimitType": 0
     },
     {
         "Id": 9010601,
         "Name": "Portrait - Nightblade",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadDubian5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 18
+        "Priority": 20,
+        "LimitType": 0
     },
     {
         "Id": 9010602,
         "Name": "Portrait - Astral",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadDubian5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 17
+        "Priority": 19,
+        "LimitType": 0
     },
     {
         "Id": 9010701,
         "Name": "Portrait - Zero",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadAolisuo5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 16
+        "Priority": 18,
+        "LimitType": 0
     },
     {
         "Id": 9010801,
         "Name": "Portrait - Bastion",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadShenwei5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 15
+        "Priority": 17,
+        "LimitType": 0
     },
     {
         "Id": 9010802,
         "Name": "Portrait - Tenebrion",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadShenwei5SS.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 14
+        "Priority": 16,
+        "LimitType": 0
     },
     {
         "Id": 9010901,
         "Name": "Portrait - Brilliance",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadAila5.png",
-        "LockDescId": 2,
+        "LockDesc": "Available after Ultima Awakening the Construct",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
-        "Priority": 13
+        "Priority": 15,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010702,
+        "Name": "Portrait - Veritas",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadBianka5SS.png",
+        "LockDesc": "Available after Ultima Awakening the Construct",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
+        "Priority": 14,
+        "LimitType": 0
+    },
+    {
+        "Id": 9011001,
+        "Name": "Portrait - Silverfang",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadSufeiya5.png",
+        "LockDesc": "Available after Ultima Awakening the Construct",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
+        "Priority": 13,
+        "LimitType": 0
+    },
+    {
+        "Id": 9011002,
+        "Name": "Portrait - Arclight",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadKuluomu5.png",
+        "LockDesc": "Available after Ultima Awakening the Construct",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The final developed form of Ultima Awakened Constructs after countless battles.",
+        "Priority": 12,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010703,
+        "Name": "Ink-lit Hermit",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadBianka7SS.png",
+        "LockDesc": "Unlocked by purchasing [Ink-lit Hermit Coating Bundle].",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The quiet river flows through the mountains where cranes live.",
+        "Priority": 11,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010211,
+        "Name": "Eventide Glow",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadR4Luxiya7SS.png",
+        "LockDesc": "Unlocked by purchasing [Eventide Glow Coating Bundle]",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The flowing crimson clouds saw her smile.",
+        "Priority": 27,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010212,
+        "Name": "Ocean Blues",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadR3Li7SS.png",
+        "LockDesc": "Awarded to participants of the limited event [Sorbet Summer]",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The ocean tunes under the blue summer sky",
+        "Priority": 26,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010213,
+        "Name": "Deep Sea",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadR3Lifu7SS.png",
+        "LockDesc": "Purchase limited pack [Deep Sea Coating Bundle] to receive",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The white maiden on the summer beach",
+        "Priority": 25,
+        "LimitType": 0
     },
     {
         "Id": 9080001,
         "Name": "Portrait - Task Force",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer06.png",
-        "LockDescId": 8,
+        "LockDesc": "Available after clearing Stronghold Chapter 8",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "The symbol of Task Force.",
-        "Priority": 12
+        "Priority": 10,
+        "LimitType": 0
     },
     {
         "Id": 9090001,
         "Name": "Kuroro",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer04.png",
-        "LockDescId": 100,
+        "LockDesc": "Event Rewards",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "A mysterious mechanical race found in many places on the surface. Has a keen interest in collecting Cogs.",
-        "Priority": 11
+        "Priority": 9,
+        "LimitType": 0
     },
     {
         "Id": 9090002,
         "Name": "Portrait - Special Identity",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer05.png",
-        "LockDescId": 4,
+        "LockDesc": "Available after purchasing 10000 Rainbow Cards",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "Sorry, but I refuse to reveal my true identity as a commandant.",
         "Effect": "Assets/Product/Effect/Prefab/FxUi/FxUiComponent/FxUiTouxiang.prefab",
-        "Priority": 10
+        "Priority": 8,
+        "LimitType": 0
+    },
+    {
+        "Id": 9090003,
+        "Name": "Kuroro Commandant",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer10.png",
+        "LockDesc": "The reward issued to players who pre-registered with the official website. Sent via mail",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "A mysterious machine wearing a commandant's jacket.",
+        "Priority": 8,
+        "LimitType": 0
+    },
+    {
+        "Id": 9090004,
+        "Name": "Mini-TV Commandant",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer11.png",
+        "LockDesc": "The reward issued to players who pre-registered with Bilibili. Sent via mail",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "A mini-TV wearing a commandant's jacket. It seems to be mistaken for a cloth hanger.",
+        "Priority": 7,
+        "LimitType": 0
     },
     {
         "Id": 9090005,
         "Name": "Mr. Potato",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer12.png",
-        "LockDescId": 12,
+        "LockDesc": "Available via special events",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "A popular fast food dish in Babylonia. Still going strong after many challenges.",
-        "Priority": 7
+        "Priority": 5,
+        "LimitType": 0
     },
     {
         "Id": 9090006,
         "Name": "RIP Potato",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayer13.png",
-        "LockDescId": 13,
+        "LockDesc": "Available via special events",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "In commemoration of Mr. Potato, now ripened and cooked.",
-        "Priority": 6
+        "Priority": 4,
+        "LimitType": 0
+    },
+    {
+        "Id": 9090007,
+        "Name": "Overlord",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeaSailikaSp.png",
+        "LockDesc": "Available after purchasing June 1st Gift Box",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "The cover illustration of the June 1st special issue of \"The Lord of the Skies Celica\".",
+        "Priority": 3,
+        "LimitType": 0
+    },
+    {
+        "Id": 9053001,
+        "Name": "クロロもち",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlayerJp01.png",
+        "LockDesc": "新年イベントで獲得",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "プレイヤーアイコン",
+        "WorldDesc": "謎の生物クロロの鏡餅バージョン…食べられないけどね",
+        "Priority": 3,
+        "LimitType": 0
     },
     {
         "Id": 9053002,
         "Name": "Portrait - Volatile Priestess",
         "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadJpR3LuxiyaSS.png",
-        "LockDescId": 101,
+        "LockDesc": "Available via event",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000,
         "Description": "Player Portrait",
         "WorldDesc": "A portrait representing the ritual to worship wild gods in ancient times. Recreated from old data of the Earth.",
-        "Priority": 3
+        "Priority": 3,
+        "LimitType": 0
+    },
+    {
+        "Id": 9010218,
+        "Name": "Spectral Parade",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RoleHeadShenwei7SS.png",
+        "LockDesc": "Unlocked by purchasing [Spectral Parade Coating Bundle].",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "—And builds a Heaven in Hell's despair.",
+        "Priority": 31,
+        "LimitType": 0
+    },
+    {
+        "Id": 9091001,
+        "Name": "Pure White",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/RolePlaySuper01.png",
+        "LockDesc": "Available via special events",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "Full of hope, fearless of the dark.",
+        "Effect": "Assets/Product/Ui/ComponentPrefab/UiRole/RoleTimeline02.prefab",
+        "Priority": 308,
+        "LimitType": 0
+    },
+    {
+        "Id": 9062001,
+        "Name": "Joyous Moments",
+        "ImgSrc": "Assets/Product/Texture/Image/RolePlayerSp/EnRoleplayerNewyear01.png",
+        "LockDesc": "Available via special means",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000,
+        "Description": "Player Portrait",
+        "WorldDesc": "\"New Year, New Feels!\" —Imochikay Okattayay",
+        "Priority": 2,
+        "LimitType": 0
     }
 ]

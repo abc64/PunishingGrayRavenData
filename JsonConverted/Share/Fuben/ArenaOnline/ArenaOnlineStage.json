@@ -1,0 +1,688 @@
+[
+    {
+        "Id": 20010001,
+        "Name": "TFZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Musashi IX"
+        ],
+        "EventId": [
+            760413,
+            760283,
+            760273
+        ]
+    },
+    {
+        "Id": 20010011,
+        "Name": "TFZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Hetero Deconstruct Unit, Hetero Repair Unit, Hetero Fire Unit, Hetero Explore Unit"
+        ],
+        "EventId": [
+            760133,
+            760343,
+            760333,
+            760263,
+            760293,
+            760202,
+            760313,
+            760253,
+            760353,
+            760283
+        ]
+    },
+    {
+        "Id": 20010101,
+        "Name": "TFZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Split:",
+            "Gather:",
+            "Scatter:",
+            "Devour:"
+        ],
+        "SkillDesc": [
+            "There are two roads leading to the Boss.",
+            "All members take the same path. Defeat all enemies on the path to reach the Boss.",
+            "If you decide to split up, you can only reach the Boss after defeating all the enemies, except the case when all the members on one of the paths have fallen.",
+            "The Boss will devour all the remaining enemies to enhance itself."
+        ],
+        "EventId": [
+            760253,
+            760133,
+            760242,
+            760353
+        ]
+    },
+    {
+        "Id": 20010002,
+        "Name": "TSZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Iron Maiden"
+        ],
+        "EventId": [
+            760293,
+            760373,
+            760133,
+            760253,
+            760201,
+            760281,
+            760243
+        ]
+    },
+    {
+        "Id": 20010012,
+        "Name": "TSZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Blubber VI, Kemuri I"
+        ],
+        "EventId": [
+            760353,
+            760343,
+            760373,
+            760293,
+            760263,
+            760253
+        ]
+    },
+    {
+        "Id": 20010103,
+        "Name": "TSZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Split:",
+            "Gather:",
+            "Scatter:",
+            "Devour:"
+        ],
+        "SkillDesc": [
+            "There are two roads leading to the Boss.",
+            "All members take the same path. Defeat all enemies on the path to reach the Boss.",
+            "If you decide to split up, you can only reach the Boss after defeating all the enemies, except the case when all the members on one of the paths have fallen.",
+            "The Boss will devour all the remaining enemies to enhance itself."
+        ],
+        "EventId": [
+            760253,
+            760133,
+            760242,
+            760353
+        ]
+    },
+    {
+        "Id": 20010003,
+        "Name": "TFZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Osiris"
+        ],
+        "EventId": [
+            760411,
+            760133
+        ]
+    },
+    {
+        "Id": 20010013,
+        "Name": "TFZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Executor, Ronin IV, Excavator, Explorer"
+        ],
+        "EventId": [
+            760243,
+            760253,
+            760133,
+            760303,
+            760343,
+            760353
+        ]
+    },
+    {
+        "Id": 20010102,
+        "Name": "TFZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Assistance:",
+            "WAVE1：",
+            "WAVE2：",
+            "WAVE3："
+        ],
+        "SkillDesc": [
+            "A buff is dropped each time an enemy wave is defeated. Pick up to activate the buff.",
+            "Healing: Teammates within the range gain HP over time.",
+            "Radiation: Enemies within the range lose HP over time.",
+            "Booster: Personal attack bonus."
+        ],
+        "EventId": [
+            760253,
+            760262,
+            760243,
+            760343,
+            760133,
+            760283,
+            760293,
+            760373
+        ]
+    },
+    {
+        "Id": 20010004,
+        "Name": "TSZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Sister"
+        ],
+        "EventId": [
+            760291,
+            760251
+        ]
+    },
+    {
+        "Id": 20010014,
+        "Name": "TSZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Envoy, Gardener, Ronin IV, Bio-Salamander"
+        ],
+        "EventId": [
+            760243,
+            760251,
+            760133,
+            760343,
+            760353,
+            760303,
+            760293
+        ]
+    },
+    {
+        "Id": 20010104,
+        "Name": "TSZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140100,
+        "ShowBottomId": 140100,
+        "SkillTitle": [
+            "Assistance:",
+            "WAVE1：",
+            "WAVE2：",
+            "WAVE3："
+        ],
+        "SkillDesc": [
+            "A buff is dropped each time an enemy wave is defeated. Pick up to activate the buff.",
+            "Healing: Teammates within the range gain HP over time.",
+            "Radiation: Enemies within the range lose HP over time.",
+            "Booster: Personal attack bonus."
+        ],
+        "EventId": [
+            760253,
+            760262,
+            760243,
+            760343,
+            760133,
+            760283,
+            760293,
+            760373
+        ]
+    },
+    {
+        "Id": 20010005,
+        "Name": "TFZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Musashi IX"
+        ],
+        "EventId": [
+            760413,
+            760283,
+            760273
+        ]
+    },
+    {
+        "Id": 20010015,
+        "Name": "TFZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Hetero Deconstruct Unit, Hetero Repair Unit, Hetero Fire Unit, Hetero Explore Unit"
+        ],
+        "EventId": [
+            760133,
+            760343,
+            760333,
+            760263,
+            760293,
+            760202,
+            760313,
+            760253,
+            760353,
+            760283
+        ]
+    },
+    {
+        "Id": 20010105,
+        "Name": "TFZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Split:",
+            "Gather:",
+            "Scatter:",
+            "Devour:"
+        ],
+        "SkillDesc": [
+            "There are two roads leading to the Boss.",
+            "All members take the same path. Defeat all enemies on the path to reach the Boss.",
+            "If you decide to split up, you can only reach the Boss after defeating all the enemies, except the case when all the members on one of the paths have fallen.",
+            "The Boss will devour all the remaining enemies to enhance itself."
+        ],
+        "EventId": [
+            760253,
+            760133,
+            760242,
+            760353
+        ]
+    },
+    {
+        "Id": 20010006,
+        "Name": "TSZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Iron Maiden"
+        ],
+        "EventId": [
+            760293,
+            760373,
+            760133,
+            760253,
+            760201,
+            760281,
+            760243
+        ]
+    },
+    {
+        "Id": 20010016,
+        "Name": "TSZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Blubber VI, Kemuri I"
+        ],
+        "EventId": [
+            760353,
+            760343,
+            760373,
+            760293,
+            760263,
+            760253
+        ]
+    },
+    {
+        "Id": 20010107,
+        "Name": "TSZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Split:",
+            "Gather:",
+            "Scatter:",
+            "Devour:"
+        ],
+        "SkillDesc": [
+            "There are two roads leading to the Boss.",
+            "All members take the same path. Defeat all enemies on the path to reach the Boss.",
+            "If you decide to split up, you can only reach the Boss after defeating all the enemies, except the case when all the members on one of the paths have fallen.",
+            "The Boss will devour all the remaining enemies to enhance itself."
+        ],
+        "EventId": [
+            760253,
+            760133,
+            760242,
+            760353
+        ]
+    },
+    {
+        "Id": 20010007,
+        "Name": "TFZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Osiris"
+        ],
+        "EventId": [
+            760411,
+            760133
+        ]
+    },
+    {
+        "Id": 20010017,
+        "Name": "TFZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Executor, Ronin IV, Excavator, Explorer"
+        ],
+        "EventId": [
+            760243,
+            760253,
+            760133,
+            760303,
+            760343,
+            760353
+        ]
+    },
+    {
+        "Id": 20010106,
+        "Name": "TFZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk01.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Assistance:",
+            "WAVE1：",
+            "WAVE2：",
+            "WAVE3："
+        ],
+        "SkillDesc": [
+            "A buff is dropped each time an enemy wave is defeated. Pick up to activate the buff.",
+            "Healing: Teammates within the range gain HP over time.",
+            "Radiation: Enemies within the range lose HP over time.",
+            "Booster: Personal attack bonus."
+        ],
+        "EventId": [
+            760253,
+            760262,
+            760243,
+            760343,
+            760133,
+            760283,
+            760293,
+            760373
+        ]
+    },
+    {
+        "Id": 20010008,
+        "Name": "TSZ-01",
+        "Sort": 1,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz01.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Boss:"
+        ],
+        "SkillDesc": [
+            "Sister"
+        ],
+        "EventId": [
+            760291,
+            760251
+        ]
+    },
+    {
+        "Id": 20010018,
+        "Name": "TSZ-02",
+        "Sort": 2,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz02.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat all enemies",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Enemies:"
+        ],
+        "SkillDesc": [
+            "Envoy, Gardener, Ronin IV, Bio-Salamander"
+        ],
+        "EventId": [
+            760243,
+            760251,
+            760133,
+            760343,
+            760353,
+            760303,
+            760293
+        ]
+    },
+    {
+        "Id": 20010108,
+        "Name": "TSZ-03",
+        "Sort": 3,
+        "BgIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineFubenGk02.png",
+        "NameIcon": "Assets/Product/Texture/Image/UiArenaOnline/ArenaOnlineSz03.png",
+        "EnduranceCost": 1,
+        "ConditionDesc": "Defeat the final Boss",
+        "ActiveBuffId": 1,
+        "BottomCount": 12,
+        "ShowDropId": 140101,
+        "ShowBottomId": 140101,
+        "SkillTitle": [
+            "Assistance:",
+            "WAVE1：",
+            "WAVE2：",
+            "WAVE3："
+        ],
+        "SkillDesc": [
+            "A buff is dropped each time an enemy wave is defeated. Pick up to activate the buff.",
+            "Healing: Teammates within the range gain HP over time.",
+            "Radiation: Enemies within the range lose HP over time.",
+            "Booster: Personal attack bonus."
+        ],
+        "EventId": [
+            760253,
+            760262,
+            760243,
+            760343,
+            760133,
+            760283,
+            760293,
+            760373
+        ]
+    }
+]

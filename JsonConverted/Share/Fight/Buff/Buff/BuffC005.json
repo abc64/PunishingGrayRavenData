@@ -6,7 +6,9 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7500010,
-        "Magic": 750001000
+        "Cover": "9000080|1000270",
+        "Mutex": "9000080|1000270",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 750002,
@@ -887,7 +889,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7500990,
-        "Magic": 750099000
+        "Cover": 8320080,
+        "Mutex": 8320080
     },
     {
         "Id": 750100,
@@ -910,11 +913,12 @@
     {
         "Id": 750102,
         "Delay": 0,
-        "Duration": 0,
-        "Limit": "-1",
+        "Duration": "-1",
+        "Limit": 1,
         "Cd": 0,
         "Kind": 7501020,
-        "Magic": 750102000
+        "Effect": "FxMe1JiulongzhongyaziMd000001Sound",
+        "EffectJoint": "HitCase"
     },
     {
         "Id": 750103,
@@ -1390,7 +1394,8 @@
         "Duration": 0,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7501570
+        "Kind": 7501570,
+        "Cover": 7503190
     },
     {
         "Id": 750158,
@@ -1638,19 +1643,20 @@
     {
         "Id": 750184,
         "Delay": 0,
-        "Duration": 0,
-        "Limit": 99,
+        "Duration": "-1",
+        "Limit": 1,
         "Cd": 0,
-        "Kind": 7501840
+        "Kind": 7501840,
+        "Magic": 750184000
     },
     {
         "Id": 750185,
         "Delay": 0,
         "Duration": "-1",
-        "Limit": 99,
+        "Limit": 1,
         "Cd": 0,
         "Kind": 7501850,
-        "Effect": "FxMb1LadyMd10001Attack07"
+        "Magic": 750185000
     },
     {
         "Id": 750186,
@@ -1892,6 +1898,88 @@
         "Cd": 0,
         "Kind": 7502120,
         "Magic": 750212000
+    },
+    {
+        "Id": 750213,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502130,
+        "Magic": 750213000
+    },
+    {
+        "Id": 750214,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502140,
+        "Magic": 750214000
+    },
+    {
+        "Id": 750215,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502150,
+        "Magic": 750215000
+    },
+    {
+        "Id": 750216,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7502160|11|6",
+        "Magic": 750216000
+    },
+    {
+        "Id": 750217,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502170,
+        "Cover": 9060230,
+        "Mutex": 9060230
+    },
+    {
+        "Id": 750218,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 99,
+        "Cd": 0,
+        "Kind": 7502180,
+        "Effect": "FxTongyongGanran"
+    },
+    {
+        "Id": 750219,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502190,
+        "Magic": 750219000
+    },
+    {
+        "Id": 750220,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502200,
+        "Magic": 750220000
+    },
+    {
+        "Id": 750221,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7502210,
+        "Magic": 750221000
     },
     {
         "Id": 750300,
@@ -2307,6 +2395,24 @@
         "Magic": 750345000
     },
     {
+        "Id": 750346,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7503460,
+        "Magic": 750346000
+    },
+    {
+        "Id": 750347,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7503470,
+        "Magic": 750347000
+    },
+    {
         "Id": 750350,
         "Delay": 0,
         "Duration": "-1",
@@ -2396,5 +2502,289 @@
         "Cd": 0,
         "Kind": 7503590,
         "Magic": 750359000
+    },
+    {
+        "Id": 750360,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503600,
+        "Magic": 750360000
+    },
+    {
+        "Id": 750361,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503610,
+        "Cover": 7503620,
+        "Mutex": 7503620,
+        "Magic": 750361000
+    },
+    {
+        "Id": 750362,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503620,
+        "Cover": 7503610,
+        "Mutex": 7503610,
+        "Magic": 750362000
+    },
+    {
+        "Id": 750363,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503630,
+        "Cover": "7503610|7503620",
+        "Mutex": "7503610|7503620"
+    },
+    {
+        "Id": 750364,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503640,
+        "Magic": 750364000
+    },
+    {
+        "Id": 750365,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503650,
+        "Magic": 750365000
+    },
+    {
+        "Id": 750367,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503670,
+        "Magic": 750367000
+    },
+    {
+        "Id": 750368,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503680,
+        "Magic": 750368000
+    },
+    {
+        "Id": 750369,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503690,
+        "Magic": 750369000
+    },
+    {
+        "Id": 750370,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503700,
+        "Magic": 750370000
+    },
+    {
+        "Id": 750371,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503710,
+        "Effect": "FxQianxing000Shader"
+    },
+    {
+        "Id": 750372,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503720,
+        "Magic": 750372000
+    },
+    {
+        "Id": 750373,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503730
+    },
+    {
+        "Id": 750374,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7503740,
+        "Effect": "FxTriggerPointBlueFang01"
+    },
+    {
+        "Id": 750375,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503750,
+        "Cover": 7503760,
+        "Effect": "FxTongyongYinshen02"
+    },
+    {
+        "Id": 750376,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503760,
+        "Cover": 7503750
+    },
+    {
+        "Id": 750377,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503770,
+        "Magic": 750377000
+    },
+    {
+        "Id": 750378,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503780
+    },
+    {
+        "Id": 750379,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503790,
+        "Magic": 750379000
+    },
+    {
+        "Id": 750380,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503800,
+        "Magic": 750380000
+    },
+    {
+        "Id": 750381,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503810,
+        "Magic": 750381000
+    },
+    {
+        "Id": 750382,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503820,
+        "Magic": 750382000
+    },
+    {
+        "Id": 750383,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503830,
+        "Magic": 750383000
+    },
+    {
+        "Id": 750384,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503840,
+        "Magic": 750384000
+    },
+    {
+        "Id": 750385,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503850,
+        "Magic": 750385000
+    },
+    {
+        "Id": 750386,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503860,
+        "Effect": "FxTriggerPointJiaZhiLiao"
+    },
+    {
+        "Id": 750387,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503870,
+        "Effect": "FxTongyongSave"
+    },
+    {
+        "Id": 750388,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503880,
+        "Effect": "FxTongyongBlueDun",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 750389,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7503890,
+        "Magic": 750389000
+    },
+    {
+        "Id": 750400,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7504000,
+        "Magic": 750400000
+    },
+    {
+        "Id": 750401,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7504010,
+        "Magic": 750401000
     }
 ]

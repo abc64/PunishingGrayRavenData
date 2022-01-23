@@ -18,15 +18,15 @@
         ]
     },
     {
-        "Id": 99919919,
-        "Behavior": 99919919,
-        "Name": "多段召唤怪物挑战关卡",
+        "Id": 99919901,
+        "Behavior": 99919901,
+        "Name": "日常翻牌本2路版",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
-            999199190
+            999199010
         ],
         "Position": [
             "0|0|0"
@@ -36,15 +36,249 @@
         ]
     },
     {
-        "Id": 99919917,
-        "Behavior": 99919917,
-        "Name": "运营测试关卡B多镜头",
+        "Id": 99919902,
+        "Behavior": 99919902,
+        "Name": "运营测试关卡A多镜头",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 31,
         "CameraId": 9,
         "Terrains": [
-            999199170
+            999199020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919903,
+        "Behavior": 99919903,
+        "Name": "运营测试关卡A多镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919904,
+        "Behavior": 99919904,
+        "Name": "试作型装备经验本",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 25,
+        "CameraId": 9,
+        "Terrains": [
+            999199040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919905,
+        "Behavior": 99919905,
+        "Name": "オリジナル本編迷宮ステージ1",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 66,
+        "CameraId": 9,
+        "Terrains": [
+            999199050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919906,
+        "Behavior": 99919906,
+        "Name": "测试关卡A",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 17,
+        "CameraId": 9,
+        "Terrains": [
+            999199060
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919907,
+        "Behavior": 99919907,
+        "Name": "中国城战斗23（灰鸦-庭院）",
+        "CloseLoadingDelay": 0.8,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199070
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919908,
+        "Behavior": 99919908,
+        "Name": "缺省",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199080
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919909,
+        "Behavior": 99919909,
+        "Name": "中国城战斗10（布丽姬特-贫民窟）",
+        "CloseLoadingDelay": 0.8,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199090
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919910,
+        "Behavior": 99919910,
+        "Name": "中国城战斗13（遗忘者-列车）",
+        "CloseLoadingDelay": 0.8,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199100
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919911,
+        "Behavior": 99919911,
+        "Name": "中国城战斗19（阿尔法-隐藏）",
+        "CloseLoadingDelay": 0.8,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199110
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919912,
+        "Behavior": 99919912,
+        "Name": "中国城战斗29（对抗阿尔法）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            999199120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919913,
+        "Behavior": 99919913,
+        "Name": "试炼测试关卡3",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919914,
+        "Behavior": 99919914,
+        "Name": "本編テストステージ0",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 36,
+        "CameraId": 9,
+        "Terrains": [
+            999199140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919915,
+        "Behavior": 99919915,
+        "Name": 15,
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 29,
+        "CameraId": 9,
+        "Terrains": [
+            999199150
         ],
         "Position": [
             "0|0|0"
@@ -72,12 +306,30 @@
         ]
     },
     {
+        "Id": 99919917,
+        "Behavior": 99919917,
+        "Name": "运营测试关卡B多镜头",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 25,
+        "CameraId": 9,
+        "Terrains": [
+            999199170
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
         "Id": 99919918,
         "Behavior": 99919918,
         "Name": "日常翻牌本",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 1,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999199180
@@ -90,15 +342,15 @@
         ]
     },
     {
-        "Id": 99919915,
-        "Behavior": 99919915,
-        "Name": "运营测试关卡A多镜头",
+        "Id": 99919919,
+        "Behavior": 99919919,
+        "Name": "多段召唤怪物挑战关卡",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 5,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
-            999199150
+            999199190
         ],
         "Position": [
             "0|0|0"
@@ -108,15 +360,15 @@
         ]
     },
     {
-        "Id": 99919902,
-        "Behavior": 99919902,
-        "Name": "运营测试关卡A多镜头",
+        "Id": 99919920,
+        "Behavior": 99919920,
+        "Name": "本編戦闘ステージテスト4",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 18,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            999199020
+            999199200
         ],
         "Position": [
             "0|0|0"
@@ -126,159 +378,17 @@
         ]
     },
     {
-        "Id": 99919903,
-        "Behavior": 99919903,
-        "Name": "运营测试关卡A多镜头",
+        "Id": 99919921,
+        "Behavior": 99919921,
+        "Name": "シークレットステージ4",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 46,
+        "SceneCamera": 63,
         "CameraId": 9,
         "Terrains": [
-            999199030
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919911,
-        "Behavior": 99919911,
-        "Name": "试炼测试关卡1",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 1,
-        "CameraId": 9,
-        "Terrains": [
-            999199110
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919912,
-        "Behavior": 99919912,
-        "Name": "试炼测试关卡2",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 1,
-        "CameraId": 9,
-        "Terrains": [
-            999199120
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919913,
-        "Behavior": 99919913,
-        "Name": "试炼测试关卡3",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 4,
-        "CameraId": 9,
-        "Terrains": [
-            999199130
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919914,
-        "Behavior": 99919914,
-        "Name": "试炼测试关卡4",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 4,
-        "CameraId": 9,
-        "Terrains": [
-            999199140
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919901,
-        "Behavior": 99919901,
-        "Name": "日常翻牌本2路版",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 4,
-        "CameraId": 9,
-        "Terrains": [
-            999199010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919904,
-        "Behavior": 99919904,
-        "Name": "试作型装备经验本",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 1,
-        "CameraId": 9,
-        "Terrains": [
-            999199040
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919905,
-        "Behavior": 99919905,
-        "Name": "测试关卡",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 4,
-        "CameraId": 9,
-        "Terrains": [
-            999199050
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919906,
-        "Behavior": 99919906,
-        "Name": "测试关卡A",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 30,
-        "CameraId": 9,
-        "Terrains": [
-            999199060
+            999199210
         ],
         "Position": [
             "0|0|0"

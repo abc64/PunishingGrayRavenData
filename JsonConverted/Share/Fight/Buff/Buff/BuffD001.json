@@ -36,7 +36,8 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5011030
+        "Kind": 5011030,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 501104,
@@ -44,7 +45,8 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5011040
+        "Kind": 5011040,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 501105,
@@ -52,7 +54,8 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5011050
+        "Kind": 5011050,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 501106,
@@ -61,7 +64,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 5011060,
-        "Cover": "5011030|5011040|5011050"
+        "Cover": "5011030|5011040|5011050",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 501201,
@@ -563,7 +567,7 @@
         "Kind": "5023240|314|5",
         "Cover": 304,
         "Effect": "FxTongyongJiaqiu",
-        "EffectJoint": "Root"
+        "EffectJoint": "HitCase"
     },
     {
         "Id": 502325,
@@ -573,6 +577,48 @@
         "Cd": 0,
         "Kind": 5023250,
         "Effect": "FxWeaponSword63Wuqi02",
+        "EffectJoint": "WeaponCase1"
+    },
+    {
+        "Id": 502326,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5023260,
+        "Magic": 502326000
+    },
+    {
+        "Id": 502327,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5023270|101|100|6",
+        "Cover": 5023270,
+        "Magic": 502327000
+    },
+    {
+        "Id": 502328,
+        "Delay": 0,
+        "Duration": 5,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5023280|101|100|6",
+        "Cover": 5023280,
+        "Magic": 502328000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 502329,
+        "Delay": 0,
+        "Duration": 0.6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5023290,
+        "Effect": "FxWeaponSword64Wuqi01",
         "EffectJoint": "WeaponCase1"
     },
     {
@@ -1182,12 +1228,10 @@
     {
         "Id": 504313,
         "Delay": 0,
-        "Duration": "-1",
+        "Duration": 10,
         "Limit": 4,
         "Cd": 0,
-        "Kind": 5043130,
-        "Effect": "FxR3BiankaAttack21Arrow",
-        "EffectJoint": "HitCase"
+        "Kind": 5043130
     },
     {
         "Id": 504314,
@@ -2513,6 +2557,23 @@
         "EffectJoint": "WeaponCase1"
     },
     {
+        "Id": 531311,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5313110,
+        "Magic": 531311000
+    },
+    {
+        "Id": 531312,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5313120
+    },
+    {
         "Id": 509001,
         "Delay": 0,
         "Duration": "-1",
@@ -2564,7 +2625,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5092010,
+        "Kind": "5092010|5109070",
         "Magic": 509201000
     },
     {
@@ -3227,7 +3288,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109010,
+        "Kind": "5109010|5109070",
         "Magic": 510901000
     },
     {
@@ -3236,7 +3297,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109020,
+        "Kind": "5109020|5109070",
         "Magic": 510902000
     },
     {
@@ -3245,7 +3306,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109030,
+        "Kind": "5109030|5109070",
         "Magic": 510903000
     },
     {
@@ -3254,7 +3315,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109040,
+        "Kind": "5109040|5109070",
         "Magic": 510904000
     },
     {
@@ -3263,7 +3324,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109050,
+        "Kind": "5109050|5109070",
         "Magic": 510905000
     },
     {
@@ -3272,7 +3333,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5109060,
+        "Kind": "5109060|5109070",
         "Magic": 510906000
     },
     {
@@ -3281,7 +3342,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 5110010,
+        "Kind": "5110010|5109070",
         "Magic": 511001000
     },
     {
@@ -4941,7 +5002,7 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 6211120,
+        "Kind": "6211120|1000",
         "Magic": 621112000
     },
     {
@@ -5969,7 +6030,8 @@
         "Duration": 1,
         "Limit": 1,
         "Cd": 0,
-        "Kind": "6305150|2000"
+        "Kind": "6305150|2000",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 630516,
@@ -5978,7 +6040,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 6305160,
-        "Effect": "FxEquipQte64Ready"
+        "Effect": "FxEquipQte64Ready",
+        "TriggerOnAdd": 1
     },
     {
         "Id": 630517,
@@ -5995,7 +6058,8 @@
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 6305180
+        "Kind": 6305180,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 630519,
@@ -6383,10 +6447,12 @@
         "Id": 631008,
         "Delay": 0,
         "Duration": 5,
+        "EffectType": 303,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 6310080,
+        "Kind": "6310080|303|5",
         "Cover": 6310080,
+        "Mutex": 6310080,
         "Magic": 631008000,
         "Effect": "FxTongyongBingshuang",
         "EffectJoint": "HitCase"
@@ -6398,6 +6464,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 6310090,
+        "Cover": 6310090,
+        "Mutex": 6310090,
         "Magic": 631009000
     },
     {
@@ -6407,109 +6475,18 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 6310100,
+        "Cover": 6310100,
+        "Mutex": 6310100,
         "Magic": 631010000
     },
     {
-        "Id": 631012,
-        "Delay": 0,
-        "Duration": 2,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310120,
-        "Cover": 6310080,
-        "Mutex": 6310080,
-        "Effect": "FxTongyongBingdong",
-        "EffectJoint": "HitCase"
-    },
-    {
-        "Id": 631013,
-        "Delay": 0,
-        "Duration": 2.1,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310130,
-        "Magic": 631013000
-    },
-    {
-        "Id": 631014,
-        "Delay": 0,
-        "Duration": 12,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310140
-    },
-    {
-        "Id": 631016,
-        "Delay": 0,
-        "Duration": 0,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310160,
-        "Cover": "6310120|6310210",
-        "Mutex": "6310120|6310210"
-    },
-    {
-        "Id": 631017,
-        "Delay": 0,
-        "Duration": 2.1,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310170,
-        "Magic": 631017000
-    },
-    {
-        "Id": 631018,
+        "Id": 631011,
         "Delay": 0,
         "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
-        "Kind": 6310180,
-        "Magic": 631018000
-    },
-    {
-        "Id": 631019,
-        "Delay": 0,
-        "Duration": "-1",
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310190,
-        "Effect": "FxEquipIceAtk64Bingjing"
-    },
-    {
-        "Id": 631020,
-        "Delay": 0,
-        "Duration": 0.1,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310200,
-        "Magic": 631020000
-    },
-    {
-        "Id": 631021,
-        "Delay": 0,
-        "Duration": 2,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": "6310210|18|5|10",
-        "Magic": 631021000
-    },
-    {
-        "Id": 631022,
-        "Delay": 0,
-        "Duration": "-1",
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310220,
-        "Magic": 631022000
-    },
-    {
-        "Id": 631023,
-        "Delay": 0,
-        "Duration": "-1",
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 6310230,
-        "Magic": 631023000
+        "Kind": 6310110,
+        "Magic": 631011000
     },
     {
         "Id": 631101,
@@ -6955,5 +6932,45 @@
         "Kind": 6315120,
         "Cover": "6315090|6315100|6315110",
         "Mutex": "6315090|6315100|6315110"
+    },
+    {
+        "Id": 620943,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209430,
+        "Magic": 620943000
+    },
+    {
+        "Id": 620945,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209450,
+        "Magic": 620945000
+    },
+    {
+        "Id": 620946,
+        "Delay": 0,
+        "Duration": 3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209460|101|100|6",
+        "Magic": 620946000,
+        "Effect": "FxEquipNormalAtk64Baonu"
+    },
+    {
+        "Id": 620947,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209470|111|110|100|6",
+        "Cover": 6209470,
+        "Magic": 620947000,
+        "Effect": "FxEquipPhyTank64Hudun",
+        "EffectJoint": "HitCase"
     }
 ]

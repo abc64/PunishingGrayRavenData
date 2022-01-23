@@ -1,0 +1,39 @@
+[
+    {
+        "Id": 1,
+        "BeginTimeStr": "2021/12/22 2:00",
+        "EndTimeStr": "2022/4/12 1:59",
+        "Type": 1,
+        "Condition": 2,
+        "ContinueDays": 14,
+        "ScheduleItemId": 41,
+        "StoryId": "HD00101BA",
+        "HelpId": 10014,
+        "Param": [
+            1,
+            1
+        ]
+    },
+    {
+        "Id": 2,
+        "BeginTimeStr": "2020/1/1 10:00",
+        "EndTimeStr": "2020/2/1 23:59",
+        "Type": 2,
+        "Condition": 4,
+        "Condition2": 2,
+        "Param": [
+            1
+        ]
+    },
+    {
+        "Id": 3,
+        "BeginTimeStr": "2021/12/22 2:00",
+        "EndTimeStr": "2022/1/4 6:59",
+        "Type": 2,
+        "Condition": 4,
+        "Condition2": 2,
+        "Param": [
+            1
+        ]
+    }
+]

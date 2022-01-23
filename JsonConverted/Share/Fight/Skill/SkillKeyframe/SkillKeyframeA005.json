@@ -3,156 +3,213 @@
         "Id": 101401,
         "Key": [
             "5|Cast|10140102",
-            "0|Effect|FxR3BiankaAttack01||1",
-            4
+            "0|Effect|FxR3BiankaAttack01||1|",
+            4,
+            0,
+            "4|Magic|101426|0",
+            "904|Magic|101406|0"
         ]
     },
     {
         "Id": 101402,
         "Key": [
+            0,
             "8|Cast|10140203",
             7,
-            "0|Effect|FxR3BiankaAttack02||1"
+            "7|Magic|101426|0",
+            "0|Effect|FxR3BiankaAttack02||1|"
         ]
     },
     {
         "Id": 101403,
         "Key": [
-            "4|Cast|10140301",
-            "5|Cast|10140302",
-            "6|Cast|10140303",
-            "7|Cast|10140304",
-            "8|Cast|10140305",
-            3,
-            7,
-            "0|Effect|FxR3BiankaAttack03||1"
+            "6|Cast|10140301",
+            "7|Cast|10140302",
+            "8|Cast|10140303",
+            "9|Cast|10140304",
+            "10|Cast|10140305",
+            6,
+            9,
+            "0|Effect|FxR3BiankaAttack03||1|",
+            0,
+            "7|Magic|101426|0",
+            "8|Magic|101426|0",
+            "9|Magic|101426|0",
+            "10|Magic|101426|0",
+            "11|Magic|101426|0",
+            11
         ]
     },
     {
         "Id": 101404,
         "Key": [
-            "6|Cast|10140401",
-            "8|Cast|10140402",
-            "10|Cast|10140403",
-            "0|Effect|FxR3BiankaAttack04||1",
-            5,
-            7,
-            9
-        ]
-    },
-    {
-        "Id": 101405,
-        "Key": [
-            "7|Cast|10140502",
-            "0|Effect|FxR3BiankaAttack05||1",
-            6,
+            "10|Magic|101426|0",
+            "10|Cast|10140402",
+            "0|Effect|FxR3BiankaAttack04||1|",
+            1,
+            9,
+            "10|Cast|10140407",
             0
         ]
     },
     {
+        "Id": 101405,
+        "Key": []
+    },
+    {
         "Id": 101406,
         "Key": [
-            "19|Cast|10140602",
-            "0|Effect|FxR3BiankaAttack11||1",
-            18,
+            "12|Cast|10140602",
+            "0|Effect|FxR3BiankaAttack11||1|",
+            11,
             0,
-            "19|Cast|10140606",
-            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1"
+            "12|Cast|10140606",
+            "19|Magic|101417|0",
+            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1|",
+            0,
+            "12|Magic|101427|0"
         ]
     },
     {
         "Id": 101407,
         "Key": [
-            "19|Cast|10140702",
-            "0|Effect|FxR3BiankaAttack11||1",
-            18,
+            "12|Cast|10140702",
+            "0|Effect|FxR3BiankaAttack11||1|",
+            11,
             0,
-            "19|Cast|10140706",
-            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1"
+            "12|Cast|10140706",
+            "19|Magic|101417|0",
+            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1|",
+            0,
+            "12|Magic|101427|0"
         ]
     },
     {
         "Id": 101408,
         "Key": [
-            "19|Cast|10140802",
-            "0|Effect|FxR3BiankaAttack13||1",
-            18,
+            "12|Cast|10140802",
+            "0|Effect|FxR3BiankaAttack13||1|",
+            11,
             0,
-            "19|Cast|10140806",
-            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1",
+            "12|Cast|10140806",
+            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1|",
+            "19|Magic|101417|0",
             "0|Magic|101413|0",
-            "18|Magic|101414|0",
-            "28|Magic|101415|0"
+            "11|Magic|101414|0",
+            "13|Magic|101415|0",
+            0,
+            "12|Magic|101427|0"
         ]
     },
     {
         "Id": 101409,
         "Key": [
             "7|Magic|101423|0",
-            6,
-            "6|Cast|10140904"
+            7,
+            7,
+            "6|Cast|10140904",
+            "6|Cast|10140905"
         ]
     },
     {
         "Id": 101410,
         "Key": [
             "7|Magic|101424|0",
-            6,
-            "6|Cast|10141004"
+            7,
+            7,
+            "6|Cast|10141004",
+            "6|Cast|10141005"
         ]
     },
     {
         "Id": 101411,
         "Key": [
             "7|Magic|101425|0",
-            6,
-            "6|Cast|10141104"
+            7,
+            7,
+            "6|Cast|10141104",
+            "6|Cast|10141105"
         ]
     },
     {
         "Id": 101412,
         "Key": [
-            "15|Cast|10141201",
-            "14|Cast|10141202",
-            "0|Effect|FxR3BiankaAttack31||1",
-            "16|Cast|10141205",
-            "14|Cast|10141206",
-            14
+            "0|Effect|FxR3BiankaAttack31||1|",
+            2,
+            "1|Magic|101407|0",
+            "9|Magic|101458|0",
+            "6|Magic|101429|0",
+            "1|Magic|101418|0",
+            "6|Magic|101419|0",
+            "5|Magic|101416|0",
+            "17|Magic|101417|0",
+            "1|Magic|101404|0",
+            "1|Cast|10141221",
+            "6|Cast|10141222",
+            0,
+            12,
+            1,
+            17,
+            6,
+            12
         ]
     },
     {
         "Id": 101413,
         "Key": [
-            "15|Cast|10141301",
-            "14|Cast|10141302",
-            "0|Effect|FxR3BiankaAttack31||1",
-            "16|Cast|10141305",
-            "14|Cast|10141306",
-            14
+            "0|Effect|FxR3BiankaAttack31||1|",
+            2,
+            "1|Magic|101407|0",
+            "9|Magic|101458|0",
+            "6|Magic|101429|0",
+            "1|Magic|101418|0",
+            "6|Magic|101419|0",
+            "5|Magic|101416|0",
+            "17|Magic|101417|0",
+            "1|Magic|101404|0",
+            "1|Cast|10141321",
+            "6|Cast|10141322",
+            0,
+            12,
+            1,
+            17,
+            6,
+            12
         ]
     },
     {
         "Id": 101414,
         "Key": [
-            "15|Cast|10141401",
-            "14|Cast|10141402",
-            "0|Effect|FxR3BiankaAttack31||1",
-            "16|Cast|10141405",
-            "14|Cast|10141406",
-            14
+            "0|Effect|FxR3BiankaAttack31||1|",
+            2,
+            "1|Magic|101407|0",
+            "9|Magic|101458|0",
+            "6|Magic|101429|0",
+            "1|Magic|101418|0",
+            "6|Magic|101419|0",
+            "5|Magic|101416|0",
+            "17|Magic|101417|0",
+            "1|Magic|101404|0",
+            "1|Cast|10141421",
+            "6|Cast|10141422",
+            0,
+            12,
+            1,
+            17,
+            6,
+            12
         ]
     },
     {
         "Id": 101415,
         "Key": [
-            "0|Magic|100091|0",
             "63|Magic|100092|0",
-            "0|Magic|101457|0",
+            "900|Magic|101457|0",
             "4|Cast|10141504",
             "9|Cast|10141505",
             "15|Cast|10141506",
             "20|Cast|10141507",
-            "0|Effect|FxR3BiankaAttackQte||1",
+            "0|Effect|FxR3BiankaAttackQte||1|",
             "1|Cast|10141510",
             "57|Cast|10141511"
         ]
@@ -160,37 +217,40 @@
     {
         "Id": 101416,
         "Key": [
-            "0|Magic|100090|0",
-            "12|Magic|100094|0",
-            "0|Effect|FxR3BiankaAttackMove1|0|"
+            "10|Magic|100094|1",
+            "0|Effect|FxR3BiankaAttackMove1|0||",
+            3,
+            10
         ]
     },
     {
         "Id": 101417,
         "Key": [
-            "0|Magic|100090|0",
-            "12|Magic|100094|0",
-            "0|Effect|FxR3BiankaAttackMove2|0|"
+            "10|Magic|100094|1",
+            "0|Effect|FxR3BiankaAttackMove2|0||",
+            3,
+            10
         ]
     },
     {
         "Id": 101418,
         "Key": [
-            "0|Effect|FxR3BiankaAttack51||1",
-            "42|Cast|10141802",
-            "0|Magic|100091|0",
-            "50|Magic|100092|0",
-            "46|Cast|10141805|10141809",
+            "0|Effect|FxR3BiankaAttack51||1|",
+            "46|Magic|100092|0",
             "0|Magic|101451|0",
-            "0|Effect|FxR3BiankaAttack51WeaponCase1|WeaponCase1|1",
-            "36|Cast|10141808"
+            "0|Effect|FxR3BiankaAttack51WeaponCase1|Bip001RHand|1|",
+            "43|Cast|10141816|10141817|10141818",
+            "0|Cast|10141819",
+            "43|Magic|101453|0",
+            "0|Cast|10141821"
         ]
     },
     {
         "Id": 101419,
         "Key": [
             "0|Magic|101472|0",
-            "0|Magic|101460|0"
+            "0|Magic|101460|0",
+            "0|Effect|FxR3BiankaWin|0||"
         ]
     },
     {
@@ -200,31 +260,38 @@
     {
         "Id": 101421,
         "Key": [
-            "0|Magic|101471|0"
+            "0|Magic|101471|0",
+            "0|Sound|11304701|0"
         ]
     },
     {
         "Id": 101422,
         "Key": [
-            "0|Effect|FxR3BiankaAttack41||1",
-            "12|Cast|10142202",
-            999,
+            "0|Effect|FxR3BiankaAttack41||1|",
+            "11|Cast|10142202",
+            11,
+            "11|Cast|10142204",
+            "0|Effect|FxR3BiankaAttack41xian|WeaponCase1|1|",
+            "11|Magic|101427|0",
             0,
-            "9999|Magic|200002|0",
-            "0|Effect|FxR3BiankaAttack41xian|WeaponCase1|1",
-            "10|Magic|101462|0"
+            "11|Magic|101474|0",
+            "21|Magic|101417|0",
+            0
         ]
     },
     {
         "Id": 101423,
         "Key": [
-            "0|Effect|FxR3BiankaAttack42||1",
-            "12|Cast|10142302",
-            999,
+            "0|Effect|FxR3BiankaAttack42||1|",
+            "7|Cast|10142302",
+            7,
+            "7|Cast|10142304",
+            "0|Effect|FxR3BiankaAttack42xian|WeaponCase1|1|",
+            "7|Magic|101427|0",
             0,
-            "999|Magic|200002|0",
-            "0|Effect|FxR3BiankaAttack42xian|WeaponCase1|1",
-            "10|Magic|101462|0"
+            "7|Magic|101474|0",
+            "21|Magic|101417|0",
+            0
         ]
     },
     {
@@ -234,12 +301,448 @@
     {
         "Id": 101425,
         "Key": [
-            "19|Cast|10142501",
-            "0|Effect|FxR3BiankaAttack13||1",
-            18,
+            "12|Cast|10142502",
+            "0|Effect|FxR3BiankaAttack13||1|",
+            11,
             0,
-            "19|Cast|10142505",
-            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1"
+            "12|Cast|10142506",
+            "0|Effect|FxR3BiankaAttack11WeaponCase1|WeaponCase1|1|",
+            "19|Magic|101417|0",
+            "0|Magic|101413|0",
+            "11|Magic|101414|0",
+            "13|Magic|101415|0",
+            0,
+            "12|Magic|101427|0"
+        ]
+    },
+    {
+        "Id": 101426,
+        "Key": [
+            "10|Magic|100094|1",
+            0,
+            0,
+            5,
+            0,
+            "0|Cast|10142607",
+            "5|Cast|10142608",
+            "0|Magic|101407|0",
+            "0|Magic|101418|0",
+            "0|Magic|101404|0",
+            "6|Magic|101419|0"
+        ]
+    },
+    {
+        "Id": 101427,
+        "Key": [
+            "10|Magic|100094|1",
+            0,
+            0,
+            5,
+            0,
+            "0|Cast|10142707",
+            "5|Cast|10142708",
+            "0|Magic|101407|0",
+            "0|Magic|101418|0",
+            "0|Magic|101404|0",
+            "6|Magic|101419|0"
+        ]
+    },
+    {
+        "Id": 101428,
+        "Key": [
+            "0|Effect|FxR3BiankaAttack42||1|",
+            "7|Cast|10142802",
+            7,
+            2,
+            "7|Cast|10142805",
+            "0|Effect|FxR3BiankaAttack44xian|WeaponCase1|1|",
+            "910|Magic|101462|0",
+            "6|Magic|101427|0",
+            0,
+            7
+        ]
+    },
+    {
+        "Id": 110201,
+        "Key": [
+            "6|Cast|11020101",
+            "0|Effect|FxR2KuluomuAttack01||1|"
+        ]
+    },
+    {
+        "Id": 110202,
+        "Key": [
+            "3|Cast|11020201",
+            "10|Cast|11020202",
+            "0|Effect|FxR2KuluomuAttack02||1|"
+        ]
+    },
+    {
+        "Id": 110203,
+        "Key": [
+            "3|Cast|11020301|11020302",
+            "11|Cast|11020304",
+            "14|Cast|11020305",
+            6,
+            "0|Effect|FxR2KuluomuAttack03||1|",
+            "6|Cast|11020313",
+            "6|Magic|200003|0"
+        ]
+    },
+    {
+        "Id": 110204,
+        "Key": [
+            "4|Cast|11020401",
+            "7|Cast|11020402",
+            "9|Cast|11020403",
+            "10|Cast|11020404",
+            "16|Cast|11020405",
+            "0|Effect|FxR2KuluomuAttack04||1|",
+            "3|Cast|11020413",
+            "8|Cast|11020414"
+        ]
+    },
+    {
+        "Id": 110205,
+        "Key": [
+            "2|Cast|11020501",
+            "8|Cast|11020502",
+            "17|Cast|11020503",
+            "0|Effect|FxR2KuluomuAttack11||1|",
+            "8|Cast|11020511"
+        ]
+    },
+    {
+        "Id": 110206,
+        "Key": [
+            "2|Cast|11020601",
+            "8|Cast|11020602",
+            "17|Cast|11020603",
+            "0|Effect|FxR2KuluomuAttack11||1|",
+            "8|Cast|11020611"
+        ]
+    },
+    {
+        "Id": 110207,
+        "Key": [
+            "2|Cast|11020701",
+            "8|Cast|11020702",
+            "17|Cast|11020703",
+            "0|Effect|FxR2KuluomuAttack13||1|",
+            "8|Cast|11020711"
+        ]
+    },
+    {
+        "Id": 110208,
+        "Key": [
+            "6|Cast|11020801",
+            0,
+            5,
+            6,
+            "0|Cast|11020805"
+        ]
+    },
+    {
+        "Id": 110209,
+        "Key": [
+            "6|Cast|11020901",
+            0,
+            5,
+            6,
+            "0|Cast|11020905"
+        ]
+    },
+    {
+        "Id": 110210,
+        "Key": [
+            "6|Cast|11021001",
+            0,
+            5,
+            6,
+            "0|Cast|11021005"
+        ]
+    },
+    {
+        "Id": 110211,
+        "Key": [
+            "3|Cast|11021101",
+            "17|Cast|11021102",
+            "18|Cast|11021103",
+            "17|Cast|11021105",
+            "2|Cast|11021107",
+            "904|Cast|11021108",
+            "908|Cast|11021109",
+            "9016|Cast|11021110",
+            999,
+            2,
+            18,
+            "0|Effect|FxR2KuluomuAttack31||1|",
+            1,
+            "21|Magic|110238|0"
+        ]
+    },
+    {
+        "Id": 110212,
+        "Key": [
+            "3|Cast|11021201",
+            "17|Cast|11021202",
+            "18|Cast|11021203",
+            "17|Cast|11021205",
+            "2|Cast|11021207",
+            "904|Cast|11021208",
+            "908|Cast|11021209",
+            "9016|Cast|11021210",
+            999,
+            2,
+            18,
+            "0|Effect|FxR2KuluomuAttack31||1|",
+            1,
+            "21|Magic|110238|0"
+        ]
+    },
+    {
+        "Id": 110213,
+        "Key": [
+            "3|Cast|11021301",
+            "17|Cast|11021302",
+            "18|Cast|11021303",
+            "17|Cast|11021305",
+            "2|Cast|11021307",
+            "904|Cast|11021308",
+            "908|Cast|11021309",
+            "9016|Cast|11021310",
+            999,
+            2,
+            18,
+            "0|Effect|FxR2KuluomuAttack33||1|",
+            1,
+            "21|Magic|110238|0"
+        ]
+    },
+    {
+        "Id": 110214,
+        "Key": [
+            "18|Cast|11021401",
+            "0|Effect|FxR2KuluomuAttackQte||1|",
+            "4|Cast|11021403",
+            "17|Cast|11021404",
+            "35|Cast|11021405"
+        ]
+    },
+    {
+        "Id": 110215,
+        "Key": [
+            "10|Magic|100094|0",
+            "0|Magic|110263|0",
+            "0|Cast|11021504",
+            "0|Effect|FxR2KuluomuMove|HitCase|1|"
+        ]
+    },
+    {
+        "Id": 110216,
+        "Key": [
+            "10|Magic|100094|0",
+            "0|Magic|110263|0",
+            "0|Cast|11021604",
+            "0|Effect|FxR2KuluomuMove|HitCase|1|"
+        ]
+    },
+    {
+        "Id": 110217,
+        "Key": [
+            "0|Magic|110251|0",
+            "20|Magic|100092|0",
+            "0|Magic|110260|0",
+            "0|Cast|11021705",
+            "0|Effect|FxR2KuluomuAttack51||1|",
+            "8|Cast|11021707",
+            "0|Magic|110253|0"
+        ]
+    },
+    {
+        "Id": 110218,
+        "Key": []
+    },
+    {
+        "Id": 110219,
+        "Key": [
+            "0|Magic|110271|0",
+            "0|Sound|11211702|1"
+        ]
+    },
+    {
+        "Id": 110220,
+        "Key": []
+    },
+    {
+        "Id": 110221,
+        "Key": [
+            "0|Magic|110270|0",
+            "0|Sound|11211701|1"
+        ]
+    },
+    {
+        "Id": 110222,
+        "Key": []
+    },
+    {
+        "Id": 110223,
+        "Key": [
+            "3|Cast|11022301",
+            "17|Cast|11022302",
+            "18|Cast|11022303",
+            "18|Cast|11022305",
+            "2|Cast|11022307",
+            "904|Cast|11022308",
+            "908|Cast|11022309",
+            "9016|Cast|11022310",
+            999,
+            2,
+            5,
+            7,
+            9,
+            17,
+            "0|Effect|FxR2KuluomuAttack33||1|",
+            1,
+            "21|Magic|110238|0"
+        ]
+    },
+    {
+        "Id": 110224,
+        "Key": [
+            "0|Magic|110258|0",
+            "0|Magic|110259|0",
+            "7|Magic|110261|0",
+            "0|Cast|11022404|11022409",
+            900,
+            901,
+            "0|Magic|110263|0",
+            5,
+            "8|Magic|110269|0",
+            "5|Magic|110272|0",
+            "5|Magic|110273|0",
+            "9|Magic|110274|0",
+            2,
+            900,
+            "5|Magic|110276|0",
+            "0|Effect|FxR2KuluomuAttack41||1|",
+            "0|Effect|FxR2KuluomuAttack51Move||1|",
+            "8|Cast|11022421",
+            "5|Cast|11022422",
+            "11|Cast|11022424",
+            "10|Cast|11022425"
+        ]
+    },
+    {
+        "Id": 110225,
+        "Key": [
+            "0|Magic|110258|0",
+            "0|Magic|110259|0",
+            "7|Magic|110261|0",
+            "0|Cast|11022504|11022509",
+            900,
+            901,
+            "0|Magic|110263|0",
+            5,
+            "8|Magic|110269|0",
+            "5|Magic|110272|0",
+            "5|Magic|110273|0",
+            "8|Magic|110274|0",
+            2,
+            900,
+            "5|Magic|110276|0",
+            "0|Effect|FxR2KuluomuAttack42||1|",
+            "0|Effect|FxR2KuluomuAttack51Move||1|",
+            "7|Cast|11022521",
+            "5|Cast|11022522",
+            "8|Cast|11022523",
+            "15|Cast|11022524",
+            "9|Cast|11022525",
+            "15|Cast|11022526"
+        ]
+    },
+    {
+        "Id": 110226,
+        "Key": [
+            "0|Magic|110258|0",
+            "0|Magic|110259|0",
+            "7|Magic|110261|0",
+            "0|Cast|11022604|11022609",
+            900,
+            901,
+            "0|Magic|110263|0",
+            5,
+            "8|Magic|110269|0",
+            "5|Magic|110272|0",
+            "5|Magic|110273|0",
+            "8|Magic|110274|0",
+            2,
+            900,
+            "5|Magic|110276|0",
+            "0|Effect|FxR2KuluomuAttack43||1|",
+            "0|Effect|FxR2KuluomuAttack51Move||1|",
+            "7|Cast|11022621",
+            "5|Cast|11022622",
+            "8|Cast|11022623",
+            "14|Cast|11022624",
+            "9|Cast|11022625",
+            "15|Cast|11022626"
+        ]
+    },
+    {
+        "Id": 110227,
+        "Key": [
+            "0|Magic|110258|0",
+            "0|Magic|110259|0",
+            "7|Magic|110261|0",
+            "0|Cast|11022704|11022709",
+            900,
+            901,
+            "0|Magic|110263|0",
+            5,
+            "8|Magic|110269|0",
+            "5|Magic|110272|0",
+            "5|Magic|110273|0",
+            "7|Magic|110274|0",
+            2,
+            900,
+            "5|Magic|110276|0",
+            "0|Effect|FxR2KuluomuAttack44||1|",
+            "0|Effect|FxR2KuluomuAttack51Move||1|",
+            "6|Cast|11022721",
+            "5|Cast|11022722",
+            "7|Cast|11022723",
+            "12|Cast|11022724",
+            "7|Cast|11022725",
+            "12|Cast|11022726"
+        ]
+    },
+    {
+        "Id": 110228,
+        "Key": [
+            "0|Cast|11022801",
+            "0|Magic|110239|0",
+            "77|Magic|110261|0",
+            "0|Effect|FxR2KuluomuAttack48Sound|1||",
+            "0|Sound|11211703|1"
+        ]
+    },
+    {
+        "Id": 110229,
+        "Key": [
+            "6|Cast|11022901",
+            "0|Effect|FxR2KuluomuAttack01||1|",
+            4
+        ]
+    },
+    {
+        "Id": 110230,
+        "Key": [
+            "0|Magic|110239|0",
+            "61|Magic|110261|0",
+            "0|Cast|11023003",
+            "0|Effect|FxR2KuluomuAttack49Sound|1||",
+            "0|Sound|11211704|1"
         ]
     }
 ]

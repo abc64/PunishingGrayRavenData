@@ -9,7 +9,8 @@
             30000102,
             30000103,
             30000104,
-            30000105
+            30000105,
+            30000106
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -25,7 +26,8 @@
             30000202,
             30000203,
             30000204,
-            30000205
+            30000205,
+            30000206
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -41,7 +43,8 @@
             30000302,
             30000303,
             30000304,
-            30000305
+            30000305,
+            30000306
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -57,10 +60,15 @@
             30000602,
             30000603,
             30000604,
-            30000605
+            30000605,
+            30000606
         ],
-        "ActivityBeginTime": [],
-        "ActivityEndTime": [],
+        "ActivityBeginTime": [
+            "2020/3/23 0:00"
+        ],
+        "ActivityEndTime": [
+            "2020/3/29 23:59"
+        ],
         "ActivityTag": []
     },
     {
@@ -73,7 +81,8 @@
             30000502,
             30000503,
             30000504,
-            30000505
+            30000505,
+            30000506
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -89,10 +98,15 @@
             30000702,
             30000703,
             30000704,
-            30000705
+            30000705,
+            30000706
         ],
-        "ActivityBeginTime": [],
-        "ActivityEndTime": [],
+        "ActivityBeginTime": [
+            "2021/5/10 0:00"
+        ],
+        "ActivityEndTime": [
+            "2021/5/16 23:59"
+        ],
         "ActivityTag": []
     },
     {
@@ -105,7 +119,8 @@
             30000902,
             30000903,
             30000904,
-            30000905
+            30000905,
+            30000918
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -122,7 +137,8 @@
             30000402,
             30000403,
             30000404,
-            30000405
+            30000405,
+            30000406
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -138,7 +154,25 @@
             30000802,
             30000803,
             30000804,
-            30000805
+            30000805,
+            30000806
+        ],
+        "ActivityBeginTime": [],
+        "ActivityEndTime": [],
+        "ActivityTag": []
+    },
+    {
+        "Id": 110,
+        "Desc": "This silver-haired humanoid hybrid Construct is the current leader of the Forest Guard in South Murmansk Port. Rosetta and Derek, the Narwhal, are long-acquainted. She is also able to communicate with it.",
+        "BossHeadIcon": "Assets/Product/Texture/Image/UiFubenChallengeMapBoss/BossSingleTab17.png",
+        "Priority": 20,
+        "StageId": [
+            30001001,
+            30001002,
+            30001003,
+            30001004,
+            30001005,
+            30001006
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -154,7 +188,8 @@
             30000907,
             30000908,
             30000909,
-            30000910
+            30000910,
+            30000916
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
@@ -171,11 +206,35 @@
             30000912,
             30000913,
             30000914,
-            30000915
+            30000915,
+            30000917
         ],
         "ActivityBeginTime": [],
         "ActivityEndTime": [],
         "ActivityTag": [],
         "ClosedTime": "2020/2/6 10:00"
+    },
+    {
+        "Id": 203,
+        "Desc": "A projection of the AI system on the Nighter that summons various forms of hands to crush her enemies. Has multiple attack modes, such as Palm, Hammer, and Lightning Storm.",
+        "BossHeadIcon": "Assets/Product/Texture/Image/UiFubenChallengeMapBoss/BossSingleTab18.png",
+        "Priority": 30,
+        "StageId": [
+            30001201,
+            30001202,
+            30001203,
+            30001204,
+            30001205,
+            30001206
+        ],
+        "ActivityBeginTime": [
+            "2021/5/3 0:00",
+            "2021/5/24 0:00"
+        ],
+        "ActivityEndTime": [
+            "2021/5/9 23:59",
+            "2021/5/30 23:59"
+        ],
+        "ActivityTag": []
     }
 ]

@@ -98,8 +98,8 @@
     {
         "Id": 870109,
         "Name": "最终阶段循环",
-        "CastTime": 1.1,
-        "AfterTime": 0,
+        "CastTime": 1,
+        "AfterTime": 0.1,
         "Animation": "Attack11",
         "DistNoTarget": 10,
         "SkillMoveType": 2,
@@ -109,7 +109,7 @@
     },
     {
         "Id": 870110,
-        "Name": "原因不明のエラーにより最終段階を離脱",
+        "Name": "最终阶意外退出阶段",
         "CastTime": 0.6,
         "AfterTime": 0,
         "Animation": "Attack12",
@@ -580,7 +580,7 @@
     },
     {
         "Id": 873308,
-        "Name": "Block",
+        "Name": "格挡",
         "CastTime": 3.17,
         "AfterTime": 0,
         "Animation": "Attack08",
