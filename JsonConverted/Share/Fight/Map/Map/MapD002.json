@@ -2,7 +2,7 @@
     {
         "Id": 13011312,
         "Behavior": 13011312,
-        "Name": "【シナリオ】-トビーの遺言【戦闘】",
+        "Name": "【剧情】-托比托孤【战斗】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
@@ -20,7 +20,7 @@
     {
         "Id": 13011315,
         "Behavior": 13011315,
-        "Name": "【シナリオ】-黒幕【戦闘】【ガチャ】",
+        "Name": "【剧情】-幕后黑手【战斗】【彩蛋】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
@@ -36,29 +36,9 @@
         ]
     },
     {
-        "Id": 13011401,
-        "Behavior": 13011401,
-        "Name": "【挑戦】-ソフィア1",
-        "Environment": "Scene01001b",
-        "TerrainRoot": "Test",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 63,
-        "CameraId": 9,
-        "Terrains": [
-            130114010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 13011414,
         "Behavior": 13011414,
-        "Name": "【シナリオ】-目覚め【戦闘】【ガチャ】",
+        "Name": "【剧情】-惊梦【战斗】【彩蛋】",
         "Environment": "Scene01001b",
         "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
@@ -78,7 +58,7 @@
     {
         "Id": 13011416,
         "Behavior": 13011416,
-        "Name": "【シナリオ】-女王【戦闘】【ガチャ】",
+        "Name": "【剧情】-女王【战斗】【彩蛋】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -94,27 +74,9 @@
         ]
     },
     {
-        "Id": 13011501,
-        "Behavior": 13011501,
-        "Name": "「挑戦」-クロム1",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 1,
-        "CameraId": 9,
-        "Terrains": [
-            130115010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 13011515,
         "Behavior": 13011515,
-        "Name": "「余聞」-罠「戦闘」「隠し機能」",
+        "Name": "【剧情】-陷入【战斗】【彩蛋】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
@@ -132,7 +94,7 @@
     {
         "Id": 13011516,
         "Behavior": 13011516,
-        "Name": "「余聞」-神殿での再会「戦闘」「隠し機能」",
+        "Name": "【剧情】-又见神庙【战斗】【彩蛋】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
@@ -150,7 +112,7 @@
     {
         "Id": 13011614,
         "Behavior": 13011614,
-        "Name": "「余聞」-α「戦闘」",
+        "Name": "【剧情】-α【战斗】",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
@@ -168,7 +130,7 @@
     {
         "Id": 13011615,
         "Behavior": 13011615,
-        "Name": "「余聞」-意志双剣「戦闘」",
+        "Name": "【剧情】-意志双剑【战斗】",
         "CloseLoadingDelay": 0.15,
         "IsAsyncLoadNpc": 1,
         "SwitchNpcCd": 15,
@@ -176,6 +138,78 @@
         "CameraId": 9,
         "Terrains": [
             130116150
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 13011713,
+        "Behavior": 13011713,
+        "Name": "【剧情】-撤离【战斗】",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            130117130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 13011716,
+        "Behavior": 13011716,
+        "Name": "【剧情】-在苦闷之间【战斗】【彩蛋】",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            130117160
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 13011814,
+        "Behavior": 13011814,
+        "Name": "【剧情】-焚毁【战斗】【彩蛋】",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            130118140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 13011816,
+        "Behavior": 13011816,
+        "Name": "【剧情】-复仇者【战斗】",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            130118160
         ],
         "Position": [
             "0|0|0"

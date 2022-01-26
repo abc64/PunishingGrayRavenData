@@ -242,7 +242,25 @@
     {
         "Role": "R2WeilaMd010011",
         "Layer": 0,
+        "Target": "AttackQte",
+        "TransitionDuration": 0
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
         "Target": "Caught",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "RunStartEnd02",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "StopR",
         "TransitionDuration": 0.1
     },
     {
@@ -278,6 +296,12 @@
     {
         "Role": "R2WeilaMd010011",
         "Layer": 0,
+        "Target": "Attack10",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
         "Target": "Attack11",
         "TransitionDuration": 0.1
     },
@@ -291,6 +315,42 @@
         "Role": "R2WeilaMd010011",
         "Layer": 0,
         "Target": "Attack31",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack41",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack42",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack43",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack44",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack45",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R2WeilaMd010011",
+        "Layer": 0,
+        "Target": "Attack51",
         "TransitionDuration": 0.1
     },
     {

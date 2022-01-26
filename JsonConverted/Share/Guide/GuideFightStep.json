@@ -462,7 +462,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
         "Name": "Lucia",
         "DescriptionType": 1,
-        "Text": "I can <color=#ffda58>[Crouch]</color> to go through <color=#ffda58>[Infrared Traps]</color> and move with reduced <color=#ffda58>[Noise]</color>, so enemies won't hear me."
+        "Text": "I can <color=#ffda58>[Crouch]</color> to go through <color=#ffda58>[Infrared Traps]</color> and move with reduced <color=#ffda58>[Noise]</color> so enemies won't hear me."
     },
     {
         "Id": 301,
@@ -473,7 +473,29 @@
         "Name": "Lucia",
         "DescriptionType": 1,
         "Text": "There are two enemies ahead. I should use the <color=#ffda58>[Petri Vat]</color> to release poison gas and disable them.",
-        "Duration": 10
+        "Duration": 3
+    },
+    {
+        "Id": 302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Is it... over?",
+        "Duration": 4
+    },
+    {
+        "Id": 303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Watch out! High viral reactions surging in Shark-speare's body!",
+        "Duration": 4
     },
     {
         "Id": 3001,
@@ -813,7 +835,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
         "Name": "Osiris",
         "DescriptionType": 1,
-        "Text": "Let this start. Face your destiny!",
+        "Text": "Let it begin. Face your destiny!",
         "Duration": 3
     },
     {
@@ -1563,6 +1585,336 @@
         "DescriptionType": 1,
         "Text": "Don't panic! They are no match for me.",
         "Duration": 3
+    },
+    {
+        "Id": 8701070,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Riot Mk.01",
+        "DescriptionType": 1,
+        "Text": "It feels... It's that man! He's back.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701071,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Damn right! I am <size=50>King Wrench XIV</size>, the man with fourteen tricks up his sleeve!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701072,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "My friend, you still haven't grasped the essence of combat after so many fights?",
+        "Duration": 3
+    },
+    {
+        "Id": 8701073,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "A fight without BGM is not worth fighting!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701074,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Riot, I'm counting on you to handle the lighting.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701075,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Riot Mk.01",
+        "DescriptionType": 1,
+        "Text": "Riot... Rise!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701076,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Miss Yazi, could you play something for us?",
+        "Duration": 3
+    },
+    {
+        "Id": 8701077,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Musician Yazi",
+        "DescriptionType": 1,
+        "Text": "But I didn't bring my instrument with me.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701078,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Then give us a beatbox instead.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701079,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Musician Yazi",
+        "DescriptionType": 1,
+        "Text": "...",
+        "Duration": 3
+    },
+    {
+        "Id": 8701080,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Wounded Harvester",
+        "DescriptionType": 1,
+        "Text": "So upbeat! Takes me back to the good old days. Let me be your DJ. My hands are at your service!",
+        "Duration": 5
+    },
+    {
+        "Id": 8701081,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "DJ  Drop the beat！",
+        "Duration": 3
+    },
+    {
+        "Id": 8701082,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Riot Mk.01",
+        "DescriptionType": 1,
+        "Text": "Now that I'm standing here, you should know what's going to happen. Riot... Rise!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701083,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Wounded Harvester",
+        "DescriptionType": 1,
+        "Text": "I pivoted to tap dance after I lost my arms. Now I come here every day to practice.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701084,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Musician Yazi",
+        "DescriptionType": 1,
+        "Text": "Leaving already, mister?",
+        "Duration": 3
+    },
+    {
+        "Id": 8701085,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Musician Yazi",
+        "DescriptionType": 1,
+        "Text": "Do come back.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701086,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "A fight without BGM is no fight at all.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701087,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "When will I use my Signature Move, you ask? When the BGM hits its climax, of course.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701088,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Loud weapons detract from the beauty of battle!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701089,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "If you ask me, the BGM is too quiet. Bring me a loudspeaker!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701090,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Bravo! This is how a battle should look like.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701091,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Why are you looking at me like that? I know what you're thinking.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701092,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "You honestly think the final condition is to dodge the hit?",
+        "Duration": 3
+    },
+    {
+        "Id": 8701093,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "We are all brethren here! All the talk about fighting and killing will only drive a wedge between us!",
+        "Duration": 3
+    },
+    {
+        "Id": 8701094,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "The final condition was met the moment you saw me!",
+        "Duration": 2
+    },
+    {
+        "Id": 8701095,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "You don't believe me? I will let you see for your own eyes.",
+        "Duration": 2
+    },
+    {
+        "Id": 8701096,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "If you go to the Observatory one day, remember to turn up the BGM to max!",
+        "Duration": 2
+    },
+    {
+        "Id": 8701097,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Riot Mk.01",
+        "DescriptionType": 1,
+        "Text": "You are strong! But now is not the time. See ya.",
+        "Duration": 3
+    },
+    {
+        "Id": 8701098,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "King Wrench XIV",
+        "DescriptionType": 1,
+        "Text": "Bravo! Your grasp of music is consummate and your footwork is impeccable. I hereby announce that this is the best laser show ever!",
+        "Duration": 5
+    },
+    {
+        "Id": 8701099,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Gabriel",
+        "DescriptionType": 1,
+        "Text": "Lu... na...",
+        "Duration": 2
     },
     {
         "Id": 30090501,
@@ -3402,6 +3754,494 @@
         "Text": "You stubborn puppet!"
     },
     {
+        "Id": 1010113080,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "Should've let Lamia take this pestilent horde with her. Really hate to dirty my hands with them.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010113081,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "I'll get rid of them and return.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010113082,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "This is where the sounds came from.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010113083,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "Who's there?!"
+    },
+    {
+        "Id": 1010113084,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "Huh... Luna?"
+    },
+    {
+        "Id": 1010113085,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "Taking a holo? Okay, fine."
+    },
+    {
+        "Id": 1010113086,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "Just wait till I take care of this one before me."
+    },
+    {
+        "Id": 1010113087,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "This okay?",
+        "Duration": 3
+    },
+    {
+        "Id": 1010113089,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White",
+        "DescriptionType": 1,
+        "Text": "The show's about to begin. Everyone, ready your flowers and glow sticks!",
+        "Duration": 2
+    },
+    {
+        "Id": 1010113090,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White",
+        "DescriptionType": 1,
+        "Text": "If you don't have them, get ready to paaaaay!",
+        "Duration": 2
+    },
+    {
+        "Id": 1010113091,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/AerfayongzhuangNormal01.png",
+        "Name": "α",
+        "DescriptionType": 1,
+        "Text": "It's you robots... Well then, since this is a break, let's play.",
+        "Duration": 2
+    },
+    {
+        "Id": 1010103161,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/JiabailieNormal01.png",
+        "Name": "Gabriel",
+        "DescriptionType": 1,
+        "Text": "...I will kill you, cut you up, and toss you in the sea. Piece by piece."
+    },
+    {
+        "Id": 1010103162,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadWeila1.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "We shall see."
+    },
+    {
+        "Id": 1010103163,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/JiabailieNormal01.png",
+        "Name": "Gabriel",
+        "DescriptionType": 1,
+        "Text": "Let's face it. You're no match for me."
+    },
+    {
+        "Id": 1010103164,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadWeila1.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Oh yeah?"
+    },
+    {
+        "Id": 1010103165,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Welcome to Venus Splash Park. I am the cutest Cathy No.9567."
+    },
+    {
+        "Id": 1010103166,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "In celebration of the arrival of summer, I'll let you take five pictures for free."
+    },
+    {
+        "Id": 1010103167,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Moreover, we have staffers at some scenic spots to serve as your guides."
+    },
+    {
+        "Id": 1010103168,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "By the way, I heard Shark-speare was also here on vacation. Maybe you could track it down?"
+    },
+    {
+        "Id": 1010103169,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Let's go."
+    },
+    {
+        "Id": 1010103170,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I am Cathy No.1. Let me introduce you to this place."
+    },
+    {
+        "Id": 1010103171,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I am Cathy No.2. Let me introduce you to this place."
+    },
+    {
+        "Id": 1010103172,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I am Cathy No.3. Let me introduce you to this place."
+    },
+    {
+        "Id": 1010103173,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I am Cathy No.4. Let me introduce you to this place."
+    },
+    {
+        "Id": 1010103174,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "This is the... front gate! Huh? A'Mao! A'Mao is gone!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103175,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "This here is the... Ferris wheel plaza of Venus Splash Park.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103176,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "And this... is a hot-air balloon. A lot of people come here to ride it on certain occasions.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103177,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Here we have... a bar and a roller coaster! Whether you're seeking rest or thrills, this is the place for you!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103178,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I am Cathy No.5. Let's take a picture together.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103179,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "I think Cathy No.1 is riding the Ferris wheel."
+    },
+    {
+        "Id": 1010103180,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Whoa! Shark-speare is here. Go take a picture with her!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103200,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Shark-speare's footprints are seen near the dumpster. She's into scavenging too?",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Shark-speare's footprints! She must have been here to admire the Ferris wheel.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Shark-speare has probably sat here for quite a while. She must be loving that curtain in the back!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "You found those well-hidden tracks. I'm impressed!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Shark-speare seems to have lingered here for a while. Was she admiring the view?",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103205,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Shark-speare seems to have taken a lot of pictures of the Ferris wheel from here.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103206,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "This is a vantage point. You can see the entire park from up here.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103207,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "She seems to have ordered a drink here, but isn't she a minor?",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103208,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Odd. Shark-speare was here playing music games. Was she inspired by King Wrench XIV?",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103209,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "She must have left these tracks while playing with the balloon.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103210,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "This must be the skateboard Shark-speare used!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103211,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "There are tracks of Shark-speare near every dumpster. She must be really into scavenging.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103212,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Hiding behind this seems just like the thing that mischievous Shark-speare would do.",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103213,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Wow! You found Shark-speare's footprints! Great job!",
+        "Duration": 3
+    },
+    {
+        "Id": 1010103214,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy",
+        "DescriptionType": 1,
+        "Text": "Uh-oh, you've run out of attempts to take pictures. Take a walk around or tap the upper-right corner to exit.",
+        "Duration": 3
+    },
+    {
         "Id": 101103001,
         "IsMask": 0,
         "MaskTarget": "Guide/Guide1",
@@ -3650,6 +4490,96 @@
         "Name": "Lucia",
         "DescriptionType": 1,
         "Text": "The top level... Commandant is right there."
+    },
+    {
+        "Id": 101203007,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "This must be the basement of the secret lab."
+    },
+    {
+        "Id": 101203008,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "The mysterious file should be on the [upper floor]."
+    },
+    {
+        "Id": 101203009,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Before the real battle, I need to preserve strength. I must pass through this place quickly and stealthily."
+    },
+    {
+        "Id": 101203010,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Too many enemies in here. Gotta proceed carefully."
+    },
+    {
+        "Id": 101203011,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Bingo! Got the password to the secret file!"
+    },
+    {
+        "Id": 101203012,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Mission accomplished."
+    },
+    {
+        "Id": 101203013,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "If we're going to fight, we'll have to flush it out first..."
+    },
+    {
+        "Id": 101203014,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Shark-speare",
+        "DescriptionType": 1,
+        "Text": "Let's... play..."
+    },
+    {
+        "Id": 101203015,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Shark-speare",
+        "DescriptionType": 1,
+        "Text": "L-le-let's..."
     },
     {
         "Id": 102010101,
@@ -13615,6 +14545,543 @@
         "Text": "That's why... Lucia, you must disappear from this world, for the sake of Commandant!"
     },
     {
+        "Id": 1301171301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Captain, pull back now!"
+    },
+    {
+        "Id": 1301171302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal02.png",
+        "Name": "Squadron Leader",
+        "DescriptionType": 1,
+        "Text": "Vera, I told you to stay at the rear. What are you doing here?"
+    },
+    {
+        "Id": 1301171303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Not now! Get in the combat zone, quick!"
+    },
+    {
+        "Id": 1301171304,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal02.png",
+        "Name": "Squadron Leader",
+        "DescriptionType": 1,
+        "Text": "Don't be silly. There's nothing for us there, nothing but danger!"
+    },
+    {
+        "Id": 1301171305,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "That's not what I'm talking about... Damn it, am I disconnected?!"
+    },
+    {
+        "Id": 1301171306,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal02.png",
+        "Name": "Squadron Leader",
+        "DescriptionType": 1,
+        "Text": "Wow, you just had to come, didn't you? Even after I specifically told you not to..."
+    },
+    {
+        "Id": 1301171307,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Construct Member",
+        "DescriptionType": 1,
+        "Text": "Boss, we've got company."
+    },
+    {
+        "Id": 1301171308,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal02.png",
+        "Name": "Squadron Leader",
+        "DescriptionType": 1,
+        "Text": "What?!"
+    },
+    {
+        "Id": 1301171309,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Corrupted",
+        "DescriptionType": 1,
+        "Text": "!!!!"
+    },
+    {
+        "Id": 1301171310,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal02.png",
+        "Name": "Squadron Leader",
+        "DescriptionType": 1,
+        "Text": "What's this?"
+    },
+    {
+        "Id": 1301171311,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "The Corrupted are gathering up faster than I imagined... Dammit!"
+    },
+    {
+        "Id": 1301171312,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "I can't handle this..."
+    },
+    {
+        "Id": 1301171313,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "We can't stay here. More are coming."
+    },
+    {
+        "Id": 1301171314,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Gotta get into the virus zone!"
+    },
+    {
+        "Id": 1301171601,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Familiar Construct",
+        "DescriptionType": 1,
+        "Text": "We bought enough time. Go, Vera, retreat with the citizens."
+    },
+    {
+        "Id": 1301171602,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "You're the ones who should retreat, not me... I've shed enough tears for you!"
+    },
+    {
+        "Id": 1301171603,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Familiar Construct",
+        "DescriptionType": 1,
+        "Text": "We lost. Give up, Vera."
+    },
+    {
+        "Id": 1301171604,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "How... How did it come to this?!"
+    },
+    {
+        "Id": 1301171605,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Huff... Huff..."
+    },
+    {
+        "Id": 1301171606,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Familiar Construct",
+        "DescriptionType": 1,
+        "Text": "Save your strength, Vera. More are on their way. We're goners now."
+    },
+    {
+        "Id": 1301171607,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilaNormal02.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Shut up!"
+    },
+    {
+        "Id": 1301171651,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Familiar Construct",
+        "DescriptionType": 1,
+        "Text": "Vera... Thank you.",
+        "Duration": 3
+    },
+    {
+        "Id": 1301171652,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Construct Soldier A",
+        "DescriptionType": 1,
+        "Text": "Go help the others... I'm fine.",
+        "Duration": 3
+    },
+    {
+        "Id": 1301171653,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Construct Soldier B",
+        "DescriptionType": 1,
+        "Text": "This should buy us some time...",
+        "Duration": 3
+    },
+    {
+        "Id": 1301171654,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Familiar Construct",
+        "DescriptionType": 1,
+        "Text": "This... This is hopeless...",
+        "Duration": 3
+    },
+    {
+        "Id": 1301171655,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Construct Soldier A",
+        "DescriptionType": 1,
+        "Text": "I can't do this... anymore...",
+        "Duration": 3
+    },
+    {
+        "Id": 1301171656,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Construct Soldier B",
+        "DescriptionType": 1,
+        "Text": "Huff... Huff... I can't... breathe!",
+        "Duration": 3
+    },
+    {
+        "Id": 1301181401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShibingNormal01.png",
+        "Name": "Soldier",
+        "DescriptionType": 1,
+        "Text": "Hey, Camu, where are you going?!"
+    },
+    {
+        "Id": 1301181402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "I'd rather work alone. You guys keep sticking together!"
+    },
+    {
+        "Id": 1301181403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShibingNormal01.png",
+        "Name": "Soldier",
+        "DescriptionType": 1,
+        "Text": "Wait!"
+    },
+    {
+        "Id": 1301181404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Master said I could become an advanced combatant, but I'm not sure about it."
+    },
+    {
+        "Id": 1301181405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "And those aircraft are like surveillance cameras."
+    },
+    {
+        "Id": 1301181406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Corrupted",
+        "DescriptionType": 1,
+        "Text": "Urgh!!!"
+    },
+    {
+        "Id": 1301181407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Right on time!"
+    },
+    {
+        "Id": 1301181408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "The Corrupted in the city have been surrounded as planned, right?"
+    },
+    {
+        "Id": 1301181409,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongrenleibingNomal01.png",
+        "Name": "Pilot",
+        "DescriptionType": 1,
+        "Text": "Blow them up!"
+    },
+    {
+        "Id": 1301181410,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "What?!"
+    },
+    {
+        "Id": 1301181411,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "What's going on here?"
+    },
+    {
+        "Id": 1301181412,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShibingNormal01.png",
+        "Name": "Soldier",
+        "DescriptionType": 1,
+        "Text": "Cough..."
+    },
+    {
+        "Id": 1301181413,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Hey, where are you guys?!"
+    },
+    {
+        "Id": 1301181414,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShibingNormal01.png",
+        "Name": "Soldier",
+        "DescriptionType": 1,
+        "Text": "Run, Camu!"
+    },
+    {
+        "Id": 1301181415,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Shit! Shrapnel did a number on me. Gonna be a while before I recover from this!"
+    },
+    {
+        "Id": 1301181451,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "I will not die here!",
+        "Duration": 3
+    },
+    {
+        "Id": 1301181601,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Let's divide and conquer! I'll take the lead!"
+    },
+    {
+        "Id": 1301181602,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShibingNormal01.png",
+        "Name": "Soldier",
+        "DescriptionType": 1,
+        "Text": "Understood!"
+    },
+    {
+        "Id": 1301181603,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MaozhenNormal02.png",
+        "Name": "Mao Zhen",
+        "DescriptionType": 1,
+        "Text": "Go to hell, you rotten pieces of Corrupted!"
+    },
+    {
+        "Id": 1301181604,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Master... no, uh, Mao Zhen!"
+    },
+    {
+        "Id": 1301181605,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Mao Zhen, I knew it was you!!!"
+    },
+    {
+        "Id": 1301181606,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MaozhenNormal02.png",
+        "Name": "Mao Zhen",
+        "DescriptionType": 1,
+        "Text": "Don't take it personally, Camu. I'm just carrying out orders."
+    },
+    {
+        "Id": 1301181607,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MaozhenNormal02.png",
+        "Name": "Mao Zhen",
+        "DescriptionType": 1,
+        "Text": "(Camu... Do I still have a chance?)"
+    },
+    {
+        "Id": 1301181608,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Mao Zhen! Mao Zhen!!!"
+    },
+    {
+        "Id": 1301181609,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MaozhenNormal02.png",
+        "Name": "Mao Zhen",
+        "DescriptionType": 1,
+        "Text": "I told you to stay focused in battle."
+    },
+    {
+        "Id": 1301181610,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal02.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Arghhh!!!"
+    },
+    {
         "Id": 801020401,
         "IsMask": 0,
         "MaskTarget": "Guide/Guide1",
@@ -18644,6 +20111,1026 @@
         "Text": "Leave it to me. I'll put out the fire!"
     },
     {
+        "Id": 313050301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Defeat them and we can get rewards from Pulao!"
+    },
+    {
+        "Id": 313050302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Mission accomplished."
+    },
+    {
+        "Id": 313050303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/PulaoNormal01.png",
+        "Name": "Pulao",
+        "DescriptionType": 1,
+        "Text": "No! Not yet!"
+    },
+    {
+        "Id": 313050304,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Powerful mechanical puppets coming our way!"
+    },
+    {
+        "Id": 313050305,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Thought we only needed to defeat those on the stage."
+    },
+    {
+        "Id": 313050306,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/PulaoNormal01.png",
+        "Name": "Pulao",
+        "DescriptionType": 1,
+        "Text": "It was on the stage the whole time! You just didn't notice!"
+    },
+    {
+        "Id": 313050307,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "System",
+        "DescriptionType": 1,
+        "Text": "Please dodge the attack"
+    },
+    {
+        "Id": 313050401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Service Bot",
+        "DescriptionType": 1,
+        "Text": "Please... try..."
+    },
+    {
+        "Id": 313050402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "Ugh, cut me some slack!"
+    },
+    {
+        "Id": 313070201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Suddenly turned into an indoor scene...?"
+    },
+    {
+        "Id": 313070202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Wait, Commandant! I can't find Lee and Lucia."
+    },
+    {
+        "Id": 313070203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Relax. I invited them to the room to help set up the test."
+    },
+    {
+        "Id": 313070204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Test?"
+    },
+    {
+        "Id": 313070205,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Yes. In this room you will see two of your comrades next to their illusions."
+    },
+    {
+        "Id": 313070206,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Talk to them, find out which ones are real, and rescue them. That's your test."
+    },
+    {
+        "Id": 313070207,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "This is a real or fake game, huh? Let's give it try, Commandant."
+    },
+    {
+        "Id": 313070208,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070209,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. I remember my birthday is June 15."
+    },
+    {
+        "Id": 313070210,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070211,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. I remember my Construct ID is BPL-01."
+    },
+    {
+        "Id": 313070212,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Correct!"
+    },
+    {
+        "Id": 313070213,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "We're Gray Ravens after all! Let's keep it up, Liv."
+    },
+    {
+        "Id": 313070214,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Sure thing."
+    },
+    {
+        "Id": 313070215,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "No, Commandant, this one is not Lucia."
+    },
+    {
+        "Id": 313070216,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Can't believe you got it wrong. A penalty is in order."
+    },
+    {
+        "Id": 313070217,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Machine",
+        "DescriptionType": 1,
+        "Text": "！！！！"
+    },
+    {
+        "Id": 313070218,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "That was not bad."
+    },
+    {
+        "Id": 313070219,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Now find your other comrade."
+    },
+    {
+        "Id": 313070220,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070221,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. I can fire consecutive shots when Red Orb is activated."
+    },
+    {
+        "Id": 313070222,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070223,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. I can fire precision shots when Red Orb is activated."
+    },
+    {
+        "Id": 313070224,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Correct!"
+    },
+    {
+        "Id": 313070225,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Phew... So we passed the test, right, General?"
+    },
+    {
+        "Id": 313070226,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Yes."
+    },
+    {
+        "Id": 313070227,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "No, Commandant, this one is not Lee."
+    },
+    {
+        "Id": 313070228,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Can't believe you got it wrong. A penalty is in order."
+    },
+    {
+        "Id": 313070229,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Machine",
+        "DescriptionType": 1,
+        "Text": "！！！！"
+    },
+    {
+        "Id": 313070230,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Good. Liv found her real comrades and passed the test in the end."
+    },
+    {
+        "Id": 313070231,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "East General",
+        "DescriptionType": 1,
+        "Text": "Congratulations! Here's your reward—the key to the Ghostbuster's Zone."
+    },
+    {
+        "Id": 313070232,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Is that a portrait of Kamui... on the key?"
+    },
+    {
+        "Id": 313070233,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Not satisfied, huh?"
+    },
+    {
+        "Id": 313070234,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Perhaps I can help."
+    },
+    {
+        "Id": 313070235,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Ku—ro—ro!"
+    },
+    {
+        "Id": 313070236,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "You did it! When you see the real one, you will understand!"
+    },
+    {
+        "Id": 313070237,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070238,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. My favorite item is Froggie."
+    },
+    {
+        "Id": 313070239,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070240,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. My favorite item is the red scarf."
+    },
+    {
+        "Id": 313070241,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070242,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. I wield dual blades."
+    },
+    {
+        "Id": 313070243,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't know the test would involve me being tied up..."
+    },
+    {
+        "Id": 313070244,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I am the real Lucia. Lotus Berserker is my signature weapon."
+    },
+    {
+        "Id": 313070245,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070246,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. I like to upgrade weapons with all kinds of strange mods."
+    },
+    {
+        "Id": 313070247,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070248,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. \"360° Shooting\" is one of my tactical skills."
+    },
+    {
+        "Id": 313070249,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070250,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. I don't like it when people call me bro."
+    },
+    {
+        "Id": 313070251,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The general decides what intel I can or cannot give you..."
+    },
+    {
+        "Id": 313070252,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Anyway, I am Lee. I've never been in a team before joining Gray Raven."
+    },
+    {
+        "Id": 313070301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "What I've got for you is a simple test of counting skills!"
+    },
+    {
+        "Id": 313070302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Counting skills...?"
+    },
+    {
+        "Id": 313070303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "Mm-hmm. The machines will be erratically moving around within a confined area. You need to remember how many of them there are and what they look like."
+    },
+    {
+        "Id": 313070304,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "Say, we have three Repairers, a Ground Monitor, and an Aerial Monitor within the confined area."
+    },
+    {
+        "Id": 313070305,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "I'll ask you: \"Which one is the most numerous?\""
+    },
+    {
+        "Id": 313070306,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "I see."
+    },
+    {
+        "Id": 313070307,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "Alrighty. If there are no more questions, let's get started!"
+    },
+    {
+        "Id": 313070308,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "South General",
+        "DescriptionType": 1,
+        "Text": "Correct... Congratulations, you passed the test. Here's the key!"
+    },
+    {
+        "Id": 313070309,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Is that a portrait of Bianca?"
+    },
+    {
+        "Id": 313070310,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Not satisfied, huh?"
+    },
+    {
+        "Id": 313070311,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Perhaps I can help."
+    },
+    {
+        "Id": 313070312,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Ku—ro—ro!"
+    },
+    {
+        "Id": 313070313,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "You did it! When you make a choice, you will understand!"
+    },
+    {
+        "Id": 313070401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "West General",
+        "DescriptionType": 1,
+        "Text": "I've been waiting for you, Challengers! I am West General. I will be testing your courage in the face of evil!"
+    },
+    {
+        "Id": 313070402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Courage...?"
+    },
+    {
+        "Id": 313070403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "West General",
+        "DescriptionType": 1,
+        "Text": "Yep. Ahead of you is an abyss littered with traps."
+    },
+    {
+        "Id": 313070404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "West General",
+        "DescriptionType": 1,
+        "Text": "You just need to do one thing: observe and find a way out!"
+    },
+    {
+        "Id": 313070405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "West General",
+        "DescriptionType": 1,
+        "Text": "Just so we're clear... I'm not like those two you met earlier. My traps are no child's play. Hehe."
+    },
+    {
+        "Id": 313070406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "What...?"
+    },
+    {
+        "Id": 313070407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Just avoid the traps and we'll be fine. I trust Commandant's judgment and will follow his guidance."
+    },
+    {
+        "Id": 313070408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Let's begin, Commandant."
+    },
+    {
+        "Id": 313070409,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "West General",
+        "DescriptionType": 1,
+        "Text": "What... the hell?!"
+    },
+    {
+        "Id": 313070410,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "So the key this time... Uh, isn't this Liv?"
+    },
+    {
+        "Id": 313070411,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Didn't expect to see a Gray Raven on it."
+    },
+    {
+        "Id": 313070412,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Not satisfied, huh?"
+    },
+    {
+        "Id": 313070413,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Perhaps I can help."
+    },
+    {
+        "Id": 313070414,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Ku—ro—ro!"
+    },
+    {
+        "Id": 313070415,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "You did it! I shall illuminate your path forward!"
+    },
+    {
+        "Id": 313070501,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Commandant... Something's wrong. My body is..."
+    },
+    {
+        "Id": 313070502,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "North General",
+        "DescriptionType": 1,
+        "Text": "That's because I rigged this place. Anyway, just remember: only one \"tactic\" per person."
+    },
+    {
+        "Id": 313070503,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "In other words, Commandant, each one of us can use only one Signal Orb."
+    },
+    {
+        "Id": 313070504,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "North General",
+        "DescriptionType": 1,
+        "Text": "Allocate your powers properly to beat the challenge. Consider this a test of your leadership, Commandant."
+    },
+    {
+        "Id": 313070505,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "North General",
+        "DescriptionType": 1,
+        "Text": "Uh... How could you still win after I set so many restrictions?!"
+    },
+    {
+        "Id": 313070506,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "If it was just you versus me, you might yet stand a chance. But I'm not fighting alone."
+    },
+    {
+        "Id": 313070507,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "I'm with the Gray Raven squad."
+    },
+    {
+        "Id": 313070508,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LucunNormal01.png",
+        "Name": "North General",
+        "DescriptionType": 1,
+        "Text": "Ughhh!"
+    },
+    {
+        "Id": 313070509,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "And so the fourth key bears the portrait of... Nanami."
+    },
+    {
+        "Id": 313070510,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Long time no see! I take it you still remember me from the previous tests?"
+    },
+    {
+        "Id": 313070511,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Well, I will continue to assist you in this one."
+    },
+    {
+        "Id": 313070512,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "Ku—ro—ro!"
+    },
+    {
+        "Id": 313070513,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KuruoruoNormal01.png",
+        "Name": "Kuroro",
+        "DescriptionType": 1,
+        "Text": "You did it! May you have unlimited energy and skill orbs!"
+    },
+    {
         "Id": 30060305,
         "IsMask": 0,
         "MaskTarget": "Guide/Guide1",
@@ -22473,7 +24960,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
         "Name": "Roland",
         "DescriptionType": 1,
-        "Text": "I said, you are not the only one special here. You still have one final test."
+        "Text": "Like I said, you are not the only one special here. You still have one final test."
     },
     {
         "Id": 110233,
@@ -23313,7 +25800,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
         "Name": "Roland",
         "DescriptionType": 1,
-        "Text": "When your teammates come and get you... You will become..."
+        "Text": "When your teammates come for you... they will join you in becoming..."
     },
     {
         "Id": 110347,
@@ -24446,7 +26933,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
         "Name": "Liv",
         "DescriptionType": 1,
-        "Text": "On Rohacchi's journey, it bumped into the source of the spark and noises... It was attacked by \"Roseblade\"."
+        "Text": "On its journey, Rohacchi ran into the source of the spark and noises... and got attacked by \"Roseblade\"."
     },
     {
         "Id": 117010202,
@@ -24686,7 +27173,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
         "Name": "Kamui",
         "DescriptionType": 1,
-        "Text": "One after another. Aren't you all tired??"
+        "Text": "One after another. Aren't you tired at all??"
     },
     {
         "Id": 118010202,
@@ -25746,7 +28233,7 @@
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/IceguideNormal01.png",
         "Name": "Diana",
         "DescriptionType": 1,
-        "Text": "During the early outbreak of the Punishing Virus, Murmansk was once very prosperous due to its geographical advantages."
+        "Text": "During the early outbreak of the Punishing Virus, Murmansk had enjoyed a period of prosperity thanks to its geographical advantages."
     },
     {
         "Id": 309010104,
@@ -28430,9 +30917,9 @@
         "MaskTarget": "Guide/Guide1",
         "Type": 2,
         "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
-        "Name": "Rat",
+        "Name": "Tiger",
         "DescriptionType": 1,
-        "Text": "Squeak—! Rat's got some goodies for you! A new life for you!"
+        "Text": "Meo—I mean, Grrrrr...! The Tiger's got some goodies for you!"
     },
     {
         "Id": 309030702,
@@ -33770,6 +36257,600 @@
         "Text": "I understand. Forward it to the council."
     },
     {
+        "Id": 99921202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/XixiNomal01.png",
+        "Name": "Nozzle",
+        "DescriptionType": 1,
+        "Text": "You think this is over? My backup is on the way. You're doomed.",
+        "Duration": 3
+    },
+    {
+        "Id": 99921203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/XixiNomal01.png",
+        "Name": "Nozzle",
+        "DescriptionType": 1,
+        "Text": "Pah, too weak. I'll let the others take care of the rest.",
+        "Duration": 3
+    },
+    {
+        "Id": 99921204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/XixiNomal01.png",
+        "Name": "Nozzle",
+        "DescriptionType": 1,
+        "Text": "How perceptive! You saw through everything. Alright, I'm backing off.",
+        "Duration": 3
+    },
+    {
+        "Id": 99921205,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/XixiNomal01.png",
+        "Name": "Nozzle",
+        "DescriptionType": 1,
+        "Text": "How could I... fail?! No matter. I've still got one last trick up my sleeve.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210011,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Commandant. The factory has been taken over by the Corrupted. We must fight them off.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210022,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "HQ is hacking into the factory... and has gained clearance.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210033,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Commandant, HQ has requested the deployment of the special vehicle Polar Soldier. Please get an authorized ID card first.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210044,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Corrupted",
+        "DescriptionType": 1,
+        "Text": "Warning... Invasion detected.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210055,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Commandant, the Corrupted has set up four lines of defense. Break them!",
+        "Duration": 3
+    },
+    {
+        "Id": 999210066,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Commandant, we've breached the first line of defense.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210077,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Polar Soldier setup complete. Deploying now...",
+        "Duration": 3
+    },
+    {
+        "Id": 999210088,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": 3,
+        "Duration": 3
+    },
+    {
+        "Id": 10130401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Stay here. I'll deal with you later, Shome."
+    },
+    {
+        "Id": 10130402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "\"Shome\"",
+        "DescriptionType": 1,
+        "Text": "..."
+    },
+    {
+        "Id": 10130403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "What do you want?"
+    },
+    {
+        "Id": 10130404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Patience please. I'll close this off for now. Why don't you try and pass through the front gate first?"
+    },
+    {
+        "Id": 10130405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Cathy 6337 here. Open the front gate! Open the front gate!"
+    },
+    {
+        "Id": 10130406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Authorization... failed?"
+    },
+    {
+        "Id": 10130407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Eh? Cathy... Cathy... has no pass!"
+    },
+    {
+        "Id": 10130408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "What pass?"
+    },
+    {
+        "Id": 10130409,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Could have lost it... while being attacked by a rogue comrade."
+    },
+    {
+        "Id": 10130410,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Need to... find the pass. Scaling the front gate... is dangerous."
+    },
+    {
+        "Id": 10130411,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Then let's split up and start looking for the pass. The rest of you, go take care of the Corrupted brought by Roland."
+    },
+    {
+        "Id": 10130412,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Tch, Corrupted hiding in the rubble, huh?"
+    },
+    {
+        "Id": 10130413,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Is this the pass...? Let's take it back and have that robot take a look."
+    },
+    {
+        "Id": 10130414,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Thank you! Thank you! Cathy 6337 will open the front gate... and let the guests through.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130415,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "From the rubble... a rogue comrade jumped out... and attacked Cathy. Could have... dropped the pass there.",
+        "Duration": 6
+    },
+    {
+        "Id": 10130416,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "No sign of it on the rubble... If it has fallen through a crack, we'll have to <color=#FF0000>break up</color> the rubble before continuing our search.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "That building in the distance must be Venus Splash Park, right?"
+    },
+    {
+        "Id": 10130202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "It's so quiet in here... I'm starting to understand why they chose this place."
+    },
+    {
+        "Id": 10130203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "...Too quiet. Even the... Hold on, I hear fighting from the distance."
+    },
+    {
+        "Id": 10130204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "???",
+        "DescriptionType": 1,
+        "Text": "Abandoned... good-for-nothings! Useless... pieces of trash!"
+    },
+    {
+        "Id": 10130205,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Commandant, the mechanoids... are fighting amongst themselves! Punishing infection detected in the attackers!",
+        "Duration": 3
+    },
+    {
+        "Id": 10130206,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "The robot lying on the ground looks different from the others... Let's have a closer look."
+    },
+    {
+        "Id": 10130207,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "This robot shows no signs of infection even though it was attacked by the Corrupted..."
+    },
+    {
+        "Id": 10130208,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "We can probably fix it if we replace the broken parts."
+    },
+    {
+        "Id": 10130209,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Perhaps we could make do with the Corrupted's parts. Let's search around.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130210,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "These look functional! But we need more. Gotta keep looking."
+    },
+    {
+        "Id": 10130211,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "These should do. Let's try to fix up the broken mechanoid.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130212,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "???",
+        "DescriptionType": 1,
+        "Text": "Beep... Beep...",
+        "Duration": 2
+    },
+    {
+        "Id": 10130213,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "???",
+        "DescriptionType": 1,
+        "Text": "Hello! Hello! I am Cathy 6337! The star employee of Venus Splash Park!"
+    },
+    {
+        "Id": 10130214,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Cathy... 6337?"
+    },
+    {
+        "Id": 10130215,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Yes... yes! Cathy 6337 offers services such as park tours, finding lost objects and persons, and so on."
+    },
+    {
+        "Id": 10130216,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Follow me... for a tour... of Venus Splash Park."
+    },
+    {
+        "Id": 999210099,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "Commandant, use Polar Soldier's dash ability to break roadblocks.",
+        "Duration": 3
+    },
+    {
+        "Id": 999210010,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/SailikaNomal01.png",
+        "Name": "Celica",
+        "DescriptionType": 1,
+        "Text": "<color=#ffda58>[Note]</color> The mission fails if Polar Soldier gets destroyed.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130501,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Hmm? Another naughty one trespasses in here?"
+    },
+    {
+        "Id": 10130502,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Very well then, let the game begin—"
+    },
+    {
+        "Id": 10130503,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Nice work. Let's move on to the next puzzle—"
+    },
+    {
+        "Id": 10130504,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "There's only one here, that stands out from the rest—",
+        "Duration": 6
+    },
+    {
+        "Id": 10130505,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Aw, that's a shame.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130506,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "You need to have your eyes checked.",
+        "Duration": 3
+    },
+    {
+        "Id": 10130507,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Too bad. Still wrong. But I admire your persistence."
+    },
+    {
+        "Id": 10130508,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Keep walking. The final challenge lies ahead—"
+    },
+    {
+        "Id": 10130509,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Well, that wasn't so hard, was it?"
+    },
+    {
+        "Id": 10130510,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Keep walking. The final challenge lies ahead—"
+    },
+    {
+        "Id": 10130511,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "And finally, let me test your skills once more."
+    },
+    {
         "Id": 1212010201,
         "IsMask": 0,
         "MaskTarget": "Guide/Guide1",
@@ -33779,6 +36860,1881 @@
         "DescriptionType": 1,
         "Text": "Beware the monster's backfire effect",
         "Duration": 5
+    },
+    {
+        "Id": 11130201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Forsaken A",
+        "DescriptionType": 1,
+        "Text": "Deploy B19 defense formation."
+    },
+    {
+        "Id": 11130202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiNomal01.png",
+        "Name": "Forsaken B",
+        "DescriptionType": 1,
+        "Text": "Roger."
+    },
+    {
+        "Id": 11130203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadDubian1.png",
+        "Name": "Watanabe",
+        "DescriptionType": 1,
+        "Text": "NOW!"
+    },
+    {
+        "Id": 11130301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Let me see. Let's start by adjusting the passage."
+    },
+    {
+        "Id": 11130302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Rats who have wandered into the cage should not be running around.",
+        "Duration": 3
+    },
+    {
+        "Id": 11130303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Okay. That should leave only one path for our rat."
+    },
+    {
+        "Id": 11130304,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White",
+        "DescriptionType": 1,
+        "Text": "Trespassers on the park must be dispelled!"
+    },
+    {
+        "Id": 11130305,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Oh, almost forgot about you little guys."
+    },
+    {
+        "Id": 11130306,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Come and accept my modification.",
+        "Duration": 3
+    },
+    {
+        "Id": 11130307,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "Modification complete. And now..."
+    },
+    {
+        "Id": 11130308,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "The view should be nice over there. Come on, little rat. Don't make me wait too long.",
+        "Duration": 6
+    },
+    {
+        "Id": 11130309,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "The door is closed.",
+        "Duration": 3
+    },
+    {
+        "Id": 11130310,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuolanNomal01.png",
+        "Name": "Roland",
+        "DescriptionType": 1,
+        "Text": "The entrance here is blocked.",
+        "Duration": 3
+    },
+    {
+        "Id": 992007101,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Monster's HP is visible to players."
+    },
+    {
+        "Id": 992007102,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "And most of the things that don't have HP are not destructible...?"
+    },
+    {
+        "Id": 992007103,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "There's so little you can do in this game."
+    },
+    {
+        "Id": 992007201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WuzangjiuxingNormal01.png",
+        "Name": "Zanzibaron",
+        "DescriptionType": 1,
+        "Text": "I see you made it past my minions. Time to show you my true power!"
+    },
+    {
+        "Id": 992007202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilayueduiNormal01.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Talking tough, huh?"
+    },
+    {
+        "Id": 992007203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "Final strike!"
+    },
+    {
+        "Id": 992007204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WuzangjiuxingNormal01.png",
+        "Name": "Zanzibaron",
+        "DescriptionType": 1,
+        "Text": "Ughhh!!!"
+    },
+    {
+        "Id": 992007301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "Don't let the hero near the village. Attack!"
+    },
+    {
+        "Id": 992007302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "There's no other way. Fight!"
+    },
+    {
+        "Id": 992007303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "Uh... Why stop fighting...?"
+    },
+    {
+        "Id": 992007304,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Because we have no beef with you. We're just passing by. "
+    },
+    {
+        "Id": 992007305,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "Really?"
+    },
+    {
+        "Id": 992007306,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "No point in us lying."
+    },
+    {
+        "Id": 992007307,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyongganrantiNomal01.png",
+        "Name": "Demon",
+        "DescriptionType": 1,
+        "Text": "Hiiisss...!"
+    },
+    {
+        "Id": 992007308,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "What...? Where did the demons come from?!"
+    },
+    {
+        "Id": 992007309,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Get behind us!"
+    },
+    {
+        "Id": 992007310,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "It's not safe here... Lucia."
+    },
+    {
+        "Id": 992007311,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Right. Since we're heading down this road anyway, why don't we escort you back?"
+    },
+    {
+        "Id": 992007312,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "Thank you..."
+    },
+    {
+        "Id": 992007401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "The child is just up ahead. I'm counting on you, please!"
+    },
+    {
+        "Id": 992007402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Okay, let's do this!"
+    },
+    {
+        "Id": 992007403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Target rescued. Are you alright?"
+    },
+    {
+        "Id": 992007404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/IceboyNomal01.png",
+        "Name": "Child",
+        "DescriptionType": 1,
+        "Text": "It hurt a lot, but I'm okay now... Oh, you're all wearing the same strange clothes as that person."
+    },
+    {
+        "Id": 992007405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "That person...?"
+    },
+    {
+        "Id": 992007406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/IceboyNomal01.png",
+        "Name": "Child",
+        "DescriptionType": 1,
+        "Text": "Yes, a lady. I approached her to take a closer look, only to get surrounded by demons."
+    },
+    {
+        "Id": 992007407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "That \"lady\" could be Liv."
+    },
+    {
+        "Id": 992007408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Do you know which way she went?"
+    },
+    {
+        "Id": 992007409,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/IceboyNomal01.png",
+        "Name": "Child",
+        "DescriptionType": 1,
+        "Text": "This way."
+    },
+    {
+        "Id": 992007410,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Okay, let's go find her!"
+    },
+    {
+        "Id": 992007501,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Villager",
+        "DescriptionType": 1,
+        "Text": "Ugh... goddamn hero."
+    },
+    {
+        "Id": 992007502,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilayueduiNormal01.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "That's enough teaching for one day. Let's keep moving."
+    },
+    {
+        "Id": 992007601,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Guards, build me another defense line!"
+    },
+    {
+        "Id": 992007602,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "The guards just keep coming like summoned beasts. What's worse, some of them don't have HP over their heads!"
+    },
+    {
+        "Id": 992007603,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Is there no way to defeat them...?"
+    },
+    {
+        "Id": 992007701,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BalaswordNomal.png",
+        "Name": "Granton",
+        "DescriptionType": 1,
+        "Text": "I am Granton the demon General. No one will take the treasure on my watch!"
+    },
+    {
+        "Id": 992007702,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "You done?"
+    },
+    {
+        "Id": 992007703,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BalaswordNomal.png",
+        "Name": "Granton",
+        "DescriptionType": 1,
+        "Text": "Uh..."
+    },
+    {
+        "Id": 992007801,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Demons ahead, everyone!"
+    },
+    {
+        "Id": 992007802,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Let's fight them off. We can't afford to be stopped here."
+    },
+    {
+        "Id": 992007803,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Why do you keep staring at the teammate screen, Karenina?"
+    },
+    {
+        "Id": 992007804,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "I'm not staring, you idiot!"
+    },
+    {
+        "Id": 992007805,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Hm?"
+    },
+    {
+        "Id": 992007901,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "The road keeps forking. Which way do we take?"
+    },
+    {
+        "Id": 992007902,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "How about we split up? Whoever finds the exit first contacts the others."
+    },
+    {
+        "Id": 992007903,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "No, let's go this way, Commandant. I think the exit is right ahead."
+    },
+    {
+        "Id": 992008001,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "On an irrelevant note, we're now a team of six counting Karenina!"
+    },
+    {
+        "Id": 992008002,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "So you're saying I'm only here with you on a temporary basis!"
+    },
+    {
+        "Id": 992008003,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Whatever. Let's just focus on the enemies!"
+    },
+    {
+        "Id": 992008101,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Commandant, enemies are popping up!"
+    },
+    {
+        "Id": 992008102,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "That's because you stepped on a trap!"
+    },
+    {
+        "Id": 992008103,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "And so did Karenina!"
+    },
+    {
+        "Id": 992008104,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "...Leave me out of it."
+    },
+    {
+        "Id": 992008201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "？？？",
+        "DescriptionType": 1,
+        "Text": "Hero, come and fight!"
+    },
+    {
+        "Id": 992008202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/JiabailieNormal01.png",
+        "Name": "Golden Jegan",
+        "DescriptionType": 1,
+        "Text": "Uh..."
+    },
+    {
+        "Id": 992008203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Hmph, that's taken care of."
+    },
+    {
+        "Id": 992008204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/JiabailieNormal01.png",
+        "Name": "Golden Jegan",
+        "DescriptionType": 1,
+        "Text": "Damn it."
+    },
+    {
+        "Id": 992008301,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "？？？",
+        "DescriptionType": 1,
+        "Text": "Help me! Quick!"
+    },
+    {
+        "Id": 992008302,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Gotta get there quickly."
+    },
+    {
+        "Id": 992008303,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "？？？",
+        "DescriptionType": 1,
+        "Text": "Saved at last..."
+    },
+    {
+        "Id": 992008401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Even if it's Camu I'm up against... I will not give in!"
+    },
+    {
+        "Id": 992008402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Hmph."
+    },
+    {
+        "Id": 992008403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Medics, if you want to help, follow me."
+    },
+    {
+        "Id": 992008404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "What...?"
+    },
+    {
+        "Id": 992008405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "The rest go and attack that demon king. I've got the saintess."
+    },
+    {
+        "Id": 992008406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Guard",
+        "DescriptionType": 1,
+        "Text": "Understood!"
+    },
+    {
+        "Id": 992008407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "..."
+    },
+    {
+        "Id": 992008408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Run, demon king!"
+    },
+    {
+        "Id": 992008501,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "The demon king is being surrounded by the soldiers. Defeat the soldiers and save him."
+    },
+    {
+        "Id": 992008502,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "We saved the demon king."
+    },
+    {
+        "Id": 992008503,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "Every time I show up, I end up crying for help... I feel more like a princess than a demon king."
+    },
+    {
+        "Id": 992008601,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "Give me the treasure!"
+    },
+    {
+        "Id": 992008602,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Okay... I will cooperate."
+    },
+    {
+        "Id": 992008603,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "I don't need your cooperation!"
+    },
+    {
+        "Id": 992008604,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Commandant, Karenina ran into the enemy horde."
+    },
+    {
+        "Id": 992008605,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Good. Now is the time to catch the hero with the treasure."
+    },
+    {
+        "Id": 992008606,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KalieyongzhuangNormal01.png",
+        "Name": "Karenina",
+        "DescriptionType": 1,
+        "Text": "..."
+    },
+    {
+        "Id": 992008607,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadShenwei1.png",
+        "Name": "Kamui",
+        "DescriptionType": 1,
+        "Text": "Karenina!"
+    },
+    {
+        "Id": 992008701,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "Cut the crap and tell me what you know about the treasure."
+    },
+    {
+        "Id": 992008702,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Vera and Camu made the fake treasure... Only they would do something like that."
+    },
+    {
+        "Id": 992008703,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "But didn't they side with the king in order to win?"
+    },
+    {
+        "Id": 992008704,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "I don't know what happened exactly, but Karenina decided to play along."
+    },
+    {
+        "Id": 992008705,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "She gave one treasure to the king and kept the other."
+    },
+    {
+        "Id": 992008706,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LiyongzhuangNormal01.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "So it doesn't matter if the king got the fake treasure, because the real treasure has been collected in full at the city gate."
+    },
+    {
+        "Id": 992008707,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "Wow... That's..."
+    },
+    {
+        "Id": 992008708,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "The plan may have worked, but the treasure is still somewhere inside the castle. We must get to it as quickly as we can."
+    },
+    {
+        "Id": 992008801,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Damn it... Don't think you can defeat me just because my HP becomes visible!"
+    },
+    {
+        "Id": 992008802,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Didn't expect to anyway."
+    },
+    {
+        "Id": 992008803,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Medics, if you can still move, get to work and forge me the real treasure!"
+    },
+    {
+        "Id": 992008804,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Yeah... Yeah!"
+    },
+    {
+        "Id": 992008805,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "What?!"
+    },
+    {
+        "Id": 992008806,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LifuyongzhuangNormal01.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "The treasure is complete!"
+    },
+    {
+        "Id": 992008807,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YijukongzhongjianshiqiNormal01.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "The light... This is the real treasure. I'm sure of it!"
+    },
+    {
+        "Id": 992008808,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Why is there a fifth treasure? Did you lie to me, heroes?"
+    },
+    {
+        "Id": 992008901,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Let me show you the power of a furious king!"
+    },
+    {
+        "Id": 992008902,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "Name": "King",
+        "DescriptionType": 1,
+        "Text": "Is this... the end of my ambition...?"
+    },
+    {
+        "Id": 992008903,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Disappear from my sight at once!"
+    },
+    {
+        "Id": 992009001,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Vera, are you not joining me...?"
+    },
+    {
+        "Id": 992009002,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilayueduiNormal01.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "You can handle it by yourself, right?"
+    },
+    {
+        "Id": 992009003,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Hmph..."
+    },
+    {
+        "Id": 992009004,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/WeilayueduiNormal01.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Lost?"
+    },
+    {
+        "Id": 992009005,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuyuyiNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "..."
+    },
+    {
+        "Id": 992009006,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Camu, Vera, please join our team."
+    },
+    {
+        "Id": 992009101,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "...Is this the final opponent?"
+    },
+    {
+        "Id": 992009102,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "I believe you can defeat me, heroes."
+    },
+    {
+        "Id": 992009103,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "Uh... Good. It's over."
+    },
+    {
+        "Id": 992009104,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Demon King",
+        "DescriptionType": 1,
+        "Text": "Congratulations."
+    },
+    {
+        "Id": 10130601,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "Gotta catch up to Camu..."
+    },
+    {
+        "Id": 10130602,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Nowhere to go, but into the park."
+    },
+    {
+        "Id": 10130603,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "What's that wheel... in the distance?"
+    },
+    {
+        "Id": 10130604,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "A Ferris wheel, I think. I saw it in a magazine once."
+    },
+    {
+        "Id": 10130605,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Looks to me just like a ring-shaped elevator."
+    },
+    {
+        "Id": 10130606,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "There are Roland's trails here. Headed that way..."
+    },
+    {
+        "Id": 10130607,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "A \"hot-air balloon\"?"
+    },
+    {
+        "Id": 10130608,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "What is such a primitive transport doing here?"
+    },
+    {
+        "Id": 10130609,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "They say Golden Age people like vintage things that let them live in the past."
+    },
+    {
+        "Id": 10130610,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "Roland might have used it."
+    },
+    {
+        "Id": 10130611,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKuluomu1.png",
+        "Name": "Chrome",
+        "DescriptionType": 1,
+        "Text": "Kamui would be thrilled to see this gamer's paradise."
+    },
+    {
+        "Id": 10130612,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "..."
+    },
+    {
+        "Id": 10130613,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKuluomu1.png",
+        "Name": "Chrome",
+        "DescriptionType": 1,
+        "Text": "Huh? Why do I have the feeling that someone just touched some of the consoles here?"
+    },
+    {
+        "Id": 10130614,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKuluomu1.png",
+        "Name": "Chrome",
+        "DescriptionType": 1,
+        "Text": "Player ID: NNM? 999,999,0 points? This game..."
+    },
+    {
+        "Id": 10130680,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White 7259",
+        "DescriptionType": 1,
+        "Text": "Calm down, brothers. I will lead the charge.",
+        "Duration": 2
+    },
+    {
+        "Id": 10130681,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White 7259",
+        "DescriptionType": 1,
+        "Text": "Geez!",
+        "Duration": 2
+    },
+    {
+        "Id": 10130682,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Hey, you over there.",
+        "Duration": 2
+    },
+    {
+        "Id": 10130683,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "If you need my service, get me some wine from the bar.",
+        "Duration": 2
+    },
+    {
+        "Id": 10130684,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Martini... thirsty.",
+        "Duration": 2
+    },
+    {
+        "Id": 10130685,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Angry! Angry! Martini... angry!",
+        "Duration": 1
+    },
+    {
+        "Id": 10130686,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 1,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Come out! Assen! Howar! Jack!",
+        "Duration": 2
+    },
+    {
+        "Id": 10130687,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Good wine... Delicious."
+    },
+    {
+        "Id": 10130688,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini 2442",
+        "DescriptionType": 1,
+        "Text": "Martini... at... your service."
+    },
+    {
+        "Id": 10130689,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini",
+        "DescriptionType": 1,
+        "Text": "For the treasure of Venus Splash Park—"
+    },
+    {
+        "Id": 10130690,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White 21999",
+        "DescriptionType": 1,
+        "Text": "For taking Caribbean as our own—"
+    },
+    {
+        "Id": 10130691,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/BaixianshengNormal01.png",
+        "Name": "Mr. White 14096",
+        "DescriptionType": 1,
+        "Text": "We shall rise against those annoying superheroes—"
+    },
+    {
+        "Id": 10130692,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/MatianniNormal01.png",
+        "Name": "Martini",
+        "DescriptionType": 1,
+        "Text": "Good guest! Your only way out of this is to defeat us fair and square!"
+    },
+    {
+        "Id": 10130693,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "Why is there a watermelon at the doorstep?"
+    },
+    {
+        "Id": 10130694,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLifu1.png",
+        "Name": "Liv",
+        "DescriptionType": 1,
+        "Text": "According to the database, that appears to be a park mascot that failed to make the cut."
+    },
+    {
+        "Id": 10130695,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadR4Luxiya1.png",
+        "Name": "Lucia",
+        "DescriptionType": 1,
+        "Text": "What is a \"mascot\"?"
+    },
+    {
+        "Id": 10130696,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadLi1SS.png",
+        "Name": "Lee",
+        "DescriptionType": 1,
+        "Text": "It might take a while to explain that to Lucia..."
+    },
+    {
+        "Id": 10130701,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Tch... A fork in the road..."
+    },
+    {
+        "Id": 10130702,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Tried to contact the others... but no response."
+    },
+    {
+        "Id": 10130703,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Looks like I'll have to go with my instincts."
+    },
+    {
+        "Id": 10130704,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "The terminal on the circular platform seems to be flickering."
+    },
+    {
+        "Id": 10130705,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "...I'll go check it out."
+    },
+    {
+        "Id": 10130706,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "What's this...?"
+    },
+    {
+        "Id": 10130707,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "A button, a switch, and a panel..."
+    },
+    {
+        "Id": 10130708,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "...Ahah. Found you."
+    },
+    {
+        "Id": 10130709,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "What's that... in the middle?"
+    },
+    {
+        "Id": 10130710,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "It seems to lead somewhere."
+    },
+    {
+        "Id": 10131001,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Ugh! Damn it all to hell!"
+    },
+    {
+        "Id": 10131002,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Guess I'll just have to find a way up and outta this place!"
+    },
+    {
+        "Id": 10131003,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "What's this...?"
+    },
+    {
+        "Id": 10131004,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "No idea what this thing's for, but I sure hope it stops this freaking alarm!"
+    },
+    {
+        "Id": 10131005,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "System",
+        "DescriptionType": 1,
+        "Text": "Activating power supply facilities in sequence..."
+    },
+    {
+        "Id": 10131006,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "...Guess I'll just have to keep moving on!"
+    },
+    {
+        "Id": 10131201,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Noctis",
+        "DescriptionType": 1,
+        "Text": "Anyhoo, I'll be pinning the target's possible locations on the radar. You just follow it."
+    },
+    {
+        "Id": 10131202,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Noctis",
+        "DescriptionType": 1,
+        "Text": "Radar's reading should be fine... I think? Well, just follow it!"
+    },
+    {
+        "Id": 10131203,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadWeila1.png",
+        "Name": "Vera",
+        "DescriptionType": 1,
+        "Text": "Point me in the wrong direction, and you'll pay when the mission's over."
+    },
+    {
+        "Id": 10131204,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/TongyonggouzaotiUnknown02.png",
+        "Name": "Noctis",
+        "DescriptionType": 1,
+        "Text": "Yeah, yeah, I gotcha! Just follow the radar!"
+    },
+    {
+        "Id": 10131401,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "...I made it out."
+    },
+    {
+        "Id": 10131402,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "A guest. A guest."
+    },
+    {
+        "Id": 10131403,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Please follow me, dear guest—"
+    },
+    {
+        "Id": 10131404,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "The coordinates they sent back suggest they're headed for the Ferris wheel."
+    },
+    {
+        "Id": 10131405,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Using that thing over there will be the quickest."
+    },
+    {
+        "Id": 10131406,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Signs of fighting everywhere..."
+    },
+    {
+        "Id": 10131407,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KamuNormal01.png",
+        "Name": "Camu",
+        "DescriptionType": 1,
+        "Text": "Gotta hurry and meet up with them."
+    },
+    {
+        "Id": 10131408,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/KaixiNormal01.png",
+        "Name": "Cathy 6337",
+        "DescriptionType": 1,
+        "Text": "Ahhh! Baddie! Baddie!",
+        "Duration": 2
+    },
+    {
+        "Id": 300014051,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Notification",
+        "DescriptionType": 1,
+        "Text": "Congratulations, lucky customer, you have completed the mysterious challenge \"Fun with Shark-speare\"!",
+        "Duration": 3
+    },
+    {
+        "Id": 300014052,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/ShashibierNormal02.png",
+        "Name": "Notification",
+        "DescriptionType": 1,
+        "Text": "You can go to the souvenir counter later to get a commemorative figurine.",
+        "Duration": 3
+    },
+    {
+        "Id": 15025101,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YanjiuyuanNomal01.png",
+        "Name": "Researcher",
+        "DescriptionType": 1,
+        "Text": "Commander Nikola, you really think it's a good idea to deploy so many enemies so quickly?"
+    },
+    {
+        "Id": 15025102,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/NikelaNomal01.png",
+        "Name": "Nikola",
+        "DescriptionType": 1,
+        "Text": "I didn't go to all this trouble just to get a normal Construct."
+    },
+    {
+        "Id": 15025103,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/NikelaNomal01.png",
+        "Name": "Nikola",
+        "DescriptionType": 1,
+        "Text": "Rosetta, now you should understand why Babylonia agreed to send help."
+    },
+    {
+        "Id": 15025104,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuosaitaNormal01.png",
+        "Name": "Rosetta",
+        "DescriptionType": 1,
+        "Text": "Yeah, I do."
+    },
+    {
+        "Id": 15025105,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/YanjiuyuanNomal01.png",
+        "Name": "Researcher",
+        "DescriptionType": 1,
+        "Text": "Simulation over... The result is better than expected."
+    },
+    {
+        "Id": 15025106,
+        "IsMask": 0,
+        "MaskTarget": "Guide/Guide1",
+        "Type": 2,
+        "Icon": "Assets/Product/Texture/Image/RoleCharacter/LuosaitaNormal01.png",
+        "Name": "Rosetta",
+        "DescriptionType": 1,
+        "Text": "Then I have nothing to worry about. Time to prepare for my journey home."
     },
     {
         "Id": 8352320,

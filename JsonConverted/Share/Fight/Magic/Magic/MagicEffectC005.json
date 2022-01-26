@@ -85,9 +85,9 @@
     },
     {
         "Id": 750007000,
-        "Name": "RemoveBuff",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "750002|1"
+            "25|-7000|"
         ]
     },
     {
@@ -99,9 +99,9 @@
     },
     {
         "Id": 750008000,
-        "Name": "RemoveBuff",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "750003|1"
+            "25|-8000|"
         ]
     },
     {
@@ -113,9 +113,9 @@
     },
     {
         "Id": 750009000,
-        "Name": "RemoveBuff",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "750004|1"
+            "25|-9000|"
         ]
     },
     {
@@ -127,23 +127,9 @@
     },
     {
         "Id": 750010000,
-        "Name": "RemoveBuff",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "750005|1"
-        ]
-    },
-    {
-        "Id": 750011,
-        "Name": "AddBuff",
-        "Level": [
-            750011
-        ]
-    },
-    {
-        "Id": 750011000,
-        "Name": "RemoveBehavior",
-        "Level": [
-            "750006|"
+            "25|-10000|"
         ]
     },
     {
@@ -155,9 +141,9 @@
     },
     {
         "Id": 750012000,
-        "Name": "ChangeAttribAdditive",
+        "Name": "AddNpcState",
         "Level": [
-            "12||10000"
+            4
         ]
     },
     {
@@ -575,9 +561,9 @@
     },
     {
         "Id": 750043000,
-        "Name": "AddBehavior",
+        "Name": "PlaySound",
         "Level": [
-            750043
+            "742|1"
         ]
     },
     {
@@ -589,23 +575,9 @@
     },
     {
         "Id": 750044000,
-        "Name": "RemoveBuff",
+        "Name": "PlaySound",
         "Level": [
-            "800013|"
-        ]
-    },
-    {
-        "Id": 750045,
-        "Name": "AddBuff",
-        "Level": [
-            750045
-        ]
-    },
-    {
-        "Id": 750045000,
-        "Name": "RemoveBuff",
-        "Level": [
-            "800044|"
+            "743|1"
         ]
     },
     {

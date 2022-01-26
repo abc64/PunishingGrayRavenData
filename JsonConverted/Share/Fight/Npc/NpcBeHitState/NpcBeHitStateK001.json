@@ -3,225 +3,294 @@
         "Id": 815001011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815002011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815002031,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815003011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815004111,
         "Type": 3,
-        "Time": 0.55,
-        "HoverTime": 0.2,
-        "Speed": 20,
-        "MoveTime": 0.8,
-        "HitFlyHeight1": 1.6,
-        "HitFlyHeight2": 0,
-        "HitFlyTime1": 0.25,
-        "HitFlyTime2": 0.05,
-        "HitFlyTime3": 0.25,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-20"
+        "HitFlyMoveSpeed": 30,
+        "HitFlyMoveAcceleration": "-45",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815005111,
         "Type": 3,
-        "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "Time": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 4.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815022011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815022031,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815030011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815030031,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815051011,
-        "Type": 4,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "ImmuneHitTime": 2,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0,
         "Speed": 2,
         "MoveTime": 0.4,
         "OriginType": 1,
-        "ImmuneHitValue": 3
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-18",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815052011,
-        "Type": 4,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "ImmuneHitTime": 2,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0,
         "Speed": 2,
         "MoveTime": 0.4,
         "OriginType": 1,
-        "ImmuneHitValue": 3
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-18",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815055011,
         "Type": 1,
         "Time": 1,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 5,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815056011,
         "Type": 6,
         "Time": 1,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815057011,
-        "Type": 4,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "ImmuneHitTime": 2,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0,
         "Speed": 2,
         "MoveTime": 0.4,
         "OriginType": 1,
-        "ImmuneHitValue": 3
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-18",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061011,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061031,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061051,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061071,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061091,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815061111,
         "Type": 1,
         "Time": 0.3,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 815063011,
-        "Type": 4,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "ImmuneHitTime": 2,
+        "Type": 3,
+        "Time": 0.5,
+        "HoverTime": 0,
         "Speed": 2,
         "MoveTime": 0.4,
         "OriginType": 1,
-        "ImmuneHitValue": 3
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 40,
+        "HitFlyMoveAcceleration": "-50",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816001011,
@@ -229,7 +298,11 @@
         "Time": 0.3,
         "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816001021,
@@ -239,7 +312,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816002011,
@@ -249,7 +326,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816002021,
@@ -259,37 +340,35 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816003011,
         "Type": 3,
         "Time": 0.5,
         "HoverTime": 0,
-        "Speed": 12,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 4.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816004011,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-15",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816006011,
@@ -299,7 +378,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816006021,
@@ -309,22 +392,23 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816006031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-15",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816007011,
@@ -334,22 +418,23 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816007021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-15",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816008011,
@@ -359,7 +444,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816008021,
@@ -369,22 +458,23 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816008041,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-18",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816011011,
@@ -394,7 +484,11 @@
         "Speed": 10,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816011021,
@@ -404,7 +498,11 @@
         "Speed": 10,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816011111,
@@ -412,37 +510,35 @@
         "Time": 0.15,
         "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816011121,
         "Type": 3,
-        "Time": 0.4,
-        "HoverTime": 0.2,
-        "Speed": 20,
-        "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.1,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 12,
+        "HitFlyMoveAcceleration": "-18",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816012031,
         "Type": 3,
-        "Time": 0.9,
-        "HoverTime": 0.2,
-        "Speed": 2,
-        "MoveTime": 0.9,
-        "HitFlyHeight1": 2.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.6,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 5,
+        "HitFlyMoveAcceleration": "-7",
+        "HitFlyUpSpeed": 6.2,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816013021,
@@ -452,22 +548,23 @@
         "Speed": 2,
         "MoveTime": 0.5,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816013041,
         "Type": 3,
         "Time": 0,
         "HoverTime": 0,
-        "Speed": 80,
-        "MoveTime": 0.05,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 30
     },
     {
         "Id": 816014011,
@@ -477,7 +574,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816014021,
@@ -487,22 +588,23 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816014031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-10",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816015011,
@@ -512,22 +614,23 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816015021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-10",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816016011,
@@ -537,7 +640,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816016021,
@@ -547,60 +654,61 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816016041,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816017031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-10",
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816019121,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 10,
         "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816055011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816056011,
@@ -608,7 +716,11 @@
         "Time": 1,
         "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816056021,
@@ -616,7 +728,11 @@
         "Time": 0.4,
         "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816056181,
@@ -624,31 +740,38 @@
         "Time": 0.15,
         "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816056191,
         "Type": 5,
         "Time": 0.4,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 20,
         "MoveTime": 0.4,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816057031,
         "Type": 3,
         "Time": 0.9,
-        "HoverTime": 0.2,
+        "HoverTime": 0.4,
         "Speed": 2,
         "MoveTime": 0.9,
-        "HitFlyHeight1": 2.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.6,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 8,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816058021,
@@ -658,81 +781,89 @@
         "Speed": 2,
         "MoveTime": 0.5,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816058041,
         "Type": 3,
         "Time": 0,
         "HoverTime": 0,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816061031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 10,
         "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 5
     },
     {
         "Id": 816062211,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 10,
         "MoveTime": 0.2,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816063011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816063021,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816063041,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 20,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816070011,
@@ -742,7 +873,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816070021,
@@ -752,7 +887,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816070031,
@@ -761,13 +900,12 @@
         "HoverTime": 0.2,
         "Speed": 10,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816071011,
@@ -777,7 +915,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816071021,
@@ -786,13 +928,12 @@
         "HoverTime": 0.2,
         "Speed": 10,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816072011,
@@ -802,7 +943,11 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816072021,
@@ -812,1047 +957,1334 @@
         "Speed": 20,
         "MoveTime": 0.05,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816072041,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 816073031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 10,
         "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 40,
+        "HitFlyMoveAcceleration": "-60",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817001111,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817002111,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817003121,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817004011,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817004031,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817004051,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817004071,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817006121,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817012121,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817015121,
         "Type": 5,
         "Time": 0.4,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 5,
         "MoveTime": 0.2,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817020111,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817021011,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053121,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053131,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053141,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053151,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053161,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053171,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053181,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817053191,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054121,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054131,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054141,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054151,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054161,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054171,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054181,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817054191,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817055011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817056011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057181,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057191,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057201,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057211,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057221,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817057231,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817058011,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817059011,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060031,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060051,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060071,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060091,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060111,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817060131,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061011,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061021,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061031,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061041,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061051,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061061,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817061071,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062021,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062031,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062041,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062051,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062061,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062071,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062081,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062091,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062101,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062111,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062121,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062131,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062141,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062151,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062161,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062171,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062181,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062211,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062221,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062251,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817062271,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063121,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063141,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063161,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063181,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063201,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063221,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063241,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063261,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063281,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817063301,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817070031,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 817073031,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818001011,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818002041,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818003111,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818004011,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818004021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818004031,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818004041,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818004051,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 4,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818005211,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 10,
-        "MoveTime": 0.4,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-12",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012011,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 30,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 6,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-20"
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-16",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012991,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012981,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012971,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012961,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012951,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012941,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012931,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012921,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 818012911,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831001011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831001021,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831001031,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831001041,
         "Type": 3,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.1,
-        "HitFlyHeight1": 1.1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 10,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 6.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831001051,
         "Type": 3,
-        "Time": 0.2,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.5,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.1,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-50",
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 15
     },
     {
         "Id": 831002011,
@@ -1862,7 +2294,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831002021,
@@ -1872,7 +2308,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831002031,
@@ -1882,7 +2322,11 @@
         "Speed": 12,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831002041,
@@ -1892,214 +2336,215 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831002051,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.5,
-        "Speed": 20,
-        "MoveTime": 0.35,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-28",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831004011,
         "Type": 3,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.1,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 2,
+        "HitFlyMoveAcceleration": -2.5,
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831004021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 50,
-        "MoveTime": 0.3,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-20"
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-25",
+        "HitFlyUpSpeed": 1,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831005011,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 12,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831005021,
         "Type": 2,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 12,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831005031,
         "Type": 3,
-        "Time": 1,
-        "HoverTime": 0.2,
-        "Speed": 12,
-        "MoveTime": 0.1,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 4,
+        "HitFlyMoveAcceleration": "-6",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831005041,
         "Type": 3,
-        "Time": 0.2,
-        "HoverTime": 0.2,
-        "Speed": 20,
-        "MoveTime": 0.2,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.1,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 20,
+        "HitFlyMoveAcceleration": "-14",
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831006011,
         "Type": 3,
         "Time": 1.5,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.1,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 1.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0.5,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 2,
+        "HitFlyMoveAcceleration": -2.5,
+        "HitFlyUpSpeed": 6.7,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831007011,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 50,
-        "MoveTime": 0.3,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-20"
+        "HitFlyMoveSpeed": 50,
+        "HitFlyMoveAcceleration": "-89",
+        "HitFlyUpSpeed": 5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831008101,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831008111,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831013031,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.3,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831014011,
         "Type": 3,
-        "Time": 2,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.1,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 1.7,
-        "HitFlyTime3": 0.2,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 2,
+        "HitFlyMoveAcceleration": -2.5,
+        "HitFlyUpSpeed": 6.7,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831015011,
         "Type": 2,
-        "Time": 0.7,
-        "HoverTime": 0.2,
-        "Speed": 8,
-        "MoveTime": 0.1,
+        "Time": 0.5,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 2.5,
+        "HitFlyMoveAcceleration": -3.8,
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831015021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "Speed": 20,
-        "MoveTime": 0.3,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 18,
+        "HitFlyMoveAcceleration": "-27",
+        "HitFlyUpSpeed": 5.5,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831016071,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.3,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831016991,
         "Type": 4,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "ImmuneHitTime": 2,
         "Speed": 8,
         "MoveTime": 0.1,
@@ -2111,58 +2556,68 @@
         "Type": 3,
         "Time": 0.8,
         "HoverTime": 0.2,
-        "Speed": 11,
-        "MoveTime": 0.8,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.5,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 2.3,
+        "HitFlyMoveAcceleration": "-3",
+        "HitFlyUpSpeed": 6.7,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831019011,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831019021,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831019031,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831019041,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831019051,
         "Type": 3,
         "Time": 0.8,
-        "HoverTime": 0.2,
-        "Speed": 11,
-        "MoveTime": 0.8,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.5,
-        "HitFlyTime3": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 2.3,
+        "HitFlyMoveAcceleration": "-3",
+        "HitFlyUpSpeed": 6.7,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831101111,
@@ -2171,14 +2626,13 @@
         "HoverTime": 0.5,
         "Speed": 60,
         "MoveTime": 0.5,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-80"
+        "Acceleration": "-80",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831102051,
@@ -2187,13 +2641,12 @@
         "HoverTime": 0.5,
         "Speed": 12,
         "MoveTime": 0.2,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831104011,
@@ -2202,13 +2655,12 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831105011,
@@ -2217,13 +2669,12 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1.2,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831105021,
@@ -2232,13 +2683,12 @@
         "HoverTime": 1,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1.4,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6.480740698,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831106011,
@@ -2247,14 +2697,13 @@
         "HoverTime": 0,
         "Speed": 30,
         "MoveTime": 0.15,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-80"
+        "Acceleration": "-80",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831107011,
@@ -2263,7 +2712,11 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831107021,
@@ -2272,20 +2725,23 @@
         "HoverTime": 0.7,
         "Speed": 8,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831108011,
         "Type": 3,
         "Time": 1,
         "HoverTime": 0.7,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6.708203932,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831109011,
@@ -2295,7 +2751,11 @@
         "Speed": 1,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831109021,
@@ -2304,16 +2764,24 @@
         "HoverTime": 0.7,
         "Speed": 1,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831111011,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 2,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831112011,
@@ -2323,7 +2791,11 @@
         "Speed": 1,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831112021,
@@ -2332,14 +2804,13 @@
         "HoverTime": 0,
         "Speed": 30,
         "MoveTime": 0.15,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-80"
+        "Acceleration": "-80",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831113011,
@@ -2348,7 +2819,11 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831113021,
@@ -2357,7 +2832,11 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831113031,
@@ -2366,13 +2845,12 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.4,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831113041,
@@ -2381,14 +2859,13 @@
         "HoverTime": 0,
         "Speed": 30,
         "MoveTime": 0.15,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-80"
+        "Acceleration": "-80",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831114011,
@@ -2398,7 +2875,11 @@
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831114021,
@@ -2408,7 +2889,11 @@
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831114031,
@@ -2418,7 +2903,11 @@
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831114041,
@@ -2428,7 +2917,11 @@
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831114051,
@@ -2437,19 +2930,18 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6.708203932,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831115011,
         "Type": 4,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "ImmuneHitTime": 2,
         "Speed": 15,
         "MoveTime": 0.1,
@@ -2463,13 +2955,12 @@
         "HoverTime": 0.5,
         "Speed": 1,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.4,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831117011,
@@ -2477,7 +2968,11 @@
         "Time": 0.8,
         "HoverTime": 0.5,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831117111,
@@ -2485,7 +2980,11 @@
         "Time": 0.7,
         "HoverTime": 0.5,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831118011,
@@ -2495,106 +2994,153 @@
         "Speed": 8,
         "MoveTime": 0.1,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119011,
         "Type": 1,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119021,
         "Type": 2,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119031,
         "Type": 1,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119041,
         "Type": 2,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119051,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119061,
         "Type": 2,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119071,
         "Type": 1,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119081,
         "Type": 6,
         "Time": 0.7,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119091,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119101,
         "Type": 2,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119111,
         "Type": 6,
         "Time": 0.7,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831119121,
         "Type": 3,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 20,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.4,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": 0.2
+        "Acceleration": 0.2,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831121011,
@@ -2603,13 +3149,12 @@
         "HoverTime": 0.5,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.4,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 5.477225575,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831127011,
@@ -2618,7 +3163,11 @@
         "HoverTime": 0.5,
         "Speed": 1,
         "MoveTime": 0.1,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831127021,
@@ -2627,54 +3176,55 @@
         "HoverTime": 0,
         "Speed": 30,
         "MoveTime": 0.2,
-        "HitFlyHeight1": 0,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": -0.3,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-60"
+        "Acceleration": "-60",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 0,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831128031,
         "Type": 5,
         "Time": 0.7,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.3,
-        "OriginType": 1
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831060011,
         "Type": 3,
         "Time": 1,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 8,
         "MoveTime": 0.1,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.7,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6.708203932,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831060021,
         "Type": 3,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 50,
         "MoveTime": 0.3,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 1,
-        "Acceleration": "-20"
+        "Acceleration": "-20",
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831061011,
@@ -2684,7 +3234,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831061021,
@@ -2694,7 +3248,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831061031,
@@ -2704,7 +3262,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831061041,
@@ -2714,7 +3276,11 @@
         "Speed": 12,
         "MoveTime": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831061051,
@@ -2723,71 +3289,93 @@
         "HoverTime": 0.5,
         "Speed": 20,
         "MoveTime": 0.35,
-        "HitFlyHeight1": 0.8,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.2,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 4.898979486,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831062011,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831062021,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831062031,
         "Type": 5,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831062041,
         "Type": 6,
         "Time": 0.5,
-        "HoverTime": 0.2,
-        "OriginType": 1
+        "HoverTime": 0,
+        "OriginType": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831062051,
         "Type": 3,
         "Time": 0.8,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 11,
         "MoveTime": 0.8,
-        "HitFlyHeight1": 1.5,
-        "HitFlyHeight2": 0.25,
-        "HitFlyTime1": 0.1,
-        "HitFlyTime2": 0.5,
-        "HitFlyTime3": 0.2,
         "OriginType": 1,
-        "ImmuneHitValue": 1
+        "ImmuneHitValue": 1,
+        "HitFlyMoveSpeed": 0,
+        "HitFlyMoveAcceleration": 0,
+        "HitFlyUpSpeed": 6.708203932,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831063101,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 831063111,
         "Type": 1,
         "Time": 0.5,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     }
 ]

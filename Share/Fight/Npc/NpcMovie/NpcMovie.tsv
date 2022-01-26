@@ -1,7 +1,6 @@
-Id	LauncherEndClip	TargetEndClip	LauncherEndX	LauncherEndZ	LauncherEndRadian	TargetEndX	TargetEndZ	TargetEndRadian
-Battle01	BingluBattle0101	QuBattle0101	0	3.0179	0	0	10.022	3.1415
-Battle02	QuBattle0201		0	-5.8239	0	0	0	3.1415
-Battle03	BingluBattle0302	QuBattle0301	0	0.35438	0	0	10.022	3.1415
-Battle04	BingluBattle0401	QuBattle0401	0	10.411	0	0	7.1052	3.1415
-Battle05	BingluBattle0501	QuBattle0501	0	1.2347	0	0	-7.0793	3.1415
-CTBingluCisha	Attack10	Attack21	0	2.65	0	0	0.7	0
+Id	OffsetType	TotalFrame	LauncherEndX	LauncherEndZ	LauncherEndRadian	TargetEndX	TargetEndZ	TargetEndRadian	NpcEndX[1]	NpcEndZ[1]	NpcEndRadian[1]
+Battle01	1	119	-0.03	3.193	0	0	9.308	3.1415
+Battle02	1	186	0.007	-5.784	0	0	0	3.1415
+Battle03	1	308	0	0.427	0	-0.018	9.986	3.1415
+Battle04	1	219	0.648	10.485	0	0.037	7.156	3.1415
+Battle05	1	277	-1.111	1.331	0	1.071	-7.146	3.1415

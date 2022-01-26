@@ -124,5 +124,144 @@
         ],
         "DefaultObstacleArea": [],
         "DefaultDynamicObject": []
+    },
+    {
+        "Id": 101201020,
+        "Name": "Scene01202",
+        "Info": 10120102,
+        "BornPosition": [
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
+        ],
+        "LookPosition": [
+            "B101",
+            "B101",
+            "B101",
+            "B101",
+            "B101"
+        ],
+        "DefaultObstacleArea": [
+            "AW3",
+            "AW5"
+        ],
+        "DefaultDynamicObject": [
+            "AW3",
+            "AW5"
+        ]
+    },
+    {
+        "Id": 101201090,
+        "Name": "Scene01202",
+        "Info": 10120109,
+        "BornPosition": [
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
+        ],
+        "LookPosition": [
+            "B101",
+            "B101",
+            "B101",
+            "B101",
+            "B101"
+        ],
+        "DefaultObstacleArea": [
+            "AW1",
+            "AW3",
+            "AW4",
+            "XZ1"
+        ],
+        "DefaultDynamicObject": [
+            "AW3",
+            "AW4",
+            "Erlou"
+        ]
+    },
+    {
+        "Id": 101201160,
+        "Name": "Scene01202",
+        "Info": 10120116,
+        "BornPosition": [
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
+        ],
+        "LookPosition": [
+            "B101",
+            "B101",
+            "B101",
+            "B101",
+            "B101"
+        ],
+        "DefaultObstacleArea": [
+            "AW3",
+            "AW6",
+            "AW7"
+        ],
+        "DefaultDynamicObject": [
+            "AW3",
+            "Erlou"
+        ]
+    },
+    {
+        "Id": 101201180,
+        "Name": "Scene01202",
+        "Info": 10120118,
+        "BornPosition": [
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
+        ],
+        "LookPosition": [
+            "B101",
+            "B101",
+            "B101",
+            "B101",
+            "B101"
+        ],
+        "DefaultObstacleArea": [
+            "AW2",
+            "AW7"
+        ],
+        "DefaultDynamicObject": [
+            "AW2",
+            "Erlou"
+        ]
+    },
+    {
+        "Id": 111201010,
+        "Name": "Scene01203",
+        "Info": 10120114,
+        "BornPosition": [
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
+        ],
+        "LookPosition": [
+            "B101",
+            "B101",
+            "B101",
+            "B101",
+            "B101"
+        ],
+        "DefaultObstacleArea": [
+            "AW1",
+            "AW2"
+        ],
+        "DefaultDynamicObject": [
+            "Zhangai01",
+            "Zhangai02"
+        ]
     }
 ]

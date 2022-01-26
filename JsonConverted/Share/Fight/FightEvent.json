@@ -949,6 +949,15 @@
         "EnemyBornMagic": []
     },
     {
+        "Id": 21231,
+        "Description": "Ice DMG increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762202
+        ],
+        "EnemyBornMagic": []
+    },
+    {
         "Id": 21261,
         "Description": "During Simulation, Construct's Extra DMG Reduction increases by 45%",
         "ConditionId": [],
@@ -1137,6 +1146,42 @@
         "ConditionId": [],
         "BornMagic": [
             771677
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 22241,
+        "Description": "Increases the Construct's Signature gauge accumulation speed by 1%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771572
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 22251,
+        "Description": "Limit of Dodge Gauge increases by 700.",
+        "ConditionId": [],
+        "BornMagic": [
+            773136
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 22261,
+        "Description": "Limit of Dodge Gauge increases by 400.",
+        "ConditionId": [],
+        "BornMagic": [
+            773135
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 22271,
+        "Description": "Increases the Signature gauge accumulation speed by 2%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771573
         ],
         "EnemyBornMagic": []
     },
@@ -1732,6 +1777,238 @@
         "EnemyBornMagic": [
             780692
         ]
+    },
+    {
+        "Id": 33131,
+        "Description": "Your sight distance is reduced by 60% by a haze of smoke for 2s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772096
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33132,
+        "Description": "Your sight distance is reduced by 60% by a haze of smoke for 4s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772097
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33133,
+        "Description": "Your sight distance is reduced by 60% by a haze of smoke for 6s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772098
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33141,
+        "Description": "After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 2s.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770094
+        ]
+    },
+    {
+        "Id": 33142,
+        "Description": "After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 4s.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770095
+        ]
+    },
+    {
+        "Id": 33143,
+        "Description": "After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 6s.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770096
+        ]
+    },
+    {
+        "Id": 33151,
+        "Description": "Triggering a mine will create a burning area. Units that stay inside this area over 1.5s will become burned (emitting an orange glow) and take burning DMG equal to 20% of the caster's ATK per second for 2s. This DMG will not interrupt actions.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            772095
+        ]
+    },
+    {
+        "Id": 33161,
+        "Description": "Spawns 3 NPCs around the enemy. All of their stats are 10% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770083
+        ]
+    },
+    {
+        "Id": 33162,
+        "Description": "Spawns 3 NPCs around the enemy. All of their stats are 20% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770084
+        ]
+    },
+    {
+        "Id": 33163,
+        "Description": "Spawns 3 NPCs around the enemy. All of their stats are 30% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770085
+        ]
+    },
+    {
+        "Id": 33171,
+        "Description": "When the attack effect is stacked to 5 times, you will be stunned for 1s. After that, the stacks will start counting up again after 8s.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770076
+        ]
+    },
+    {
+        "Id": 33172,
+        "Description": "When the attack effect is stacked to 3 times, you will be stunned for 1s. After that, the stacks will start counting up again after 8s.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770079
+        ]
+    },
+    {
+        "Id": 33181,
+        "Description": "Your attacks increase Ice DMG by 45% for 8s. 8s cooldown.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            770566
+        ]
+    },
+    {
+        "Id": 33191,
+        "Description": "Phase 3 Babel Environment Affix",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33201,
+        "Description": "Dealing DMG has a 15% chance to inflict \"Corruption\" for 5s. Cannot be stacked. 8s cooldown on each enemy.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            773085
+        ]
+    },
+    {
+        "Id": 33211,
+        "Description": "There will be an increased amount of enemies.",
+        "ConditionId": [],
+        "BornMagic": [
+            772094
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33221,
+        "Description": "Enemy attacks have a 10% chance to deal additional 10% Lightning DMG and inflict \"Electrocute\".",
+        "ConditionId": [],
+        "BornMagic": [
+            772101
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33222,
+        "Description": "Enemy attacks have a 15% chance to deal additional 15% Lightning DMG and inflict \"Electrocute\".",
+        "ConditionId": [],
+        "BornMagic": [
+            772101
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33223,
+        "Description": "Enemy attacks have a 20% chance to deal additional 20% Lightning DMG and inflict \"Electrocute\".",
+        "ConditionId": [],
+        "BornMagic": [
+            772101
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33231,
+        "Description": "Enemies gain 15% ATK for every 20% HP lost.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            772093
+        ]
+    },
+    {
+        "Id": 33241,
+        "Description": "Enemy attacks have a 10% chance to deal additional 10% Dark DMG and stun their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772100
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33242,
+        "Description": "Enemy attacks have a 15% chance to deal additional 15% Dark DMG and stun their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772100
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33243,
+        "Description": "Enemy attacks have a 20% chance to deal additional 20% Dark DMG and stun their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772100
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33251,
+        "Description": "Enemy attacks have a 10% chance to deal additional 10% Ice DMG and freeze their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772099
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33252,
+        "Description": "Enemy attacks have a 15% chance to deal additional 15% Ice DMG and freeze their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772099
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 33253,
+        "Description": "Enemy attacks have a 20% chance to deal additional 20% Ice DMG and freeze their target for 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            772099
+        ],
+        "EnemyBornMagic": []
     },
     {
         "Id": 40000,
@@ -3306,6 +3583,195 @@
         "EnemyBornMagic": []
     },
     {
+        "Id": 52013,
+        "Description": "Basic Attacks deal additional Ice DMG equal to 50% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773300
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52014,
+        "Description": "Basic Attacks deal additional Ice DMG equal to 70% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773301
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52015,
+        "Description": "Basic Attacks deal additional Ice DMG equal to 100% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773302
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52016,
+        "Description": "Basic Attacks deal additional Dark DMG equal to 50% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773303
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52017,
+        "Description": "Basic Attacks deal additional Dark DMG equal to 70% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773304
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52018,
+        "Description": "Basic Attacks deal additional Dark DMG equal to 100% of self ATK.",
+        "ConditionId": [],
+        "BornMagic": [
+            773305
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52019,
+        "Description": "Ice DMG increases by 10%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773306
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52020,
+        "Description": "Ice DMG increases by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773307
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52021,
+        "Description": "Ice DMG increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773308
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52022,
+        "Description": "Dark DMG increases by 10%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773309
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52023,
+        "Description": "Dark DMG increases by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773310
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52024,
+        "Description": "Dark DMG increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773311
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52025,
+        "Description": "Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 50% of max HP. Immune to any attacks when the shield exists. CD: 15s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773312
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52026,
+        "Description": "Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 75% of max HP. Immune to any attacks when the shield exists. CD: 15s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773313
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52027,
+        "Description": "Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 100% of max HP. Immune to any attacks when the shield exists. CD: 15s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773314
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52031,
+        "Description": "Ice DMG has a 10% chance to freeze the enemy for 3s. It can only be triggered once per 13s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773318
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52032,
+        "Description": "Ice DMG has a 20% chance to freeze the enemy for 3s. It can only be triggered once per 13s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773319
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52033,
+        "Description": "Ice DMG has a 30% chance to freeze the enemy for 3s. It can only be triggered once per 13s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773320
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52035,
+        "Description": "All enemies receive Dark DMG equal to 10% of ATK of the Construct on field once per 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773322
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52036,
+        "Description": "All enemies receive Dark DMG equal to 20% of ATK of the Construct on field once per 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773323
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 52037,
+        "Description": "All enemies receive Dark DMG equal to 30% of ATK of the Construct on field once per 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773324
+        ],
+        "EnemyBornMagic": []
+    },
+    {
         "Id": 60000,
         "Description": "Fire DMG increases by 10%",
         "ConditionId": [],
@@ -3442,7 +3908,7 @@
     },
     {
         "Id": 70011,
-        "Description": "Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.",
+        "Description": "Lv.1 Effect: Strikes back at the attacker for 300% of ATK every time after taking more than 300 damage.",
         "ConditionId": [],
         "BornMagic": [
             771710
@@ -3451,7 +3917,7 @@
     },
     {
         "Id": 70012,
-        "Description": "Lv.1 Effect: Support Constructs' ATK increases by 20%.",
+        "Description": "Lv.1 Effect: Support Constructs' ATK increases by 40%.",
         "ConditionId": [],
         "BornMagic": [
             771683
@@ -3487,7 +3953,7 @@
     },
     {
         "Id": 70016,
-        "Description": "Lv.1 Effect: Support Constructs deal 25% more damage.",
+        "Description": "Lv.1 Effect: Support Constructs deal 50% more damage.",
         "ConditionId": [],
         "BornMagic": [
             771700
@@ -3496,7 +3962,7 @@
     },
     {
         "Id": 70017,
-        "Description": "Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.",
+        "Description": "Lv.1 Effect: Strikes back at the attacker for 300% of ATK every time after taking more than 300 damage.",
         "ConditionId": [],
         "BornMagic": [
             771710
@@ -3595,7 +4061,7 @@
     },
     {
         "Id": 70028,
-        "Description": "Lv.1 Effect: Support Constructs' ATK increases by 20%.",
+        "Description": "Lv.1 Effect: Support Constructs' ATK increases by 40%.",
         "ConditionId": [],
         "BornMagic": [
             771683
@@ -3804,7 +4270,7 @@
     },
     {
         "Id": 70051,
-        "Description": "Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.",
+        "Description": "Lv.2 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.",
         "ConditionId": [],
         "BornMagic": [
             771711
@@ -3813,7 +4279,7 @@
     },
     {
         "Id": 70052,
-        "Description": "Lv.2 Effect: Support Constructs' ATK increases by 40%.",
+        "Description": "Lv.2 Effect: Support Constructs' ATK increases by 80%.",
         "ConditionId": [],
         "BornMagic": [
             771684
@@ -3831,7 +4297,7 @@
     },
     {
         "Id": 70054,
-        "Description": "Lv.2 Effect: Attacker Constructs' ATK increases by 40%.",
+        "Description": "Lv.2 Effect: Attacker Constructs' ATK increases by 80%.",
         "ConditionId": [],
         "BornMagic": [
             771680
@@ -3849,7 +4315,7 @@
     },
     {
         "Id": 70056,
-        "Description": "Lv.2 Effect: Support Constructs deal 50% more damage.",
+        "Description": "Lv.2 Effect: Support Constructs deal 100% more damage.",
         "ConditionId": [],
         "BornMagic": [
             771701
@@ -3858,7 +4324,7 @@
     },
     {
         "Id": 70057,
-        "Description": "Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.",
+        "Description": "Lv.2 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.",
         "ConditionId": [],
         "BornMagic": [
             771711
@@ -3957,7 +4423,7 @@
     },
     {
         "Id": 70068,
-        "Description": "Lv.2 Effect: Support Constructs' ATK increases by 40%.",
+        "Description": "Lv.2 Effect: Support Constructs' ATK increases by 80%.",
         "ConditionId": [],
         "BornMagic": [
             771684
@@ -4075,11 +4541,1329 @@
         "EnemyBornMagic": []
     },
     {
+        "Id": 762500,
+        "Description": "Guild Talent - ATK Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762500
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762501,
+        "Description": "Guild Talent - Fire DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762501
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762502,
+        "Description": "Guild Talent - Ice DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762502
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762503,
+        "Description": "Guild Talent - Lightning DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762503
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762504,
+        "Description": "Guild Talent - Dark DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762504
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762505,
+        "Description": "Guild Talent - Physical DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762505
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762506,
+        "Description": "Guild Talent - CRIT Rate",
+        "ConditionId": [],
+        "BornMagic": [
+            762506
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762507,
+        "Description": "Guild Talent - CRIT DMG",
+        "ConditionId": [],
+        "BornMagic": [
+            762507
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762508,
+        "Description": "Guild Talent - Extra DMG Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762508
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762509,
+        "Description": "Guild Talent - Physical DEF Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762509
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762510,
+        "Description": "Guild Talent - Healing Effect Boost",
+        "ConditionId": [],
+        "BornMagic": [
+            762510
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762511,
+        "Description": "Guild Talent - Starting Energy",
+        "ConditionId": [],
+        "BornMagic": [
+            762511
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762512,
+        "Description": "Guild Talent - Running Speed",
+        "ConditionId": [],
+        "BornMagic": [
+            762512
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762513,
+        "Description": "Guild Talent - Dodge Gauge",
+        "ConditionId": [],
+        "BornMagic": [
+            762513
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762514,
+        "Description": "Guild Talent - Max HP",
+        "ConditionId": [],
+        "BornMagic": [
+            762514
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 762515,
+        "Description": "Guild Talent - Shield",
+        "ConditionId": [],
+        "BornMagic": [
+            762515
+        ],
+        "EnemyBornMagic": []
+    },
+    {
         "Id": 80001,
         "Description": "Synchronized characters' ATK increases by 25%",
         "ConditionId": [],
         "BornMagic": [
             762106
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81000,
+        "Description": "ATK & HP +5%",
+        "ConditionId": [],
+        "BornMagic": [
+            761300
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81001,
+        "Description": "ATK & HP +10%",
+        "ConditionId": [],
+        "BornMagic": [
+            761301
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81002,
+        "Description": "ATK & HP +15%",
+        "ConditionId": [],
+        "BornMagic": [
+            761302
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81003,
+        "Description": "Increases your character's skill DMG by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771560
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81004,
+        "Description": "Increases your character's skill DMG by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771561
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81005,
+        "Description": "Increases your character's skill DMG by 40%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771562
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81006,
+        "Description": "Signature Move DMG is increased by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771566
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81007,
+        "Description": "Signature Move DMG is increased by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771567
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81008,
+        "Description": "Signature Move DMG is increased by 40%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771568
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81009,
+        "Description": "Gains 60 energy at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761303
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81010,
+        "Description": "Gains 80 energy at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761304
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81011,
+        "Description": "Gains 100 energy at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761305
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81012,
+        "Description": "Fire DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761306
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81013,
+        "Description": "Fire DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761307
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81014,
+        "Description": "Fire DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761308
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81015,
+        "Description": "Lightning DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761309
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81016,
+        "Description": "Lightning DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761310
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81017,
+        "Description": "Lightning DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761311
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81018,
+        "Description": "Ice DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761312
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81019,
+        "Description": "Ice DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761313
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81020,
+        "Description": "Ice DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761314
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81021,
+        "Description": "Dark DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761315
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81022,
+        "Description": "Dark DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761316
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81023,
+        "Description": "Dark DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761317
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81024,
+        "Description": "Physical DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761318
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81025,
+        "Description": "Physical DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761319
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81026,
+        "Description": "Physical DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761320
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81027,
+        "Description": "Nullifies lethal DMG once per battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761321
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81028,
+        "Description": "Basic Attack DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761325
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81029,
+        "Description": "Basic Attack DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761326
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81030,
+        "Description": "Basic Attack DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761327
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81031,
+        "Description": "Restores 3% HP per 10s after the battle starts. It can be triggered 3 times per battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761330
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81032,
+        "Description": "Restores 5% HP per 10s after the battle starts. It can be triggered 3 times per battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761331
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81033,
+        "Description": "Restores 8% HP per 10s after the battle starts. It can be triggered 3 times per battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761332
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81034,
+        "Description": "Restores 10% of maximum HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761333
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81035,
+        "Description": "Restores 15% of maximum HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761334
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81036,
+        "Description": "Restores 20% of maximum HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761335
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81037,
+        "Description": "Restores 3% of maximum HP for each enemy killed.",
+        "ConditionId": [],
+        "BornMagic": [
+            761336
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81038,
+        "Description": "Restores 4% of maximum HP for each enemy killed.",
+        "ConditionId": [],
+        "BornMagic": [
+            761337
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81039,
+        "Description": "Restores 5% of maximum HP for each enemy killed.",
+        "ConditionId": [],
+        "BornMagic": [
+            761338
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81040,
+        "Description": "Heals all Constructs for 7.5% of maximum HP at the end of battle",
+        "ConditionId": [],
+        "BornMagic": [
+            773189
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81041,
+        "Description": "Heals all Constructs for 15% of maximum HP at the end of battle",
+        "ConditionId": [],
+        "BornMagic": [
+            773190
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81042,
+        "Description": "Heals all Constructs for 22.5% of maximum HP at the end of battle",
+        "ConditionId": [],
+        "BornMagic": [
+            773191
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81043,
+        "Description": "Has a 30% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.",
+        "ConditionId": [],
+        "BornMagic": [
+            761339
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81044,
+        "Description": "Has a 40% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.",
+        "ConditionId": [],
+        "BornMagic": [
+            761340
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81045,
+        "Description": "Has a 50% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.",
+        "ConditionId": [],
+        "BornMagic": [
+            761341
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81046,
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 30% of self ATK to all enemies within 2m.",
+        "ConditionId": [],
+        "BornMagic": [
+            761344
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81047,
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 40% of self ATK to all enemies within 2m.",
+        "ConditionId": [],
+        "BornMagic": [
+            761345
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81048,
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 50% of self ATK to all enemies within 2m.",
+        "ConditionId": [],
+        "BornMagic": [
+            761346
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81049,
+        "Description": "Limit of Dodge Gauge increases by 400.",
+        "ConditionId": [],
+        "BornMagic": [
+            773135
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81050,
+        "Description": "Limit of Dodge Gauge increases by 700.",
+        "ConditionId": [],
+        "BornMagic": [
+            773136
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81051,
+        "Description": "Limit of Dodge Gauge increases by 1000.",
+        "ConditionId": [],
+        "BornMagic": [
+            773137
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81052,
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 3% for 5s. Can be stacked up to 5 times.\"",
+        "ConditionId": [],
+        "BornMagic": [
+            761350
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81053,
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 4% for 5s. Can be stacked up to 5 times.\"",
+        "ConditionId": [],
+        "BornMagic": [
+            761351
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81054,
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 5% for 5s. Can be stacked up to 5 times.\"",
+        "ConditionId": [],
+        "BornMagic": [
+            761352
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81055,
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 600% DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            773181
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81056,
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 900% DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            773182
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81057,
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 1200% DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            773183
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81058,
+        "Description": "Gain a shield equal to 10% HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761358,
+            761361
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81059,
+        "Description": "Gain a shield equal to 15% HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761359,
+            761361
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81060,
+        "Description": "Gain a shield equal to 20% HP at the start of battle.",
+        "ConditionId": [],
+        "BornMagic": [
+            761360,
+            761361
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81061,
+        "Description": "Has a 40% chance to gain a shield equal to 5% HP for 5s when taking DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            761363
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81062,
+        "Description": "Has a 50% chance to gain a shield equal to 10% HP for 5s when taking DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            761364
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81063,
+        "Description": "Has a 60% chance to gain a shield equal to 15% HP for 5s when taking DMG.",
+        "ConditionId": [],
+        "BornMagic": [
+            761365
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81064,
+        "Description": "All DMG dealt increases by 10% when a shield exists.",
+        "ConditionId": [],
+        "BornMagic": [
+            761369
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81065,
+        "Description": "All DMG dealt increases by 15% when a shield exists.",
+        "ConditionId": [],
+        "BornMagic": [
+            761370
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81066,
+        "Description": "All DMG dealt increases by 20% when a shield exists.",
+        "ConditionId": [],
+        "BornMagic": [
+            761371
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81067,
+        "Description": "At the start of battle, gains 1 additional Signal Orb (3 identical Signal Orbs if at max level).",
+        "ConditionId": [],
+        "BornMagic": [
+            761373
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81068,
+        "Description": "At the start of battle, gains 2 additional Signal Orbs (3 identical Signal Orbs if at max level).",
+        "ConditionId": [],
+        "BornMagic": [
+            761374
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81069,
+        "Description": "At the start of battle, gains 3 identical Signal Orbs.",
+        "ConditionId": [],
+        "BornMagic": [
+            761375
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81070,
+        "Description": "The enemy drops 1 random Signal Orb upon death.",
+        "ConditionId": [],
+        "BornMagic": [
+            773263
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81071,
+        "Description": "The enemy drops 2 random Signal Orbs upon death.",
+        "ConditionId": [],
+        "BornMagic": [
+            773264
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81072,
+        "Description": "The enemy drops 3 random Signal Orbs upon death.",
+        "ConditionId": [],
+        "BornMagic": [
+            773265
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81073,
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 3% for 5s. Stacks up to 5 times.",
+        "ConditionId": [],
+        "BornMagic": [
+            771687
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81074,
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 4% for 5s. Stacks up to 5 times.",
+        "ConditionId": [],
+        "BornMagic": [
+            771729
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81075,
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 6% for 5s. Stacks up to 5 times.",
+        "ConditionId": [],
+        "BornMagic": [
+            771688
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81076,
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 10% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761376
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81077,
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 15% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761377
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81078,
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 20% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761378
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81079,
+        "Description": "Melee DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761380
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81080,
+        "Description": "Melee DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761381
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81081,
+        "Description": "Melee DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761382
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81082,
+        "Description": "Deals DMG equal to 1% of the enemy's maximum HP to all enemies within 4m per second.",
+        "ConditionId": [],
+        "BornMagic": [
+            761387
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81083,
+        "Description": "Ranged DMG increases by 18%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761383
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81084,
+        "Description": "Ranged DMG increases by 23%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761384
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81085,
+        "Description": "Ranged DMG increases by 28%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761385
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81086,
+        "Description": "Attacks have a 50% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761389
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81087,
+        "Description": "Attacks have a 100% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761390
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81088,
+        "Description": "Attacks have a 120% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761391
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81089,
+        "Description": "QTE cooldown decreases by 1s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773129
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81090,
+        "Description": "QTE cooldown decreases by 2s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773130
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81091,
+        "Description": "QTE cooldown decreases by 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            773131
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81092,
+        "Description": "QTE increases the controlling character's ATK by 10% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761395
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81093,
+        "Description": "QTE increases the controlling character's ATK by 15% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761396
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81094,
+        "Description": "QTE increases the controlling character's ATK by 20% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761397
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81095,
+        "Description": "QTE reduces the target's Physical DEF by 20% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761398
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81096,
+        "Description": "QTE reduces the target's Physical DEF by 25% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761399
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81097,
+        "Description": "QTE reduces the target's Physical DEF by 30% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761400
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81098,
+        "Description": "QTE reduces the target's Elemental Resistance by 20% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761401
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81099,
+        "Description": "QTE reduces the target's Elemental Resistance by 25% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761402
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81100,
+        "Description": "QTE reduces the target's Elemental Resistance by 30% for 5s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761403
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81101,
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 300% Physical Damage.",
+        "ConditionId": [],
+        "BornMagic": [
+            773117
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81102,
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 450% Physical Damage.",
+        "ConditionId": [],
+        "BornMagic": [
+            773118
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81103,
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 600% Physical Damage.",
+        "ConditionId": [],
+        "BornMagic": [
+            773119
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81104,
+        "Description": "Each attack has a 30% chance to increase its DMG by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761416
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81105,
+        "Description": "Each attack has a 40% chance to increase its DMG by 40%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761417
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81106,
+        "Description": "Each attack has a 50% chance to increase its DMG by 60%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761418
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81107,
+        "Description": "When Combo is greater than 50, DMG increases by 15%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761419
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81108,
+        "Description": "When Combo is greater than 50, DMG increases by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761420
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81109,
+        "Description": "When Combo is greater than 50, DMG increases by 25%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761421
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81110,
+        "Description": "When Combo is greater than 50, attacks have a 10% chance to stun the enemy for 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761422
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81111,
+        "Description": "When Combo is greater than 50, attacks have a 20% chance to stun the enemy for 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761423
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81112,
+        "Description": "When Combo is greater than 50, attacks have a 30% chance to stun the enemy for 3s.",
+        "ConditionId": [],
+        "BornMagic": [
+            761424
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81113,
+        "Description": "Movement Speed decreases by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            773241
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81114,
+        "Description": "Limit of Dodge Gauge reduces by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            761414
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81115,
+        "Description": "The maximum HP of deployed characters is reduced by 20%.",
+        "ConditionId": [],
+        "BornMagic": [
+            771002
+        ],
+        "EnemyBornMagic": []
+    },
+    {
+        "Id": 81116,
+        "Description": "When an enemy dies, it will increase other enemies' Extra DMG Bonus by 25%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            773251
+        ]
+    },
+    {
+        "Id": 81117,
+        "Description": "Enemy ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760131
+        ]
+    },
+    {
+        "Id": 81118,
+        "Description": "Enemy Fire Resistance increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760141
+        ]
+    },
+    {
+        "Id": 81119,
+        "Description": "Enemy Lightning Resistance increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760151
+        ]
+    },
+    {
+        "Id": 81120,
+        "Description": "Enemy Ice Resistance increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760161
+        ]
+    },
+    {
+        "Id": 81121,
+        "Description": "Enemy Dark Resistance increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760171
+        ]
+    },
+    {
+        "Id": 81122,
+        "Description": "Enemy Physical DEF increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [],
+        "EnemyBornMagic": [
+            760181
+        ]
+    },
+    {
+        "Id": 82000,
+        "Description": "Fire ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762203
+        ],
+        "EnemyBornMagic": [
+            760002
+        ]
+    },
+    {
+        "Id": 82100,
+        "Description": "Lightning ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762204
+        ],
+        "EnemyBornMagic": [
+            760012
+        ]
+    },
+    {
+        "Id": 82200,
+        "Description": "Ice ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762202
+        ],
+        "EnemyBornMagic": [
+            760022
+        ]
+    },
+    {
+        "Id": 82300,
+        "Description": "Dark ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762205
+        ],
+        "EnemyBornMagic": [
+            760032
+        ]
+    },
+    {
+        "Id": 82400,
+        "Description": "Physical ATK increases by 30%.",
+        "ConditionId": [],
+        "BornMagic": [
+            762201
+        ],
+        "EnemyBornMagic": [
+            760042
+        ]
+    },
+    {
+        "Id": 83000,
+        "Description": "ATK decreases by 9%.",
+        "ConditionId": [],
+        "BornMagic": [
+            512036
         ],
         "EnemyBornMagic": []
     }

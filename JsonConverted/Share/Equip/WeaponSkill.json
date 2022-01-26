@@ -66,6 +66,72 @@
         "Description": "After EX Dodge, Movement Speed is greatly increased and all enemies' Extra DMG Reduction is decreased by 10% in Matrix."
     },
     {
+        "Id": 301,
+        "BornMagic": [
+            512005
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png",
+        "Name": "Matrix Outburst",
+        "Description": "All DMG increases by 15% when in Matrix."
+    },
+    {
+        "Id": 302,
+        "BornMagic": [
+            512007
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png",
+        "Name": "Overload Signal",
+        "Description": "An Entrance Skill grants 1 additional Signal Orb. Extra DMG Bonus of Signal Orb Skills increases by 10% for 8s."
+    },
+    {
+        "Id": 303,
+        "BornMagic": [
+            512012
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaiqinxie.png",
+        "Name": "Limit Break",
+        "Description": "All ATK increases by 10%."
+    },
+    {
+        "Id": 401,
+        "BornMagic": [
+            512005
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png",
+        "Name": "Matrix Outburst",
+        "Description": "All DMG increases by 15% when in Matrix."
+    },
+    {
+        "Id": 402,
+        "BornMagic": [
+            512007
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png",
+        "Name": "Overload Signal",
+        "Description": "An Entrance Skill grants 1 additional Signal Orb. Extra DMG Bonus of Signal Orb Skills increases by 10% for 8s."
+    },
+    {
+        "Id": 403,
+        "BornMagic": [
+            512012
+        ],
+        "SubSkillId": [],
+        "Ability": 100,
+        "Icon": "Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaiqinxie.png",
+        "Name": "Limit Break",
+        "Description": "All ATK increases by 10%."
+    },
+    {
         "Id": 2013001,
         "BornMagic": [],
         "SubSkillId": [],
@@ -229,6 +295,16 @@
         "Ability": 0,
         "Name": "Crimson Snow",
         "Description": "Ice DMG increased by 15%. After a 3-Ping, All DMG is increased by 10% for 5s."
+    },
+    {
+        "Id": 2026006,
+        "BornMagic": [
+            502330
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Bramble Heart",
+        "Description": "Dark DMG increases by 15%. Attacks have a 15% chance to unleash a shadow wave, dealing 75% Dark DMG. 0.5s cooldown."
     },
     {
         "Id": 2032001,
@@ -684,5 +760,35 @@
         "Ability": 0,
         "Name": "St. Elmo's Fire",
         "Description": "Lightning DMG increases by 10%. No. of Lightning Strikes required to trigger Core Passive reduced to 3 under \"Signature - Lightning Charge\"."
+    },
+    {
+        "Id": 2104001,
+        "BornMagic": [
+            512001
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Photophage Phantom",
+        "Description": "Basic Attack DMG increases by 10%."
+    },
+    {
+        "Id": 2105001,
+        "BornMagic": [
+            512003
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Rageful Abyss",
+        "Description": "After a 3-Ping, Extra DMG Bonus is increased by 12% for 4s."
+    },
+    {
+        "Id": 2106001,
+        "BornMagic": [
+            512030
+        ],
+        "SubSkillId": [],
+        "Ability": 0,
+        "Name": "Solar Cleave",
+        "Description": "Extra DMG Bonus increases by 15%. When Camu: Crocotta enters Berserk, Thanatos will continuously increase Dark DMG for characters on the battlefield by 10%."
     }
 ]

@@ -116,6 +116,8 @@ Id	EquipId	Order	Type	Title	Text	Condition
 207500111	2075001	1	1	Data I	With a higher energy output level, it boasts a faster rate of fire and greater power.	810000
 207500112	2075001	2	1	Data II	Prototype cannon equipped with an internal reactor. Be careful of overheating.	810000
 207500121	2075001	1	2	Story	It fires projectiles like a volcanic eruption. Coupled with its high portability, the price-performance ratio is unrivaled.\n—Weapon Designer Z	810000
+207500211	2075002	1	1	Data	Its design is inspired by firecrackers. The firecrackers on the tail can be loaded into the barrel as a projectile. It has a several second downtime after every shot.	810000
+207500221	2075002	1	2	Story	It is not merely a toy for celebration. Based on my calculation, it can destroy the CIC's holographic screen with only one shot.\n—Weapon Designer I	810000
 207600111	2076001	1	1	Data I	Berserk Fusion uses shaped charges that can penetrate the enemy's armor with ease. The regulator on the tail can alter the shell's detonation initiation to achieve the most effective damage against the enemy. Some mechanical parts that should not appear on a bazooka have been forcefully installed in it—in an apologetically restrained manner.	810000
 207600112	2076001	2	1	Data II	Though restrained, the inane amount of extra modules still makes this weapon scream death.	810002
 207600121	2076001	1	2	Story	This method of weapon modding feels familiar...\n—Weapon Designer Z	810004
@@ -131,6 +133,8 @@ Id	EquipId	Order	Type	Title	Text	Condition
 208500111	2085001	1	1	Data I	Even though it is forged with a special ore, its blade is still as sharp as a razor.	810000
 208500112	2085001	2	1	Data II	It might not excel in size, but its penetrative power should never be underestimated.	810000
 208500121	2085001	1	2	Story	Stone Heart rivals a metal dagger in all fronts. Basically no drawbacks, except the bit about it requiring special maintenance.\n—Weapon Designer Z	810000
+208500211	2085002	1	1	Data	A dagger made for the Lantern Festival. The words carved on its blade are to bless its wielder.	810000
+208500221	2085002	1	2	Story	A highly collectible weapon created to commemorate the "Lantern Festival" in the old times.\n—Weapon Designer Z	810000
 208600111	2086001	1	1	Data I	Soul Ripper has a unique blood groove that enables it to inflict effective and continuous damage on the enemies. The fuller below the hilt can divert the liquid away, so that the hilt will not be contaminated.	810000
 208600112	2086001	2	1	Data II	Dagger equipped with ion vibrators, causing severe damage to the area around the wound. Requires great skill to use effectively.	810000
 208600121	2086001	1	2	Story	"Those who have been cut by Soul Ripper will have their blood drained rapidly as if their souls were ripped out..." A weird record by "I", again.\n—Weapon Designer N	810000
@@ -139,7 +143,7 @@ Id	EquipId	Order	Type	Title	Text	Condition
 209300111	2093001	1	1	Data I	A common scythe that has functional sharpness.	810000
 209300112	2093001	2	1	Data II	A standard scythe used by different squads. Simple and easy to use.	810000
 209300121	2093001	1	2	Story	A mass-produced scythe that you couldn't ask for more.\n—Weapon Designer Z	810000
-209400111	2094001	1	1	Data	A Standard Scythe implemented with a hilt and foldable features for ease of transport.	810000
+209400111	2094001	1	1	Data	A standard scythe implemented with a hilt and foldable features for ease of transport.	810000
 209400121	2094001	1	2	Story	The long attack range allows the wielder to defeat multiple enemies at once.\n—Weapon Designer Z	810000
 209500111	2095001	1	1	Data	Even though the coating on its blade has slightly faded because of its long history, it is still sharp enough to be a deadly weapon on the battlefields.	810000
 209500121	2095001	1	2	Story	Durability is its biggest advantage.\n—Weapon Designer Z	810000
@@ -147,3 +151,11 @@ Id	EquipId	Order	Type	Title	Text	Condition
 209600121	2096001	1	2	Story	A weapon designed by Ayla herself. You can already feel how much it hurts just by the design sketch alone.\n—Weapon Designer N	810004
 209600211	2096002	1	1	Data	St. Elmo is made of a highly conductive alloy. Its foldable design makes it very easy to carry around. Whenever it is swung, the blade leaves a flash of blue lightning. Electricity flows through the blade.	810000
 209600221	2096002	1	2	Story	It can unleash a great amount of electricity without producing any heat. St. Elmo's Fire, good name, ain't it?\n—Weapon Designer I	810004
+210400111	2104001	1	1	Data	A greatsword that is worn from countless battles. The wielder has wrapped it with bandages as perfunctory fortification.	810000
+210400121	2104001	1	2	Story	Still usable even though it's already worn and torn like that. Should we give credit to its materials or its wielder? —Weapon Designer Z	810000
+210500111	2105001	1	1	Data	A tough sword with a dull edge, made so that the wielder can brutally crush the enemies. Nonetheless, it requires advanced swordsmanship to use.	810000
+210500121	2105001	1	2	Story	This greatsword is awesome, but "I", can you explain to me why'd you put the blood groove there? Does it really work?! —Weapon Designer N	810000
+210600111	2106001	1	1	Data	The mechanism installed on its hilt has dramatically boosted its cutting capability, and its edge produces searing heat to melt all kinds of machines. In the event of a long solo operation, the wielder can pull the lever to initiate its automatic maintenance to clean and maintain the blade.	810000
+210600121	2106001	1	2	Story	Now, it should have all the features it needs. Hope this greatsword can help bring our comrades back from dead zones. —Weapon Designer N	810004
+202600611	2026006	1	1	Data	Its blade length is 0.9 m. The blade can expand and split into two to inflict double the pain. Stabbing an enemy with it does not deal significant damage, but extracting the blade will make a river of vital fluids, causing long-lasting, unbearable pain.	810000
+202600621	2026006	1	2	Story	Miss Vera... I... I'll do what you so... I'll mod it the way you want. So please sheathe that katana... —Weapon Designer N	810004

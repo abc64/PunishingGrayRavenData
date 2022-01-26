@@ -21,7 +21,8 @@
     },
     {
         "Id": 4,
-        "Key": "InvalidRequest"
+        "Key": "InvalidRequest",
+        "Text": "Invalid request"
     },
     {
         "Id": 5,
@@ -50,7 +51,8 @@
     },
     {
         "Id": 1005,
-        "Key": "LoginTableError"
+        "Key": "LoginTableError",
+        "Text": "Configuration list client inconsistent with server"
     },
     {
         "Id": 1006,
@@ -235,6 +237,11 @@
         "Text": "Your name must not exceed 12 characters"
     },
     {
+        "Id": 20002013,
+        "Key": "PlayerDataManagerAssistCanNotSetInfection",
+        "Text": "Transcendant cannot be set as a support role"
+    },
+    {
         "Id": 20003001,
         "Key": "FubenManagerCheckTreasureIsGet",
         "Text": "You have obtained the chapter chest reward already"
@@ -351,507 +358,518 @@
     },
     {
         "Id": 20003024,
+        "Key": "FubenManagerStageCharacterTypeError",
+        "Text": "Deployed member type error"
+    },
+    {
+        "Id": 20003025,
+        "Key": "FubenManagerCardIdTypeNotSame",
+        "Text": "Team member type inconsistent"
+    },
+    {
+        "Id": 20003026,
         "Key": "FubenControlPreFightParamsError",
         "Text": "Team info error"
     },
     {
-        "Id": 20003025,
+        "Id": 20003027,
         "Key": "FubenManagerBfrtNotGroup",
         "Text": "Stronghold does not exist"
     },
     {
-        "Id": 20003026,
+        "Id": 20003028,
         "Key": "FubenManagerBfrtPreIdNotFinish",
         "Text": "Complete the previous stronghold first"
     },
     {
-        "Id": 20003027,
+        "Id": 20003029,
         "Key": "FubenManagerBfrtNotChallengeCount",
         "Text": "Insufficient attempts"
     },
     {
-        "Id": 20003028,
+        "Id": 20003030,
         "Key": "FubenManagerBfrtEchelonNotFound",
         "Text": "Team formation ID does not exist"
     },
     {
-        "Id": 20003029,
+        "Id": 20003031,
         "Key": "FubenManagerBfrtWinParamError",
         "Text": "Stronghold result mismatched"
     },
     {
-        "Id": 20003030,
+        "Id": 20003032,
         "Key": "FubenManagerBfrtTeamError",
         "Text": "Number of deployed team members error"
     },
     {
-        "Id": 20003031,
+        "Id": 20003033,
         "Key": "FubenManagerBfrtServerTeamError",
         "Text": "Deployed team server error"
     },
     {
-        "Id": 20003032,
+        "Id": 20003034,
         "Key": "FubenManagerBfrtServerTeamNotEqualClientTeam",
         "Text": "Number of deployed members error"
     },
     {
-        "Id": 20003033,
+        "Id": 20003035,
         "Key": "FubenManagerBfrtClientCharacterIdNotInServerTeam",
-        "Text": "Deployed Construct error"
+        "Text": "Deployed character error"
     },
     {
-        "Id": 20003034,
+        "Id": 20003036,
         "Key": "FubenManagerBfrtStageNotFinish",
         "Text": "Complete the previous stage first"
     },
     {
-        "Id": 20003035,
+        "Id": 20003037,
         "Key": "FubenManagerBfrtSetTeamFightInfoIdsNotEqualConfigIds",
         "Text": "Number of deployed teams error"
     },
     {
-        "Id": 20003036,
+        "Id": 20003038,
         "Key": "FubenManagerBfrtSetTeamLogisticsNotEqualConfigIds",
         "Text": "Number of logistics teams error"
     },
     {
-        "Id": 20003037,
-        "Key": "FubenManagerFightRebootFightIdNotMatch",
-        "Text": "FightId of revival in battle mismatched"
-    },
-    {
-        "Id": 20003038,
-        "Key": "FubenManagerFightRebootCountNotMatch",
-        "Text": "Number of revivals in battle mismatched"
-    },
-    {
         "Id": 20003039,
-        "Key": "FubenManagerFightRebootStageNotFound",
-        "Text": "Mission of revival in battle does not exist"
+        "Key": "FubenManagerFightRebootFightIdNotMatch",
+        "Text": "Revival FightId mismatch"
     },
     {
         "Id": 20003040,
-        "Key": "FubenManagerGetFightRebootTemplateNotFound",
-        "Text": "Settings of revival in battle does not exist"
+        "Key": "FubenManagerFightRebootCountNotMatch",
+        "Text": "Number of revivals mismatched"
     },
     {
         "Id": 20003041,
-        "Key": "FubenManagerGetFightRebootRebootCountIllegal",
-        "Text": "Invalid number of revivals in battle"
+        "Key": "FubenManagerFightRebootStageNotFound",
+        "Text": "Revival mission does not exist"
     },
     {
         "Id": 20003042,
-        "Key": "FubenManagerCheckFightRebootTeamIsEmpty"
+        "Key": "FubenManagerGetFightRebootTemplateNotFound",
+        "Text": "Revival configuration does not exist"
     },
     {
         "Id": 20003043,
+        "Key": "FubenManagerGetFightRebootRebootCountIllegal",
+        "Text": "Invalid number of revivals"
+    },
+    {
+        "Id": 20003044,
+        "Key": "FubenManagerCheckFightRebootTeamIsEmpty",
+        "Text": "Revival team is empty"
+    },
+    {
+        "Id": 20003045,
         "Key": "FubenBossSingleNotReset",
         "Text": "Phantom Pain Cage has not been reset yet"
     },
     {
-        "Id": 20003044,
+        "Id": 20003046,
         "Key": "FubenBossSingleChallengeCountNotEnough",
         "Text": "Insufficient attempts"
     },
     {
-        "Id": 20003045,
-        "Key": "FubenBossSingleCharacterPointsNotEnough",
-        "Text": "Insufficient Stamina of Construct"
-    },
-    {
-        "Id": 20003046,
-        "Key": "FubenBossSingleGetBossSingleDataLevelTypeIllegal",
-        "Text": "Invalid type of level"
-    },
-    {
         "Id": 20003047,
+        "Key": "FubenBossSingleCharacterPointsNotEnough",
+        "Text": "Character has insufficient Stamina"
+    },
+    {
+        "Id": 20003048,
+        "Key": "FubenBossSingleGetBossSingleDataLevelTypeIllegal",
+        "Text": "Invalid level type"
+    },
+    {
+        "Id": 20003049,
         "Key": "FubenBossBossStageListNotFound",
         "Text": "Stage list does not exist"
     },
     {
-        "Id": 20003048,
+        "Id": 20003050,
         "Key": "FubenBossSingleScoreRewardIsNotExist",
         "Text": "Reward does not exist"
     },
     {
-        "Id": 20003049,
-        "Key": "FubenBossSingleScoreRewardIsGot",
-        "Text": "Reward Claimed"
-    },
-    {
-        "Id": 20003050,
-        "Key": "FubenBossSingleScoreRewardTypeError",
-        "Text": "Type of claimed reward error"
-    },
-    {
         "Id": 20003051,
-        "Key": "FubenBossSingleScoreIsNotEnough",
-        "Text": "Current points are insufficient to claim reward"
+        "Key": "FubenBossSingleScoreRewardIsGot",
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20003052,
+        "Key": "FubenBossSingleScoreRewardTypeError",
+        "Text": "Claimed reward type error"
+    },
+    {
+        "Id": 20003053,
+        "Key": "FubenBossSingleScoreIsNotEnough",
+        "Text": "Insufficient points to claim reward"
+    },
+    {
+        "Id": 20003054,
         "Key": "FubenBossSingleHistoryIsNotExist",
         "Text": "History not found"
     },
     {
-        "Id": 20003053,
+        "Id": 20003055,
         "Key": "FubenBossSingleStageCanNotAutoFight",
         "Text": "Auto Clear cannot be used in this stage"
     },
     {
-        "Id": 20003054,
+        "Id": 20003056,
         "Key": "FubenBossSingleStageIsNotExist",
         "Text": "Stage does not exist"
     },
     {
-        "Id": 20003055,
+        "Id": 20003057,
         "Key": "FubenBossSingleSaveScoreIllegality",
-        "Text": "You cannot save more than once"
+        "Text": "Cannot save more than once"
     },
     {
-        "Id": 20003056,
+        "Id": 20003058,
         "Key": "FubenBossSingleAutoFightCountNotEnough",
         "Text": "Insufficient attempts"
     },
     {
-        "Id": 20003057,
-        "Key": "FubenBossSingleCurScoreIsBigThanHistory",
-        "Text": "The progress of Auto Clear is lower than the current progress"
-    },
-    {
-        "Id": 20003058,
-        "Key": "FubenBossSingleHideStageNotOpen",
-        "Text": "Hidden stage is not yet available"
-    },
-    {
         "Id": 20003059,
+        "Key": "FubenBossSingleCurScoreIsBigThanHistory",
+        "Text": "Auto Clear progress lower than current progress"
+    },
+    {
+        "Id": 20003060,
+        "Key": "FubenBossSingleHideStageNotOpen",
+        "Text": "Hidden stage not yet available"
+    },
+    {
+        "Id": 20003061,
         "Key": "FubenBossSingleIsAutoFighting",
         "Text": "Auto Clearing"
     },
     {
-        "Id": 20003060,
+        "Id": 20003062,
         "Key": "FubenBossOnlineSectionNotFound",
         "Text": "Chapter info not found"
     },
     {
-        "Id": 20003061,
+        "Id": 20003063,
         "Key": "FubenBossOnlineNotInTime",
         "Text": "Not the available hours of the Co-op."
     },
     {
-        "Id": 20003062,
+        "Id": 20003064,
         "Key": "FubenMainLinePassTimesNotEnough",
         "Text": "Insufficient Main Story attempts"
     },
     {
-        "Id": 20003063,
+        "Id": 20003065,
         "Key": "FubenMainLineChapterIsNotExist",
         "Text": "Chapter does not exist"
     },
     {
-        "Id": 20003064,
-        "Key": "FubenMainLineActivityHideChapterNotOpen",
-        "Text": "The stage has not been cleared yet"
-    },
-    {
-        "Id": 20003065,
-        "Key": "FubenPrequelStageNotPass",
-        "Text": "The stage has not been cleared yet"
-    },
-    {
         "Id": 20003066,
+        "Key": "FubenMainLineActivityHideChapterNotOpen",
+        "Text": "Hidden chapter event not yet available"
+    },
+    {
+        "Id": 20003067,
+        "Key": "FubenPrequelStageNotPass",
+        "Text": "Stage not yet cleared"
+    },
+    {
+        "Id": 20003068,
         "Key": "FubenPrequelStageRewardAlready",
         "Text": "Rank reward claimed"
     },
     {
-        "Id": 20003067,
+        "Id": 20003069,
         "Key": "FubenPrequelStageIdError",
         "Text": "Invalid Side Story stage"
     },
     {
-        "Id": 20003068,
+        "Id": 20003070,
         "Key": "FubenPrequelCoverIdError",
         "Text": "Invalid Side Story cover ID"
     },
     {
-        "Id": 20003069,
+        "Id": 20003071,
         "Key": "FubenPrequelChallengeIdError",
         "Text": "Invalid Side Story ID"
     },
     {
-        "Id": 20003070,
-        "Key": "FubenPrequelChallengeLock",
-        "Text": "Side Story has not been unlocked yet"
-    },
-    {
-        "Id": 20003071,
-        "Key": "FubenPrequelChallengeUnlockAlready",
-        "Text": "Side Story has been unlocked"
-    },
-    {
         "Id": 20003072,
+        "Key": "FubenPrequelChallengeLock",
+        "Text": "Side Story not yet unlocked"
+    },
+    {
+        "Id": 20003073,
+        "Key": "FubenPrequelChallengeUnlockAlready",
+        "Text": "Side Story unlocked"
+    },
+    {
+        "Id": 20003074,
         "Key": "FubenPrequelChallengeCountLimit",
         "Text": "Insufficient attempts"
     },
     {
-        "Id": 20003073,
+        "Id": 20003075,
         "Key": "FubenManagerAutoFightStageNotExist",
         "Text": "Mission does not exist"
     },
     {
-        "Id": 20003074,
-        "Key": "FubenManagerAutoFightStageInvalid",
-        "Text": "Invalid Side Story"
-    },
-    {
-        "Id": 20003075,
-        "Key": "FubenManagerAutoFightHaventPassed",
-        "Text": "Side Story has not been cleared yet"
-    },
-    {
         "Id": 20003076,
-        "Key": "FubenManagerAutoFightPoolIsFull",
-        "Text": "Number of teams has reached the limit"
+        "Key": "FubenManagerAutoFightStageInvalid",
+        "Text": "Invalid mission"
     },
     {
         "Id": 20003077,
+        "Key": "FubenManagerAutoFightHaventPassed",
+        "Text": "Side Story not yet cleared"
+    },
+    {
+        "Id": 20003078,
+        "Key": "FubenManagerAutoFightPoolIsFull",
+        "Text": "Max number of teams reached"
+    },
+    {
+        "Id": 20003079,
         "Key": "FubenManagerAutoFightAlreadyRunning",
         "Text": "Auto Clearing"
     },
     {
-        "Id": 20003078,
+        "Id": 20003080,
         "Key": "FubenManagerAutoFightNotEnoughTimes",
         "Text": "Insufficient attempts left"
     },
     {
-        "Id": 20003079,
+        "Id": 20003081,
         "Key": "FubenManagerAutoFightNotEnoughActionPoint",
         "Text": "Insufficient Stamina"
     },
     {
-        "Id": 20003080,
+        "Id": 20003082,
         "Key": "FubenManagerAutoFightIndexInvalid",
         "Text": "Invalid Auto Clear number"
     },
     {
-        "Id": 20003081,
+        "Id": 20003083,
         "Key": "FubenManagerAutoFightStageNotMatch",
-        "Text": "Auto Clear quest mismatched"
+        "Text": "Auto Clear mission mismatch"
     },
     {
-        "Id": 20003082,
+        "Id": 20003084,
         "Key": "FubenManagerAutoFightNotComplete",
         "Text": "Auto Clear not completed"
     },
     {
-        "Id": 20003083,
+        "Id": 20003085,
         "Key": "FubenManagerTrialIdIsNotFound",
         "Text": "Trial Mission does not exist"
     },
     {
-        "Id": 20003084,
+        "Id": 20003086,
         "Key": "FubenManagerTrialPreIdIsNotPass",
         "Text": "Complete the previous stage first"
     },
     {
-        "Id": 20003085,
+        "Id": 20003087,
         "Key": "FubenManagerTrialIdIsNotPass",
         "Text": "Complete the stage first"
     },
     {
-        "Id": 20003086,
+        "Id": 20003088,
         "Key": "FubenManagerTrialPassRewardAlreadyGet",
-        "Text": "Clear reward claimed"
+        "Text": "Clearance reward claimed"
     },
     {
-        "Id": 20003087,
+        "Id": 20003089,
         "Key": "FubenManagerTrialTypeRewardIsNotExit",
         "Text": "Reward does not exist"
     },
     {
-        "Id": 20003088,
+        "Id": 20003090,
         "Key": "FubenManagerTrialTypeRewardAlreadyGet",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
-        "Id": 20003089,
+        "Id": 20003091,
         "Key": "FubenManagerTrialTypeRewardIsNotFinish",
         "Text": "Stage not completed"
     },
     {
-        "Id": 20003090,
-        "Key": "FubenManagerDailyChapterNotFound",
-        "Text": "Daily quest chapter not found"
-    },
-    {
-        "Id": 20003091,
-        "Key": "FubenManagerDailySectionNotFound",
-        "Text": "Daily quest not found"
-    },
-    {
         "Id": 20003092,
-        "Key": "FubenManagerDailyConditionInvalid",
-        "Text": "Invalid daily quest requirement"
+        "Key": "FubenManagerDailyChapterNotFound",
+        "Text": "Daily mission chapter configuration not found"
     },
     {
         "Id": 20003093,
+        "Key": "FubenManagerDailySectionNotFound",
+        "Text": "Daily mission configuration not found"
+    },
+    {
+        "Id": 20003094,
+        "Key": "FubenManagerDailyConditionInvalid",
+        "Text": "Invalid daily mission requirement configuration"
+    },
+    {
+        "Id": 20003095,
         "Key": "FubenManagerDailyTimeNotFit",
         "Text": "Not open yet"
     },
     {
-        "Id": 20003094,
+        "Id": 20003096,
         "Key": "FubenManagerAutoFightTimesError",
         "Text": "Auto Clear attempts error"
     },
     {
-        "Id": 20003095,
-        "Key": "FubenManagerBossSingleResetCanNotSaveScore",
-        "Text": "Unable to save as the rules have been refreshed"
-    },
-    {
-        "Id": 20003096,
-        "Key": "FubenManagerBossSingleDataIsRefresh",
-        "Text": "Side Story data has been refreshed, please reload the page."
-    },
-    {
         "Id": 20003097,
-        "Key": "FubenManagerStartFightIntervalFast",
-        "Text": "You cannot challenge the quest yet"
+        "Key": "FubenManagerBossSingleResetCanNotSaveScore",
+        "Text": "Cannot save as the mode has been refreshed"
     },
     {
         "Id": 20003098,
-        "Key": "FubenAssignChapterNotFound",
-        "Text": "Stage info configuration error"
+        "Key": "FubenManagerBossSingleDataIsRefresh",
+        "Text": "Side Story data has been refreshed, please reload the page"
     },
     {
         "Id": 20003099,
-        "Key": "FubenAssignGroupNotFound",
-        "Text": "Team info configuration error"
+        "Key": "FubenManagerStartFightIntervalFast",
+        "Text": "You cannot challenge the mission yet"
     },
     {
         "Id": 20003100,
-        "Key": "FubenAssignTeamInfoNotFound",
-        "Text": "You have used all challenge attempts"
+        "Key": "FubenAssignChapterNotFound",
+        "Text": "Chapter info configuration error"
     },
     {
         "Id": 20003101,
-        "Key": "FubenAssignGroupFightCountLimit",
-        "Text": "Team not configured. Unable to battle"
+        "Key": "FubenAssignGroupNotFound",
+        "Text": "Stage info configuration error"
     },
     {
         "Id": 20003102,
-        "Key": "FubenAssignGroupTeamNotSet",
-        "Text": "Battle member number error. Unable to battle"
+        "Key": "FubenAssignTeamInfoNotFound",
+        "Text": "Team info configuration error"
     },
     {
         "Id": 20003103,
-        "Key": "FubenAssignFightCardCountError",
-        "Text": "Border Pact character not in team"
+        "Key": "FubenAssignGroupFightCountLimit",
+        "Text": "Challenge attempts used up"
     },
     {
         "Id": 20003104,
-        "Key": "FubenAssignFightCardNotInTeam",
-        "Text": "Border Pact stage group does not match"
+        "Key": "FubenAssignGroupTeamNotSet",
+        "Text": "Team not yet set up. Cannot deploy"
     },
     {
         "Id": 20003105,
-        "Key": "FubenAssignFightGroupIdNotMatch",
-        "Text": "Border Pact stage completed"
+        "Key": "FubenAssignFightCardCountError",
+        "Text": "Battle member number error. Cannot deploy"
     },
     {
         "Id": 20003106,
-        "Key": "FubenAssignFightStageAlreadyFinish",
-        "Text": "Border Pact prerequisite stage incomplete"
+        "Key": "FubenAssignFightCardNotInTeam",
+        "Text": "Border Pact character not in team"
     },
     {
         "Id": 20003107,
-        "Key": "FubenAssignFightPreStageNotFinish",
-        "Text": "Border Pact victory stage does not match"
+        "Key": "FubenAssignFightGroupIdNotMatch",
+        "Text": "Border Pact stage group does not match"
     },
     {
         "Id": 20003108,
-        "Key": "FubenAssignWinStageNotMatch",
-        "Text": "Border Pact victory stage group does not match"
+        "Key": "FubenAssignFightStageAlreadyFinish",
+        "Text": "Border Pact stage completed"
     },
     {
         "Id": 20003109,
-        "Key": "FubenAssignWinGroupIdNotMatch",
-        "Text": "Team list does not exist. Unable to battle"
+        "Key": "FubenAssignFightPreStageNotFinish",
+        "Text": "Border Pact prerequisite stage incomplete"
     },
     {
         "Id": 20003110,
-        "Key": "FubenAssignGroupTeamListNotFound",
-        "Text": "You have not completed the previous chapter yet"
+        "Key": "FubenAssignWinStageNotMatch",
+        "Text": "Border Pact victory stage does not match"
     },
     {
         "Id": 20003111,
-        "Key": "FubenAssignPreGroupNotFinish",
-        "Text": "Team empty. Unable to battle"
+        "Key": "FubenAssignWinGroupIdNotMatch",
+        "Text": "Border Pact victory stage group does not match"
     },
     {
         "Id": 20003112,
-        "Key": "FubenAssignTeamListIsEmpty",
-        "Text": "Team number does not match the requirement. Unable to battle"
+        "Key": "FubenAssignGroupTeamListNotFound",
+        "Text": "Team list does not exist. Cannot deploy"
     },
     {
         "Id": 20003113,
-        "Key": "FubenAssignTeamCountError",
-        "Text": "Team number does not match the requirement. Unable to battle"
+        "Key": "FubenAssignPreGroupNotFinish",
+        "Text": "You have not completed the previous chapter yet"
     },
     {
         "Id": 20003114,
-        "Key": "FubenAssignTeamIsEmpty",
-        "Text": "Team size does not match the requirement. Unable to battle"
+        "Key": "FubenAssignTeamListIsEmpty",
+        "Text": "Team number empty. Cannot deploy"
     },
     {
         "Id": 20003115,
-        "Key": "FubenAssignTeamMemberCountLimit",
-        "Text": "Duplicated team member. Unable to battle"
+        "Key": "FubenAssignTeamCountError",
+        "Text": "Team number does not match the requirement. Cannot deploy"
     },
     {
         "Id": 20003116,
-        "Key": "FubenAssignTeamMemberRepeated",
-        "Text": "Chapter not completed"
+        "Key": "FubenAssignTeamIsEmpty",
+        "Text": "Insufficient team members. Cannot deploy"
     },
     {
         "Id": 20003117,
-        "Key": "FubenAssignChapterNotFinish",
-        "Text": "Character already assigned to stationing"
+        "Key": "FubenAssignTeamMemberCountLimit",
+        "Text": "Team size does not match the requirement. Cannot deploy"
     },
     {
         "Id": 20003118,
-        "Key": "FubenAssignChapterUseSameCharacter",
-        "Text": "Character already stationing in another area"
+        "Key": "FubenAssignTeamMemberRepeated",
+        "Text": "Duplicate team member. Cannot deploy"
     },
     {
         "Id": 20003119,
-        "Key": "FubenAssignChapterCharacterAlreadyUse",
-        "Text": "Chapter reward claimed"
+        "Key": "FubenAssignChapterNotFinish",
+        "Text": "Chapter not completed"
     },
     {
         "Id": 20003120,
-        "Key": "FubenAssignChapterRewardAlreadyGet",
-        "Text": "Battle restart ID not matching"
+        "Key": "FubenAssignChapterUseSameCharacter",
+        "Text": "Character already assigned to stationing"
     },
     {
         "Id": 20003121,
-        "Key": "FubenManagerFightRestartFightIdNotMatch",
-        "Text": "Battle restart data not matching"
+        "Key": "FubenAssignChapterCharacterAlreadyUse",
+        "Text": "Character already stationed in another area"
     },
     {
         "Id": 20003122,
-        "Key": "FubenManagerFightRestartPreFightDataNotMatch",
-        "Text": "Battle restart data not matching"
+        "Key": "FubenAssignChapterRewardAlreadyGet",
+        "Text": "Chapter reward claimed"
     },
     {
         "Id": 20003123,
-        "Key": "FubenBfrtChapterNotOpen",
-        "Text": "Stronghold chapter is not yet available"
+        "Key": "FubenManagerFightRestartFightIdNotMatch",
+        "Text": "Battle restart ID mismatch"
     },
     {
         "Id": 20003124,
+        "Key": "FubenManagerFightRestartPreFightDataNotMatch",
+        "Text": "Battle restart data mismatch"
+    },
+    {
+        "Id": 20003125,
+        "Key": "FubenBfrtChapterNotOpen",
+        "Text": "Stronghold chapter not yet available"
+    },
+    {
+        "Id": 20003126,
         "Key": "FubenBfrtTeamSetCharacterRepeat",
-        "Text": "Repeated character in team"
+        "Text": "Duplicate character in team"
     },
     {
         "Id": 20004001,
@@ -867,6 +885,11 @@
         "Id": 20004003,
         "Key": "TeamManagerSetTeamParaError",
         "Text": "Number of team settings error"
+    },
+    {
+        "Id": 20004004,
+        "Key": "TeamManagerPrefabCharacterTypeNotSame",
+        "Text": "Different preset character type"
     },
     {
         "Id": 20007001,
@@ -1245,7 +1268,8 @@
     },
     {
         "Id": 20009060,
-        "Key": "CharacterManagerTrustLevelIsMax"
+        "Key": "CharacterManagerTrustLevelIsMax",
+        "Text": "Max Affection reached"
     },
     {
         "Id": 20012001,
@@ -1374,15 +1398,23 @@
     },
     {
         "Id": 20012026,
-        "Key": "ItemUseMultipleRewardTypeError"
+        "Key": "ItemUseMultipleRewardTypeError",
+        "Text": "Reward type error"
     },
     {
         "Id": 20012027,
-        "Key": "ItemCannotConvertEquipExp"
+        "Key": "ItemCannotConvertEquipExp",
+        "Text": "Item cannot be converted into equipment EXP"
     },
     {
         "Id": 20012028,
-        "Key": "ItemEquipExpUseEquipTypeError"
+        "Key": "ItemEquipExpUseEquipTypeError",
+        "Text": "Equipment type error"
+    },
+    {
+        "Id": 20012029,
+        "Key": "ItemManagerBuyAssetNotAllowConsumeId",
+        "Text": "Consumable cannot be converted"
     },
     {
         "Id": 20014001,
@@ -1606,275 +1638,280 @@
     },
     {
         "Id": 20021016,
-        "Key": "EquipManagerTakeOffNotBeenWorn",
-        "Text": "Equipment has not been equipped yet"
+        "Key": "EquipManagerPutOnCharacterTypeError"
     },
     {
         "Id": 20021017,
-        "Key": "EquipManagerTakeOffCanNotTakeOff",
-        "Text": "Equipment is unable to unequip"
+        "Key": "EquipManagerTakeOffNotBeenWorn",
+        "Text": "Equipment not yet equipped"
     },
     {
         "Id": 20021018,
-        "Key": "EquipManagerDecomposeDoNot",
-        "Text": "You cannot recycle equipment in use"
+        "Key": "EquipManagerTakeOffCanNotTakeOff",
+        "Text": "Equipment cannot be unequipped"
     },
     {
         "Id": 20021019,
+        "Key": "EquipManagerDecomposeDoNot",
+        "Text": "Cannot recycle equipment in use"
+    },
+    {
+        "Id": 20021020,
         "Key": "EquipManagerDecomposeConfigNot",
         "Text": "No corresponding term for the recycle list"
     },
     {
-        "Id": 20021020,
+        "Id": 20021021,
         "Key": "EquipWeaponCapacityNotEnough",
         "Text": "Insufficient weapon space"
     },
     {
-        "Id": 20021021,
+        "Id": 20021022,
         "Key": "EquipChipCapacityNotEnough",
         "Text": "Insufficient Memory space"
     },
     {
-        "Id": 20021022,
-        "Key": "EquipSuitTemplateNotFound",
-        "Text": "Failed to obtain equipment set settings"
-    },
-    {
         "Id": 20021023,
-        "Key": "EquipSuitEffectTemplateNotFound",
-        "Text": "Failed to obtain equipment set bonus settings"
+        "Key": "EquipSuitTemplateNotFound",
+        "Text": "Failed to access equipment set configuration"
     },
     {
         "Id": 20021024,
+        "Key": "EquipSuitEffectTemplateNotFound",
+        "Text": "Failed to access equipment set effect configuration"
+    },
+    {
+        "Id": 20021025,
         "Key": "EquipIsLocked",
         "Text": "Lock Equipment"
     },
     {
-        "Id": 20021025,
+        "Id": 20021026,
         "Key": "EquipIsUnLock",
         "Text": "Unlock Equipment"
     },
     {
-        "Id": 20021026,
-        "Key": "EquipCanNotPutOnByThisCharacter",
-        "Text": "It cannot be worn by the Construct"
-    },
-    {
         "Id": 20021027,
-        "Key": "EquipGetEatCostCoinNotFound",
-        "Text": "Failed to consume Cogs in equipment upgrade"
+        "Key": "EquipCanNotPutOnByThisCharacter",
+        "Text": "Cannot be worn by this character"
     },
     {
         "Id": 20021028,
-        "Key": "EquipLevelUpUseMaterialsIsEmpty"
+        "Key": "EquipGetEatCostCoinNotFound",
+        "Text": "Failed to access the Cog cost of equipment upgrade"
     },
     {
         "Id": 20021029,
-        "Key": "EquipEatUseRepeatEquip",
-        "Text": "Consumed equipment ID duplicated"
+        "Key": "EquipLevelUpUseMaterialsIsEmpty",
+        "Text": "Consumed material empty"
     },
     {
         "Id": 20021030,
-        "Key": "EquipResonanceCanNotUseSelf",
-        "Text": "You cannot consume this equipment"
+        "Key": "EquipEatUseRepeatEquip",
+        "Text": "Consumed equipment ID duplicate"
     },
     {
         "Id": 20021031,
-        "Key": "EquipResonanceCharacterNotOwned",
-        "Text": "You do not own any Construct with Resonance"
+        "Key": "EquipResonanceCanNotUseSelf",
+        "Text": "Cannot consume this equipment"
     },
     {
         "Id": 20021032,
+        "Key": "EquipResonanceCharacterNotOwned",
+        "Text": "You do not own any character with Resonance"
+    },
+    {
+        "Id": 20021033,
         "Key": "EquipResonanceUnconfirmedInfoUntreated",
         "Text": "Resonance info not confirmed"
     },
     {
-        "Id": 20021033,
-        "Key": "EquipResonanceUseEquipTypeNotSame",
-        "Text": "Type of Resonance cost mismatched"
-    },
-    {
         "Id": 20021034,
-        "Key": "EquipResonanceWeaponStarNotSame",
-        "Text": "Rank of Resonance cost mismatched"
+        "Key": "EquipResonanceUseEquipTypeNotSame",
+        "Text": "Resonance cost type mismatch"
     },
     {
         "Id": 20021035,
-        "Key": "EquipResonanceChipSuitIsNotSame",
-        "Text": "Set ID of Resonance cost mismatched"
+        "Key": "EquipResonanceWeaponStarNotSame",
+        "Text": "Resonance cost rank mismatch"
     },
     {
         "Id": 20021036,
-        "Key": "EquipResonanceTemplateNotFound",
-        "Text": "Resonance settings not found"
+        "Key": "EquipResonanceChipSuitIsNotSame",
+        "Text": "Resonance cost set ID mismatch"
     },
     {
         "Id": 20021037,
+        "Key": "EquipResonanceTemplateNotFound",
+        "Text": "Resonance configuration not found"
+    },
+    {
+        "Id": 20021038,
         "Key": "EquipResonanceUseItemTemplateNotFound",
         "Text": "Item used for Resonance not found"
     },
     {
-        "Id": 20021038,
-        "Key": "EquipResonanceCanNotUseThisItem",
-        "Text": "The item cannot be used for Resonance"
-    },
-    {
         "Id": 20021039,
-        "Key": "EquipWeaponSkillTemplateNotFound",
-        "Text": "Skill settings of weapon not found"
+        "Key": "EquipResonanceCanNotUseThisItem",
+        "Text": "Item cannot be used for Resonance"
     },
     {
         "Id": 20021040,
+        "Key": "EquipWeaponSkillTemplateNotFound",
+        "Text": "Weapon skill configuration not found"
+    },
+    {
+        "Id": 20021041,
         "Key": "EquipSkillPoolIsEmpty",
         "Text": "No skill is equipped"
     },
     {
-        "Id": 20021041,
-        "Key": "EquipResonanceSlotConfigIsEmpty",
-        "Text": "Resonance slot is empty"
-    },
-    {
         "Id": 20021042,
-        "Key": "EquipResonanceConfigError",
-        "Text": "Resonance settings error"
+        "Key": "EquipResonanceSlotConfigIsEmpty",
+        "Text": "Resonance slot empty"
     },
     {
         "Id": 20021043,
-        "Key": "EquipResonanceConfirmInfoIsEmpty",
-        "Text": "Confirmation info of Resonance not found"
+        "Key": "EquipResonanceConfigError",
+        "Text": "Resonance configuration error"
     },
     {
         "Id": 20021044,
-        "Key": "EquipLevelUpCanNotEatSelf",
-        "Text": "You cannot upgrade the weapon with itself"
+        "Key": "EquipResonanceConfirmInfoIsEmpty",
+        "Text": "Resonance confirmation info empty"
     },
     {
         "Id": 20021045,
-        "Key": "EquipResonanceNeedSelectCharacter",
-        "Text": "Select the Construct to resonate"
+        "Key": "EquipLevelUpCanNotEatSelf",
+        "Text": "Cannot upgrade the weapon with itself"
     },
     {
         "Id": 20021046,
-        "Key": "EquipDecomposeListIsEmpty",
-        "Text": "Recycle list is empty"
+        "Key": "EquipResonanceNeedSelectCharacter",
+        "Text": "Select a character to resonate"
     },
     {
         "Id": 20021047,
-        "Key": "EquipSuitNotFound",
-        "Text": "Unable to obtain Memory info"
+        "Key": "EquipDecomposeListIsEmpty",
+        "Text": "Recycle list empty"
     },
     {
         "Id": 20021048,
-        "Key": "EquipSuitCanNotTransform",
-        "Text": "The Memory set can no longer be refit."
+        "Key": "EquipSuitNotFound",
+        "Text": "Cannot obtain Memory info"
     },
     {
         "Id": 20021049,
-        "Key": "EquipSuitSiteError",
-        "Text": "Invalid grid for the Memory set"
+        "Key": "EquipSuitCanNotTransform",
+        "Text": "Memory set can no longer be refit"
     },
     {
         "Id": 20021050,
-        "Key": "EquipTransformChipUseEquipCountError",
-        "Text": "Amount of equipped items error"
+        "Key": "EquipSuitSiteError",
+        "Text": "Memory set grid error"
     },
     {
         "Id": 20021051,
-        "Key": "EquipTransformChipUseEquipSuitError",
-        "Text": "Invalid grid to equip"
+        "Key": "EquipTransformChipUseEquipCountError",
+        "Text": "Equipped item number error"
     },
     {
         "Id": 20021052,
-        "Key": "EquipSuitSiteConfigNotFound",
-        "Text": "Invalid info of obtained Memory set"
+        "Key": "EquipTransformChipUseEquipSuitError",
+        "Text": "Wrong place to equip"
     },
     {
         "Id": 20021053,
-        "Key": "EquipResonancePoolIsEmpty",
-        "Text": "No Resonance is equipped"
+        "Key": "EquipSuitSiteConfigNotFound",
+        "Text": "An error occurred while accessing the info of this Memory set"
     },
     {
         "Id": 20021054,
-        "Key": "EquipResonanceWeaponSkillPoolIsEmpty",
-        "Text": "No Resonance of weapon skill is equipped"
+        "Key": "EquipResonancePoolIsEmpty",
+        "Text": "No Resonance equipped"
     },
     {
         "Id": 20021055,
-        "Key": "EquipResonanceCharacterSkillPoolIsEmpty",
-        "Text": "No Resonance of Construct skill is equipped"
+        "Key": "EquipResonanceWeaponSkillPoolIsEmpty",
+        "Text": "No weapon Resonance skill equipped"
     },
     {
         "Id": 20021056,
-        "Key": "EquipResonanceAttribGroupPoolIsEmpty",
-        "Text": "Resonance stats is empty"
+        "Key": "EquipResonanceCharacterSkillPoolIsEmpty",
+        "Text": "No character Resonance skill equipped"
     },
     {
         "Id": 20021057,
-        "Key": "EquipChipGroupCountLimit",
-        "Text": "The amount of Memory Set has exceeded the limit"
+        "Key": "EquipResonanceAttribGroupPoolIsEmpty",
+        "Text": "Resonance stats empty"
     },
     {
         "Id": 20021058,
-        "Key": "EquipChipGroupNameTooLong",
-        "Text": "Memory Set name is too long"
+        "Key": "EquipChipGroupCountLimit",
+        "Text": "Memory Set amount exceeded the limit"
     },
     {
         "Id": 20021059,
+        "Key": "EquipChipGroupNameTooLong",
+        "Text": "Memory Set name too long"
+    },
+    {
+        "Id": 20021060,
         "Key": "EquipChipGroupNameInvalid",
         "Text": "Invalid Memory Set name"
     },
     {
-        "Id": 20021060,
-        "Key": "EquipChipGroupEquipSiteError",
-        "Text": "Invalid type of Memory Set"
-    },
-    {
         "Id": 20021061,
-        "Key": "EquipChipGroupSiteRepeated",
-        "Text": "Duplicate grid in the Memory Set"
+        "Key": "EquipChipGroupEquipSiteError",
+        "Text": "Invalid Memory set type"
     },
     {
         "Id": 20021062,
-        "Key": "EquipChipGroupNotFound",
-        "Text": "Memory Set not found"
+        "Key": "EquipChipGroupSiteRepeated",
+        "Text": "Duplicate grid in the Memory set"
     },
     {
         "Id": 20021063,
-        "Key": "EquipAwakeTemplateNotFound",
-        "Text": "Awaken settings not found"
+        "Key": "EquipChipGroupNotFound",
+        "Text": "Memory set not found"
     },
     {
         "Id": 20021064,
+        "Key": "EquipAwakeTemplateNotFound",
+        "Text": "Awaken configuration not found"
+    },
+    {
+        "Id": 20021065,
         "Key": "EquipAwakeWeaponNonsupport",
         "Text": "Cannot awaken weapon"
     },
     {
-        "Id": 20021065,
+        "Id": 20021066,
         "Key": "EquipAwakeStarNotEnough",
         "Text": "Insufficient stars to awaken equipment"
     },
     {
-        "Id": 20021066,
+        "Id": 20021067,
         "Key": "EquipAwakeNotMaxLevel",
         "Text": "Equipment not at max level"
     },
     {
-        "Id": 20021067,
-        "Key": "EquipAwakeSlotNonsupport",
-        "Text": "Invalid awakened equipment slot"
-    },
-    {
         "Id": 20021068,
-        "Key": "EquipAwakeSlotIsAlreadyAwake",
-        "Text": "Equipment has been awakened"
+        "Key": "EquipAwakeSlotNonsupport",
+        "Text": "Awakened equipment slot invalid"
     },
     {
         "Id": 20021069,
+        "Key": "EquipAwakeSlotIsAlreadyAwake",
+        "Text": "Equipment awakened"
+    },
+    {
+        "Id": 20021070,
         "Key": "EquipAwakeSlotNotResonance",
         "Text": "Awakened equipment slot not resonated"
     },
     {
-        "Id": 20021070,
+        "Id": 20021071,
         "Key": "EquipAwakeSlotAttribConfigNotFound",
         "Text": "Awaken stats settings not found"
     },
@@ -1931,7 +1968,7 @@
     {
         "Id": 20026011,
         "Key": "TaskManagerGetActivenessRewardAlreadyGeted",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20026012,
@@ -1976,7 +2013,7 @@
     {
         "Id": 20026020,
         "Key": "TaskManagerNewPlayerActivenessAlreadyGet",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20026021,
@@ -2195,7 +2232,8 @@
     },
     {
         "Id": 20030020,
-        "Key": "ShopOwnedUnknown"
+        "Key": "ShopOwnedUnknown",
+        "Text": "Shop type unknown"
     },
     {
         "Id": 20031001,
@@ -2395,7 +2433,7 @@
     {
         "Id": 20033010,
         "Key": "ChatManagerChatChannelIdInvalid",
-        "Text": "Illegal content"
+        "Text": "Not in Command Bureau. Cannot speak."
     },
     {
         "Id": 20033011,
@@ -2500,12 +2538,12 @@
     {
         "Id": 20034018,
         "Key": "ConditionManagerCharacterAbilityNotEnough",
-        "Text": "Construct's BR does not meet the requirement"
+        "Text": "Member's BR does not meet the requirement"
     },
     {
         "Id": 20034019,
         "Key": "ConditionManagerCharacterResonanceNotEnough",
-        "Text": "Construct's Resonance does not meet the requirement"
+        "Text": "Member's Resonance does not meet the requirement"
     },
     {
         "Id": 20034020,
@@ -2515,12 +2553,12 @@
     {
         "Id": 20034021,
         "Key": "ConditionManagerCharacterExhibitionLevelNotEnough",
-        "Text": "Awaken requirement of Construct not met"
+        "Text": "Member does not meet the Awaken requirement"
     },
     {
         "Id": 20034022,
         "Key": "ConditionManagerCharacterLiberateLvNotEnough",
-        "Text": "Construct Overclock level not met"
+        "Text": "Member has not reached the required Overclock level"
     },
     {
         "Id": 20034023,
@@ -2560,7 +2598,7 @@
     {
         "Id": 20034030,
         "Key": "ConditionManagerRedEnvelopeNotEnough",
-        "Text": "Insufficient gifts claimed by Construct"
+        "Text": "Not enough gifts claimed by member"
     },
     {
         "Id": 20034031,
@@ -2574,27 +2612,33 @@
     },
     {
         "Id": 20034033,
-        "Key": "ConditionManagerMonsterKillCountNotEnough"
+        "Key": "ConditionManagerMonsterKillCountNotEnough",
+        "Text": "Not enough enemies killed"
     },
     {
         "Id": 20034034,
-        "Key": "ConditionManagerWeaponNotUnlock"
+        "Key": "ConditionManagerWeaponNotUnlock",
+        "Text": "Weapon not unlocked"
     },
     {
         "Id": 20034035,
-        "Key": "ConditionManagerWeaponMaxLevelNotEnough"
+        "Key": "ConditionManagerWeaponMaxLevelNotEnough",
+        "Text": "Weapon not at max level"
     },
     {
         "Id": 20034036,
-        "Key": "ConditionManagerWeaponBreakthroughNotEnough"
+        "Key": "ConditionManagerWeaponBreakthroughNotEnough",
+        "Text": "Weapon not Overclocked"
     },
     {
         "Id": 20034037,
-        "Key": "ConditionManagerAwarenessSuitMaxLevelNotEnough"
+        "Key": "ConditionManagerAwarenessSuitMaxLevelNotEnough",
+        "Text": "Memory not at max level"
     },
     {
         "Id": 20034038,
-        "Key": "ConditionManagerAwarenessSuitMaxBreakthroughNotEnough"
+        "Key": "ConditionManagerAwarenessSuitMaxBreakthroughNotEnough",
+        "Text": "Memory not Overclocked"
     },
     {
         "Id": 20034039,
@@ -2602,35 +2646,67 @@
     },
     {
         "Id": 20034040,
-        "Key": "ConditionManagerGuildNotIn"
+        "Key": "ConditionManagerGuildNotIn",
+        "Text": "Not yet joined Command Bureau"
     },
     {
         "Id": 20034041,
-        "Key": "ConditionManagerGuildLevelNotEnough"
+        "Key": "ConditionManagerGuildLevelNotEnough",
+        "Text": "Command Bureau level too low"
     },
     {
         "Id": 20034042,
-        "Key": "ConditionManagerGuildJoinNotEnough"
+        "Key": "ConditionManagerGuildJoinNotEnough",
+        "Text": "Not enough days since joining Command Bureau"
     },
     {
         "Id": 20034043,
-        "Key": "ConditionManagerGuildMemberNotEnough"
+        "Key": "ConditionManagerGuildMemberNotEnough",
+        "Text": "Not enough Command Bureau members"
     },
     {
         "Id": 20034044,
-        "Key": "ConditionManagerFubenExploreNotFinished"
+        "Key": "ConditionManagerFubenExploreNotFinished",
+        "Text": "Exploration incomplete"
     },
     {
         "Id": 20034045,
-        "Key": "ConditionManagerRogueLikeMaxTierNotEnough"
+        "Key": "ConditionManagerRogueLikeMaxTierNotEnough",
+        "Text": "Not enough tower floors climbed"
     },
     {
         "Id": 20034046,
-        "Key": "ConditionManagerArenaOnlineFirstPassNotEnough"
+        "Key": "ConditionManagerArenaOnlineFirstPassNotEnough",
+        "Text": "Not enough first-time completions in Joint Warfare"
     },
     {
         "Id": 20034047,
-        "Key": "ConditionManagerArenaOnlineAssistCountNotEnough"
+        "Key": "ConditionManagerArenaOnlineAssistCountNotEnough",
+        "Text": "Not enough assists in Joint Warfare"
+    },
+    {
+        "Id": 20034048,
+        "Key": "ConditionManagerTaskNotFinish",
+        "Text": "Mission incomplete"
+    },
+    {
+        "Id": 20034049,
+        "Key": "ConditionManagerSpecialTrainStarNotEnough",
+        "Text": "Not enough stars gained in Operation Summer"
+    },
+    {
+        "Id": 20034050,
+        "Key": "ConditionManagerBossActivityStarRewardNotGet",
+        "Text": "Star reward not claimed"
+    },
+    {
+        "Id": 20034051,
+        "Key": "ConditionManagerCharacterTypeNumsNotEnough",
+        "Text": "Not enough deployed member types"
+    },
+    {
+        "Id": 20034052,
+        "Key": "ConditionManagerSpecialCollectionLevelNotEnough"
     },
     {
         "Id": 20036001,
@@ -2805,12 +2881,12 @@
     {
         "Id": 20041007,
         "Key": "TaskForceHaveNoCharacter",
-        "Text": "Construct does not exist"
+        "Text": "Member does not exist"
     },
     {
         "Id": 20041008,
         "Key": "TaskForceCharacterHasBeenDispatched",
-        "Text": "Construct has been dispatched"
+        "Text": "Member being dispatched"
     },
     {
         "Id": 20041009,
@@ -2825,7 +2901,7 @@
     {
         "Id": 20041011,
         "Key": "TaskForceTaskTheTaskIsNotCompleted",
-        "Text": "Mission not completed"
+        "Text": "Mission incomplete"
     },
     {
         "Id": 20043001,
@@ -3153,6 +3229,21 @@
         "Text": "Player is offline"
     },
     {
+        "Id": 20045023,
+        "Key": "MatchPlayerIsMatching",
+        "Text": "Matchmaking..."
+    },
+    {
+        "Id": 20045024,
+        "Key": "MatchPlayerCountNotEnough",
+        "Text": "Insufficient players. Battle cannot begin"
+    },
+    {
+        "Id": 20045025,
+        "Key": "MatchPlayerNotHaveSuitableCharacter",
+        "Text": "Not suitable characters"
+    },
+    {
         "Id": 20046001,
         "Key": "ExploreChapterIsNotExist",
         "Text": "Exploration chapter does not exist"
@@ -3170,7 +3261,7 @@
     {
         "Id": 20046004,
         "Key": "ExploreChapterRewardIsGot",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20046005,
@@ -3246,6 +3337,21 @@
         "Id": 20049004,
         "Key": "BossActivityIsEnd",
         "Text": "Battle period is over"
+    },
+    {
+        "Id": 20049005,
+        "Key": "BossActivityStarRewardIdNotExist",
+        "Text": "Reward claim ID does not exist"
+    },
+    {
+        "Id": 20049006,
+        "Key": "BossActivityTotalStartNotEnough",
+        "Text": "Not enough stars claimed"
+    },
+    {
+        "Id": 20049007,
+        "Key": "BossActivityStarRewardAlreadyGet",
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20050001,
@@ -3368,6 +3474,11 @@
         "Text": "Purchased item does not include daily reward"
     },
     {
+        "Id": 20053101,
+        "Key": "PurchaseExistMutexItem",
+        "Text": "Already own a conflicting product. Cannot purchase and replace it now."
+    },
+    {
         "Id": 20054001,
         "Key": "CdKeyInvalid",
         "Text": "Invalid gift code, please check again."
@@ -3409,20 +3520,48 @@
     },
     {
         "Id": 20055003,
-        "Key": "HeadPortraitNotExist"
+        "Key": "HeadPortraitNotExist",
+        "Text": "Portrait does not exist"
     },
     {
         "Id": 20055004,
-        "Key": "HeadPortraitTimeout"
+        "Key": "HeadPortraitTimeout",
+        "Text": "Portrait expired"
     },
     {
         "Id": 20055005,
-        "Key": "HeadPortraitNotInTime"
+        "Key": "HeadPortraitNotInTime",
+        "Text": "Portrait invalid"
+    },
+    {
+        "Id": 20055501,
+        "Key": "HeadFrameTemplateNotFound",
+        "Text": "Portrait frame configuration not found"
+    },
+    {
+        "Id": 20055502,
+        "Key": "HeadFrameNotOwned",
+        "Text": "Portrait frame not yet unlocked"
+    },
+    {
+        "Id": 20055503,
+        "Key": "HeadFrameNotExist",
+        "Text": "Portrait frame does not exist"
+    },
+    {
+        "Id": 20055504,
+        "Key": "HeadFrameTimeout",
+        "Text": "Portrait frame expired"
+    },
+    {
+        "Id": 20055505,
+        "Key": "HeadFrameNotInTime",
+        "Text": "Portrait frame invalid"
     },
     {
         "Id": 20057001,
         "Key": "FestivalActivityIsNotOpen",
-        "Text": "Event is not available yet"
+        "Text": "Event not yet available"
     },
     {
         "Id": 20057002,
@@ -3442,7 +3581,7 @@
     {
         "Id": 20058002,
         "Key": "RedEnvelopeActivityNotOpen",
-        "Text": "Event is not available yet"
+        "Text": "Event not yet available"
     },
     {
         "Id": 20058003,
@@ -3452,7 +3591,7 @@
     {
         "Id": 20059001,
         "Key": "BabelTowerActivityNotOpen",
-        "Text": "Event is not available yet"
+        "Text": "Event not yet available"
     },
     {
         "Id": 20059002,
@@ -3632,22 +3771,22 @@
     {
         "Id": 20060009,
         "Key": "DormCharacterIdInvalid",
-        "Text": "Invalid Construct id"
+        "Text": "Invalid member ID"
     },
     {
         "Id": 20060010,
         "Key": "DormCharacterEventTemplateIdInvalid",
-        "Text": "Construct event not found"
+        "Text": "Member event configuration not found "
     },
     {
         "Id": 20060011,
         "Key": "DormCharacterEventTypeTemplateIdInvalid",
-        "Text": "Type of Construct event not found"
+        "Text": "Member event configuration type not found "
     },
     {
         "Id": 20060012,
         "Key": "DormCharacterEventNotExist",
-        "Text": "Construct event does not exist"
+        "Text": "Member event does not exist"
     },
     {
         "Id": 20060013,
@@ -3817,7 +3956,7 @@
     {
         "Id": 20060046,
         "Key": "DormNoCharacterCanVisit",
-        "Text": "No Constructs can be visited"
+        "Text": "No accessible members"
     },
     {
         "Id": 20060047,
@@ -3841,11 +3980,13 @@
     },
     {
         "Id": 20060051,
-        "Key": "DormCreateCountTooMuch"
+        "Key": "DormCreateCountTooMuch",
+        "Text": "Max number of dormitories reached"
     },
     {
         "Id": 20060052,
-        "Key": "DormPutFurnitureCTooMuch"
+        "Key": "DormPutFurnitureCTooMuch",
+        "Text": "Furniture exceeds dormitory capacity"
     },
     {
         "Id": 20061001,
@@ -3940,7 +4081,7 @@
     {
         "Id": 20062013,
         "Key": "RepeatChallengeRewardIsGot",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20062014,
@@ -3969,71 +4110,88 @@
     },
     {
         "Id": 20063001,
-        "Key": "GuildServiceUnavaliable"
+        "Key": "GuildServiceUnavaliable",
+        "Text": "Command Bureau server error"
     },
     {
         "Id": 20063002,
-        "Key": "GuildCreateGuildNameIsNull"
+        "Key": "GuildCreateGuildNameIsNull",
+        "Text": "Command Bureau name cannot be blank"
     },
     {
         "Id": 20063003,
-        "Key": "GuildCreateGuildNameLengthError"
+        "Key": "GuildCreateGuildNameLengthError",
+        "Text": "Command Bureau name length requirement not met"
     },
     {
         "Id": 20063004,
-        "Key": "GuildCreateGuildNameInvalid"
+        "Key": "GuildCreateGuildNameInvalid",
+        "Text": "Command Bureau name contains illegal characters"
     },
     {
         "Id": 20063005,
-        "Key": "GuildCreateGuildDeclarationIsNull"
+        "Key": "GuildCreateGuildDeclarationIsNull",
+        "Text": "Command Bureau notice cannot be blank"
     },
     {
         "Id": 20063006,
-        "Key": "GuildCreateGuildDeclarationLengthError"
+        "Key": "GuildCreateGuildDeclarationLengthError",
+        "Text": "Command Bureau notice too long"
     },
     {
         "Id": 20063007,
-        "Key": "GuildCreateGuildDeclarationInvalid"
+        "Key": "GuildCreateGuildDeclarationInvalid",
+        "Text": "Command Bureau notice contains illegal characters"
     },
     {
         "Id": 20063008,
-        "Key": "GuildCreateGuildIconIdIsZero"
+        "Key": "GuildCreateGuildIconIdIsZero",
+        "Text": "Select an icon for Command Bureau"
     },
     {
         "Id": 20063009,
-        "Key": "GuildCreateGuildInCreating"
+        "Key": "GuildCreateGuildInCreating",
+        "Text": "Command Bureau being created. Try again later"
     },
     {
         "Id": 20063010,
-        "Key": "GuildCreateGuildPlayerHasGuild"
+        "Key": "GuildCreateGuildPlayerHasGuild",
+        "Text": "Failed to create Command Bureau as you have already joined one"
     },
     {
         "Id": 20063011,
-        "Key": "GuildCreateGuildGuildExists"
+        "Key": "GuildCreateGuildGuildExists",
+        "Text": "Command Bureau name already in use"
     },
     {
         "Id": 20063012,
-        "Key": "GuildCreateGuildNameDuplicated"
+        "Key": "GuildCreateGuildNameDuplicated",
+        "Text": "Command Bureau name already exists"
     },
     {
         "Id": 20063013,
-        "Key": "GuildCreateGuildPlayerIdDuplicated"
+        "Key": "GuildCreateGuildPlayerIdDuplicated",
+        "Text": "Failed to create Command Bureau as you have already joined another one"
     },
     {
         "Id": 20063014,
-        "Key": "GuildCreateGuildIdDuplicated"
+        "Key": "GuildCreateGuildIdDuplicated",
+        "Text": "Command Bureau name already in use"
     },
     {
         "Id": 20063015,
-        "Key": "GuildCreateGuildDataAsyncError"
+        "Key": "GuildCreateGuildDataAsyncError",
+        "Text": "Failed to create Command Bureau data"
     },
     {
         "Id": 20063016,
-        "Key": "GuildCreateGuildInCd"
+        "Key": "GuildCreateGuildInCd",
+        "Text": "After leaving a Command Bureau, you need to wait 8 hours before you can join a new one"
     },
     {
         "Id": 20063017,
-        "Key": "GuildCreateErrorHeadPortrait"
+        "Key": "GuildCreateErrorHeadPortrait",
+        "Text": "Command Bureau portrait does not exist"
     },
     {
         "Id": 20063018,
@@ -4042,23 +4200,28 @@
     },
     {
         "Id": 20063019,
-        "Key": "GuildCreateServiceException"
+        "Key": "GuildCreateServiceException",
+        "Text": "Failed to create Command Bureau"
     },
     {
         "Id": 20063020,
-        "Key": "GuildCreateGuildInternalError"
+        "Key": "GuildCreateGuildInternalError",
+        "Text": "Cannot create Command Bureau data"
     },
     {
         "Id": 20063021,
-        "Key": "GuildApplyInCd"
+        "Key": "GuildApplyInCd",
+        "Text": "After leaving a Command Bureau, you need to wait 8 hours before you can join a new one"
     },
     {
         "Id": 20063022,
-        "Key": "GuildApplyPlyaerHasGuild"
+        "Key": "GuildApplyPlyaerHasGuild",
+        "Text": "Request failed. Already joined a Command Bureau"
     },
     {
         "Id": 20063023,
-        "Key": "GuildApplyPlyaerApplyMaxCount"
+        "Key": "GuildApplyPlyaerApplyMaxCount",
+        "Text": "Sending requests to too many Command Bureaus at the same time"
     },
     {
         "Id": 20063024,
@@ -4067,825 +4230,1428 @@
     },
     {
         "Id": 20063025,
-        "Key": "GuildApplyServiceException"
+        "Key": "GuildApplyServiceException",
+        "Text": "Request failed. Unknown error"
     },
     {
         "Id": 20063026,
-        "Key": "GuildApplyGuildNotExist"
+        "Key": "GuildApplyGuildNotExist",
+        "Text": "The player's Command Bureau does not exist"
     },
     {
         "Id": 20063027,
-        "Key": "GuildApplyGuildApplyMaxCount"
+        "Key": "GuildApplyGuildApplyMaxCount",
+        "Text": "The player's Command Bureau request list is full"
     },
     {
         "Id": 20063028,
-        "Key": "GuildAckApplyAckHasNotGuild"
+        "Key": "GuildAckApplyAckHasNotGuild",
+        "Text": "Approval failed. Not in Command Bureau"
     },
     {
         "Id": 20063029,
-        "Key": "GuildAckApplyAckGuildNotExist"
+        "Key": "GuildAckApplyAckGuildNotExist",
+        "Text": "Command Bureau does not exist"
     },
     {
         "Id": 20063030,
-        "Key": "GuildAckApplyAckNotInThisGuild"
+        "Key": "GuildAckApplyAckNotInThisGuild",
+        "Text": "Approval failed. Not in Command Bureau"
     },
     {
         "Id": 20063031,
-        "Key": "GuildAckApplyAckLessRank"
+        "Key": "GuildAckApplyAckLessRank",
+        "Text": "No approval authority"
     },
     {
         "Id": 20063032,
-        "Key": "GuildAckApplyApplicantHasGuild"
+        "Key": "GuildAckApplyApplicantHasGuild",
+        "Text": "The player has joined another Command Bureau"
     },
     {
         "Id": 20063033,
-        "Key": "GuildAckApplyNotApply"
+        "Key": "GuildAckApplyNotApply",
+        "Text": "Player has not yet sent a request"
     },
     {
         "Id": 20063034,
-        "Key": "GuildAckApplyReachCapacity"
+        "Key": "GuildAckApplyReachCapacity",
+        "Text": "Command Bureau full"
     },
     {
         "Id": 20063035,
-        "Key": "GuildAckApplyServiceException"
+        "Key": "GuildAckApplyServiceException",
+        "Text": "Approval failed. Unknown error"
     },
     {
         "Id": 20063036,
-        "Key": "GuildApplyBanApply"
+        "Key": "GuildApplyBanApply",
+        "Text": "Request denied by the player's Command Bureau"
     },
     {
         "Id": 20063037,
-        "Key": "GuildListRecommendHasGuild"
+        "Key": "GuildApplyLessLevel",
+        "Text": "You do not meet the level requirement to join this Command Bureau"
     },
     {
         "Id": 20063038,
-        "Key": "GuildListRecommendServiceException"
+        "Key": "GuildListRecommendHasGuild",
+        "Text": "Failed to recommend as you are already a member of Command Bureau"
     },
     {
         "Id": 20063039,
-        "Key": "GuildListDetailGuildNotExist"
+        "Key": "GuildListRecommendServiceException",
+        "Text": "Failed to recommend due to unknown error"
     },
     {
         "Id": 20063040,
-        "Key": "GuildListDetailPlayerNotInGuild"
+        "Key": "GuildListDetailGuildNotExist",
+        "Text": "Failed to view detail as Command Bureau has disbanded"
     },
     {
         "Id": 20063041,
-        "Key": "GuildListDetailServiceException"
+        "Key": "GuildListDetailPlayerNotInGuild",
+        "Text": "Failed to view detail as you are not in Command Bureau"
     },
     {
         "Id": 20063042,
-        "Key": "GuildChangeIconHasNotGuild"
+        "Key": "GuildListDetailServiceException",
+        "Text": "Failed to view detail due to unknown error"
     },
     {
         "Id": 20063043,
-        "Key": "GuildChangeIconGuildNotExist"
+        "Key": "GuildChangeIconHasNotGuild",
+        "Text": "Failed to change icon as you have not joined Command Bureau"
     },
     {
         "Id": 20063044,
-        "Key": "GuildChangeIconNotInThisGuild"
+        "Key": "GuildChangeIconGuildNotExist",
+        "Text": "Failed to change icon as Command Bureau does not exist"
     },
     {
         "Id": 20063045,
-        "Key": "GuildChangeIconLessRank"
+        "Key": "GuildChangeIconNotInThisGuild",
+        "Text": "Failed to change icon as you are not in Command Bureau"
     },
     {
         "Id": 20063046,
-        "Key": "GuildChangeIconErrorHeadPortrait"
+        "Key": "GuildChangeIconLessRank",
+        "Text": "Failed to change icon due to insufficient authority"
     },
     {
         "Id": 20063047,
-        "Key": "GuildChangeIconServiceException"
+        "Key": "GuildChangeIconErrorHeadPortrait",
+        "Text": "Wrong portrait. Failed to change Command Bureau icon"
     },
     {
         "Id": 20063048,
-        "Key": "GuildChangeDeclarationHasNotGuild"
+        "Key": "GuildChangeIconServiceException",
+        "Text": "Failed to change icon due to unknown error"
     },
     {
         "Id": 20063049,
-        "Key": "GuildChangeDeclarationLengthError"
+        "Key": "GuildChangeDeclarationHasNotGuild",
+        "Text": "Failed to change notice as you have not joined Command Bureau"
     },
     {
         "Id": 20063050,
-        "Key": "GuildChangeDeclarationInvalid"
+        "Key": "GuildChangeDeclarationLengthError",
+        "Text": "Failed to change notice as length limit is exceeded"
     },
     {
         "Id": 20063051,
-        "Key": "GuildChangeDeclarationGuildNotExist"
+        "Key": "GuildChangeDeclarationInvalid",
+        "Text": "Failed to change notice as illegal characters were detected"
     },
     {
         "Id": 20063052,
-        "Key": "GuildChangeDeclarationNotInThisGuild"
+        "Key": "GuildChangeDeclarationGuildNotExist",
+        "Text": "Failed to change notice as Command Bureau does not exist"
     },
     {
         "Id": 20063053,
-        "Key": "GuildChangeDeclarationLessRank"
+        "Key": "GuildChangeDeclarationNotInThisGuild",
+        "Text": "Failed to change notice as you are not in Command Bureau"
     },
     {
         "Id": 20063054,
-        "Key": "GuildChangeDeclarationServiceException"
+        "Key": "GuildChangeDeclarationLessRank",
+        "Text": "Failed to change notice due to insufficient authority"
     },
     {
         "Id": 20063055,
-        "Key": "GuildChangeRankNameHasNotGuild"
+        "Key": "GuildChangeDeclarationServiceException",
+        "Text": "Failed to change notice due to unknown error"
     },
     {
         "Id": 20063056,
-        "Key": "GuildChangeRankNameInvalid"
+        "Key": "GuildChangeRankNameHasNotGuild",
+        "Text": "Failed to change position title as you have not joined Command Bureau"
     },
     {
         "Id": 20063057,
-        "Key": "GuildChangeRankNameGuildNotExist"
+        "Key": "GuildChangeRankNameInvalid",
+        "Text": "Failed to change position title as illegal characters were detected"
     },
     {
         "Id": 20063058,
-        "Key": "GuildChangeNameNotInThisGuild"
+        "Key": "GuildChangeRankNameGuildNotExist",
+        "Text": "Failed to change position title as Command Bureau does not exist"
     },
     {
         "Id": 20063059,
-        "Key": "GuildChangeNameLessRank"
+        "Key": "GuildChangeNameNotInThisGuild",
+        "Text": "Failed to change position title as you are not in Command Bureau"
     },
     {
         "Id": 20063060,
-        "Key": "GuildChangeRankNameServiceException"
+        "Key": "GuildChangeNameLessRank",
+        "Text": "Failed to change position title due to insufficient authority"
     },
     {
         "Id": 20063061,
-        "Key": "GuildReleaseWishHasNotGuild"
+        "Key": "GuildChangeRankNameServiceException",
+        "Text": "Failed to change position title due to unknown error"
     },
     {
         "Id": 20063062,
-        "Key": "GuildReleaseWishErrorItemId"
+        "Key": "GuildReleaseWishHasNotGuild",
+        "Text": "Failed to send wish as you have not joined Command Bureau"
     },
     {
         "Id": 20063063,
-        "Key": "GuildReleaseWishMaxCount"
+        "Key": "GuildReleaseWishErrorItemId",
+        "Text": "Failed to send wish due to wrong item ID"
     },
     {
         "Id": 20063064,
-        "Key": "GuildReleaseWishGuildNotExist"
+        "Key": "GuildReleaseWishMaxCount",
+        "Text": "Failed to send wish. Wish limit reached"
     },
     {
         "Id": 20063065,
-        "Key": "GuildReleaseWishNotInThisGuild"
+        "Key": "GuildReleaseWishGuildNotExist",
+        "Text": "Failed to send wish as Command Bureau does not exist"
     },
     {
         "Id": 20063066,
-        "Key": "GuildReleaseWishServiceException"
+        "Key": "GuildReleaseWishNotInThisGuild",
+        "Text": "Failed to send wish as you are not in Command Bureau"
     },
     {
         "Id": 20063067,
-        "Key": "GuildListWishGuildNotExist"
+        "Key": "GuildReleaseWishServiceException",
+        "Text": "Failed to send wish due to unknown error"
     },
     {
         "Id": 20063068,
-        "Key": "GuildListWishHasNotGuild"
+        "Key": "GuildListWishGuildNotExist",
+        "Text": "Failed to view wish as Command Bureau does not exist"
     },
     {
         "Id": 20063069,
-        "Key": "GuildListWishServiceException"
+        "Key": "GuildListWishHasNotGuild",
+        "Text": "Failed to view wish as you have not joined Command Bureau"
     },
     {
         "Id": 20063070,
-        "Key": "GuildWishContributeGuildNotExist"
+        "Key": "GuildListWishServiceException",
+        "Text": "Failed to view wish due to unknown error"
     },
     {
         "Id": 20063071,
-        "Key": "GuildWishContributeHasNotGuild"
+        "Key": "GuildWishContributeGuildNotExist",
+        "Text": "Failed to donate wish as Command Bureau does not exist"
     },
     {
         "Id": 20063072,
-        "Key": "GuildWishContributeItemNotEnough"
+        "Key": "GuildWishContributeHasNotGuild",
+        "Text": "Failed to donate wish as you have not joined Command Bureau"
     },
     {
         "Id": 20063073,
-        "Key": "GuildWishContributeCantToSelf"
+        "Key": "GuildWishContributeItemNotEnough",
+        "Text": "Failed to donate wish due to insufficient items"
     },
     {
         "Id": 20063074,
-        "Key": "GuildWishContributeNotInThisGuild"
+        "Key": "GuildWishContributeCantToSelf",
+        "Text": "Failed to donate wish as you cannot donate to yourself"
     },
     {
         "Id": 20063075,
-        "Key": "GuildWishContributeMaxCount"
+        "Key": "GuildWishContributeNotInThisGuild",
+        "Text": "Failed to donate wish as you are not in Command Bureau"
     },
     {
         "Id": 20063076,
-        "Key": "GuildWishContributeErrorWish"
+        "Key": "GuildWishContributeMaxCount",
+        "Text": "Failed to donate wish as you have reached the donation limit"
     },
     {
         "Id": 20063077,
-        "Key": "GuildWishContributeOnlyOnce"
+        "Key": "GuildWishContributeErrorWish",
+        "Text": "Failed to donate wish as wish data cannot be found"
     },
     {
         "Id": 20063078,
-        "Key": "GuildWishContributeServiceException"
+        "Key": "GuildWishContributeOnlyOnce",
+        "Text": "Failed to donate wishes as you cannot donate even number of wishes"
     },
     {
         "Id": 20063079,
-        "Key": "GuildChangeRankHasNotGuild"
+        "Key": "GuildWishContributeServiceException",
+        "Text": "Failed to donate wish due to unknown error"
     },
     {
         "Id": 20063080,
-        "Key": "GuildChangeRankCantToSelf"
+        "Key": "GuildChangeRankHasNotGuild",
+        "Text": "Failed to change position as you have not joined Command Bureau"
     },
     {
         "Id": 20063081,
-        "Key": "GuildChangeRankErrorNewRank"
+        "Key": "GuildChangeRankCantToSelf",
+        "Text": "Failed to change position as you cannot change your own position"
     },
     {
         "Id": 20063082,
-        "Key": "GuildChangeRankGuildNotExist"
+        "Key": "GuildChangeRankErrorNewRank",
+        "Text": "Failed to change position due to a data error with the new position"
     },
     {
         "Id": 20063083,
-        "Key": "GuildChangeRankNotInThisGuild"
+        "Key": "GuildChangeRankGuildNotExist",
+        "Text": "Failed to change position as Command Bureau does not exist"
     },
     {
         "Id": 20063084,
-        "Key": "GuildChangeRankOtherNotInThisGuild"
+        "Key": "GuildChangeRankNotInThisGuild",
+        "Text": "Failed to change position as you are not in Command Bureau"
     },
     {
         "Id": 20063085,
-        "Key": "GuildChangeRankSameRank"
+        "Key": "GuildChangeRankOtherNotInThisGuild",
+        "Text": "Failed to change position as the player is not in Command Bureau"
     },
     {
         "Id": 20063086,
-        "Key": "GuildChangeRankLevelLtOther"
+        "Key": "GuildChangeRankSameRank",
+        "Text": "Failed to change position as you and the player serve in the same position"
     },
     {
         "Id": 20063087,
-        "Key": "GuildChangeRankLevelLtOtherNew"
+        "Key": "GuildChangeRankLevelLtOther",
+        "Text": "Failed to change position as your position is lower than the player's"
     },
     {
         "Id": 20063088,
-        "Key": "GuildChangeRankMaxCount"
+        "Key": "GuildChangeRankLevelLtOtherNew",
+        "Text": "Failed to change position as your current position is lower than the target position"
     },
     {
         "Id": 20063089,
-        "Key": "GuildChangeRankServiceException"
+        "Key": "GuildChangeRankMaxCount",
+        "Text": "Failed to change position as you have reached the position change limit"
     },
     {
         "Id": 20063090,
-        "Key": "GuildQuitHasNotGuild"
+        "Key": "GuildChangeRankServiceException",
+        "Text": "Failed to change position due to unknown error"
     },
     {
         "Id": 20063091,
-        "Key": "GuildQuitGuildNotExist"
+        "Key": "GuildQuitHasNotGuild",
+        "Text": "Failed to exit Command Bureau as you have not joined it"
     },
     {
         "Id": 20063092,
-        "Key": "GuildQuitNotInThisGuild"
+        "Key": "GuildQuitGuildNotExist",
+        "Text": "Failed to exit Command Bureau as it does not exist"
     },
     {
         "Id": 20063093,
-        "Key": "GuildQuitLeaderCantQuit"
+        "Key": "GuildQuitNotInThisGuild",
+        "Text": "Failed to exit Command Bureau as you are not a member"
     },
     {
         "Id": 20063094,
-        "Key": "GuildQuitServiceException"
+        "Key": "GuildQuitLeaderCantQuit",
+        "Text": "Failed to exit Command Bureau as you are the leader"
     },
     {
         "Id": 20063095,
-        "Key": "GuildKickMemberHasNotGuild"
+        "Key": "GuildQuitServiceException",
+        "Text": "Failed to exit Command Bureau due to unknown error"
     },
     {
         "Id": 20063096,
-        "Key": "GuildKickMemberGuildNotExist"
+        "Key": "GuildKickMemberHasNotGuild",
+        "Text": "Failed to remove member as you have not joined Command Bureau"
     },
     {
         "Id": 20063097,
-        "Key": "GuildKickMemberKickSelf"
+        "Key": "GuildKickMemberGuildNotExist",
+        "Text": "Failed to remove member as Command Bureau does not exist"
     },
     {
         "Id": 20063098,
-        "Key": "GuildKickMemberOfficerNotInThisGuild"
+        "Key": "GuildKickMemberKickSelf",
+        "Text": "Failed to remove member as you cannot remove yourself"
     },
     {
         "Id": 20063099,
-        "Key": "GuildKickMemberLessRank"
+        "Key": "GuildKickMemberOfficerNotInThisGuild",
+        "Text": "Failed to remove member as you are not in Command Bureau"
     },
     {
         "Id": 20063100,
-        "Key": "GuildKickMemberOtherNotInThisGuild"
+        "Key": "GuildKickMemberLessRank",
+        "Text": "Failed to remove member due to insufficient authority"
     },
     {
         "Id": 20063101,
-        "Key": "GuildKickMemberRankLtOther"
+        "Key": "GuildKickMemberOtherNotInThisGuild",
+        "Text": "Failed to remove player as he/she is not in Command Bureau"
     },
     {
         "Id": 20063102,
-        "Key": "GuildKickMemberServiceException"
+        "Key": "GuildKickMemberRankLtOther",
+        "Text": "Failed to remove member as his/her position is higher than yours"
     },
     {
         "Id": 20063103,
-        "Key": "GuildListNewsHasNotGuild"
+        "Key": "GuildKickMemberServiceException",
+        "Text": "Failed to remove member due to unknown error"
     },
     {
         "Id": 20063104,
-        "Key": "GuildListNewsGuildNotExist"
+        "Key": "GuildListNewsHasNotGuild",
+        "Text": "Failed to view news as you have not joined Command Bureau"
     },
     {
         "Id": 20063105,
-        "Key": "GuildListNewsServiceException"
+        "Key": "GuildListNewsGuildNotExist",
+        "Text": "Failed to view news as Command Bureau does not exist"
     },
     {
         "Id": 20063106,
-        "Key": "GuildGiveLikeHasNotGuild"
+        "Key": "GuildListNewsServiceException",
+        "Text": "Failed to view news due to unknown error"
     },
     {
         "Id": 20063107,
-        "Key": "GuildGiveLikeGiveSelf"
+        "Key": "GuildGiveLikeHasNotGuild",
+        "Text": "Liking failed as you have not joined Command Bureau"
     },
     {
         "Id": 20063108,
-        "Key": "GuildGiveLikeGuildNotExist"
+        "Key": "GuildGiveLikeGiveSelf",
+        "Text": "Liking failed as you cannot like yourself"
     },
     {
         "Id": 20063109,
-        "Key": "GuildGiveLikePlayerNotInThisGuild"
+        "Key": "GuildGiveLikeGuildNotExist",
+        "Text": "Liking failed as Command Bureau does not exist"
     },
     {
         "Id": 20063110,
-        "Key": "GuildGiveLikeOtherNotInThisGuild"
+        "Key": "GuildGiveLikePlayerNotInThisGuild",
+        "Text": "Liking failed as you are not in Command Bureau"
     },
     {
         "Id": 20063111,
-        "Key": "GuildGiveLikeItemNotEnough"
+        "Key": "GuildGiveLikeOtherNotInThisGuild",
+        "Text": "Liking failed as the player is not in Command Bureau"
     },
     {
         "Id": 20063112,
-        "Key": "GuildGiveLikeServiceException"
+        "Key": "GuildGiveLikeItemNotEnough",
+        "Text": "Liking failed due to insufficient items"
     },
     {
         "Id": 20063113,
-        "Key": "GuildImpeachHasNotGuild"
+        "Key": "GuildGiveLikeServiceException",
+        "Text": "Liking failed due to unknown error"
     },
     {
         "Id": 20063114,
-        "Key": "GuildImpeachPlayerNotInThisGuild"
+        "Key": "GuildImpeachHasNotGuild",
+        "Text": "Impeachment failed as you have not joined Command Bureau"
     },
     {
         "Id": 20063115,
-        "Key": "GuildImpeachSelf"
+        "Key": "GuildImpeachPlayerNotInThisGuild",
+        "Text": "Impeachment failed as you are not in Command Bureau"
     },
     {
         "Id": 20063116,
-        "Key": "GuildImpeachErrorDuration"
+        "Key": "GuildImpeachSelf",
+        "Text": "Impeachment failed as you cannot impeach yourself"
     },
     {
         "Id": 20063117,
-        "Key": "GuildImpeachDuplicated"
+        "Key": "GuildImpeachErrorDuration",
+        "Text": "Impeachment failed as Commander-in-Chief is back"
     },
     {
         "Id": 20063118,
-        "Key": "GuildChangeImpeachServiceException"
+        "Key": "GuildImpeachDuplicated",
+        "Text": "Impeachment failed due to duplicate impeachment"
     },
     {
         "Id": 20063119,
-        "Key": "GuildRejeactImpeachHasNotGuild"
+        "Key": "GuildChangeImpeachServiceException",
+        "Text": "Impeachment failed due to unknown error"
     },
     {
         "Id": 20063120,
-        "Key": "GuildChangeScriptHasNotGuild"
+        "Key": "GuildRejeactImpeachHasNotGuild",
+        "Text": "Failed to oppose impeachment as you have not joined Command Bureau"
     },
     {
         "Id": 20063121,
-        "Key": "GuildChangeScriptErrorIndex"
+        "Key": "GuildChangeScriptHasNotGuild",
+        "Text": "Failed to change welcome message as you have not joined Command Bureau"
     },
     {
         "Id": 20063122,
-        "Key": "GuildChangeScriptInvalid"
+        "Key": "GuildChangeScriptErrorIndex",
+        "Text": "Failed to change welcome message due to index error"
     },
     {
         "Id": 20063123,
-        "Key": "GuildChangeScriptErrorLength"
+        "Key": "GuildChangeScriptInvalid",
+        "Text": "Failed to change welcome message as sensitive characters were detected"
     },
     {
         "Id": 20063124,
-        "Key": "GuildChangeScriptMaxCount"
+        "Key": "GuildChangeScriptErrorLength",
+        "Text": "Failed to change welcome message as length limit is exceeded"
     },
     {
         "Id": 20063125,
-        "Key": "GuildChangeScriptGuildNotExist"
+        "Key": "GuildChangeScriptMaxCount",
+        "Text": "Failed to change welcome message as message limit is reached"
     },
     {
         "Id": 20063126,
-        "Key": "GuildChangeScriptOfficerNotInThisGuild"
+        "Key": "GuildChangeScriptGuildNotExist",
+        "Text": "Failed to change welcome message as Command Bureau does not exist"
     },
     {
         "Id": 20063127,
-        "Key": "GuildChangeScriptLessRank"
+        "Key": "GuildChangeScriptOfficerNotInThisGuild",
+        "Text": "Failed to change welcome message as you are not in Command Bureau"
     },
     {
         "Id": 20063128,
-        "Key": "GuildChangeScriptServiceException"
+        "Key": "GuildChangeScriptLessRank",
+        "Text": "Failed to change welcome message due to insufficient authority"
     },
     {
         "Id": 20063129,
-        "Key": "GuildListScriptHasNotGuild"
+        "Key": "GuildChangeScriptServiceException",
+        "Text": "Failed to change welcome message due to unknown error"
     },
     {
         "Id": 20063130,
-        "Key": "GuildListScriptGuildNotExist"
+        "Key": "GuildListScriptHasNotGuild",
+        "Text": "Failed to view message list as you have not joined Command Bureau"
     },
     {
         "Id": 20063131,
-        "Key": "GuildListScriptOfficerNotInThisGuild"
+        "Key": "GuildListScriptGuildNotExist",
+        "Text": "Failed to view message list as Command Bureau does not exist"
     },
     {
         "Id": 20063132,
-        "Key": "GuildListScriptLessRank"
+        "Key": "GuildListScriptOfficerNotInThisGuild",
+        "Text": "Failed to view message list as you are not in Command Bureau"
     },
     {
         "Id": 20063133,
-        "Key": "GuildListScriptServiceException"
+        "Key": "GuildListScriptLessRank",
+        "Text": "Failed to view message list due to insufficient authority"
     },
     {
         "Id": 20063134,
-        "Key": "GuildTouristPlayerHasGuild"
+        "Key": "GuildListScriptServiceException",
+        "Text": "Failed to view message list due to unknown error"
     },
     {
         "Id": 20063135,
-        "Key": "GuildTouristTouristHasGuild"
+        "Key": "GuildTouristPlayerHasGuild",
+        "Text": "Failed to visit as guest because you have already joined Command Bureau"
     },
     {
         "Id": 20063136,
-        "Key": "GuildTouristGuildNotExist"
+        "Key": "GuildTouristTouristHasGuild",
+        "Text": "Already joined Command Bureau"
     },
     {
         "Id": 20063137,
-        "Key": "GuildTouristTryAddFailed"
+        "Key": "GuildTouristGuildNotExist",
+        "Text": "Failed to visit as guest because Command Bureau does not exist"
     },
     {
         "Id": 20063138,
-        "Key": "GuildTouristMaxCount"
+        "Key": "GuildTouristTryAddFailed",
+        "Text": "Failed to visit as guest because you have failed to join as guest"
     },
     {
         "Id": 20063139,
-        "Key": "GuildQuitTouristHasNotGuild"
+        "Key": "GuildTouristMaxCount",
+        "Text": "Failed to visit as guest because guest limit is reached"
     },
     {
         "Id": 20063140,
-        "Key": "GuildQuitTouristNotInThisGuild"
+        "Key": "GuildQuitTouristHasNotGuild",
+        "Text": "Failed to exit as guest as you have not joined Command Bureau"
     },
     {
         "Id": 20063141,
-        "Key": "GuildRecruitRecommendHasNotGuild"
+        "Key": "GuildQuitTouristNotInThisGuild",
+        "Text": "Failed to exit as guest as you are not in Command Bureau"
     },
     {
         "Id": 20063142,
-        "Key": "GuildRecruitRecommendException"
+        "Key": "GuildRecruitRecommendHasNotGuild",
+        "Text": "Recruitment recommendation failed as you have not joined Command Bureau"
     },
     {
         "Id": 20063143,
-        "Key": "GuildRecruitRecommendGuildNotExist"
+        "Key": "GuildRecruitRecommendException",
+        "Text": "Recruitment recommendation failed due to unknown error"
     },
     {
         "Id": 20063144,
-        "Key": "GuildRecruitRecommendOfficerNotInThisGuild"
+        "Key": "GuildRecruitRecommendGuildNotExist",
+        "Text": "Recruitment recommendation failed as Command Bureau does not exist"
     },
     {
         "Id": 20063145,
-        "Key": "GuildRecruitRecommendLessRank"
+        "Key": "GuildRecruitRecommendOfficerNotInThisGuild",
+        "Text": "Recruitment recommendation failed recommend as you are not in Command Bureau"
     },
     {
         "Id": 20063146,
-        "Key": "GuildRecruitRecommendNeedRefresh"
+        "Key": "GuildRecruitRecommendLessRank",
+        "Text": "Recruitment recommendation failed due to insufficient authority"
     },
     {
         "Id": 20063147,
-        "Key": "GuildUpdateRecruitRecommendGuildNotExist"
+        "Key": "GuildRecruitRecommendNeedRefresh",
+        "Text": "Please refresh recruitment recommendation"
     },
     {
         "Id": 20063148,
-        "Key": "GuildUpdateRecruitRecommendOfficerNotInThisGuild"
+        "Key": "GuildUpdateRecruitRecommendGuildNotExist",
+        "Text": "Failed to refresh recruitment recommendation as Command Bureau does not exist"
     },
     {
         "Id": 20063149,
-        "Key": "GuildUpdateRecruitRecommendLessRank"
+        "Key": "GuildUpdateRecruitRecommendOfficerNotInThisGuild",
+        "Text": "Failed to refresh recruitment recommendation as you are not in Command Bureau"
     },
     {
         "Id": 20063150,
-        "Key": "GuildRecruitHasNotGuild"
+        "Key": "GuildUpdateRecruitRecommendLessRank",
+        "Text": "Failed to refresh recruitment recommendation due to insufficient authority"
     },
     {
         "Id": 20063151,
-        "Key": "GuildRecruitServiceException"
+        "Key": "GuildRecruitHasNotGuild",
+        "Text": "Failed to recruit as you have not joined Command Bureau"
     },
     {
         "Id": 20063152,
-        "Key": "GuildRecruitGuildNotExist"
+        "Key": "GuildRecruitServiceException",
+        "Text": "Failed to recruit due to unknown error"
     },
     {
         "Id": 20063153,
-        "Key": "GuildRecruitOfficerNotInThisGuild"
+        "Key": "GuildRecruitGuildNotExist",
+        "Text": "Failed to recruit as Command Bureau does not exist"
     },
     {
         "Id": 20063154,
-        "Key": "GuildRecruitLessRank"
+        "Key": "GuildRecruitOfficerNotInThisGuild",
+        "Text": "Failed to recruit as you are not in Command Bureau"
     },
     {
         "Id": 20063155,
-        "Key": "GuildRecruitPlayerHasGuild"
+        "Key": "GuildRecruitLessRank",
+        "Text": "Failed to recruit due to insufficient authority"
     },
     {
         "Id": 20063156,
-        "Key": "GuildRecruitPlayerNotInRecommend",
-        "Text": "The player isn't in the recruit list"
+        "Key": "GuildRecruitPlayerHasGuild",
+        "Text": "The player has joined another Command Bureau"
     },
     {
         "Id": 20063157,
-        "Key": "GuildRecruitDuplicated"
+        "Key": "GuildRecruitPlayerNotInRecommend",
+        "Text": "The player is not in the recruit list"
     },
     {
         "Id": 20063158,
-        "Key": "GuildRecruitGuildMaxCount"
+        "Key": "GuildRecruitDuplicated",
+        "Text": "Duplicate request"
     },
     {
         "Id": 20063159,
-        "Key": "GuildListRecruitHasGuild",
-        "Text": "The player has already joined a guild"
+        "Key": "GuildRecruitGuildMaxCount",
+        "Text": "Failed to recruit. Daily recruitment attempts used up"
     },
     {
         "Id": 20063160,
-        "Key": "GuildListRecruitServiceException"
+        "Key": "GuildListRecruitHasGuild",
+        "Text": "You have already joined Command Bureau"
     },
     {
         "Id": 20063161,
-        "Key": "GuildAckRecruitHasGuild"
+        "Key": "GuildListRecruitServiceException",
+        "Text": "Failed to view recruit list due to unknown error"
     },
     {
         "Id": 20063162,
-        "Key": "GuildAckRecruitServiceException"
+        "Key": "GuildAckRecruitHasGuild",
+        "Text": "You have already joined Command Bureau"
     },
     {
         "Id": 20063163,
-        "Key": "GuildAckRecruitGuildNotExist"
+        "Key": "GuildAckRecruitServiceException",
+        "Text": "Failed to confirm recruitment due to unknown error"
     },
     {
         "Id": 20063164,
-        "Key": "GuildAckRecruitNoRecruit"
+        "Key": "GuildAckRecruitGuildNotExist",
+        "Text": "Failed to respond as Command Bureau does not exist"
     },
     {
         "Id": 20063165,
-        "Key": "GuildAckRecruitReachCapacity"
+        "Key": "GuildAckRecruitNoRecruit",
+        "Text": "Failed to respond as recruitment message does not exist "
     },
     {
         "Id": 20063166,
-        "Key": "GuildAckRecruitInCd"
+        "Key": "GuildAckRecruitReachCapacity",
+        "Text": "Failed to respond as Command Bureau is full"
     },
     {
         "Id": 20063167,
-        "Key": "GuildLevelUpHasNotGuild"
+        "Key": "GuildAckRecruitInCd",
+        "Text": "After leaving a Command Bureau, you need to wait 8 hours before you can join a new one"
     },
     {
         "Id": 20063168,
-        "Key": "GuildLevelUpServiceException"
+        "Key": "GuildLevelUpHasNotGuild",
+        "Text": "Failed to upgrade Command Bureau as you have not joined it"
     },
     {
         "Id": 20063169,
-        "Key": "GuildLevelUpGuildNotExist"
+        "Key": "GuildLevelUpServiceException",
+        "Text": "Failed to upgrade Command Bureau due to unknown error"
     },
     {
         "Id": 20063170,
-        "Key": "GuildLevelUpOfficerNotInThisGuild"
+        "Key": "GuildLevelUpGuildNotExist",
+        "Text": "Failed to upgrade Command Bureau as it does not exist"
     },
     {
         "Id": 20063171,
-        "Key": "GuildLevelUpLessRank"
+        "Key": "GuildLevelUpOfficerNotInThisGuild",
+        "Text": "Failed to upgrade Command Bureau as you are not in it"
     },
     {
         "Id": 20063172,
-        "Key": "GuildLevelUpLessBuild"
+        "Key": "GuildLevelUpLessRank",
+        "Text": "Failed to upgrade Command Bureau due to insufficient authority"
     },
     {
         "Id": 20063173,
-        "Key": "GuildLevelUpMaxLevel"
+        "Key": "GuildLevelUpLessBuild",
+        "Text": "Failed to upgrade Command Bureau due to insufficient Build Progress"
     },
     {
         "Id": 20063174,
-        "Key": "GuildPayMaintainHasNotGuild"
+        "Key": "GuildLevelUpMaxLevel",
+        "Text": "Failed to upgrade Command Bureau as it has reached max level"
     },
     {
         "Id": 20063175,
-        "Key": "GuildPayMaintainServiceException"
+        "Key": "GuildPayMaintainHasNotGuild",
+        "Text": "Failed to pay maintenance fee as you have not joined Command Bureau"
     },
     {
         "Id": 20063176,
-        "Key": "GuildPayMaintainGuildNotExist"
+        "Key": "GuildPayMaintainServiceException",
+        "Text": "Failed to pay maintenance fee due to unknown error"
     },
     {
         "Id": 20063177,
-        "Key": "GuildPayMaintainOfficerNotInThisGuild"
+        "Key": "GuildPayMaintainGuildNotExist",
+        "Text": "Failed to pay maintenance fee as Command Bureau does not exist"
     },
     {
         "Id": 20063178,
-        "Key": "GuildPayMaintainLessRank"
+        "Key": "GuildPayMaintainOfficerNotInThisGuild",
+        "Text": "Failed to pay maintenance fee as you are not in Command Bureau"
     },
     {
         "Id": 20063179,
-        "Key": "GuildPayMaintainNotEmergency"
+        "Key": "GuildPayMaintainLessRank",
+        "Text": "Failed to pay maintenance fee due to insufficient authority"
     },
     {
         "Id": 20063180,
-        "Key": "GuildPayMaintainLessContribute"
+        "Key": "GuildPayMaintainNotEmergency",
+        "Text": "Cannot pay maintenance fee outside emergency maintenance period"
     },
     {
         "Id": 20063181,
-        "Key": "GuildAddContributeHasNotGuild"
+        "Key": "GuildPayMaintainLessContribute",
+        "Text": "Failed to pay maintenance fee due to insufficient Contribution"
     },
     {
         "Id": 20063182,
-        "Key": "GuildAddContributeServiceException"
+        "Key": "GuildAddContributeHasNotGuild",
+        "Text": "Failed to increase Contribution as you have not joined Command Bureau"
     },
     {
         "Id": 20063183,
-        "Key": "GuildAddContributeGuildNotExist"
+        "Key": "GuildAddContributeServiceException",
+        "Text": "Failed to increase Contribution due to unknown error"
     },
     {
         "Id": 20063184,
-        "Key": "GuildListApplyHasNotGuild"
+        "Key": "GuildAddContributeGuildNotExist",
+        "Text": "Failed to increase Contribution as you are not in Command Bureau"
     },
     {
         "Id": 20063185,
-        "Key": "GuildListApplyServiceException"
+        "Key": "GuildListApplyHasNotGuild",
+        "Text": "Failed to access request list as you have not joined Command Bureau"
     },
     {
         "Id": 20063186,
-        "Key": "GuildListApplyGuildNotExist"
+        "Key": "GuildListApplyServiceException",
+        "Text": "Failed to access request list due to unknown error"
     },
     {
         "Id": 20063187,
-        "Key": "GuildListApplyOfficerNotInThisGuild"
+        "Key": "GuildListApplyGuildNotExist",
+        "Text": "Failed access request list as Command Bureau does not exist"
     },
     {
         "Id": 20063188,
-        "Key": "GuildListApplyLessRank"
+        "Key": "GuildListApplyOfficerNotInThisGuild",
+        "Text": "Failed to access request list as you are not in Command Bureau"
     },
     {
         "Id": 20063189,
-        "Key": "GuildAddContributePlayerNotInGuild"
+        "Key": "GuildListApplyLessRank",
+        "Text": "Failed to access request list due to insufficient authority"
     },
     {
         "Id": 20063190,
-        "Key": "GuildGetGiftHasNotGuild"
+        "Key": "GuildAddContributePlayerNotInGuild",
+        "Text": "Failed to increase Contribution as you are not in Command Bureau"
     },
     {
         "Id": 20063191,
-        "Key": "GuildGetGiftServiceException"
+        "Key": "GuildGetGiftHasNotGuild",
+        "Text": "Failed to claim activity pack as you have not joined Command Bureau"
     },
     {
         "Id": 20063192,
-        "Key": "GuildGetGiftInTwoGuild"
+        "Key": "GuildGetGiftServiceException",
+        "Text": "Failed to claim activity pack due to unknown error"
     },
     {
         "Id": 20063193,
-        "Key": "GuildGetGiftGuildNotExist"
+        "Key": "GuildGetGiftInTwoGuild",
+        "Text": "Failed to claim activity pack as it belongs to another Commandant"
     },
     {
         "Id": 20063194,
-        "Key": "GuildGetGiftNotInThisGuild"
+        "Key": "GuildGetGiftGuildNotExist",
+        "Text": "Failed to claim activity pack as Command Bureau does not exist"
     },
     {
         "Id": 20063195,
-        "Key": "GuildGetGiftGiftNotExist"
+        "Key": "GuildGetGiftNotInThisGuild",
+        "Text": "Failed to claim activity pack as you are not in Command Bureau"
     },
     {
         "Id": 20063196,
-        "Key": "GuildGetGiftLessContribute"
+        "Key": "GuildGetGiftGiftNotExist",
+        "Text": "Failed to claim activity pack as it does not exist"
     },
     {
         "Id": 20063197,
-        "Key": "GuildGetContributeRewardHasNotGuild"
+        "Key": "GuildGetGiftLessContribute",
+        "Text": "Failed to claim activity pack due to insufficient Contribution"
     },
     {
         "Id": 20063198,
-        "Key": "GuildGetContributeRewardGot"
+        "Key": "GuildGetGiftDuplicated",
+        "Text": "Contribution pack already claimed"
     },
     {
         "Id": 20063199,
-        "Key": "GuildGetContributeRewardServiceException"
+        "Key": "GuildGetContributeRewardHasNotGuild",
+        "Text": "Failed to claim Contribution reward as you have not joined Command Bureau"
     },
     {
         "Id": 20063200,
-        "Key": "GuildGetContributeRewardNotInThisGuild"
+        "Key": "GuildGetContributeRewardGot",
+        "Text": "Contribution reward already claimed"
     },
     {
         "Id": 20063201,
-        "Key": "GuildGetContributeRewardLessContribute"
+        "Key": "GuildGetContributeRewardServiceException",
+        "Text": "Failed to claim Contribution reward due to unknown error"
     },
     {
         "Id": 20063202,
-        "Key": "GuildMailServiceUnavaliable"
+        "Key": "GuildGetContributeRewardNotInThisGuild",
+        "Text": "Failed to claim Contribution reward as you are not in Command Bureau"
     },
     {
         "Id": 20063203,
-        "Key": "GuildMailServiceException"
+        "Key": "GuildGetContributeRewardLessContribute",
+        "Text": "Failed to claim Contribution reward due to insufficient Contribution"
     },
     {
         "Id": 20063204,
-        "Key": "GuildMailContentFormatError"
+        "Key": "GuildMailServiceUnavaliable",
+        "Text": "Command Bureau mail feature not available"
     },
     {
         "Id": 20063205,
-        "Key": "GuildListChatHasNotGuild"
+        "Key": "GuildMailServiceException",
+        "Text": "Failed to send Command Bureau mail due to unknown error"
     },
     {
         "Id": 20063206,
-        "Key": "GuildListChatServiceException"
+        "Key": "GuildMailContentFormatError",
+        "Text": "Command Bureau mail format error"
     },
     {
         "Id": 20063207,
-        "Key": "GuildListChatGuildNotExist"
+        "Key": "GuildListChatHasNotGuild",
+        "Text": "Failed to access chat as you have not joined Command Bureau"
     },
     {
         "Id": 20063208,
-        "Key": "GuildListChatNotInThisGuild"
+        "Key": "GuildListChatServiceException",
+        "Text": "Failed to join chat due to unknown error"
     },
     {
         "Id": 20063209,
-        "Key": "GuildFindServiceException"
+        "Key": "GuildListChatGuildNotExist",
+        "Text": "Failed to access chat as Command Bureau does not exist"
     },
     {
         "Id": 20063210,
-        "Key": "GuildChangeApplyOptionHasNotGuild"
+        "Key": "GuildListChatNotInThisGuild",
+        "Text": "Failed to access chat as you are not in Command Bureau"
     },
     {
         "Id": 20063211,
-        "Key": "GuildChangeApplyOptionServiceException"
+        "Key": "GuildFindServiceException",
+        "Text": "Failed to find Command Bureau due to unknown error"
     },
     {
         "Id": 20063212,
-        "Key": "GuildChangeApplyOptionGuildNotExist"
+        "Key": "GuildChangeApplyOptionHasNotGuild",
+        "Text": "Failed to change request settings as you have not joined Command Bureau"
     },
     {
         "Id": 20063213,
-        "Key": "GuildChangeApplyOptionNotInThisGuild"
+        "Key": "GuildChangeApplyOptionServiceException",
+        "Text": "Failed to change request settings due to unknown error"
     },
     {
         "Id": 20063214,
-        "Key": "GuildChangeApplyOptionLessRank"
+        "Key": "GuildChangeApplyOptionGuildNotExist",
+        "Text": "Failed to change request settings as Command Bureau does not exist"
     },
     {
         "Id": 20063215,
-        "Key": "GuildServerInternalError"
+        "Key": "GuildChangeApplyOptionNotInThisGuild",
+        "Text": "Failed to change request settings as you are not in Command Bureau"
     },
     {
         "Id": 20063216,
-        "Key": "GuildGetMemberNotFound"
+        "Key": "GuildChangeApplyOptionLessRank",
+        "Text": "Failed to change request settings due to insufficient authority"
     },
     {
         "Id": 20063217,
-        "Key": "GuildShopGetGuildNotExist"
+        "Key": "GuildServerInternalError",
+        "Text": "Command Bureau server exception"
     },
     {
         "Id": 20063218,
-        "Key": "GuildBuyGoodsMemberLessRank"
+        "Key": "GuildGetMemberNotFound",
+        "Text": "Failed to access Command Bureau members"
     },
     {
         "Id": 20063219,
-        "Key": "GuildRefreshShopMemberLessRank"
+        "Key": "GuildShopGetGuildNotExist",
+        "Text": "Failed to access shop info as Command Bureau does not exist"
     },
     {
         "Id": 20063220,
-        "Key": "GuildGetShopHasNotGuild"
+        "Key": "GuildBuyGoodsMemberLessRank",
+        "Text": "Insufficient authority to purchase from Command Bureau shop"
     },
     {
         "Id": 20063221,
-        "Key": "GuildGetShopServiceException"
+        "Key": "GuildRefreshShopMemberLessRank",
+        "Text": "Insufficient authority to refresh Command Bureau shop"
     },
     {
         "Id": 20063222,
-        "Key": "GuildBuyGoodsHasNotGuild"
+        "Key": "GuildGetShopHasNotGuild",
+        "Text": "Failed to access shop info as you have not joined Command Bureau"
     },
     {
         "Id": 20063223,
-        "Key": "GuildBuyGoodsServiceException"
+        "Key": "GuildGetShopServiceException",
+        "Text": "Unknown error with Command Bureau shop"
     },
     {
         "Id": 20063224,
-        "Key": "GuildRefreshShopHasNotGuild"
+        "Key": "GuildBuyGoodsHasNotGuild",
+        "Text": "Failed to purchase from shop as you have not joined Command Bureau"
     },
     {
         "Id": 20063225,
-        "Key": "GuildRefreshShopServiceException"
+        "Key": "GuildBuyGoodsServiceException",
+        "Text": "Unknown error occurred while purchasing from Command Bureau shop"
     },
     {
         "Id": 20063226,
-        "Key": "GuildListRankHasNotGuild"
+        "Key": "GuildRefreshShopHasNotGuild",
+        "Text": "Failed to refresh shop as you have not joined Command Bureau"
     },
     {
         "Id": 20063227,
-        "Key": "GuildListRankServiceException"
+        "Key": "GuildRefreshShopServiceException",
+        "Text": "Unknown error occurred while refreshing Command Bureau shop"
     },
     {
         "Id": 20063228,
-        "Key": "GuildAddBuildGuildNotExist"
+        "Key": "GuildListRankHasNotGuild",
+        "Text": "Failed to view rankings as you have not joined Command Bureau"
     },
     {
         "Id": 20063229,
-        "Key": "GuildAddBuildNotInGuild"
+        "Key": "GuildListRankServiceException",
+        "Text": "Unknown error with Command Bureau rankings"
+    },
+    {
+        "Id": 20063230,
+        "Key": "GuildAddBuildGuildNotExist",
+        "Text": "Failed to increase Build Progress as Command Bureau does not exist"
+    },
+    {
+        "Id": 20063231,
+        "Key": "GuildAddBuildNotInGuild",
+        "Text": "Failed to increase Build Progress as you are not in Command Bureau"
+    },
+    {
+        "Id": 20063232,
+        "Key": "GuildRecruitGuildDailyCount",
+        "Text": "Daily recruitment attempts used up"
+    },
+    {
+        "Id": 20063233,
+        "Key": "GuildGiveLikeItemInvalid",
+        "Text": "Failed to send gift due to invalid gift item"
+    },
+    {
+        "Id": 20063234,
+        "Key": "GuildListTalentException",
+        "Text": "Failed to access talent due to unknown error"
+    },
+    {
+        "Id": 20063235,
+        "Key": "GuildListTalentNotInGuild",
+        "Text": "Cannot perform this action as you are not in Command Bureau"
+    },
+    {
+        "Id": 20063236,
+        "Key": "GuildListTalentGuildNotExist",
+        "Text": "Command Bureau disbanded"
+    },
+    {
+        "Id": 20063237,
+        "Key": "GuildUpgradeTalentNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063238,
+        "Key": "GuildUpgradeTalentGuildNotExist",
+        "Text": "Command Bureau does not exist"
+    },
+    {
+        "Id": 20063239,
+        "Key": "GuildUpgradeTalentLessRank",
+        "Text": "Insufficient authority"
+    },
+    {
+        "Id": 20063240,
+        "Key": "GuildUpgradeTalentTalentNotExist",
+        "Text": "Invalid Beacon Amplifier Points"
+    },
+    {
+        "Id": 20063241,
+        "Key": "GuildUpgradeTalentLessLevel",
+        "Text": "Command Bureau level too low"
+    },
+    {
+        "Id": 20063242,
+        "Key": "GuildUpgradeTalentParentNotExist",
+        "Text": "Prerequisite Beacon Amplifier Points do not exist"
+    },
+    {
+        "Id": 20063243,
+        "Key": "GuildUpgradeTalentParentLessLevel",
+        "Text": "Prerequisite Beacon Amplifier Points level too low"
+    },
+    {
+        "Id": 20063244,
+        "Key": "GuildUpgradeTalentMaxLevel",
+        "Text": "Max level reached"
+    },
+    {
+        "Id": 20063245,
+        "Key": "GuildUpgradeTalentPointNotEnough",
+        "Text": "Insufficient Beacon Points"
+    },
+    {
+        "Id": 20063246,
+        "Key": "GuildBossBossStatusGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063247,
+        "Key": "GuildBossBossStatusNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063248,
+        "Key": "GuildBossBossStatusNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063249,
+        "Key": "GuildBossBossInfoGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063250,
+        "Key": "GuildBossBossInfoNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063251,
+        "Key": "GuildBossBossInfoNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063252,
+        "Key": "GuildBossBossActivityGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063253,
+        "Key": "GuildBossBossActivityNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063254,
+        "Key": "GuildBossBossActivityNotOpen",
+        "Text": "Available in the next season"
+    },
+    {
+        "Id": 20063255,
+        "Key": "GuildBossCheckResetNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063256,
+        "Key": "GuildBossCheckResetNotOpen",
+        "Text": "Available in the next season"
+    },
+    {
+        "Id": 20063257,
+        "Key": "GuildBossBossStageGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063258,
+        "Key": "GuildBossBossStageNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063259,
+        "Key": "GuildBossBossStageNotExist",
+        "Text": "Invalid stage"
+    },
+    {
+        "Id": 20063260,
+        "Key": "GuildBossBossStageNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063261,
+        "Key": "GuildBossPlayerRankGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063262,
+        "Key": "GuildBossPlayerRankNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063263,
+        "Key": "GuildBossPlayerStageRankGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063264,
+        "Key": "GuildBossPlayerStageRankNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063265,
+        "Key": "GuildBossPlayerStageRankStageNotExist",
+        "Text": "Stage does not exist"
+    },
+    {
+        "Id": 20063266,
+        "Key": "GuildBossGuildRankGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063267,
+        "Key": "GuildBossGuildRankNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063268,
+        "Key": "GuildBossHpBoxGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063269,
+        "Key": "GuildBossHpBoxNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063270,
+        "Key": "GuildBossHpBoxDuplicated",
+        "Text": "Already claimed"
+    },
+    {
+        "Id": 20063271,
+        "Key": "GuildBossHpBoxRewardNotExist",
+        "Text": "Invalid reward info"
+    },
+    {
+        "Id": 20063272,
+        "Key": "GuildBossHpBoxConditionFail",
+        "Text": "Requirement not met"
+    },
+    {
+        "Id": 20063273,
+        "Key": "GuildBossHpBoxNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063274,
+        "Key": "GuildBossHpBoxActivityUpdate",
+        "Text": "This round of event has ended"
+    },
+    {
+        "Id": 20063275,
+        "Key": "GuildBossScoreBoxGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063276,
+        "Key": "GuildBossScoreBoxNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063277,
+        "Key": "GuildBossScoreBoxDuplicated",
+        "Text": "Already claimed"
+    },
+    {
+        "Id": 20063278,
+        "Key": "GuildBossScoreBoxRewardNotExist",
+        "Text": "Invalid reward info"
+    },
+    {
+        "Id": 20063279,
+        "Key": "GuildBossScoreBoxConditionFail",
+        "Text": "Requirement not met"
+    },
+    {
+        "Id": 20063280,
+        "Key": "GuildBossScoreBoxNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063281,
+        "Key": "GuildBossScoreBoxActivityUpdate",
+        "Text": "This round of event has ended"
+    },
+    {
+        "Id": 20063282,
+        "Key": "GuildBossFightNoBoss",
+        "Text": "Event info not found"
+    },
+    {
+        "Id": 20063283,
+        "Key": "GuildBossFightNoStage",
+        "Text": "Invalid stage not found"
+    },
+    {
+        "Id": 20063284,
+        "Key": "GuildBossFightNoRobot",
+        "Text": "Trial info not found"
+    },
+    {
+        "Id": 20063285,
+        "Key": "GuildBossFightInvalidRobot",
+        "Text": "Invalid trial character"
+    },
+    {
+        "Id": 20063286,
+        "Key": "GuildBossFightStageNotMatch",
+        "Text": "Stage mismatch"
+    },
+    {
+        "Id": 20063287,
+        "Key": "GuildBossFightNoScoreRule",
+        "Text": "Tally rules not found"
+    },
+    {
+        "Id": 20063288,
+        "Key": "GuildBossUploadNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063289,
+        "Key": "GuildBossUploadStageNotMatch",
+        "Text": "Stage mismatch"
+    },
+    {
+        "Id": 20063290,
+        "Key": "GuildBossUploadDamageNotMatch",
+        "Text": "Tally data mismatch"
+    },
+    {
+        "Id": 20063291,
+        "Key": "GuildBossUploadMaxCount",
+        "Text": "Insufficient upload attempts"
+    },
+    {
+        "Id": 20063292,
+        "Key": "GuildBossDamageNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063293,
+        "Key": "GuildBossDamageActivityUpdate",
+        "Text": "Event expired"
+    },
+    {
+        "Id": 20063294,
+        "Key": "GuildBossDamageNoStage",
+        "Text": "Stage not found"
+    },
+    {
+        "Id": 20063295,
+        "Key": "GuildBossDamageDuplicated",
+        "Text": "Already challenged other similar stages"
+    },
+    {
+        "Id": 20063296,
+        "Key": "GuildBossDamageActivityNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063297,
+        "Key": "GuildBossDamageNotBreak",
+        "Text": "Can only save when points exceed the seasonal high"
+    },
+    {
+        "Id": 20063298,
+        "Key": "GuildBossSetLevelNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063299,
+        "Key": "GuildBossSetLevelActivityUpdate",
+        "Text": "Event expired"
+    },
+    {
+        "Id": 20063300,
+        "Key": "GuildBossSetLevelNotAdmin",
+        "Text": "Only someone in management position can perform this action"
+    },
+    {
+        "Id": 20063301,
+        "Key": "GuildBossSetLevelNoLevelCfg",
+        "Text": "Invalid level configuration"
+    },
+    {
+        "Id": 20063302,
+        "Key": "GuildBossSetLevelLessScore",
+        "Text": "Insufficient score to unlock"
+    },
+    {
+        "Id": 20063303,
+        "Key": "GuildBossSetLevelGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063304,
+        "Key": "GuildBossSetLevelNotOpen",
+        "Text": "Wait until the next season to join the event"
+    },
+    {
+        "Id": 20063305,
+        "Key": "GuildBossSetOrderNotInGuild",
+        "Text": "Cannot perform this action as you have left Command Bureau"
+    },
+    {
+        "Id": 20063306,
+        "Key": "GuildBossSetOrderActivityUpdate",
+        "Text": "Event expired"
+    },
+    {
+        "Id": 20063307,
+        "Key": "GuildBossSetOrderNotAdmin",
+        "Text": "Only someone in management position can perform this action"
+    },
+    {
+        "Id": 20063308,
+        "Key": "GuildBossSetOrderGuildNotExist",
+        "Text": "Command Bureau info not found"
+    },
+    {
+        "Id": 20063309,
+        "Key": "GuildBossSetOrderNotOpen",
+        "Text": "Wait until the next season to join the event"
     },
     {
         "Id": 20064001,
@@ -5174,7 +5940,8 @@
     },
     {
         "Id": 20065006,
-        "Key": "ArchiveInvalidStoryId"
+        "Key": "ArchiveInvalidStoryId",
+        "Text": "Invalid story ID"
     },
     {
         "Id": 20066001,
@@ -5384,7 +6151,7 @@
     {
         "Id": 20067019,
         "Key": "ProductCommentScheduleRewardAlreadyGet",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20067020,
@@ -5493,7 +6260,8 @@
     },
     {
         "Id": 20069006,
-        "Key": "MatchServiceMatchCanceled"
+        "Key": "MatchServiceMatchCanceled",
+        "Text": "Matchmaking cancelled"
     },
     {
         "Id": 20069007,
@@ -5538,12 +6306,12 @@
     {
         "Id": 20070002,
         "Key": "ArenaOnlineCharacterTooMuch",
-        "Text": "Construct limit exceeded"
+        "Text": "Member limit exceeded"
     },
     {
         "Id": 20070003,
         "Key": "ArenaOnlineCharacterNotEnough",
-        "Text": "Insufficient Constructs"
+        "Text": "Not enough member deployed"
     },
     {
         "Id": 20070004,
@@ -5636,9 +6404,338 @@
         "Text": "Unable to enter during battle"
     },
     {
+        "Id": 20072001,
+        "Key": "InfestorExploreChapterNotFound",
+        "Text": "Autopoiesis Maze chapter configuration not found"
+    },
+    {
+        "Id": 20072002,
+        "Key": "InfestorExploreMapNotFound",
+        "Text": "Autopoiesis Maze map configuration not found"
+    },
+    {
+        "Id": 20072003,
+        "Key": "InfestorExploreGridNotFound",
+        "Text": "Autopoiesis Maze location configuration not found"
+    },
+    {
+        "Id": 20072004,
+        "Key": "InfestorExploreGroupNotFound",
+        "Text": "Autopoiesis Maze group configuration not found"
+    },
+    {
+        "Id": 20072005,
+        "Key": "InfestorExploreNodeNotFound",
+        "Text": "Autopoiesis Maze location type configuration not found"
+    },
+    {
+        "Id": 20072006,
+        "Key": "InfestorExploreRewardNotFound",
+        "Text": "Autopoiesis Maze reward configuration does not exist"
+    },
+    {
+        "Id": 20072007,
+        "Key": "InfestorExploreRewardPoolNotFound",
+        "Text": "Autopoiesis Maze reward pool configuration does not exist"
+    },
+    {
+        "Id": 20072008,
+        "Key": "InfestorExploreEventPoolNotFound",
+        "Text": "Autopoiesis Maze event library configuration does not exist"
+    },
+    {
+        "Id": 20072009,
+        "Key": "InfestorExploreDiffTemplateNotFound",
+        "Text": "Autopoiesis Maze difficulty configuration does not exist"
+    },
+    {
+        "Id": 20072010,
+        "Key": "InfestorExploreGroupLevelNotFound",
+        "Text": "Autopoiesis Maze level group configuration not found"
+    },
+    {
+        "Id": 20072011,
+        "Key": "InfestorExploreShopGoodsNotFound",
+        "Text": "Autopoiesis Maze add-on terminal item configuration not found"
+    },
+    {
+        "Id": 20072012,
+        "Key": "InfestorExploreShopGoodsListNotFound",
+        "Text": "Autopoiesis Maze item list configuration not found"
+    },
+    {
+        "Id": 20072013,
+        "Key": "InfestorExploreShopNotFound",
+        "Text": "Autopoiesis Maze shop configuration not found"
+    },
+    {
+        "Id": 20072014,
+        "Key": "InfestorExploreCoreNotFound",
+        "Text": "Autopoiesis Maze add-on unit configuration not found"
+    },
+    {
+        "Id": 20072015,
+        "Key": "InfestorExploreCoreLevelEffectNotFound",
+        "Text": "Autopoiesis Maze add-on unit level effect configuration not found"
+    },
+    {
+        "Id": 20072016,
+        "Key": "InfestorExploreBuffNotFound",
+        "Text": "Autopoiesis Maze negative effect configuration not found"
+    },
+    {
+        "Id": 20072017,
+        "Key": "InfestorExploreBuffListNotFound",
+        "Text": "Autopoiesis Maze negative effect list configuration not found"
+    },
+    {
+        "Id": 20072018,
+        "Key": "InfestorExploreActivityNotFound",
+        "Text": "Autopoiesis Maze event configuration not found"
+    },
+    {
+        "Id": 20072019,
+        "Key": "InfestorExploreEventShopGoodsNotFound",
+        "Text": "Autopoiesis Maze overload module item configuration not found"
+    },
+    {
+        "Id": 20072020,
+        "Key": "InfestorExploreBossScoreRuleNotFound",
+        "Text": "Autopoiesis Maze Analysis Period Progress tally rules configuration not found"
+    },
+    {
+        "Id": 20072021,
+        "Key": "InfestorExploreTeamFull",
+        "Text": "Autopoiesis Maze team full"
+    },
+    {
+        "Id": 20072022,
+        "Key": "InfestorExploreJoinTeamFail",
+        "Text": "Failed to join Autopoiesis Maze team"
+    },
+    {
+        "Id": 20072023,
+        "Key": "InfestorExplorePlayerAlreadySignUp",
+        "Text": "Already signed up for Autopoiesis Maze"
+    },
+    {
+        "Id": 20072024,
+        "Key": "InfestorExploreStatusIsUnOpen",
+        "Text": "Autopoiesis Maze not yet available"
+    },
+    {
+        "Id": 20072025,
+        "Key": "InfestorExploreStatusIsReset",
+        "Text": "Autopoiesis Maze tally in progress"
+    },
+    {
+        "Id": 20072026,
+        "Key": "InfestorExploreCreatePlayerFail",
+        "Text": "Failed to create player data in Autopoiesis Maze"
+    },
+    {
+        "Id": 20072027,
+        "Key": "InfestorExploreStatusIsNotStageExplore",
+        "Text": "Autopoiesis Maze not in exploration status"
+    },
+    {
+        "Id": 20072028,
+        "Key": "InfestorExplorePlayerSignUpLevelLimit",
+        "Text": "Autopoiesis Maze sign-up restriction"
+    },
+    {
+        "Id": 20072029,
+        "Key": "InfestorExplorePlayerNotFound",
+        "Text": "Autopoiesis Maze player data does not exist"
+    },
+    {
+        "Id": 20072030,
+        "Key": "InfestorExploreTeamNotFound",
+        "Text": "Autopoiesis Maze team data does not exist"
+    },
+    {
+        "Id": 20072031,
+        "Key": "InfestorExploreMoveToGridRepeated",
+        "Text": "Already in this position"
+    },
+    {
+        "Id": 20072032,
+        "Key": "InfestorExploreMoveToGridCanNotMove",
+        "Text": "Cannot move to this position at the moment"
+    },
+    {
+        "Id": 20072033,
+        "Key": "InfestorExploreMapNotContainGrid",
+        "Text": "Location not in Autopoiesis Maze map"
+    },
+    {
+        "Id": 20072034,
+        "Key": "InfestorExploreFrontGridNotFinish",
+        "Text": "Clear the current location before exploring further"
+    },
+    {
+        "Id": 20072035,
+        "Key": "InfestorExploreCoreUseIndexError",
+        "Text": "Autopoiesis Maze add-on unit position error"
+    },
+    {
+        "Id": 20072036,
+        "Key": "InfestorExploreCoreUnOwned",
+        "Text": "Autopoiesis Maze does not have this add-on unit"
+    },
+    {
+        "Id": 20072037,
+        "Key": "InfestorExploreCoreUseRepeated",
+        "Text": "Add-on unit already equipped"
+    },
+    {
+        "Id": 20072038,
+        "Key": "InfestorExploreCoreIsUsed",
+        "Text": "Add-on unit is being equipped"
+    },
+    {
+        "Id": 20072039,
+        "Key": "InfestorExploreTakeOffIndexError",
+        "Text": "Grid error while removing add-on unit"
+    },
+    {
+        "Id": 20072040,
+        "Key": "InfestorExploreTakeOffPosIsEmpty",
+        "Text": "Grid empty while removing add-on unit"
+    },
+    {
+        "Id": 20072041,
+        "Key": "InfestorExploreNodeTypeNotMatch",
+        "Text": "Autopoiesis Maze location type mismatch"
+    },
+    {
+        "Id": 20072042,
+        "Key": "InfestorExploreFightStageIdNotMatch",
+        "Text": "Autopoiesis Maze battle stage mismatch"
+    },
+    {
+        "Id": 20072043,
+        "Key": "InfestorExploreFightStageTeamError",
+        "Text": "Autopoiesis Maze battle stage team error"
+    },
+    {
+        "Id": 20072044,
+        "Key": "InfestorExploreBuyFightRewardNotFound",
+        "Text": "Autopoiesis Maze card-flipping reward does not exist"
+    },
+    {
+        "Id": 20072045,
+        "Key": "InfestorExploreBuyFightRewardAlreadyBuy",
+        "Text": "Reward already bought"
+    },
+    {
+        "Id": 20072046,
+        "Key": "InfestorExploreBuyGoodsNotExist",
+        "Text": "Item does not exist"
+    },
+    {
+        "Id": 20072047,
+        "Key": "InfestorExploreBuyGoodsSellout",
+        "Text": "Item sold out"
+    },
+    {
+        "Id": 20072048,
+        "Key": "InfestorExploreCanNotChangeCharacter",
+        "Text": "Cannot change lineup during exploration"
+    },
+    {
+        "Id": 20072049,
+        "Key": "InfestorExploreCanNotFoundSelectEvent",
+        "Text": "Selected event does not exist Autopoiesis Maze"
+    },
+    {
+        "Id": 20072050,
+        "Key": "InfestorExploreRewardGridInfoNotFound",
+        "Text": "Autopoiesis Maze reward info does not exist"
+    },
+    {
+        "Id": 20072051,
+        "Key": "InfestorExploreSetRewardIdInvalid",
+        "Text": "Autopoiesis Maze setting reward ID invalid"
+    },
+    {
+        "Id": 20072052,
+        "Key": "InfestorExploreSetRewardMsgToLong",
+        "Text": "Message too long. Please edit it again"
+    },
+    {
+        "Id": 20072053,
+        "Key": "InfestorExploreMsgInvalid",
+        "Text": "Message contains sensitive characters. Please try again"
+    },
+    {
+        "Id": 20072054,
+        "Key": "InfestorExploreBossFightStageIdInvalid",
+        "Text": "Autopoiesis Maze boss stage ID invalid"
+    },
+    {
+        "Id": 20072055,
+        "Key": "InfestorExploreCanBuyEventGoodsThisStatus",
+        "Text": "Cannot purchase overload module item under the current Autopoiesis Maze status"
+    },
+    {
+        "Id": 20072056,
+        "Key": "InfestorExploreEventShopNotExist",
+        "Text": "Autopoiesis Maze overload module does not exist"
+    },
+    {
+        "Id": 20072057,
+        "Key": "InfestorExploreBuyEventGoodsLimit",
+        "Text": "Item sold out"
+    },
+    {
+        "Id": 20072058,
+        "Key": "InfestorExploreBuyEventGoodsIdInvalid",
+        "Text": "Autopoiesis Maze overload module item ID does not exist"
+    },
+    {
+        "Id": 20072059,
+        "Key": "InfestorExploreLeaveMsgTimeLimit",
+        "Text": "Sending message too frequently. Please try again later"
+    },
+    {
+        "Id": 20072060,
+        "Key": "InfestorExploreLeaveMsgChapterNotFound",
+        "Text": "Message does not exist"
+    },
+    {
+        "Id": 20072061,
+        "Key": "InfestorExploreLeaveMsgToLong",
+        "Text": "Message too long. Please edit it again"
+    },
+    {
+        "Id": 20072062,
+        "Key": "InfestorExploreBfrtCharacterIdError",
+        "Text": "Autopoiesis Maze strategy simulator dispatched character ID error"
+    },
+    {
+        "Id": 20072063,
+        "Key": "InfestorUpdateTeamCharacterTypeError",
+        "Text": "Autopoiesis Maze updated team member type error"
+    },
+    {
+        "Id": 20072064,
+        "Key": "InfestorUpdateTeamPosTeamIsEmpty",
+        "Text": "Autopoiesis Maze team position changed. Team does not exist"
+    },
+    {
+        "Id": 20072065,
+        "Key": "InfestorExploreFightUnknownGridId",
+        "Text": "Autopoiesis Maze exploration battle location does not exist"
+    },
+    {
+        "Id": 20072066,
+        "Key": "InfestorExploreFightStageUnMatch"
+    },
+    {
         "Id": 20080001,
         "Key": "UnionKillActivityNotOpen",
-        "Text": "Event is not available yet"
+        "Text": "Event not yet available"
     },
     {
         "Id": 20080002,
@@ -5733,7 +6830,7 @@
     {
         "Id": 20080020,
         "Key": "UnionKillSectionRewardAlreadyGet",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 20080021,
@@ -5813,12 +6910,22 @@
     {
         "Id": 20080036,
         "Key": "UnionKillIsMatching",
-        "Text": "Matchmaking in progress"
+        "Text": "Matchmaking..."
     },
     {
         "Id": 20080037,
         "Key": "UnionKillTrialStageCanNotUseShareCharacter",
         "Text": "Shared character cannot be used in trials"
+    },
+    {
+        "Id": 20080038,
+        "Key": "UnionKillFightCharacterRepeat",
+        "Text": "Duplicate character deployed"
+    },
+    {
+        "Id": 20080039,
+        "Key": "UnionKillFightCardNotEqualShareInfo",
+        "Text": "Number of deployed characters inconsistent with info"
     },
     {
         "Id": 20081001,
@@ -5872,7 +6979,284 @@
     },
     {
         "Id": 20090001,
-        "Key": "CollectionScoreNotEnough"
+        "Key": "CollectionScoreNotEnough",
+        "Text": "Insufficient collection score"
+    },
+    {
+        "Id": 20091001,
+        "Key": "EliminateGameNotInTime",
+        "Text": "Not yet available"
+    },
+    {
+        "Id": 20091002,
+        "Key": "EliminateGameNotInMove",
+        "Text": "Cannot move yet"
+    },
+    {
+        "Id": 20091003,
+        "Key": "EliminateGameNotInFlip",
+        "Text": "Cannot flip yet"
+    },
+    {
+        "Id": 20091004,
+        "Key": "EliminateGameGridPosInvalid",
+        "Text": "Invalid tile"
+    },
+    {
+        "Id": 20091005,
+        "Key": "EliminateGameGridHadFlip",
+        "Text": "Tile already flipped"
+    },
+    {
+        "Id": 20091006,
+        "Key": "EliminateGameInvalidGameId",
+        "Text": "Invalid game ID"
+    },
+    {
+        "Id": 20091007,
+        "Key": "EliminateGameInitError",
+        "Text": "Game initialization error"
+    },
+    {
+        "Id": 20091008,
+        "Key": "EliminateGameNotExist",
+        "Text": "Game does not exist"
+    },
+    {
+        "Id": 20091009,
+        "Key": "EliminateGameRewardNotExist",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20091010,
+        "Key": "EliminateGameRewardNotEnough",
+        "Text": "Requirement not met"
+    },
+    {
+        "Id": 20091011,
+        "Key": "EliminateGameRewardHadGet",
+        "Text": "Reward already claimed"
+    },
+    {
+        "Id": 20091012,
+        "Key": "EliminateGameTargetIsObstacle",
+        "Text": "Cannot perform this action on obstacles"
+    },
+    {
+        "Id": 20091013,
+        "Key": "EliminateGameTooFarAway",
+        "Text": "Too far"
+    },
+    {
+        "Id": 20091014,
+        "Key": "EliminateGameNotMove",
+        "Text": "Please move first"
+    },
+    {
+        "Id": 20092001,
+        "Key": "SpecialTrainStarNotEnough",
+        "Text": "Not enough stars gained"
+    },
+    {
+        "Id": 20092002,
+        "Key": "SpecialTrainRewardHaveGot",
+        "Text": "Reward already claimed"
+    },
+    {
+        "Id": 20092003,
+        "Key": "SpecialTrainRewardNotExist",
+        "Text": "Reward does not exist"
+    },
+    {
+        "Id": 20092004,
+        "Key": "SpecialTrainRewardCannotFoundChapter",
+        "Text": "Corresponding chapter not found"
+    },
+    {
+        "Id": 20093001,
+        "Key": "ChapterExtraPassTimesNotEnough",
+        "Text": "Not enough extra mission completions"
+    },
+    {
+        "Id": 20093002,
+        "Key": "ChapterExtraInvalidStageId",
+        "Text": "Invalid extra mission ID"
+    },
+    {
+        "Id": 20093003,
+        "Key": "ChapterExtraActivityHideChapterNotOpen",
+        "Text": "Extra event mission not yet available"
+    },
+    {
+        "Id": 20094001,
+        "Key": "MarketVoteTokenUrlConnectFail",
+        "Text": "Connection failed"
+    },
+    {
+        "Id": 20094002,
+        "Key": "MarketVoteTokenUrlParamError",
+        "Text": "Token parameter request error"
+    },
+    {
+        "Id": 20094003,
+        "Key": "MarketVoteTokenUrlServerError",
+        "Text": "Token service request error"
+    },
+    {
+        "Id": 20094004,
+        "Key": "MarketVoteTokenUrlSignError",
+        "Text": "Token signature request error"
+    },
+    {
+        "Id": 20094005,
+        "Key": "MarketVoteTokenUrlUnknownError",
+        "Text": "Unknown token request error"
+    },
+    {
+        "Id": 20094006,
+        "Key": "MarketGetVoteTokenFail",
+        "Text": "Token request failed"
+    },
+    {
+        "Id": 20095001,
+        "Key": "BriefStoryIdInvalid",
+        "Text": "Story ID does not exist"
+    },
+    {
+        "Id": 20095002,
+        "Key": "BriefStoryIdIsFinished",
+        "Text": "Story completed"
+    },
+    {
+        "Id": 20097001,
+        "Key": "PuzzleActivityInvalidId"
+    },
+    {
+        "Id": 20097002,
+        "Key": "PuzzleActivityInvalidPieceId"
+    },
+    {
+        "Id": 20097003,
+        "Key": "PuzzleActivityPieceAlreadyFilped"
+    },
+    {
+        "Id": 20097004,
+        "Key": "PuzzleActivityRewardFailedPieceNotEnough"
+    },
+    {
+        "Id": 20098001,
+        "Key": "ClickClearCanNotFindActivityData",
+        "Text": "Event not yet available"
+    },
+    {
+        "Id": 20098002,
+        "Key": "ClickClearCanNotFindStageConfig",
+        "Text": "Stage info not found"
+    },
+    {
+        "Id": 20098003,
+        "Key": "ClickClearStageLock",
+        "Text": "Unlock requirement not met"
+    },
+    {
+        "Id": 20098004,
+        "Key": "ClickClearNotBestRecord",
+        "Text": "Not the best on record"
+    },
+    {
+        "Id": 20098005,
+        "Key": "ClickClearRewardAlreadyGot",
+        "Text": "Already claimed"
+    },
+    {
+        "Id": 20098006,
+        "Key": "ClickClearNotPass",
+        "Text": "Corresponding difficulty not completed"
+    },
+    {
+        "Id": 20098007,
+        "Key": "ClickClearTimeOut",
+        "Text": "Record timeout"
+    },
+    {
+        "Id": 20140001,
+        "Key": "SlotMachinesTemplateNotFound",
+        "Text": "detector settings not found"
+    },
+    {
+        "Id": 20140002,
+        "Key": "SlotMachinesIconTemplateNotFound",
+        "Text": "detector symbol settings not found"
+    },
+    {
+        "Id": 20140003,
+        "Key": "SlotMachinesActivityTemplateCanNotFound",
+        "Text": "detector event not found"
+    },
+    {
+        "Id": 20140004,
+        "Key": "SlotMachinesTemplateIconNotFound",
+        "Text": "detector symbols not found"
+    },
+    {
+        "Id": 20140005,
+        "Key": "SlotMachinesActivityNotOpen",
+        "Text": "Event is not available yet"
+    },
+    {
+        "Id": 20140006,
+        "Key": "SlotMachinesActivityIsNotFound",
+        "Text": "Event is over"
+    },
+    {
+        "Id": 20140007,
+        "Key": "SlotMachinesScoreAlreadyFull",
+        "Text": "Points full"
+    },
+    {
+        "Id": 20140008,
+        "Key": "SlotMachinesStartConfigNeedPerUnlock",
+        "Text": "Need to complete the Common Detector before unlocking the Wide-Range Detector"
+    },
+    {
+        "Id": 20140009,
+        "Key": "SlotMachinesPerDataIsNull",
+        "Text": "No prerequisite detector data"
+    },
+    {
+        "Id": 20140010,
+        "Key": "SlotMachinesNeedAchievePerUnlockScore",
+        "Text": "Points must reach unlock prerequisite"
+    },
+    {
+        "Id": 20140011,
+        "Key": "SlotMachinesReceiveRewardNotExist",
+        "Text": "Rewards to claim does not exist"
+    },
+    {
+        "Id": 20140012,
+        "Key": "SlotMachinesScoreIsNotEnough",
+        "Text": "Not enough points. Cannot claim."
+    },
+    {
+        "Id": 20140013,
+        "Key": "SlotMachinesRewardIsAlreadyReceive",
+        "Text": "Reward claimed"
+    },
+    {
+        "Id": 20140014,
+        "Key": "SlotMachinesRockTypeNotFound",
+        "Text": "detector error"
+    },
+    {
+        "Id": 20140015,
+        "Key": "SlotMachinesCoinEnoughNotNeedBuy",
+        "Text": "Enough Cell Battery, no need to purchase"
+    },
+    {
+        "Id": 20140016,
+        "Key": "SlotMachinesBuyNumNoMatchNeedNum",
+        "Text": "The quantity purchased don't match the quantity required"
     },
     {
         "Id": 30002001,
@@ -5960,7 +7344,8 @@
     },
     {
         "Id": 40001015,
-        "Key": "PayOrderAlreadyRefund"
+        "Key": "PayOrderAlreadyRefund",
+        "Text": "Recharge order refunded"
     },
     {
         "Id": 40001016,
@@ -5970,12 +7355,12 @@
     {
         "Id": 40001017,
         "Key": "AccumulatedPayIdIsError",
-        "Text": "Total Recharge ID error"
+        "Text": "Total recharge ID error"
     },
     {
         "Id": 40001018,
         "Key": "AccumulatedPayIdIsNotExist",
-        "Text": "Total Recharge ID does not exist"
+        "Text": "Total recharge ID does not exist"
     },
     {
         "Id": 40001019,
@@ -5995,7 +7380,7 @@
     {
         "Id": 40001022,
         "Key": "AccumulatePayRewardIdIsGot",
-        "Text": "Reward Claimed"
+        "Text": "Reward already claimed"
     },
     {
         "Id": 40001023,
@@ -6021,90 +7406,5 @@
         "Id": 40001027,
         "Key": "PayModuleNotHandled",
         "Text": "Did not perform payment module processing"
-    },
-    {
-        "Id": 20053101,
-        "Key": "PurchaseExistMutexItem",
-        "Text": "Already own a conflicting product. Cannot purchase and replace it now."
-    },
-    {
-        "Id": 20140001,
-        "Key": "SlotMachinesTemplateNotFound",
-        "Text": "detector settings not found"
-    },
-    {
-        "Id": 20140002,
-        "Key": "SlotMachinesIconTemplateNotFound",
-        "Text": "detector symbol settings not found"
-    },
-    {
-        "Id": 20140003,
-        "Key": "SlotMachinesActivityTemplateCanNotFound",
-        "Text": "detector event not found"
-    },
-    {
-        "Id": 20140004,
-        "Key": "SlotMachinesTemplateIconNotFound",
-        "Text": "detector symbols not found"
-    },
-    {
-        "Id": 20140005,
-        "Key": "SlotMachinesActivityNotOpen",
-        "Text": "Event is not available yet"
-    },
-    {
-        "Id": 20140006,
-        "Key": "SlotMachinesActivityIsNotFound",
-        "Text": "Event is over"
-    },
-    {
-        "Id": 20140007,
-        "Key": "SlotMachinesScoreAlreadyFull",
-        "Text": "Points full"
-    },
-    {
-        "Id": 20140008,
-        "Key": "SlotMachinesStartConfigNeedPerUnlock",
-        "Text": "Need to complete the Common Detector before unlocking the Wide-Range Detector"
-    },
-    {
-        "Id": 20140009,
-        "Key": "SlotMachinesPerDataIsNull",
-        "Text": "No prerequisite detector data"
-    },
-    {
-        "Id": 20140010,
-        "Key": "SlotMachinesNeedAchievePerUnlockScore",
-        "Text": "Points must reach unlock prerequisite"
-    },
-    {
-        "Id": 20140011,
-        "Key": "SlotMachinesReceiveRewardNotExist",
-        "Text": "Rewards to claim does not exist"
-    },
-    {
-        "Id": 20140012,
-        "Key": "SlotMachinesScoreIsNotEnough",
-        "Text": "Not enough points. Cannot claim."
-    },
-    {
-        "Id": 20140013,
-        "Key": "SlotMachinesRewardIsAlreadyReceive",
-        "Text": "Reward claimed"
-    },
-    {
-        "Id": 20140014,
-        "Key": "SlotMachinesRockTypeNotFound",
-        "Text": "detector error"
-    },
-    {
-        "Id": 20140015,
-        "Key": "SlotMachinesCoinEnoughNotNeedBuy",
-        "Text": "Enough Cell Battery, no need to purchase"
-    },
-    {
-        "Id": 20140016,
-        "Key": "SlotMachinesBuyNumNoMatchNeedNum",
-        "Text": "The quantity purchased don't match the quantity required"
     }
 ]

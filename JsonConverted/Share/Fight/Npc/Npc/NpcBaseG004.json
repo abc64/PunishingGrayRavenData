@@ -48,5 +48,41 @@
             900057
         ],
         "SkillId": []
+    },
+    {
+        "Id": 9038,
+        "AttribId": 10,
+        "Kind": 2,
+        "Type": 2,
+        "Name": "Model Brave Generic Construct",
+        "ModelId": "Me1GouzaotiMd10001",
+        "ColliderType": 1,
+        "BodyRadius": 1,
+        "CameraCollideRadius": 1,
+        "HitRadius": 0.3,
+        "ModelScale": 1,
+        "EffectScale": 1,
+        "BossHp": 0,
+        "HpWdigetCount": 5,
+        "HpWidgetHeight": 0.8,
+        "HpWidgetType": 2,
+        "RollCharHeight": 1.5,
+        "StandUpImmuneHitTime": 0.3,
+        "MaxHitValue": 10,
+        "DeathTime": 2,
+        "HasRunToStand": 0,
+        "CollisionPriority": 3,
+        "ShadowQuadScale": 1,
+        "DeathMagic": [
+            90380098,
+            90380096,
+            90380094,
+            90380092
+        ],
+        "RobotBornMagic": [],
+        "BornMagic": [
+            9038
+        ],
+        "SkillId": []
     }
 ]

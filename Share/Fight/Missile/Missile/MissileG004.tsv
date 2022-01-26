@@ -68,6 +68,10 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 99110589	黑曜石方块伤害特效	2	0.5			-0.4	0			4			1						-1		FxMo1ArmorMd010112Attack04Shouji				FxMo1ArmorMd010112Attack0502		-1			1					0	0	0								1							0	1													0	HitCase	1	0		0			0					
 99110590	黑曜石方块伤害特效结束	2	0.5			-0.4	0			4			2						-1						FxMo1ArmorMd010112Attack0503	1	-1			1					0	0	0								1							0	1													0	HitCase	1	0		0			0					
 99110591	黑曜石方块投射预警	2	3				0			4			1						-1						FxYujing1M10S	1.45	-1			1					0	0	0								1							0	1													0	HitCase	1	0		0			0					
+99110592	切裂墙预警特效24长度	1	0.7	24		12	0			4			5						-1						FxYujingJu01	0	-1			1					0	0	0								3							4	1													0	HitCase	1	0		0			0					
+99110593	常驻光幕墙特效	1	0.5	3		1.5	0		180	1			999						1						LaserRedLoop		1			1					0	0	0								3							4	1													2.2	HitCase	1	0		1			0					
+99110594	常驻光幕墙效果	1	4.5	24		12	0			4			0.1						1						FxYujingJu01		1			1					0	0	0								3							4	1					900013								0	HitCase	1	0		1			0					
+99110600	临时副刷关黑洞	2	50				0			2			0.6						-1	1			0.05		FxCizhuiHeidong		-1			1					0	0	0								0							0	1													1.5	HitCase		0		1			0					
 90371101	弓箭手尖兵拔箭射击-伤害子弹	2	0.5				28		0	4			20						-1		FxDibingShouji			Bip001Prop1	FxMe1BioMd004050Jian02		-1			1					0	0	0								0							0	1					991595								0	HitCase		0		1			1					
 90371102	弓箭手尖兵拔箭射击-伤害子弹	2	0.5				28		15	4			20						-1	1	FxDibingShouji			Bip001Prop1	FxMe1BioMd004050Jian02		-1			1					0	0	0								0							0	1					991591								0	HitCase		0		1			1					
 90371103	弓箭手尖兵拔箭射击-伤害子弹	2	0.5				28		30	4			20						-1	1	FxDibingShouji			Bip001Prop1	FxMe1BioMd004050Jian02		-1			1					0	0	0								0							0	1					991591								0	HitCase		0		1			1					
@@ -87,7 +91,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 95130205	弹幕用提法旋转波浪吟唱-右后方子弹	2	0.1				0.9		120	4			20						1						FxMb1VirginbioMd030001Attack14		1			1	0				0	0	0								0							0	1													0.4	HitCase		0		1			0					
 95130206	弹幕用提法旋转波浪吟唱-后方子弹	2	0.1				0.9		180	4			20						1						FxMb1VirginbioMd030001Attack14		1			1	0				0	0	0								0							0	1													0.4	HitCase		0		1			0					
 95130208	弹幕用提法旋转波浪吟唱-8	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
-99160501	剑客影袭-伤害子弹1	1	3	5	0	0	50			4			0.5						-1		FxMo1SsjkMd000004Attack05Shouji						-1			1					0	0	0								3							4	1				991605011	902503								0	HitCase	1	0		1			1					
+99160501	剑客影袭-伤害子弹1	1	3	5	0	0	50			4			0.5						-1		FxMo1SsjkMd000004Attack05Shouji						-1			1					0	0	0								3							4	1				991605011									0	HitCase	1	0		1			1					
 99160502	剑客影袭-预警子弹2	1	3	15	0	10	0			4		0	0.5						-1						FxNpcYujing02		-1			1					0	0	0								3							4	1													0	HitCase	1	0		1			0					
 99160503	剑客影袭-特效子弹	2	0.1			1	0			4			3						-1						FxMo1SsjkMd000004Attack05		-1			1					0	0	0								3							4	1													0	HitCase		0		1			0					
 99200510	绿色血包定点	2	0.3				0			4			0.1		1				-1								-1			1					0	0	0								3	0.1		1	99200511	1		0	1													0	HitCase		0		1	999	1	0					

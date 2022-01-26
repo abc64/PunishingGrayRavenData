@@ -10,7 +10,7 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 832201			0	-1			1	0	8322010	8322310|8311320|8322330|8322340		832201000					
 832202			0	-1			1	0	8322020			832202000					
 832203			0	-1			1	0	8322030			832203000					
-832204			0	0			1	0	8322040	8322010|8322020|8322030							
+832204			0	0			1	0	8322040	8322010|8322020|8322030|8322280							
 832205			0.2	0			1	0	8322050			832205000					
 832206			0	0.2			1	0	8322060			832206000					1
 832207			0	0.45			1	0	8322070				FxMb1LuosaitaMd010002Canying				
@@ -29,6 +29,7 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 832235			0	5			1	0	8322350				FxMb1LuosaitaMd010002Attack06Yujing02	HitCase			
 832236			0	0.5			1	0	8322360	8322350	8322350		FxMb1LuosaitaMd010002Attack06Yujing01	HitCase			
 832237			0	10			1	0	8322370			832237000					
+832228			0	-1			1	0	8322280			832228000					
 835000			0	5.4			99	0	8350000			835000000					1
 835001			0	5.4			1	0	8350010			835001000					
 835002			0	2			1	0	8350020			835002000					
@@ -50,4 +51,5 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 835212			0	-1			1	0	8352120								1
 835213			0	1			-1	0	8352130				FxMb1MelodyhuaxuMd10001HudunShouji	HitCase			
 835214			0	-1			1	0	8352140			835214000					
+835218			0	-1			-1	0	8352180	8352000	8352000						1
 835220			0	-1			1	0	8352200	1000410	1000410						

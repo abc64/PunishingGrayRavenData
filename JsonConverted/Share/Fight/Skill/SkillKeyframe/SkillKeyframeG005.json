@@ -1160,60 +1160,657 @@
         ]
     },
     {
-        "Id": 907401,
+        "Id": 837001,
+        "Key": [
+            "14|Cast|83700101",
+            "0|Magic|837020|1",
+            "26|Magic|700020|1",
+            "26|Magic|730021|1",
+            "26|Magic|710076|1",
+            "0|Magic|837038|1",
+            "26|Magic|837003|1",
+            "26|Magic|100042|1",
+            "14|Magic|837043|1",
+            "14|Magic|837044|1"
+        ]
+    },
+    {
+        "Id": 837002,
+        "Key": [
+            "20|Effect|FxMb1AolajiangAAtk02Dilie01|||",
+            "10|Cast|83700202",
+            "14|Cast|83700203|83700205",
+            "4|Magic|837019|1",
+            0,
+            "14|Magic|837112|1",
+            "4|Magic|837019|1",
+            "20|Magic|837018|1",
+            "4|Magic|700021|1",
+            "4|Magic|730026|1",
+            "4|Magic|710077|1",
+            "4|Magic|837039|1",
+            "4|Magic|100041|1",
+            "4|Magic|837034|1",
+            "4|Magic|837029|1",
+            "24|Magic|837020|1",
+            "24|Magic|700020|1",
+            "24|Magic|730021|1",
+            "24|Magic|710076|1",
+            "24|Magic|837038|1",
+            "24|Magic|100042|1",
+            "24|Magic|837043|1",
+            "24|Magic|837044|1"
+        ]
+    },
+    {
+        "Id": 837003,
+        "Key": [
+            "4|Magic|837019|1",
+            "0|Cast|83700302",
+            "10|Cast|83700303",
+            "14|Cast|83700304",
+            "20|Magic|837018|1",
+            "0|Magic|700021|1",
+            "0|Magic|730026|1",
+            "0|Magic|710077|1",
+            "10|Magic|837039|1",
+            "14|Magic|837112|1",
+            "10|Magic|100041|1",
+            "6|Magic|837034|1",
+            "6|Magic|837029|1"
+        ]
+    },
+    {
+        "Id": 837004,
+        "Key": [
+            "0|Magic|837004|1",
+            "18|Cast|83700402",
+            "0|Turn|360|1|1",
+            "10|Magic|837011|1",
+            "8|Effect|FxMb1AolajiangAAtk04Dilie||1|",
+            21,
+            "10|Effect|FxMb1AolajiangAAtk0401||1|",
+            "0|Effect|FxMb1AolajiangAAtk0402||1|",
+            "0|Magic|837030|1"
+        ]
+    },
+    {
+        "Id": 837005,
+        "Key": [
+            "14|Cast|83700501",
+            "0|Magic|837004|1",
+            "20|Cast|83700503",
+            "0|Turn|360|1|1",
+            "10|Magic|837011|1",
+            21,
+            "18|Effect|FxMb1AolajiangAAtk0501||1|",
+            "0|Effect|FxMb1AolajiangAAtk0502||1|",
+            21,
+            "10|Magic|837030|1"
+        ]
+    },
+    {
+        "Id": 837006,
+        "Key": [
+            "10|Magic|837010|1",
+            "0|Effect|FxMb1AolajiangAAtk06||1|",
+            "10|Magic|837029|1",
+            "0|Effect|FxMb1AolajiangAAtk06Tuowei||1|"
+        ]
+    },
+    {
+        "Id": 837007,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk07||1|"
+        ]
+    },
+    {
+        "Id": 837008,
+        "Key": [
+            7,
+            "16|Cast|83700802",
+            7,
+            "0|Effect|FxMb1AolajiangAAtk08||1|",
+            "23|Magic|837035|1"
+        ]
+    },
+    {
+        "Id": 837009,
+        "Key": [
+            "22|Effect|FxMb1AolajiangAAtk09Dilie||1|",
+            "0|Magic|837010|1",
+            "0|Magic|837031|1",
+            "60|Magic|837029|1",
+            "0|Effect|FxMb1AolajiangAAtk09Tuowei||1|"
+        ]
+    },
+    {
+        "Id": 837010,
+        "Key": [
+            0,
+            "22|Cast|83701002|83701003",
+            "0|Effect|FxMb1AolajiangAAtk10||1|",
+            "24|Cast|83701005",
+            "35|Cast|83701006",
+            "45|Cast|83701007",
+            "22|Magic|837112|1"
+        ]
+    },
+    {
+        "Id": 837011,
+        "Key": [
+            "5|Magic|837011|1",
+            "0|Effect|FxMb1AolajiangAAtk1101||1|",
+            "38|Cast|83701103",
+            "21|Cast|83701104",
+            "24|Cast|83701105",
+            "26|Cast|83701106",
+            "28|Cast|83701107",
+            "30|Cast|83701108",
+            "32|Cast|83701109",
+            "34|Cast|83701110",
+            "36|Cast|83701111",
+            "38|Cast|83701112",
+            "22|Magic|837030|1",
+            "40|Magic|837029|1"
+        ]
+    },
+    {
+        "Id": 837012,
+        "Key": [
+            0,
+            "15|Cast|83701202",
+            "0|Magic|837007|1",
+            "5|Effect|FxMb1AolajiangAAtk12Dilie01||1|",
+            "13|Cast|83701205",
+            "2|Magic|837013|1",
+            "50|Magic|837012|1",
+            "15|Cast|83701208",
+            "18|Cast|83701209|83701210",
+            "0|Effect|FxMb1AolajiangAAtk1201|Bone013|1|",
+            "0|Effect|FxMb1AolajiangAAtk1202||1|",
+            "18|Magic|837112|1"
+        ]
+    },
+    {
+        "Id": 837013,
+        "Key": [
+            33,
+            "38|Cast|83701302",
+            "0|Effect|FxMb1AolajiangAAtk1301|Bone013|1|",
+            "0|Effect|FxMb1AolajiangAAtk1302||1|",
+            "0|Magic|837013|1",
+            "30|Magic|837019|1",
+            "30|Magic|837012|1",
+            "45|Magic|837018|1",
+            "0|Effect|FxMb1AolajiangAAtk1303||1|"
+        ]
+    },
+    {
+        "Id": 837014,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk1301|Bone013|1|",
+            "0|Effect|FxMb1AolajiangAAtk1302||1|",
+            "0|Effect|FxMb1AolajiangAAtk1303||1|"
+        ]
+    },
+    {
+        "Id": 837015,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk15||1|",
+            "8|Magic|837028|1"
+        ]
+    },
+    {
+        "Id": 837016,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk16||1|",
+            "8|Magic|837028|1",
+            "0|Turn|360|1|1"
+        ]
+    },
+    {
+        "Id": 837017,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk17||1|",
+            "8|Magic|837028|1",
+            "0|Turn|360|1|1",
+            "8|Magic|837035|1",
+            "0|Magic|837012|1",
+            "0|Magic|837018|1"
+        ]
+    },
+    {
+        "Id": 837018,
+        "Key": [
+            "0|Turn|360|1|1",
+            21,
+            "34|Cast|83701803|83701805",
+            "0|Effect|FxMb1AolajiangAAtk18||1|",
+            "0|Magic|837019|1",
+            "50|Magic|837018|1",
+            "2|Magic|837027|1",
+            "0|Magic|837030|1",
+            "40|Magic|837029|1",
+            "34|Magic|837113|1",
+            "10|Magic|837035|1"
+        ]
+    },
+    {
+        "Id": 837019,
+        "Key": [
+            "0|Turn|360|1|1",
+            22,
+            "34|Cast|83701903",
+            "30|Magic|837019|1",
+            "60|Magic|837028|1",
+            "0|Effect|FxMb1AolajiangAAtk19||1|",
+            "0|Magic|837027|1",
+            "0|Effect|FxMb1AolajiangAAtk1902||1|",
+            "0|Magic|837030|1",
+            "40|Magic|837029|1",
+            "16|Effect|FxMb1AolajiangAAtk19Weapon||1|",
+            "10|Magic|837035|1"
+        ]
+    },
+    {
+        "Id": 837020,
+        "Key": [
+            "0|Cast|83702001|83702002"
+        ]
+    },
+    {
+        "Id": 837021,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk2101|Bone013|1|",
+            "0|Cast|83702102",
+            "0|Magic|837013|1",
+            "40|Turn|360|1|1",
+            "20|Magic|837037|1",
+            "0|Magic|837036|1"
+        ]
+    },
+    {
+        "Id": 837022,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk22||1|"
+        ]
+    },
+    {
+        "Id": 837023,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk2301||1|",
+            "12|Effect|FxMb1AolajiangAAtk2302||1|",
+            "19|Cast|83702303|83702306",
+            0,
+            0
+        ]
+    },
+    {
+        "Id": 837024,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk24||1|",
+            "13|Cast|83702402",
+            "13|Magic|837112|1"
+        ]
+    },
+    {
+        "Id": 837025,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk25Dilie||1|",
+            "0|Magic|700021|1",
+            "0|Magic|730026|1",
+            "2|Magic|710077|1",
+            "2|Magic|837039|1",
+            "10|Magic|100041|1",
+            "6|Magic|837034|1",
+            "6|Magic|837029|1"
+        ]
+    },
+    {
+        "Id": 837026,
+        "Key": [
+            0,
+            "16|Cast|83702602",
+            "37|Cast|83702603",
+            "50|Cast|83702604",
+            "67|Cast|83702605",
+            "0|Effect|FxMb1AolajiangAAtk2601||1|",
+            "0|Effect|FxMb1AolajiangAAtk2602||1|",
+            "0|Effect|FxMb1AolajiangAAtk2603||1|",
+            "8|Effect|FxMb1AolajiangAAtk26Dilie01||1|",
+            "37|Effect|FxMb1AolajiangAAtk26Dilie02||1|",
+            "56|Effect|FxMb1AolajiangAAtk26Dilie03||1|",
+            "64|Effect|FxMb1AolajiangAAtk26Dilie04||1|"
+        ]
+    },
+    {
+        "Id": 837027,
+        "Key": [
+            10
+        ]
+    },
+    {
+        "Id": 837028,
         "Key": []
+    },
+    {
+        "Id": 837029,
+        "Key": [
+            "63|Magic|837122|1",
+            "0|Magic|730021|1",
+            "0|Cast|83702903",
+            "0|Magic|730001|1",
+            "0|Magic|710076|1",
+            "60|Magic|700013|1",
+            "0|Magic|800047|1",
+            "0|Magic|700208|1",
+            "0|Magic|837117|1",
+            "180|Magic|100002|1"
+        ]
+    },
+    {
+        "Id": 837030,
+        "Key": [
+            "0|Magic|837120|1",
+            "0|Magic|710076|1",
+            "0|Magic|730001|1",
+            "200|Magic|837121|1",
+            "0|Magic|710076|1",
+            "0|Magic|800047|1",
+            "80|Magic|837125|1"
+        ]
+    },
+    {
+        "Id": 837031,
+        "Key": [
+            "14|Cast|83703101",
+            "0|Magic|837020|1",
+            "26|Magic|700020|1",
+            "26|Magic|730021|1",
+            "26|Magic|710076|1",
+            "0|Magic|837038|1",
+            "26|Magic|837045|1",
+            "26|Magic|100042|1",
+            "14|Magic|837043|1",
+            "14|Magic|837044|1"
+        ]
+    },
+    {
+        "Id": 837032,
+        "Key": []
+    },
+    {
+        "Id": 837033,
+        "Key": []
+    },
+    {
+        "Id": 837034,
+        "Key": []
+    },
+    {
+        "Id": 837035,
+        "Key": []
+    },
+    {
+        "Id": 837036,
+        "Key": []
+    },
+    {
+        "Id": 837037,
+        "Key": []
+    },
+    {
+        "Id": 837038,
+        "Key": []
+    },
+    {
+        "Id": 837039,
+        "Key": []
+    },
+    {
+        "Id": 837040,
+        "Key": []
+    },
+    {
+        "Id": 837041,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk01Dilie|||",
+            "1|Effect|FxMb1AolajiangAAtk02Dilie01|||",
+            "2|Effect|FxMb1AolajiangAAtk02Dilie02|||",
+            "3|Effect|FxMb1AolajiangAAtk02Dilie03|||",
+            "4|Effect|FxMb1AolajiangAAtk03Dilie01|||",
+            "5|Effect|FxMb1AolajiangAAtk03Dilie02|||",
+            "6|Effect|FxMb1AolajiangAAtk04Dilie|||",
+            "7|Effect|FxMb1AolajiangAAtk04Hit|||",
+            "8|Effect|FxMb1AolajiangAAtk05Dilie|||",
+            "9|Effect|FxMb1AolajiangAAtk05Hit|||"
+        ]
+    },
+    {
+        "Id": 837042,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk06|||",
+            "1|Effect|FxMb1AolajiangAAtk07|||",
+            "2|Effect|FxMb1AolajiangAAtk08|||",
+            "3|Effect|FxMb1AolajiangAAtk08Hit|||",
+            "4|Effect|FxMb1AolajiangAAtk09Dilie|||",
+            "5|Effect|FxMb1AolajiangAAtk10|||",
+            "6|Effect|FxMb1AolajiangAAtk10Dilie|||",
+            "7|Effect|FxMb1AolajiangAAtk12Dandao|||",
+            "8|Effect|FxMb1AolajiangAAtk12Dilie01|||",
+            "9|Effect|FxMb1AolajiangAAtk12Dilie02|||"
+        ]
+    },
+    {
+        "Id": 837043,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk12Dilie03|||",
+            "1|Effect|FxMb1AolajiangAAtk15|||",
+            "2|Effect|FxMb1AolajiangAAtk16|||",
+            "3|Effect|FxMb1AolajiangAAtk17|||",
+            "4|Effect|FxMb1AolajiangAAtk18|||",
+            "5|Effect|FxMb1AolajiangAAtk18Dilie|||",
+            "6|Effect|FxMb1AolajiangAAtk19|||",
+            "7|Effect|FxMb1AolajiangAAtk22|||",
+            "8|Effect|FxMb1AolajiangAAtk24|||",
+            "9|Effect|FxMb1AolajiangAAtk25Dilie|||"
+        ]
+    },
+    {
+        "Id": 837044,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk26Dilie01|||",
+            "1|Effect|FxMb1AolajiangAAtk26Dilie02|||",
+            "2|Effect|FxMb1AolajiangAAtk26Dilie03|||",
+            "3|Effect|FxMb1AolajiangAAtk26Dilie04|||",
+            "4|Effect|FxMb1AolajiangAAtk0401|||",
+            "5|Effect|FxMb1AolajiangAAtk0402|||",
+            "6|Effect|FxMb1AolajiangAAtk0501|||",
+            "7|Effect|FxMb1AolajiangAAtk0502|||",
+            "8|Effect|FxMb1AolajiangAAtk1101|||",
+            "9|Effect|FxMb1AolajiangAAtk1102|||"
+        ]
+    },
+    {
+        "Id": 837045,
+        "Key": [
+            "0|Effect|FxMb1AolajiangAAtk1201|||",
+            "1|Effect|FxMb1AolajiangAAtk1202|||",
+            "2|Effect|FxMb1AolajiangAAtk1401|||",
+            "3|Effect|FxMb1AolajiangAAtk1402|||",
+            "4|Effect|FxMb1AolajiangAAtk1403|||",
+            "5|Effect|FxMb1AolajiangAAtk2001|||",
+            "6|Effect|FxMb1AolajiangAAtk2002|||",
+            "7|Effect|FxMb1AolajiangAAtk2101|||",
+            "8|Effect|FxMb1AolajiangAAtk2102|||",
+            "9|Effect|FxMb1AolajiangAAtk2601|||"
+        ]
+    },
+    {
+        "Id": 837046,
+        "Key": [
+            "1|Effect|FxMb1AolajiangAAtk2602|||",
+            "2|Effect|FxMb1AolajiangAAtk2603|||"
+        ]
+    },
+    {
+        "Id": 837047,
+        "Key": []
+    },
+    {
+        "Id": 837048,
+        "Key": []
+    },
+    {
+        "Id": 837049,
+        "Key": []
+    },
+    {
+        "Id": 837050,
+        "Key": []
+    },
+    {
+        "Id": 907401,
+        "Key": [
+            0,
+            "30|Cast|90740103",
+            "0|Effect|FxMe1XiguajunMd000002Atk01Dandao|Body|1|",
+            "20|Cast|90740105",
+            "10|Cast|90740108"
+        ]
     },
     {
         "Id": 907402,
-        "Key": []
+        "Key": [
+            "0|Effect|FxMe1XiguajunMd000002Atk02||1|",
+            "20|Cast|90740202|90740203",
+            "24|Cast|90740204|90740205",
+            "28|Cast|90740206|90740207",
+            "32|Cast|90740208|90740209",
+            "19|Cast|90740210|90740211",
+            "25|Cast|90740212|90740213",
+            "29|Cast|90740214|90740215",
+            "33|Cast|90740216|90740217"
+        ]
     },
     {
         "Id": 907403,
-        "Key": []
+        "Key": [
+            "0|Turn|360|1|1",
+            "0|Magic|837009|1",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907404,
-        "Key": []
+        "Key": [
+            "0|Turn|360|1|1",
+            "0|Magic|837009|1",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907405,
-        "Key": []
+        "Key": [
+            "0|Turn|360|1|1",
+            "0|Magic|837009|1",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907406,
-        "Key": []
+        "Key": [
+            0,
+            "12|Cast|90740602",
+            "11|Cast|90740603",
+            "0|Magic|907417|1",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907407,
-        "Key": []
+        "Key": [
+            "0|Magic|907402|1",
+            "0|Magic|907401|1",
+            0,
+            "0|Effect|FxMe1XiguajunMd000002Atk07||1|",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907408,
-        "Key": []
+        "Key": [
+            "0|Magic|907403|1",
+            "0|Move|12|3|5",
+            "0|Turn|20|3|1",
+            "0|Cast|90740804",
+            "0|Effect|FxMe1XiguajunMd000002Atk08||1|",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907409,
-        "Key": []
+        "Key": [
+            "0|Effect|FxMe1XiguajunMd000002Atk09||1|",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907410,
-        "Key": []
+        "Key": [
+            "4|Turn|360|1|1",
+            "14|Cast|90741002",
+            0,
+            "0|Magic|907406|1",
+            "0|Magic|907407|1",
+            "13|Cast|90741006",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907411,
-        "Key": []
+        "Key": [
+            0,
+            "14|Cast|90741102",
+            "0|Magic|907408|1",
+            "13|Cast|90741104",
+            "2|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|",
+            4
+        ]
     },
     {
         "Id": 907412,
-        "Key": []
+        "Key": [
+            0,
+            "16|Cast|90741202",
+            "19|Cast|90741203",
+            "22|Cast|90741204",
+            "0|Effect|FxMe1XiguajunMd000002Atk12||1|",
+            "16|Cast|90741206",
+            "19|Cast|90741207",
+            "22|Cast|90741208",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907413,
-        "Key": []
+        "Key": [
+            4,
+            "0|Magic|907409|1",
+            "20|Cast|90741303",
+            "0|Effect|FxMe1XiguajunMd000002Atk13|||",
+            "11|Cast|90741307",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907414,
-        "Key": []
+        "Key": [
+            "0|Effect|FxMe1XiguajunMd000002Atk14||1|",
+            "0|Effect|FxMe1XiguajunMd000002Atk14Dandao|||",
+            "0|Effect|FxMe1XiguajunMd000002Atk14Hit|||"
+        ]
     },
     {
         "Id": 907415,
@@ -1233,31 +1830,63 @@
     },
     {
         "Id": 907419,
-        "Key": []
+        "Key": [
+            "7|Cast|90741901",
+            0,
+            "0|Magic|907412|1",
+            "0|Effect|FxMe1XiguajunMd000002Atk19||1|"
+        ]
     },
     {
         "Id": 907420,
-        "Key": []
+        "Key": [
+            "14|Cast|90742001",
+            0,
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|",
+            "0|Effect|FxMe1XiguajunMd000002Atk20|||"
+        ]
     },
     {
         "Id": 907421,
-        "Key": []
+        "Key": [
+            "0|Magic|907410|1",
+            "0|Magic|907411|1",
+            0,
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907422,
-        "Key": []
+        "Key": [
+            "0|Magic|907410|1",
+            "0|Magic|907411|1",
+            0,
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907423,
-        "Key": []
+        "Key": [
+            "0|Magic|907410|1",
+            "0|Magic|907413|1",
+            0
+        ]
     },
     {
         "Id": 907424,
-        "Key": []
+        "Key": [
+            "0|Turn|360|1|1"
+        ]
     },
     {
         "Id": 907425,
-        "Key": []
+        "Key": [
+            "0|Magic|907402|1",
+            "0|Magic|907401|1",
+            0,
+            "0|Effect|FxMe1XiguajunMd000002Atk07||1|",
+            "0|Effect|FxMe1XiguajunMd000002WaterTuowei|Body|1|"
+        ]
     },
     {
         "Id": 907426,
@@ -1265,7 +1894,9 @@
     },
     {
         "Id": 907427,
-        "Key": []
+        "Key": [
+            43
+        ]
     },
     {
         "Id": 907428,
@@ -1273,10 +1904,487 @@
     },
     {
         "Id": 907429,
-        "Key": []
+        "Key": [
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangBDaodan|||",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangBatk08|||",
+            "0|Effect|FxMb1AolajiangBatk08Hit|||",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangBatk11|||",
+            "0|Effect|FxMb1AolajiangBatk11Dilie|||"
+        ]
     },
     {
         "Id": 907430,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatk11Hit|||",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangBatk13|||",
+            "0|Effect|FxMb1AolajiangBatk13Dilie|||",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangBDaodan|||",
+            "0|Effect|FxMb1AolajiangBatk16|||",
+            "0|Effect|FxMb1AolajiangBatk16Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk16Hit|||",
+            "0|Effect|FxMe1XiguajunMd000002Atk19Hit|||"
+        ]
+    },
+    {
+        "Id": 837101,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|"
+        ]
+    },
+    {
+        "Id": 837102,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|"
+        ]
+    },
+    {
+        "Id": 837103,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|"
+        ]
+    },
+    {
+        "Id": 837104,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|",
+            "27|Effect|FxMb1AolajiangBatk0401||1|",
+            "27|Cast|83710403",
+            "38|Effect|FxMb1AolajiangBatk0402||1|",
+            "38|Cast|83710405",
+            "54|Effect|FxMb1AolajiangBatk0403||1|",
+            "64|Effect|FxMb1AolajiangBatk0404||1|",
+            "88|Effect|FxMb1AolajiangBatk0405||1|",
+            "0|Effect|FxMb1AolajiangBatk04buff|Bip001Spine|1|",
+            "0|Effect|FxMb1AolajiangBatk04Juqi||1|",
+            "29|Cast|83710411",
+            "29|Magic|837112|0",
+            "40|Cast|83710413",
+            "40|Magic|837112|0",
+            "56|Cast|83710415",
+            "67|Cast|83710416",
+            "90|Cast|83710417",
+            31,
+            24,
+            73,
+            "90|Magic|837113|1",
+            76,
+            "77|Magic|837101|1",
+            "77|Effect|FxMb1AolajiangBShanxian||1|",
+            "73|Cast|83710425"
+        ]
+    },
+    {
+        "Id": 837105,
+        "Key": [
+            "25|Cast|83710501",
+            "0|Effect|FxMb1AolajiangBatk05Juqi||1|",
+            "24|Cast|83710503",
+            "29|Cast|83710504",
+            "33|Cast|83710505",
+            "37|Cast|83710506",
+            "24|Magic|837114|1",
+            "29|Magic|837114|1",
+            "33|Magic|837114|1",
+            "37|Magic|837112|1",
+            "0|Effect|FxMb1AolajiangBatk05buff||1|"
+        ]
+    },
+    {
+        "Id": 837106,
+        "Key": [
+            "31|Cast|83710601",
+            "17|Turn|720|2|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Effect|FxMb1AolajiangBatk06||1|",
+            "29|Effect|FxMb1AolajiangBatk06Daoguan||1|",
+            17,
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|"
+        ]
+    },
+    {
+        "Id": 837107,
+        "Key": [
+            2,
+            "21|Cast|83710702",
+            "23|Cast|83710703",
+            "25|Cast|83710704",
+            "27|Cast|83710705",
+            60,
+            "60|Cast|83710707",
+            60,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            67,
+            "0|Effect|FxMb1AolajiangBatk07Qitiao||1|",
+            "60|Effect|FxMb1AolajiangBatk07Congji||1|",
+            "20|Effect|FxMb1AolajiangBatk07Kaihuo|Bip001Head|1|",
+            "31|Cast|83710714",
+            "33|Cast|83710715",
+            50
+        ]
+    },
+    {
+        "Id": 837108,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Effect|FxMb1AolajiangBatk08||1|",
+            4,
+            "4|Magic|837104|1",
+            "15|Cast|83710805",
+            "15|Magic|837112|1",
+            "0|Cast|83710808"
+        ]
+    },
+    {
+        "Id": 837109,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Effect|FxMb1AolajiangBatk09Qitiao||1|",
+            "3|Magic|837101|1",
+            3
+        ]
+    },
+    {
+        "Id": 837110,
+        "Key": [
+            4,
+            36,
+            "0|Effect|FxMb1AolajiangBatk10||1|",
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|",
+            "30|Cast|83711005",
+            "13|Cast|83711006",
+            "17|Cast|83711007",
+            "21|Cast|83711008",
+            "31|Cast|83711009",
+            "31|Magic|837113|1",
+            22
+        ]
+    },
+    {
+        "Id": 837111,
+        "Key": [
+            0,
+            "15|Cast|83711102",
+            "0|Magic|837103|1",
+            "0|Effect|FxMb1AolajiangBatk11||1|",
+            "13|Cast|83711105"
+        ]
+    },
+    {
+        "Id": 837112,
+        "Key": [
+            2,
+            "14|Cast|83711202",
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|",
+            "0|Effect|FxMb1AolajiangBatk12||1|",
+            "12|Effect|FxMb1AolajiangBatk12Daoguan|||",
+            "13|Cast|83711208",
+            "16|Magic|837035|1",
+            2,
+            "14|Cast|83711211"
+        ]
+    },
+    {
+        "Id": 837113,
+        "Key": [
+            "10|Cast|83711302",
+            "21|Cast|83711303",
+            "33|Cast|83711304",
+            28,
+            "0|Effect|FxMb1AolajiangBatk13||1|",
+            "0|Cast|83711307",
+            "27|Effect|FxMb1AolajiangBShanxian|||",
+            "18|Effect|FxMb1AolajiangBatk13Dilie2||1|",
+            "10|Magic|837112|1",
+            "34|Cast|83711311",
+            "35|Cast|83711312",
+            "28|Effect|FxMb1AolajiangBatk13Qitiao||1|",
+            "33|Effect|FxMb1AolajiangBatk13Kaihuo|Bip001Head|1|"
+        ]
+    },
+    {
+        "Id": 837114,
+        "Key": [
+            "9|Effect|FxMb1AolajiangBatk1401||1|",
+            "9|Cast|83711402",
+            "21|Effect|FxMb1AolajiangBatk1402||1|",
+            "21|Cast|83711404",
+            "31|Effect|FxMb1AolajiangBatk1403||1|",
+            "37|Effect|FxMb1AolajiangBatk1404||1|",
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|",
+            10,
+            55,
+            "11|Cast|83711410",
+            "23|Cast|83711411",
+            "33|Cast|83711412",
+            "36|Cast|83711413",
+            "47|Cast|83711414",
+            21,
+            "9|Move|3|1|5"
+        ]
+    },
+    {
+        "Id": 837115,
+        "Key": [
+            14,
+            27,
+            50,
+            61,
+            "0|Effect|FxMb1AolajiangBatk1501||1|",
+            "50|Effect|FxMb1AolajiangBatk1502||1|",
+            "17|Cast|83711507",
+            16,
+            "51|Cast|83711509",
+            "27|Magic|837101|1",
+            "26|Effect|FxMb1AolajiangBatk15Qitiao||1|"
+        ]
+    },
+    {
+        "Id": 837116,
+        "Key": [
+            0,
+            "12|Cast|83711602",
+            "0|Effect|FxMb1AolajiangBatk16||1|",
+            "10|Cast|83711604"
+        ]
+    },
+    {
+        "Id": 837117,
+        "Key": [
+            "22|Cast|83711701",
+            8,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "20|Cast|83711704",
+            30,
+            "0|Effect|FxMb1AolajiangBatk17Qitiao||1|",
+            "22|Magic|837113|1"
+        ]
+    },
+    {
+        "Id": 837118,
+        "Key": [
+            "12|Cast|83711801",
+            0,
+            "0|Effect|FxMb1AolajiangBatk18Qitiao||1|",
+            "10|Effect|FxMb1AolajiangBatk18Dilie||1|",
+            26,
+            "12|Magic|837112|1"
+        ]
+    },
+    {
+        "Id": 837119,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Magic|837109|1"
+        ]
+    },
+    {
+        "Id": 837120,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Magic|837109|1"
+        ]
+    },
+    {
+        "Id": 837121,
+        "Key": [
+            "0|Magic|837101|1",
+            2,
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "0|Magic|837109|1"
+        ]
+    },
+    {
+        "Id": 837122,
+        "Key": [
+            "0|Magic|837115|1",
+            9,
+            24,
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|",
+            "0|Effect|FxMb1AolajiangBShanxian||1|",
+            "14|Cast|83712206",
+            "0|Effect|FxMb1AolajiangBatk20Qitiao||1|",
+            "7|Effect|FxMb1AolajiangBatk20Congfeng||1|",
+            "12|Effect|FxMb1AolajiangBatk20|||",
+            "10|Cast|83712210"
+        ]
+    },
+    {
+        "Id": 837123,
+        "Key": [
+            "48|Effect|FxMb1AolajiangBatk2101|||",
+            "58|Effect|FxMb1AolajiangBatk2102|||",
+            "68|Effect|FxMb1AolajiangBatk2103Paoxiao|||",
+            "0|Effect|FxMb1AolajiangBatkbuff|FK_005|1|"
+        ]
+    },
+    {
+        "Id": 837124,
+        "Key": [
+            "4|Effect|FxMb1AolajiangBatk22||1|"
+        ]
+    },
+    {
+        "Id": 837125,
         "Key": []
+    },
+    {
+        "Id": 837126,
+        "Key": []
+    },
+    {
+        "Id": 837127,
+        "Key": []
+    },
+    {
+        "Id": 837128,
+        "Key": []
+    },
+    {
+        "Id": 837129,
+        "Key": []
+    },
+    {
+        "Id": 837130,
+        "Key": []
+    },
+    {
+        "Id": 837131,
+        "Key": []
+    },
+    {
+        "Id": 837132,
+        "Key": []
+    },
+    {
+        "Id": 837133,
+        "Key": []
+    },
+    {
+        "Id": 837134,
+        "Key": []
+    },
+    {
+        "Id": 837135,
+        "Key": []
+    },
+    {
+        "Id": 837136,
+        "Key": []
+    },
+    {
+        "Id": 837137,
+        "Key": []
+    },
+    {
+        "Id": 837138,
+        "Key": []
+    },
+    {
+        "Id": 837139,
+        "Key": []
+    },
+    {
+        "Id": 837140,
+        "Key": []
+    },
+    {
+        "Id": 837141,
+        "Key": []
+    },
+    {
+        "Id": 837142,
+        "Key": []
+    },
+    {
+        "Id": 837143,
+        "Key": []
+    },
+    {
+        "Id": 837144,
+        "Key": []
+    },
+    {
+        "Id": 837145,
+        "Key": []
+    },
+    {
+        "Id": 837146,
+        "Key": []
+    },
+    {
+        "Id": 837147,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatk04Paoxiao|||",
+            "0|Effect|FxMb1AolajiangBatk05buff|||",
+            "0|Effect|FxMb1AolajiangBatk05Juqi|||",
+            "0|Effect|FxMb1AolajiangBatk05Paoxiao|||",
+            "0|Effect|FxMb1AolajiangBatk06|||",
+            "0|Effect|FxMb1AolajiangBatk06Daoguan|||",
+            "0|Effect|FxMb1AolajiangBatk07Daodan|||",
+            "0|Effect|FxMb1AolajiangBatk08|||"
+        ]
+    },
+    {
+        "Id": 837148,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatk08Hit|||",
+            "0|Effect|FxMb1AolajiangBatk10|||",
+            "0|Effect|FxMb1AolajiangBatk10Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk11|||",
+            "0|Effect|FxMb1AolajiangBatk11Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk11Hit|||",
+            "0|Effect|FxMb1AolajiangBatk13|||",
+            "0|Effect|FxMb1AolajiangBatk13Daodan|||",
+            "0|Effect|FxMb1AolajiangBatk13Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk13Dilie2|||"
+        ]
+    },
+    {
+        "Id": 837149,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatk13Hit|||",
+            "0|Effect|FxMb1AolajiangBatk16|||",
+            "0|Effect|FxMb1AolajiangBatk16Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk16Hit|||",
+            "0|Effect|FxMb1AolajiangBatk17Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk18Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk0401|||",
+            "0|Effect|FxMb1AolajiangBatk0401Dilie|||",
+            "0|Effect|FxMb1AolajiangBatk0402|||",
+            "0|Effect|FxMb1AolajiangBatk0402Dilie|||"
+        ]
+    },
+    {
+        "Id": 837150,
+        "Key": [
+            "0|Effect|FxMb1AolajiangBatk0403|||",
+            "0|Effect|FxMb1AolajiangBatk0404|||",
+            "0|Effect|FxMb1AolajiangBatk0405|||",
+            "0|Effect|FxMb1AolajiangBatk1501|||",
+            "0|Effect|FxMb1AolajiangBatk1502|||",
+            "0|Effect|FxMb1AolajiangBatkbuff|||",
+            "0|Effect|FxMb1AolajiangBbuffWeiyi|||",
+            "0|Effect|FxMb1AolajiangBDaodan|||",
+            "0|Effect|FxMb1AolajiangBShanxian|||",
+            "0|Effect|FxMb1AolajiangHit|||"
+        ]
     }
 ]

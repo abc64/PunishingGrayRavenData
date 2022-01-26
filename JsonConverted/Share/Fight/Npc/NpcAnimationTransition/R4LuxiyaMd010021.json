@@ -254,6 +254,18 @@
     {
         "Role": "R4LuxiyaMd010021",
         "Layer": 0,
+        "Target": "RunStartEnd02",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R4LuxiyaMd010021",
+        "Layer": 0,
+        "Target": "StopR",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R4LuxiyaMd010021",
+        "Layer": 0,
         "Target": "Attack01",
         "TransitionDuration": 0.1
     },
@@ -993,6 +1005,18 @@
         "Role": "R4LuxiyaMd010021",
         "Layer": 1,
         "Target": "Caught",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R4LuxiyaMd010021",
+        "Layer": 1,
+        "Target": "RunStartEnd02",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R4LuxiyaMd010021",
+        "Layer": 1,
+        "Target": "StopR",
         "TransitionDuration": 0.1
     },
     {

@@ -4929,12 +4929,10 @@
         "BeHitState": 835011021,
         "Magic": [
             801050,
-            200104,
+            null,
             835080
         ],
-        "MagicLauncherNpc": [
-            200104
-        ],
+        "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
         "BindLauncher": 1,
@@ -5018,12 +5016,10 @@
         "BeHitState": 835012021,
         "Magic": [
             801050,
-            200104,
+            null,
             835080
         ],
-        "MagicLauncherNpc": [
-            200104
-        ],
+        "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
         "BindLauncher": 1,
@@ -6842,8 +6838,8 @@
     {
         "Id": 83520103,
         "Name": "抓取",
-        "Shape": 2,
-        "SizeX": 1,
+        "Shape": 0,
+        "SizeX": 0.1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.05,
@@ -7494,8 +7490,8 @@
     {
         "Id": 83521105,
         "Name": "抓取（镜头)",
-        "Shape": 2,
-        "SizeX": 1,
+        "Shape": 0,
+        "SizeX": 0.1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.05,

@@ -7556,13 +7556,11 @@
         "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.3,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
         "HitEffect": [
             "FxR2YongyechaoAttack03Shouji"
         ],
-        "DamageInterval": 0.1,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -7588,6 +7586,141 @@
         "MagicLauncherNpc": [
             null,
             100512022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 10051203,
+        "Name": "永夜抄普攻3-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 2,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2YongyechaoAttack03Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 250,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 100512031,
+        "Magic": [
+            100503
+        ],
+        "MagicLauncherNpc": [
+            null,
+            100512032
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 10051204,
+        "Name": "永夜抄普攻3-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 2,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2YongyechaoAttack03Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 250,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 100512041,
+        "Magic": [
+            100503
+        ],
+        "MagicLauncherNpc": [
+            null,
+            100512042
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 1,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 10051205,
+        "Name": "永夜抄普攻3-2",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 2,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2YongyechaoAttack03Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 250,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 100512051,
+        "Magic": [
+            100503
+        ],
+        "MagicLauncherNpc": [
+            null,
+            100512052
         ],
         "EffectHeight": 1.1,
         "BindLauncher": 0,
@@ -9844,6 +9977,7 @@
         "Name": "蓝球1消-4",
         "Shape": 2,
         "SizeX": 5,
+        "OffsetY": 1.3,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 1,
@@ -9974,6 +10108,7 @@
         "Name": "蓝球2消-4",
         "Shape": 2,
         "SizeX": 5,
+        "OffsetY": 1.3,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 2,
@@ -10104,6 +10239,7 @@
         "Name": "蓝球3消-4",
         "Shape": 2,
         "SizeX": 5,
+        "OffsetY": 1.3,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 3,
@@ -15521,7 +15657,7 @@
         "Id": 10131701,
         "Name": "大招-1",
         "Shape": 2,
-        "SizeX": 3,
+        "SizeX": 5,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 7,
@@ -15561,7 +15697,7 @@
         "Id": 10131702,
         "Name": "大招-2",
         "Shape": 2,
-        "SizeX": 3,
+        "SizeX": 5,
         "Speed": 0,
         "TargetType": 3,
         "LiveTime": 7,
@@ -15599,52 +15735,10 @@
         "HitEffectUseMissileDirection": 1
     },
     {
-        "Id": 10131703,
-        "Name": "大招-2",
-        "Shape": 2,
-        "SizeX": 3,
-        "Speed": 0,
-        "TargetType": 3,
-        "LiveTime": 7,
-        "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.2,
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 3,
-        "HitShakeDuration": 0,
-        "HitShakeIntensity": 0,
-        "Magic": [
-            101371,
-            101372,
-            101373,
-            101374
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
-        "DodgeLimitMark": 0,
-        "HitEffectUseMissileDirection": 1
-    },
-    {
         "Id": 10131704,
         "Name": "大招-3",
         "Shape": 2,
-        "SizeX": 3,
+        "SizeX": 5,
         "Speed": 0,
         "TargetType": 3,
         "LiveTime": 7,

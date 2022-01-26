@@ -5,11 +5,14 @@
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack01Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -25,13 +28,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110301011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110300
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110301012
+        ],
+        "EffectHeight": 1.2,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -42,11 +50,14 @@
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack01Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -65,10 +76,11 @@
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110301021,
-        "Magic": [],
+        "Magic": [
+            110300
+        ],
         "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "EffectHeight": 1.2,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -79,11 +91,14 @@
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack0201Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -99,28 +114,36 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110302011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110301
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110302012
+        ],
+        "EffectHeight": 0.8,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
     {
-        "Id": 11030301,
-        "Name": "普攻3-1",
+        "Id": 11030202,
+        "Name": "普攻2-2",
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack0202Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -136,13 +159,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110303011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "BeHitState": 110302021,
+        "Magic": [
+            110301
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110302022
+        ],
+        "EffectHeight": 1.1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -151,13 +179,16 @@
         "Id": 11030302,
         "Name": "普攻3-2",
         "Shape": 1,
-        "SizeX": 4,
+        "SizeX": 3,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack0301Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -173,13 +204,150 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110303021,
-        "Magic": [],
+        "Magic": [
+            110302
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110303022
+        ],
+        "EffectHeight": 1.6,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030303,
+        "Name": "普攻3-3",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 3,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0301Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110303031,
+        "Magic": [
+            110302
+        ],
         "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "EffectHeight": 1.6,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030304,
+        "Name": "普攻3-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 3,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0302Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110303041,
+        "Magic": [
+            110302,
+            200002
+        ],
+        "MagicLauncherNpc": [
+            200002
+        ],
+        "EffectHeight": 1.2,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030305,
+        "Name": "普攻3-5",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 3,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0302Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110303051,
+        "Magic": [
+            110302
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110303052
+        ],
+        "EffectHeight": 1.2,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -188,15 +356,16 @@
         "Id": 11030401,
         "Name": "普攻4-1",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.39,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.1,
+        "HitEffect": [
+            "FxR2WeilaAttack0401Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -212,13 +381,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110304011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304012
+        ],
+        "EffectHeight": 0.9,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -227,13 +401,241 @@
         "Id": 11030402,
         "Name": "普攻4-2",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0401Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110304021,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304022
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030403,
+        "Name": "普攻4-3",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0401Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110304031,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304032
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030404,
+        "Name": "普攻4-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0401Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110304041,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304042
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030405,
+        "Name": "普攻4-5",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0402Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110304051,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304052
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030406,
+        "Name": "普攻4-6",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0403Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110304061,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110304062
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030411,
+        "Name": "普攻4-11",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 5,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
         "HitEffect": [],
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -251,26 +653,28 @@
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110304021,
-        "Magic": [],
+        "Magic": [
+            110305
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
     {
         "Id": 11030501,
         "Name": "普攻5-1",
-        "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "Shape": 2,
+        "SizeX": 2.5,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack0501Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -286,13 +690,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110305011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110304
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110305012
+        ],
+        "EffectHeight": 1.2,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -300,14 +709,15 @@
     {
         "Id": 11030502,
         "Name": "普攻5-2",
-        "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "Shape": 2,
+        "SizeX": 2.5,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack0502Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -323,50 +733,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
-        "HitShakeIntensity": 0.1,
+        "HitShakeIntensity": 0.2,
         "BeHitState": 110305021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
-        "DodgeLimitMark": 0,
-        "HitEffectUseMissileDirection": 1
-    },
-    {
-        "Id": 11030503,
-        "Name": "普攻5-3",
-        "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
+        "Magic": [
+            110304,
+            200003
         ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 3,
-        "HitShakeDuration": 0.2,
-        "HitShakeIntensity": 0.1,
-        "BeHitState": 110305031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "MagicLauncherNpc": [
+            200003,
+            110305022
+        ],
+        "EffectHeight": 0.8,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -375,15 +754,16 @@
         "Id": 11030601,
         "Name": "红球1消-1",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": "-2",
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.45,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.4,
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -399,14 +779,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110306011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -414,13 +799,16 @@
         "Id": 11030602,
         "Name": "红球1消-2",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": "-1",
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -436,13 +824,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110306021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306022
+        ],
+        "EffectHeight": 0.8,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -451,13 +844,16 @@
         "Id": 11030603,
         "Name": "红球1消-3",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": 2,
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 0.15,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -473,14 +869,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110306031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306032
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -488,13 +889,237 @@
         "Id": 11030604,
         "Name": "红球1消-4",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110306041,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030605,
+        "Name": "红球1消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110306051,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030606,
+        "Name": "红球1消-6",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110306061,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030607,
+        "Name": "红球1消-7",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110306071,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030608,
+        "Name": "红球1消-8",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 3,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110306081,
+        "Magic": [
+            110310
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110306082
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030610,
+        "Name": "红球1消-10",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 3,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
         "HitEffect": [],
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -512,12 +1137,54 @@
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110306041,
-        "Magic": [],
+        "Magic": [
+            110316
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030611,
+        "Name": "红球1消-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 6,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110316
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -525,15 +1192,16 @@
         "Id": 11030701,
         "Name": "红球2消-1",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": "-2",
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.45,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.4,
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -549,14 +1217,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110307011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -564,13 +1237,16 @@
         "Id": 11030702,
         "Name": "红球2消-2",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": "-1",
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -586,13 +1262,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110307021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307022
+        ],
+        "EffectHeight": 0.8,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -601,13 +1282,16 @@
         "Id": 11030703,
         "Name": "红球2消-3",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": 2,
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 0.15,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -623,14 +1307,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110307031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307032
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -638,13 +1327,237 @@
         "Id": 11030704,
         "Name": "红球2消-4",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110307041,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030705,
+        "Name": "红球2消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110307051,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030706,
+        "Name": "红球2消-6",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110307061,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030707,
+        "Name": "红球2消-7",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110307071,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030708,
+        "Name": "红球2消-8",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 3,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110307081,
+        "Magic": [
+            110311
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110307082
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030710,
+        "Name": "红球2消-10",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
         "HitEffect": [],
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -662,12 +1575,54 @@
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110307041,
-        "Magic": [],
+        "Magic": [
+            110316
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030711,
+        "Name": "红球2消-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 6,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110316
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -675,15 +1630,16 @@
         "Id": 11030801,
         "Name": "红球3消-1",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": "-2",
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.45,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.4,
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -699,14 +1655,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110308011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -714,13 +1675,16 @@
         "Id": 11030802,
         "Name": "红球3消-2",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": "-1",
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -736,13 +1700,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110308021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308022
+        ],
+        "EffectHeight": 0.8,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -751,13 +1720,16 @@
         "Id": 11030803,
         "Name": "红球3消-3",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": 2,
+        "Speed": 50,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 0.15,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -773,14 +1745,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110308031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308032
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -788,13 +1765,237 @@
         "Id": 11030804,
         "Name": "红球3消-4",
         "Shape": 1,
-        "SizeX": 4,
-        "SizeY": 3,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110308041,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030805,
+        "Name": "红球3消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110308051,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030806,
+        "Name": "红球3消-6",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110308061,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030807,
+        "Name": "红球3消-7",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110308071,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030808,
+        "Name": "红球3消-8",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 3,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110308081,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110308082
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030810,
+        "Name": "红球3消-10",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
         "HitEffect": [],
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -812,12 +2013,54 @@
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110308041,
-        "Magic": [],
+        "Magic": [
+            110316
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030811,
+        "Name": "红球3消-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 6,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110316
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -826,12 +2069,15 @@
         "Name": "蓝球1消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeY": 2,
+        "OffsetY": 0.5,
+        "Speed": 18,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 0.2,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack21Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -847,10 +2093,167 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110309011,
+        "Magic": [
+            110320,
+            200002
+        ],
+        "MagicLauncherNpc": [
+            200002,
+            110309012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030907,
+        "Name": "蓝球1消-印记消除子弹",
+        "Shape": 2,
+        "SizeX": 99,
+        "Speed": 0,
+        "TargetType": 6,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110318
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030908,
+        "Name": "蓝球1消-范围特效",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack21Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110309011,
         "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030909,
+        "Name": "蓝球1消-治疗",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110336
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11030910,
+        "Name": "蓝球1消-伤害",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110327
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
@@ -863,12 +2266,15 @@
         "Name": "蓝球2消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeY": 2,
+        "OffsetY": 0.5,
+        "Speed": 18,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack21Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -884,13 +2290,132 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110310011,
+        "Magic": [
+            110321,
+            200002
+        ],
+        "MagicLauncherNpc": [
+            200002,
+            110310012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031008,
+        "Name": "蓝球2消-范围特效",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack21Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110310011,
         "Magic": [],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031009,
+        "Name": "蓝球2消-治疗",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110337
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031010,
+        "Name": "蓝球2消-伤害",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110328
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -900,12 +2425,15 @@
         "Name": "蓝球3消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
-        "Speed": 0,
+        "SizeY": 2,
+        "OffsetY": 0.5,
+        "Speed": 18,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack21Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -921,13 +2449,132 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110311011,
+        "Magic": [
+            110322,
+            200002
+        ],
+        "MagicLauncherNpc": [
+            200002,
+            110311012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031108,
+        "Name": "蓝球3消-范围特效",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack21Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110311011,
         "Magic": [],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031109,
+        "Name": "蓝球3消-治疗",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110338
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031110,
+        "Name": "蓝球3消-伤害",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110329
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -937,14 +2584,14 @@
         "Name": "黄球1消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.29,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.1,
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -960,14 +2607,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110312011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110330
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312012
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -976,12 +2628,14 @@
         "Name": "黄球1消-2",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -997,14 +2651,19 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110312021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "Magic": [
+            110330
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312022
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
@@ -1013,12 +2672,14 @@
         "Name": "黄球1消-3",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1034,13 +2695,150 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110312031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110330
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312032
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031204,
+        "Name": "黄球1消-4",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110312041,
+        "Magic": [
+            110330
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312042
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031205,
+        "Name": "黄球1消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110312051,
+        "Magic": [
+            110330
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312052
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031211,
+        "Name": "黄球1消-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 3,
+        "Speed": 65,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31DandaoShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110312111,
+        "Magic": [
+            110333
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110312112
+        ],
+        "EffectHeight": 0.9,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1050,14 +2848,14 @@
         "Name": "黄球2消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.29,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.1,
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1073,13 +2871,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110313011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110331
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313012
+        ],
+        "EffectHeight": 1.1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1089,12 +2892,14 @@
         "Name": "黄球2消-2",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1110,13 +2915,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110313021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110331
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313022
+        ],
+        "EffectHeight": 1.1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1126,12 +2936,14 @@
         "Name": "黄球2消-3",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1147,13 +2959,150 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110313031,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110331
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313032
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031304,
+        "Name": "黄球2消-4",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110313041,
+        "Magic": [
+            110331
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313042
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031305,
+        "Name": "黄球2消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110313051,
+        "Magic": [
+            110331
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313052
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031311,
+        "Name": "黄球2消-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 3,
+        "Speed": 65,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31DandaoShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110313111,
+        "Magic": [
+            110334
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110313112
+        ],
+        "EffectHeight": 0.9,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1163,14 +3112,14 @@
         "Name": "黄球3消-1",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.29,
+        "LiveTime": 0.1,
         "HitCount": "-1",
-        "RepeatDamage": 1,
-        "HitEffect": [],
-        "DamageInterval": 0.1,
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1186,13 +3135,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 30,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110314011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110332
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314012
+        ],
+        "EffectHeight": 1.1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1202,12 +3156,14 @@
         "Name": "黄球3消-2",
         "Shape": 1,
         "SizeX": 4,
-        "SizeY": 3,
+        "SizeY": 4,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1223,13 +3179,18 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110314021,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110332
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314022
+        ],
+        "EffectHeight": 1.1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
@@ -1239,7 +3200,642 @@
         "Name": "黄球3消-3",
         "Shape": 1,
         "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110314031,
+        "Magic": [
+            110332
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314032
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031404,
+        "Name": "黄球3消-4",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110314041,
+        "Magic": [
+            110332
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314042
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031405,
+        "Name": "黄球3消-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110314051,
+        "Magic": [
+            110332
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314052
+        ],
+        "EffectHeight": 1.1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031411,
+        "Name": "黄球3消-11",
+        "Shape": 1,
+        "SizeX": 4,
         "SizeY": 3,
+        "Speed": 65,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack31DandaoShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110314111,
+        "Magic": [
+            110335
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110314112
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031501,
+        "Name": "QTE技能-1",
+        "Shape": 2,
+        "SizeX": 4,
+        "OffsetX": 0.5,
+        "OffsetY": 2.4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110360
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031502,
+        "Name": "QTE技能-2",
+        "Shape": 2,
+        "SizeX": 4,
+        "OffsetX": 0.5,
+        "OffsetY": 2.4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 2,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110315021,
+        "Magic": [
+            110361
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031508,
+        "Name": "QTE技能-一般效果",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110373,
+            110374
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031509,
+        "Name": "QTE技能-SSS效果",
+        "Shape": 2,
+        "SizeX": 4,
+        "Speed": 0,
+        "TargetType": 3,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110394,
+            110374
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031801,
+        "Name": "大招动作-爆发伤害",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110318011,
+        "Magic": [
+            110350
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031802,
+        "Name": "大招动作-非天赋伤害子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110351
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031803,
+        "Name": "大招动作-非天赋增益子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.1,
+        "Effect": "FxR2WeilaAttack51Dandao",
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110353,
+            110354,
+            110373,
+            110355
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031804,
+        "Name": "大招动作-非天赋治疗子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110352
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031806,
+        "Name": "大招动作-SSS天赋伤害子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110351
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031807,
+        "Name": "大招动作-SSS天赋增益子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.1,
+        "Effect": "FxR2WeilaAttack51Dandao",
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110353,
+            110354,
+            110394,
+            110355
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031808,
+        "Name": "大招动作-SSS天赋治疗子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 5.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110352
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031809,
+        "Name": "大招-敌人超算空间",
+        "Shape": 2,
+        "SizeX": 99,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
@@ -1260,12 +3856,1649 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
-        "HitShakeDuration": 0.2,
-        "HitShakeIntensity": 0.1,
-        "BeHitState": 110314031,
-        "Magic": [],
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110358
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031810,
+        "Name": "大招动作-SSS+天赋伤害子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110351
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031811,
+        "Name": "大招动作-SSS+天赋增益子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.1,
+        "Effect": "FxR2WeilaAttack51DandaoEx",
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110353,
+            110354,
+            110373,
+            110355
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031812,
+        "Name": "大招动作-SSS+天赋治疗子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110352
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031814,
+        "Name": "大招动作-SSS和SSS+天赋伤害子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 4,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxR2WeilaAttack51Shouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110351
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031815,
+        "Name": "大招动作-SSS和SSS+天赋增益子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.1,
+        "Effect": "FxR2WeilaAttack51DandaoEx",
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110353,
+            110354,
+            110394,
+            110355
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11031816,
+        "Name": "大招动作-SSS和SSS+天赋治疗子弹",
+        "Shape": 2,
+        "SizeX": 5,
+        "Speed": 50,
+        "TargetType": 3,
+        "TrackTarget": 1,
+        "LiveTime": 9.9,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [
+            "FxTongyongCureshouji"
+        ],
+        "DamageInterval": 1,
+        "WaitTime": 0.3,
+        "DamageCount": "-1",
+        "LineType": 7,
+        "LineParams": [
+            1,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0,
+        "HitShakeIntensity": 0,
+        "Magic": [
+            110352
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "ResizeEffect": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032401,
+        "Name": "出场技-1",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": "-2",
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324011,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032402,
+        "Name": "出场技-2",
+        "Shape": 1,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": "-1",
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324021,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324022
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032403,
+        "Name": "出场技-3",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 4,
+        "OffsetX": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324031,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324032
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032404,
+        "Name": "出场技-4",
+        "Shape": 1,
+        "SizeX": 6,
+        "SizeY": 4,
+        "OffsetX": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324041,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032405,
+        "Name": "出场技-5",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324051,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032406,
+        "Name": "出场技-6",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324061,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032407,
+        "Name": "出场技-7",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324071,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032408,
+        "Name": "出场技-8",
+        "Shape": 1,
+        "SizeX": 8,
+        "SizeY": 3,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack11Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110324081,
+        "Magic": [
+            110312
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110324082
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032410,
+        "Name": "出场技-10",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 4,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.8,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110316
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032411,
+        "Name": "出场技-11",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 6,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.2,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
+        "HitEffect": [],
+        "DamageInterval": 0.05,
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110316
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032501,
+        "Name": "被动蓄力攻击1-1",
+        "Shape": 1,
+        "SizeX": 4,
+        "SizeY": 3,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack41Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110325011,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110325012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032511,
+        "Name": "被动蓄力攻击1-远程伤害",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110325111,
+        "Magic": [
+            110343,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110325112
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032512,
+        "Name": "被动蓄力攻击1-远程特效",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack41Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1.2,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032516,
+        "Name": "被动蓄力攻击1-减速子弹",
+        "Shape": 2,
+        "SizeX": 99,
+        "Speed": 0,
+        "TargetType": 5,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110348
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032517,
+        "Name": "被动蓄力攻击1-消除减速子弹",
+        "Shape": 2,
+        "SizeX": 99,
+        "Speed": 0,
+        "TargetType": 5,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 3,
+        "BornDirectionType": 4,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [
+            110375
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032601,
+        "Name": "被动蓄力攻击2-1",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack42Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110326011,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110326012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032602,
+        "Name": "被动蓄力攻击2-2",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack42Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110326021,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110326022
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032606,
+        "Name": "被动蓄力攻击2-6",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110326061,
+        "Magic": [
+            110344,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110326062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032607,
+        "Name": "被动蓄力攻击2-7",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110326071,
+        "Magic": [
+            110344,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110326072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032608,
+        "Name": "被动蓄力攻击2-8",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack42Dandao01",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.3,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032609,
+        "Name": "被动蓄力攻击2-9",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack42Dandao02",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.4,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032701,
+        "Name": "被动蓄力攻击3-1",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack43Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110327011,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110327012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032705,
+        "Name": "被动蓄力攻击3-5",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110327051,
+        "Magic": [
+            110345,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110327052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032706,
+        "Name": "被动蓄力攻击3-6",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack43Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032801,
+        "Name": "被动蓄力攻击4-1",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack44Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110328011,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110328012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032805,
+        "Name": "被动蓄力攻击4-5",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110328051,
+        "Magic": [
+            110346,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110328052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032806,
+        "Name": "被动蓄力攻击4-6",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack44Dandao",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032901,
+        "Name": "被动蓄力攻击5-1",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack45Shouji01"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.12,
+        "BeHitState": 110329011,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110329012
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032902,
+        "Name": "被动蓄力攻击5-2",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack45Shouji02"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.15,
+        "BeHitState": 110329021,
+        "Magic": [
+            110349
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110329022
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032906,
+        "Name": "被动蓄力攻击5-6",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110329061,
+        "Magic": [
+            110347,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110329062
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032907,
+        "Name": "被动蓄力攻击5-7",
+        "Shape": 2,
+        "SizeX": 2.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaBeidongShouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110329071,
+        "Magic": [
+            110347,
+            110348
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110329072
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032908,
+        "Name": "被动蓄力攻击5-8",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack45Dandao01",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0.8,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11032909,
+        "Name": "被动蓄力攻击5-9",
+        "Shape": 2,
+        "SizeX": 0.3,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxR2WeilaAttack45Dandao02",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 1,
+        "BornDirectionType": 1,
+        "BeHitCenter": 3,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1.8,
         "HitOnJoint": "HitCase",
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
@@ -1273,15 +5506,18 @@
     },
     {
         "Id": 11033001,
-        "Name": "普攻1（冲刺版）-1",
+        "Name": "普攻1（位移）-1",
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxR2WeilaAttack01Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1297,28 +5533,303 @@
         "BornPosition": 0,
         "BornDirectionType": 0,
         "BeHitCenter": 3,
+        "HitShakeDirection": 330,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
         "BeHitState": 110330011,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
+        "Magic": [
+            110300
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110330012
+        ],
+        "EffectHeight": 1,
         "BindLauncher": 0,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     },
     {
         "Id": 11033002,
-        "Name": "普攻1（冲刺版）-2",
+        "Name": "普攻1（位移）-2",
         "Shape": 1,
         "SizeX": 4,
         "SizeY": 3,
+        "OffsetY": 1,
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.1,
         "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack01Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110330021,
+        "Magic": [
+            110300
+        ],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 1,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033201,
+        "Name": "普攻1（闪避后）-1",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0401Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110332011,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110332012
+        ],
+        "EffectHeight": 0.9,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033202,
+        "Name": "普攻1（闪避后）-2",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0402Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110332021,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110332022
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033203,
+        "Name": "普攻1（闪避后）-3",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0402Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 30,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.1,
+        "BeHitState": 110332031,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110332032
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033204,
+        "Name": "普攻1（闪避后）-4",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1.5,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0402Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110332041,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110332042
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 0,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033205,
+        "Name": "普攻1（闪避后）-5",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 4,
+        "OffsetY": 1,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.1,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxR2WeilaAttack0403Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 3,
+        "HitShakeDirection": 330,
+        "HitShakeDuration": 0.2,
+        "HitShakeIntensity": 0.2,
+        "BeHitState": 110332051,
+        "Magic": [
+            110303
+        ],
+        "MagicLauncherNpc": [
+            null,
+            110332052
+        ],
+        "EffectHeight": 0.8,
+        "BindLauncher": 1,
+        "DodgeLimitMark": 0,
+        "HitEffectUseMissileDirection": 1
+    },
+    {
+        "Id": 11033210,
+        "Name": "普攻1（闪避后）-10",
+        "Shape": 1,
+        "SizeX": 3,
+        "SizeY": 5,
+        "OffsetY": 2,
+        "Speed": 50,
+        "TargetType": 4,
+        "LiveTime": 0.15,
+        "HitCount": "-1",
+        "RepeatDamage": 1,
         "HitEffect": [],
+        "DamageInterval": 0.05,
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -1336,12 +5847,13 @@
         "BeHitCenter": 3,
         "HitShakeDuration": 0.2,
         "HitShakeIntensity": 0.1,
-        "BeHitState": 110330021,
-        "Magic": [],
+        "Magic": [
+            110305
+        ],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "BindLauncher": 0,
+        "BindLauncher": 1,
         "DodgeLimitMark": 0,
         "HitEffectUseMissileDirection": 1
     }

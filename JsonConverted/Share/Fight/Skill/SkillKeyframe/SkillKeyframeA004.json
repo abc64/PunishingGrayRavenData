@@ -18,11 +18,9 @@
             "30|Cast|10010114",
             "33|Cast|10010115",
             1,
-            "1|Effect|FxR2LiangAttack11||1",
+            "1|Effect|FxR2LiangAttack11||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
@@ -44,11 +42,9 @@
             "30|Cast|10010214",
             "33|Cast|10010215",
             1,
-            "1|Effect|FxR2LiangAttack12||1",
+            "1|Effect|FxR2LiangAttack12||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
@@ -70,18 +66,16 @@
             "30|Cast|10010314",
             "33|Cast|10010315",
             1,
-            "1|Effect|FxR2LiangAttack13||1",
+            "1|Effect|FxR2LiangAttack13||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
         "Id": 100104,
         "Key": [
             "10|Cast|10010401",
-            "1|Effect|FxR2LiangAttack21||1",
+            "1|Effect|FxR2LiangAttack21||1|",
             4,
             10
         ]
@@ -90,7 +84,7 @@
         "Id": 100105,
         "Key": [
             "10|Cast|10010501",
-            "1|Effect|FxR2LiangAttack21||1",
+            "1|Effect|FxR2LiangAttack21||1|",
             4,
             10
         ]
@@ -99,7 +93,7 @@
         "Id": 100106,
         "Key": [
             "10|Cast|10010601",
-            "1|Effect|FxR2LiangAttack23||1",
+            "1|Effect|FxR2LiangAttack23||1|",
             4,
             10
         ]
@@ -108,7 +102,7 @@
         "Id": 100107,
         "Key": [
             "10|Cast|10010701",
-            "1|Effect|FxR2LiangAttack31||1",
+            "1|Effect|FxR2LiangAttack31||1|",
             4,
             10
         ]
@@ -117,7 +111,7 @@
         "Id": 100108,
         "Key": [
             "10|Cast|10010801",
-            "1|Effect|FxR2LiangAttack31||1",
+            "1|Effect|FxR2LiangAttack31||1|",
             4,
             10
         ]
@@ -126,7 +120,7 @@
         "Id": 100109,
         "Key": [
             "10|Cast|10010901",
-            "1|Effect|FxR2LiangAttack33||1",
+            "1|Effect|FxR2LiangAttack33||1|",
             4,
             10
         ]
@@ -140,10 +134,9 @@
             "85|Cast|10011004",
             38,
             "0|Cast|10011006",
-            "0|Magic|100091|0",
             "97|Magic|100092|0",
             "0|Magic|100160|0",
-            "1|Effect|FxR2LiangAttack5101||1",
+            "1|Effect|FxR2LiangAttack5101||1|",
             85
         ]
     },
@@ -151,7 +144,7 @@
         "Id": 100111,
         "Key": [
             "0|Magic|100172|0",
-            "1|Effect|FxR2LiangBorn||",
+            "1|Effect|FxR2LiangBorn|||",
             "4|Magic|100175|0"
         ]
     },
@@ -174,11 +167,9 @@
             "30|Cast|10011214",
             "33|Cast|10011215",
             1,
-            "1|Effect|FxR2LiangAttack11Ex||1",
+            "1|Effect|FxR2LiangAttack11Ex||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
@@ -200,11 +191,9 @@
             "30|Cast|10011314",
             "33|Cast|10011315",
             1,
-            "1|Effect|FxR2LiangAttack12Ex||1",
+            "1|Effect|FxR2LiangAttack12Ex||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
@@ -226,18 +215,16 @@
             "30|Cast|10011414",
             "33|Cast|10011415",
             1,
-            "1|Effect|FxR2LiangAttack13Ex||1",
+            "1|Effect|FxR2LiangAttack13Ex||1|",
             2,
-            1,
-            "0|Magic|100188|0",
-            "36|Magic|100189|0"
+            1
         ]
     },
     {
         "Id": 100115,
         "Key": [
             "10|Cast|10011501",
-            "1|Effect|FxR2LiangAttack33||1",
+            "1|Effect|FxR2LiangAttack33||1|",
             4,
             10,
             "1|Cast|10011509"
@@ -247,7 +234,7 @@
         "Id": 100116,
         "Key": [
             "0|Magic|100170|0",
-            "1|Effect|FxR2LiangWin||",
+            "1|Effect|FxR2LiangWin|||",
             "0|Magic|100176|0"
         ]
     },
@@ -259,8 +246,7 @@
         "Id": 100118,
         "Key": [
             "9|Cast|10011801",
-            "1|Effect|FxR2LiangQte||1",
-            "0|Magic|100091|0",
+            "1|Effect|FxR2LiangQte||1|",
             "54|Magic|100092|0",
             "1|Cast|10011805",
             "49|Cast|10011806"
@@ -269,7 +255,6 @@
     {
         "Id": 100119,
         "Key": [
-            "0|Magic|100090|0",
             "8|Magic|100094|0",
             "2|Magic|100173|0",
             "8|Magic|100174|0"
@@ -278,7 +263,6 @@
     {
         "Id": 100120,
         "Key": [
-            "0|Magic|100090|0",
             "8|Magic|100094|0",
             "1|Magic|100173|0",
             "8|Magic|100174|0"
@@ -288,7 +272,7 @@
         "Id": 100121,
         "Key": [
             "6|Cast|10012101",
-            "1|Effect|FxR2LiangAttack01||1",
+            "1|Effect|FxR2LiangAttack01||1|",
             6
         ]
     },
@@ -299,7 +283,7 @@
             "6|Cast|10012202",
             "8|Cast|10012203",
             "10|Cast|10012204",
-            "1|Effect|FxR2LiangAttack02||1",
+            "1|Effect|FxR2LiangAttack02||1|",
             4
         ]
     },
@@ -310,7 +294,7 @@
             "4|Cast|10012302",
             "9|Cast|10012303|10012304|10012305|10012306",
             "9|Cast|10012307",
-            "1|Effect|FxR2LiangAttack03||1",
+            "1|Effect|FxR2LiangAttack03||1|",
             1,
             4,
             9
@@ -324,9 +308,9 @@
             "5|Cast|10012403",
             "7|Cast|10012404",
             "11|Cast|10012405",
-            "1|Effect|FxR2LiangAttack04||1",
-            "1|Effect|FxR2LiangAttack04Wuqi|WeaponCase1|1",
-            "1|Effect|FxR2LiangAttack04Wuqi|WeaponCase2|1",
+            "1|Effect|FxR2LiangAttack04||1|",
+            "1|Effect|FxR2LiangAttack04Wuqi|WeaponCase1|1|",
+            "1|Effect|FxR2LiangAttack04Wuqi|WeaponCase2|1|",
             1
         ]
     },
@@ -334,14 +318,14 @@
         "Id": 100125,
         "Key": [
             "6|Cast|10012501",
-            "1|Effect|FxR2LiangAttack05||1",
+            "1|Effect|FxR2LiangAttack05||1|",
             6
         ]
     },
     {
         "Id": 100126,
         "Key": [
-            "0|Effect|FxR2LiangSave||1"
+            "0|Effect|FxR2LiangSave||1|"
         ]
     },
     {
@@ -349,7 +333,7 @@
         "Key": [
             "8|Cast|10050101",
             "16|Cast|10050102",
-            "1|Effect|FxR2YongyechaoAttack11||1",
+            "1|Effect|FxR2YongyechaoAttack11||1|",
             1,
             16
         ]
@@ -359,7 +343,7 @@
         "Key": [
             "8|Cast|10050201",
             "16|Cast|10050202",
-            "1|Effect|FxR2YongyechaoAttack11||1",
+            "1|Effect|FxR2YongyechaoAttack11||1|",
             1,
             16
         ]
@@ -369,7 +353,7 @@
         "Key": [
             "8|Cast|10050301",
             "16|Cast|10050302",
-            "1|Effect|FxR2YongyechaoAttack13||1",
+            "1|Effect|FxR2YongyechaoAttack13||1|",
             1,
             16
         ]
@@ -411,7 +395,7 @@
             "9|Cast|10050702",
             4,
             4,
-            "1|Effect|FxR2YongyechaoAttack31||1"
+            "1|Effect|FxR2YongyechaoAttack31||1|"
         ]
     },
     {
@@ -423,7 +407,7 @@
             "15|Cast|10050804",
             4,
             4,
-            "1|Effect|FxR2YongyechaoAttack32||1"
+            "1|Effect|FxR2YongyechaoAttack32||1|"
         ]
     },
     {
@@ -437,34 +421,37 @@
             "20|Cast|10050906",
             4,
             4,
-            "1|Effect|FxR2YongyechaoAttack33||1"
+            "1|Effect|FxR2YongyechaoAttack33||1|"
         ]
     },
     {
         "Id": 100510,
         "Key": [
-            "1|Effect|FxR2YongyechaoAttack01||1",
+            "1|Effect|FxR2YongyechaoAttack01||1|",
             "7|Cast|10051002"
         ]
     },
     {
         "Id": 100511,
         "Key": [
-            "1|Effect|FxR2YongyechaoAttack02||1",
+            "1|Effect|FxR2YongyechaoAttack02||1|",
             "3|Cast|10051102"
         ]
     },
     {
         "Id": 100512,
         "Key": [
-            "1|Effect|FxR2YongyechaoAttack03||1",
-            "5|Cast|10051202"
+            "1|Effect|FxR2YongyechaoAttack03||1|",
+            "5|Cast|10051202",
+            "6|Cast|10051203",
+            "7|Cast|10051204",
+            "8|Cast|10051205"
         ]
     },
     {
         "Id": 100513,
         "Key": [
-            "1|Effect|FxR2YongyechaoAttack04||1",
+            "1|Effect|FxR2YongyechaoAttack04||1|",
             "2|Cast|10051302",
             "4|Cast|10051303",
             "6|Cast|10051304",
@@ -476,7 +463,7 @@
         "Id": 100514,
         "Key": [
             "0|Magic|100575|0",
-            "1|Effect|FxR2YongyechaoBorn||",
+            "1|Effect|FxR2YongyechaoBorn|||",
             "0|Magic|100577|0"
         ]
     },
@@ -493,8 +480,7 @@
             "26|Cast|10051508",
             4,
             4,
-            "1|Effect|FxR2YongyechaoAttack41||1",
-            "0|Magic|100538|0"
+            "1|Effect|FxR2YongyechaoAttack41||1|"
         ]
     },
     {
@@ -502,16 +488,16 @@
         "Key": [
             "8|Cast|10051601",
             "16|Cast|10051602",
-            "1|Effect|FxR2YongyechaoAttack13||1",
-            16,
-            1
+            "1|Effect|FxR2YongyechaoAttack13||1|",
+            1,
+            16
         ]
     },
     {
         "Id": 100517,
         "Key": [
             "0|Magic|100576|0",
-            "1|Effect|FxR2YongyechaoWin||",
+            "1|Effect|FxR2YongyechaoWin|||",
             "0|Magic|100578|0"
         ]
     },
@@ -530,10 +516,9 @@
             "14|Cast|10051906",
             "26|Cast|10051907",
             26,
-            "1|Effect|FxR2YongyechaoQte||",
+            "1|Effect|FxR2YongyechaoQte|||",
             "1|Cast|10051910",
             "50|Cast|10051911",
-            "0|Magic|100091|0",
             "55|Magic|100092|0"
         ]
     },
@@ -544,7 +529,6 @@
             "1|Cast|10052004",
             "1|Magic|100552|0",
             "20|Magic|100550|0",
-            "0|Magic|100555|0",
             "0|Cast|10052009",
             20
         ]
@@ -552,16 +536,14 @@
     {
         "Id": 100521,
         "Key": [
-            "1|Effect|FxR2YongyechaoMove||",
-            "0|Magic|100090|0",
+            "1|Effect|FxR2YongyechaoMove|||",
             "10|Magic|100094|0"
         ]
     },
     {
         "Id": 100522,
         "Key": [
-            "1|Effect|FxR2YongyechaoMove||",
-            "0|Magic|100090|0",
+            "1|Effect|FxR2YongyechaoMove|||",
             "10|Magic|100094|0"
         ]
     },
@@ -572,7 +554,7 @@
     {
         "Id": 100524,
         "Key": [
-            "1|Effect|FxR2YongyechaoAttack01||1",
+            "1|Effect|FxR2YongyechaoAttack01||1|",
             "7|Cast|10052402",
             5
         ]
@@ -580,14 +562,14 @@
     {
         "Id": 100701,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack01||1",
+            "1|Effect|FxR2KalieninaAttack01||1|",
             "4|Cast|10070102"
         ]
     },
     {
         "Id": 100702,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack02||1",
+            "1|Effect|FxR2KalieninaAttack02||1|",
             "5|Cast|10070202",
             "9|Cast|10070203"
         ]
@@ -595,7 +577,7 @@
     {
         "Id": 100703,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack03||1",
+            "1|Effect|FxR2KalieninaAttack03||1|",
             "5|Cast|10070302",
             "10|Cast|10070303"
         ]
@@ -607,7 +589,7 @@
             "11|Cast|10070402",
             "11|Cast|10070403",
             11,
-            "0|Effect|FxR2KalieninaAttack04||1"
+            "0|Effect|FxR2KalieninaAttack04||1|"
         ]
     },
     {
@@ -615,7 +597,7 @@
         "Key": [
             "9|Cast|10070501|10070502|10070503|10070504",
             "9|Cast|10070505|10070506",
-            "1|Effect|FxR2KalieninaAttack11||1",
+            "1|Effect|FxR2KalieninaAttack11||1|",
             9,
             "9|Cast|10070510"
         ]
@@ -625,7 +607,7 @@
         "Key": [
             "9|Cast|10070601|10070602|10070603|10070604",
             "9|Cast|10070605|10070606",
-            "1|Effect|FxR2KalieninaAttack11||1",
+            "1|Effect|FxR2KalieninaAttack11||1|",
             9,
             "9|Cast|10070610"
         ]
@@ -635,7 +617,7 @@
         "Key": [
             "9|Cast|10070701|10070702|10070703|10070704",
             "9|Cast|10070705|10070706",
-            "1|Effect|FxR2KalieninaAttack11||1",
+            "1|Effect|FxR2KalieninaAttack11||1|",
             9,
             "9|Cast|10070710"
         ]
@@ -646,7 +628,7 @@
             "9|Cast|10070801",
             "9|Cast|10070802",
             9,
-            "1|Effect|FxR2KalieninaAttack21||1"
+            "1|Effect|FxR2KalieninaAttack21||1|"
         ]
     },
     {
@@ -655,7 +637,7 @@
             "9|Cast|10070901",
             "9|Cast|10070902",
             9,
-            "1|Effect|FxR2KalieninaAttack21||1"
+            "1|Effect|FxR2KalieninaAttack21||1|"
         ]
     },
     {
@@ -664,13 +646,13 @@
             "9|Cast|10071001",
             "9|Cast|10071002",
             9,
-            "1|Effect|FxR2KalieninaAttack21||1"
+            "1|Effect|FxR2KalieninaAttack21||1|"
         ]
     },
     {
         "Id": 100711,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack31||1",
+            "1|Effect|FxR2KalieninaAttack31||1|",
             "9|Cast|10071102",
             1,
             9,
@@ -680,7 +662,7 @@
     {
         "Id": 100712,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack31||1",
+            "1|Effect|FxR2KalieninaAttack31||1|",
             "9|Cast|10071202",
             1,
             9,
@@ -690,7 +672,7 @@
     {
         "Id": 100713,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack31||1",
+            "1|Effect|FxR2KalieninaAttack31||1|",
             "9|Cast|10071302",
             1,
             9,
@@ -701,14 +683,14 @@
         "Id": 100714,
         "Key": [
             "0|Magic|100783|0",
-            "1|Effect|FxR2KalieninaBorn||",
+            "1|Effect|FxR2KalieninaBorn|||",
             "0|Magic|100788|0"
         ]
     },
     {
         "Id": 100715,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack31||1",
+            "1|Effect|FxR2KalieninaAttack31||1|",
             "9|Cast|10071502",
             1,
             9,
@@ -720,8 +702,7 @@
         "Key": [
             "50|Magic|100750|0",
             "50|Cast|10071604",
-            "1|Effect|FxR2KalieninaAttack51||1",
-            "0|Magic|100091|0",
+            "1|Effect|FxR2KalieninaAttack51||1|",
             "74|Magic|100092|0",
             "1|Magic|100752|0",
             "0|Cast|10071610"
@@ -731,7 +712,7 @@
         "Id": 100717,
         "Key": [
             "0|Magic|100753|0",
-            "1|Effect|FxR2KalieninaWin||",
+            "1|Effect|FxR2KalieninaWin|||",
             "0|Magic|100789|0"
         ]
     },
@@ -745,26 +726,23 @@
             "15|Cast|10071901",
             "15|Cast|10071902",
             15,
-            "7|Effect|FxR2KalieninaAttack21||1",
+            "7|Effect|FxR2KalieninaAttack21||1|",
             "1|Cast|10071907",
             "39|Cast|10071908",
-            "0|Magic|100091|0",
             "46|Magic|100092|0"
         ]
     },
     {
         "Id": 100720,
         "Key": [
-            "0|Magic|100090|0",
-            "1|Effect|FxR2KalieninaMove1||",
+            "1|Effect|FxR2KalieninaMove1|||",
             "8|Magic|100094|0"
         ]
     },
     {
         "Id": 100721,
         "Key": [
-            "0|Magic|100090|0",
-            "1|Effect|FxR2KalieninaMove2||",
+            "1|Effect|FxR2KalieninaMove2|||",
             "8|Magic|100094|0"
         ]
     },
@@ -772,22 +750,18 @@
         "Id": 100722,
         "Key": [
             "1|Cast|10072203",
-            "0|Magic|100754|0",
             "0|Magic|100785|0",
             12,
             "0|Magic|100780|0",
             "0|Magic|100781|0",
             "12|Cast|10072209|10072210|10072211|10072212",
-            "12|Cast|10072213",
-            "0|Magic|100786|0"
+            "12|Cast|10072213"
         ]
     },
     {
         "Id": 100723,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack42||1",
-            "0|Magic|100754|0",
-            "0|Magic|100786|0",
+            "1|Effect|FxR2KalieninaAttack42||1|",
             2,
             "0|Magic|100780|0",
             "0|Magic|100781|0",
@@ -802,7 +776,7 @@
     {
         "Id": 100725,
         "Key": [
-            "1|Effect|FxR2KalieninaAttack01||1",
+            "1|Effect|FxR2KalieninaAttack01||1|",
             "4|Cast|10072502",
             2
         ]
@@ -811,7 +785,7 @@
         "Id": 100801,
         "Key": [
             "3|Cast|10080101",
-            "1|Effect|FxR2DubianAttack01||1"
+            "1|Effect|FxR2DubianAttack01||1|"
         ]
     },
     {
@@ -819,21 +793,21 @@
         "Key": [
             "2|Cast|10080201",
             "7|Cast|10080202",
-            "1|Effect|FxR2DubianAttack02||"
+            "1|Effect|FxR2DubianAttack02|||"
         ]
     },
     {
         "Id": 100803,
         "Key": [
             "2|Cast|10080301",
-            "1|Effect|FxR2DubianAttack03||1"
+            "1|Effect|FxR2DubianAttack03||1|"
         ]
     },
     {
         "Id": 100804,
         "Key": [
             "4|Cast|10080401",
-            "1|Effect|FxR2DubianAttack04||"
+            "1|Effect|FxR2DubianAttack04|||"
         ]
     },
     {
@@ -841,16 +815,16 @@
         "Key": [
             "3|Cast|10080501",
             "14|Cast|10080502",
-            "1|Effect|FxR2DubianAttack05||1",
-            "1|Effect|FxR2DubianAttack0501|WeaponCase1|1",
-            "1|Effect|FxR2DubianAttack0501|WeaponCase2|1"
+            "1|Effect|FxR2DubianAttack05||1|",
+            "1|Effect|FxR2DubianAttack0501|WeaponCase1|1|",
+            "1|Effect|FxR2DubianAttack0501|WeaponCase2|1|"
         ]
     },
     {
         "Id": 100806,
         "Key": [
             "3|Cast|10080601",
-            "1|Effect|FxR2DubianAttack01||1",
+            "1|Effect|FxR2DubianAttack01||1|",
             1
         ]
     },
@@ -861,8 +835,8 @@
             "4|Cast|10080702",
             "7|Cast|10080703",
             "12|Cast|10080704",
-            "1|Effect|FxR2DubianAttack11||1",
-            "1|Effect|FxR2DubianAttack11Canying||1"
+            "1|Effect|FxR2DubianAttack11||1|",
+            "1|Effect|FxR2DubianAttack11Canying||1|"
         ]
     },
     {
@@ -872,8 +846,8 @@
             "4|Cast|10080802",
             "7|Cast|10080803",
             "12|Cast|10080804",
-            "1|Effect|FxR2DubianAttack11||1",
-            "1|Effect|FxR2DubianAttack11Canying||1"
+            "1|Effect|FxR2DubianAttack11||1|",
+            "1|Effect|FxR2DubianAttack11Canying||1|"
         ]
     },
     {
@@ -884,9 +858,9 @@
             "7|Cast|10080903",
             "12|Cast|10080904",
             "18|Cast|10080905",
-            "1|Effect|FxR2DubianAttack1301||1",
+            "1|Effect|FxR2DubianAttack1301||1|",
             "18|Cast|10080908",
-            "1|Effect|FxR2DubianAttack11Canying||1"
+            "1|Effect|FxR2DubianAttack11Canying||1|"
         ]
     },
     {
@@ -894,7 +868,7 @@
         "Key": [
             "3|Cast|10081001",
             "10|Cast|10081002",
-            "1|Effect|FxR2DubianAttack21||1"
+            "1|Effect|FxR2DubianAttack21||1|"
         ]
     },
     {
@@ -902,7 +876,7 @@
         "Key": [
             "3|Cast|10081101",
             "10|Cast|10081102",
-            "1|Effect|FxR2DubianAttack21||1"
+            "1|Effect|FxR2DubianAttack21||1|"
         ]
     },
     {
@@ -910,7 +884,7 @@
         "Key": [
             "3|Cast|10081201",
             "10|Cast|10081202",
-            "1|Effect|FxR2DubianAttack23||1"
+            "1|Effect|FxR2DubianAttack23||1|"
         ]
     },
     {
@@ -950,7 +924,7 @@
         "Id": 100816,
         "Key": [
             "0|Magic|100856|0",
-            "1|Effect|FxR2DubianBorn||",
+            "1|Effect|FxR2DubianBorn|||",
             "3|Magic|100877|0"
         ]
     },
@@ -962,9 +936,9 @@
             "7|Cast|10081703",
             "12|Cast|10081704",
             "18|Cast|10081705",
-            "1|Effect|FxR2DubianAttack1301||1",
+            "1|Effect|FxR2DubianAttack1301||1|",
             "18|Cast|10081708",
-            "1|Effect|FxR2DubianAttack11Canying||1"
+            "1|Effect|FxR2DubianAttack11Canying||1|"
         ]
     },
     {
@@ -972,17 +946,15 @@
         "Key": [
             "6|Cast|10081801",
             "6|Cast|10081802",
-            "1|Effect|FxR2DubianQte||",
+            "1|Effect|FxR2DubianQte|||",
             "1|Cast|10081807",
             "25|Cast|10081808",
-            "0|Magic|100091|0",
             "36|Magic|100092|0"
         ]
     },
     {
         "Id": 100819,
         "Key": [
-            "0|Magic|100090|0",
             "1|Cast|10081902",
             "7|Cast|10081903",
             "1|Magic|100871|0",
@@ -999,7 +971,6 @@
     {
         "Id": 100820,
         "Key": [
-            "0|Magic|100090|0",
             "1|Cast|10082002",
             "7|Cast|10082003",
             "1|Magic|100871|0",
@@ -1020,11 +991,10 @@
             "43|Cast|10082102",
             "58|Cast|10082103",
             "90|Cast|10082104",
-            "0|Magic|100091|0",
             "100|Magic|100092|0",
             "0|Magic|100852|0",
-            "1|Effect|FxR2DubianAttack51||1",
-            "1|Effect|FxR2DubianAttack5101|WeaponCase2|1",
+            "1|Effect|FxR2DubianAttack51||1|",
+            "1|Effect|FxR2DubianAttack5101|WeaponCase2|1|",
             "0|Cast|10082111"
         ]
     },
@@ -1032,7 +1002,7 @@
         "Id": 100822,
         "Key": [
             "0|Magic|100850|0",
-            "1|Effect|FxR2DubianWin||",
+            "1|Effect|FxR2DubianWin|||",
             "0|Magic|100878|0"
         ]
     },
@@ -1048,8 +1018,8 @@
         "Id": 100825,
         "Key": [
             "3|Cast|10082501",
-            "1|Effect|FxR2DubianAttack01||1",
-            "6|Cast|10082504",
+            "1|Effect|FxR2DubianAttack01||1|",
+            "8|Cast|10082504",
             "3|Cast|10082505"
         ]
     },
@@ -1058,7 +1028,7 @@
         "Key": [
             "2|Cast|10082601",
             "7|Cast|10082602",
-            "1|Effect|FxR2DubianAttack02||",
+            "1|Effect|FxR2DubianAttack02|||",
             "6|Cast|10082604",
             "2|Cast|10082605"
         ]
@@ -1067,7 +1037,7 @@
         "Id": 100827,
         "Key": [
             "2|Cast|10082701",
-            "1|Effect|FxR2DubianAttack03||1",
+            "1|Effect|FxR2DubianAttack03||1|",
             "4|Cast|10082703",
             "1|Cast|10082704"
         ]
@@ -1076,7 +1046,7 @@
         "Id": 100828,
         "Key": [
             "5|Cast|10082801",
-            "1|Effect|FxR2DubianAttack04||",
+            "1|Effect|FxR2DubianAttack04|||",
             "7|Cast|10082803",
             "3|Cast|10082804"
         ]
@@ -1086,9 +1056,9 @@
         "Key": [
             "3|Cast|10082901",
             "14|Cast|10082902",
-            "1|Effect|FxR2DubianAttack05||1",
-            "1|Effect|FxR2DubianAttack0501|WeaponCase1|1",
-            "1|Effect|FxR2DubianAttack0501|WeaponCase2|1",
+            "1|Effect|FxR2DubianAttack05||1|",
+            "1|Effect|FxR2DubianAttack0501|WeaponCase1|1|",
+            "1|Effect|FxR2DubianAttack0501|WeaponCase2|1|",
             "17|Cast|10082906",
             "15|Cast|10082907"
         ]
@@ -1101,7 +1071,7 @@
         "Id": 100831,
         "Key": [
             "3|Cast|10083101",
-            "1|Effect|FxR2DubianAttack01||1",
+            "1|Effect|FxR2DubianAttack01||1|",
             1,
             "8|Cast|10083104",
             "3|Cast|10083105"
@@ -1128,7 +1098,7 @@
         "Key": [
             "8|Cast|10130301",
             "9|Cast|10130302",
-            "1|Effect|FxR2LifuAttack03||",
+            "1|Effect|FxR2LifuAttack03|||",
             "8|Cast|10130304",
             8
         ]
@@ -1145,7 +1115,7 @@
         "Id": 101305,
         "Key": [
             "9|Cast|10130501",
-            "1|Effect|FxR2LifuAttack05||",
+            "1|Effect|FxR2LifuAttack05|||",
             "9|Cast|10130503",
             9
         ]
@@ -1153,7 +1123,7 @@
     {
         "Id": 101306,
         "Key": [
-            "1|Effect|FxR2LifuAttack11||",
+            "1|Effect|FxR2LifuAttack11|||",
             "4|Cast|10130603",
             4
         ]
@@ -1161,7 +1131,7 @@
     {
         "Id": 101307,
         "Key": [
-            "1|Effect|FxR2LifuAttack11||",
+            "1|Effect|FxR2LifuAttack11|||",
             "4|Cast|10130703",
             4
         ]
@@ -1169,7 +1139,7 @@
     {
         "Id": 101308,
         "Key": [
-            "1|Effect|FxR2LifuAttack13||",
+            "1|Effect|FxR2LifuAttack13|||",
             "4|Cast|10130803",
             4
         ]
@@ -1177,7 +1147,7 @@
     {
         "Id": 101309,
         "Key": [
-            "1|Effect|FxR2LifuAttack21||",
+            "1|Effect|FxR2LifuAttack21|||",
             "5|Cast|10130902",
             "5|Cast|10130904|10130905",
             5
@@ -1186,7 +1156,7 @@
     {
         "Id": 101310,
         "Key": [
-            "1|Effect|FxR2LifuAttack21||",
+            "1|Effect|FxR2LifuAttack21|||",
             "5|Cast|10131002",
             "5|Cast|10131004|10131005",
             5
@@ -1195,7 +1165,7 @@
     {
         "Id": 101311,
         "Key": [
-            "1|Effect|FxR2LifuAttack21||",
+            "1|Effect|FxR2LifuAttack21|||",
             "5|Cast|10131102",
             "5|Cast|10131104|10131105",
             5
@@ -1204,7 +1174,7 @@
     {
         "Id": 101312,
         "Key": [
-            "1|Effect|FxR2LifuAttack31||",
+            "1|Effect|FxR2LifuAttack31|||",
             "5|Cast|10131202",
             "5|Cast|10131204|10131206",
             5,
@@ -1214,7 +1184,7 @@
     {
         "Id": 101313,
         "Key": [
-            "1|Effect|FxR2LifuAttack31||",
+            "1|Effect|FxR2LifuAttack31|||",
             "6|Cast|10131302",
             "6|Cast|10131304|10131306",
             6,
@@ -1224,7 +1194,7 @@
     {
         "Id": 101314,
         "Key": [
-            "1|Effect|FxR2LifuAttack31||",
+            "1|Effect|FxR2LifuAttack31|||",
             "6|Cast|10131402",
             "6|Cast|10131404|10131406",
             6,
@@ -1235,14 +1205,14 @@
         "Id": 101315,
         "Key": [
             "0|Magic|101365|0",
-            "1|Effect|FxR2LifuBorn||",
+            "1|Effect|FxR2LifuBorn|||",
             "4|Magic|101375|0"
         ]
     },
     {
         "Id": 101316,
         "Key": [
-            "1|Effect|FxR2LifuAttack31||",
+            "1|Effect|FxR2LifuAttack31|||",
             "6|Cast|10131602",
             "6|Cast|10131603|10131605",
             6,
@@ -1252,9 +1222,8 @@
     {
         "Id": 101317,
         "Key": [
-            "30|Cast|10131701|10131702|10131703|10131704",
+            "30|Cast|10131701|10131702|10131704",
             "1|Cast|10131705",
-            "0|Magic|100091|0",
             "64|Magic|100092|0",
             "0|Magic|101354|0",
             "0|Cast|10131710"
@@ -1264,7 +1233,7 @@
         "Id": 101318,
         "Key": [
             "0|Magic|101360|0",
-            "1|Effect|FxR2LifuWin||",
+            "1|Effect|FxR2LifuWin|||",
             "0|Magic|101376|0"
         ]
     },
@@ -1277,7 +1246,6 @@
         "Key": [
             "1|Cast|10132001",
             "41|Cast|10132002",
-            "0|Magic|100091|0",
             "46|Magic|100092|0",
             "20|Magic|101356|0"
         ]
@@ -1293,7 +1261,6 @@
             "10|Magic|100304|0",
             "2|Cast|10132109",
             "9|Cast|10132110",
-            "0|Magic|100090|0",
             "10|Magic|100094|0"
         ]
     },
@@ -1308,7 +1275,6 @@
             "10|Magic|100304|0",
             "2|Cast|10132209",
             "9|Cast|10132210",
-            "0|Magic|100090|0",
             "10|Magic|100094|0"
         ]
     },

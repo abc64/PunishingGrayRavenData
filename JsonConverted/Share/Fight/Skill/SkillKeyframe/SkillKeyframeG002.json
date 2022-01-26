@@ -52,7 +52,7 @@
             "0|Effect|FxMe1BioMd004050Attack01||1|",
             "8|Magic|995204|1",
             "33|Magic|995203|1",
-            "22|Cast|90370106"
+            "24|Cast|90370106"
         ]
     },
     {
@@ -63,7 +63,7 @@
             "0|Effect|FxMe1BioMd004050Attack02||1|",
             "3|Magic|995204|1",
             "16|Magic|995203|1",
-            "5|Cast|90370206"
+            "7|Cast|90370206"
         ]
     },
     {
@@ -84,7 +84,7 @@
             "17|Cast|90370401",
             0,
             "0|Effect|FxMe1BioMd004050Attack04|||",
-            "6|Effect|FxYubei02|Bip001Neck|1|",
+            "5|Effect|FxYubei02|Bip001Neck|1|",
             "0|Magic|995202|0"
         ]
     },
@@ -98,7 +98,7 @@
             "3|Magic|995204|1",
             "18|Magic|995203|1",
             "0|Magic|995202|0",
-            "15|Cast|90370508"
+            "9|Effect|FxYubei02|Bip001Neck|1|"
         ]
     },
     {
@@ -222,7 +222,7 @@
             "65|Effect|FxMe1CamouflageMd001002Attack02GuadianEffectCase1|EffectCase1|1|",
             36,
             0,
-            "20|Effect|FxYubei02|EffectCase1|1|"
+            "21|Effect|FxYubei02|EffectCase1|1|"
         ]
     },
     {
@@ -256,7 +256,7 @@
             "65|Effect|FxMe1CamouflageMd001002Attack02GuadianEffectCase1|EffectCase1|1|",
             36,
             0,
-            "20|Effect|FxYubei02|EffectCase1|1|"
+            "21|Effect|FxYubei02|EffectCase1|1|"
         ]
     },
     {
@@ -290,7 +290,7 @@
             "65|Effect|FxMe1CamouflageMd001002Attack02GuadianEffectCase1|EffectCase1|1|",
             36,
             0,
-            "20|Effect|FxYubei02|EffectCase1|1|"
+            "21|Effect|FxYubei02|EffectCase1|1|"
         ]
     },
     {
@@ -309,7 +309,7 @@
             "47|Effect|FxMe1CamouflageMd001002Attack05GuadianEffectCase1|EffectCase1|1|",
             "51|Effect|FxMe1CamouflageMd001002Attack05GuadianEffectCase1|EffectCase1|1|",
             0,
-            "20|Effect|FxYubei02|EffectCase1|1|",
+            "19|Effect|FxYubei02|EffectCase1|1|",
             "31|Cast|90440515",
             "35|Cast|90440516",
             "39|Cast|90440517",
@@ -324,7 +324,7 @@
             "43|Cast|90440601",
             "0|Effect|FxMe1CamouflageMd001002Attack06||1|",
             43,
-            "30|Effect|FxYubei02|EffectCase1|1|"
+            "31|Effect|FxYubei02|EffectCase1|1|"
         ]
     },
     {
@@ -431,7 +431,7 @@
             "17|Effect|FxMe1CamouflageMd001002Attack05GuadianEffectCase1|EffectCase1|1|",
             0,
             17,
-            "0|Effect|FxYubei02|EffectCase1|1|",
+            "5|Effect|FxYubei02|EffectCase1|1|",
             0
         ]
     },
@@ -458,10 +458,10 @@
             "6|Cast|90330204",
             "0|Effect|FxMe1BioMd004020Attack02||1|",
             6,
-            "0|Effect|FxYubei02|Bip001Head|1|",
+            "1|Effect|FxYubei02|Bip001Head|1|",
             0,
             "5|Magic|903322|1",
-            "5|Cast|90330210"
+            "1|Cast|90330210"
         ]
     },
     {
@@ -470,7 +470,7 @@
             "18|Cast|90330301",
             "0|Effect|FxMe1BioMd004020Attack03||1|",
             "0|Effect|FxMe1BioMd004020Attack03GuadianBip001RHand|Bip001Head|1|",
-            "5|Effect|FxYubei02|Bip001Head|1|",
+            "6|Effect|FxYubei02|Bip001Head|1|",
             0
         ]
     },
@@ -486,14 +486,13 @@
         "Id": 903305,
         "Key": [
             "14|Cast|90330501|90330502|90330503|90330504",
-            "0|Cast|90330505",
+            "0|Cast|90330505|90330512",
             "0|Effect|FxMe1BioMd004020Attack0501||1|",
             "0|Effect|FxMe1BioMd004020Attack0502||1|",
             6,
             "6|Magic|903322|1",
-            "0|Effect|FxYubei02|Bip001Head|1|",
-            0,
-            "5|Cast|90330512"
+            "2|Effect|FxYubei02|Bip001Head|1|",
+            0
         ]
     },
     {
@@ -507,7 +506,7 @@
             "22|Cast|90330606",
             "0|Effect|FxMe1BioMd004020Attack07||0|",
             "0|Cast|90330608",
-            "0|Effect|FxYubei02|Bip001Head|1|"
+            "9999|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -550,7 +549,7 @@
             "0|Effect|FxMe1BioMd004010Attack01||1|",
             "0|Cast|90340103",
             0,
-            "5|Effect|FxYubei02|Bip001Head|1|"
+            "6|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -566,7 +565,9 @@
             18,
             41,
             58,
-            "7|Effect|FxYubei02|Bip001Head|1|"
+            "8|Effect|FxYubei02|Bip001Head|1|",
+            "32|Effect|FxYubei02|Bip001Head|1|",
+            "50|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -576,9 +577,9 @@
             0,
             "0|Magic|903401|0",
             "15|Magic|903413|0",
-            "0|Effect|FxYubei02|Bip001Head|1|",
+            "4|Effect|FxYubei02|Bip001Head|1|",
             "0|Effect|FxMe1BioMd004010Attack03||1|",
-            "0|Cast|90340307"
+            "4|Cast|90340307"
         ]
     },
     {
@@ -603,7 +604,7 @@
             "0|Cast|90340603",
             17,
             "17|Magic|903402|0",
-            "3|Effect|FxYubei02|Bip001Head|1|"
+            "5|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -611,7 +612,7 @@
         "Key": [
             "43|Cast|90340701",
             "0|Effect|FxMe1BioMd004010Attack03||1|",
-            "21|Cast|90340704"
+            "23|Cast|90340704"
         ]
     },
     {
@@ -620,7 +621,7 @@
             "43|Cast|90340801",
             "0|Effect|FxMe1BioMd004010Attack03||1|",
             "23|Cast|90340804",
-            "30|Effect|FxYubei02|Bip001Head|1|"
+            "31|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -636,7 +637,9 @@
             18,
             41,
             58,
-            "7|Effect|FxYubei02|Bip001Head|1|"
+            "7|Effect|FxYubei02|Bip001Head|1|",
+            "30|Effect|FxYubei02|Bip001Head|1|",
+            "48|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -731,7 +734,7 @@
             "7|Effect|FxMo1JgrcMd000002Attack01GuadianEffectCase1|EffectCase1|1|",
             "0|Effect|FxMo1JgrcMd000002Attack0102||1|",
             0,
-            "33|Cast|90260106"
+            "37|Cast|90260106"
         ]
     },
     {
@@ -741,7 +744,7 @@
             "0|Effect|FxMo1JgrcMd000002Attack02||1|",
             "0|Effect|FxMo1JgrcMd000002Attack02GuadianEffectCase1|EffectCase1|1|",
             0,
-            "10|Cast|90260205"
+            "13|Cast|90260205"
         ]
     },
     {
@@ -749,7 +752,7 @@
         "Key": [
             "18|Cast|90260301",
             "0|Effect|FxMo1JgrcMd000002Attack03||1|",
-            "7|Effect|FxYubei02|EffectCase1|1|",
+            "6|Effect|FxYubei02|EffectCase1|1|",
             0
         ]
     },
@@ -759,17 +762,16 @@
             "28|Cast|90260401",
             "0|Effect|FxMo1JgrcMd000002Attack04GuadianEffectCase1|EffectCase1|1|",
             "0|Turn|80|1|1",
-            "0|Effect|FxYubei02|EffectCase1|1|",
-            "17|Cast|90260405"
+            "16|Effect|FxYubei02|EffectCase1|1|",
+            "20|Cast|90260405"
         ]
     },
     {
         "Id": 902605,
         "Key": [
-            "18|Cast|90260501",
+            "18|Cast|90260501|90260506",
             "0|Effect|FxMo1JgrcMd000002Attack06GuadianEffectCase1|EffectCase1|1|",
-            "0|Turn|80|1|1",
-            "20|Cast|90260506"
+            "0|Turn|80|1|1"
         ]
     },
     {
@@ -1092,7 +1094,7 @@
             "0|Effect|FxMe1GouzaotiMd10001Attack21|Root|1|",
             1,
             0,
-            "0|Effect|FxYubei02|Bip001Head|1|"
+            "3|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -1102,7 +1104,7 @@
             "0|Effect|FxMe1GouzaotiMd10001Attack11||1|",
             1,
             0,
-            "7|Cast|90380205"
+            "9|Cast|90380205"
         ]
     },
     {
@@ -1167,8 +1169,8 @@
             "0|Effect|FxMe1GouzaotiMd10001Attack13|Root|1|",
             0,
             32,
-            "1|Cast|90381206",
-            "21|Cast|90381207"
+            "3|Cast|90381206",
+            "23|Cast|90381207"
         ]
     },
     {
@@ -1188,7 +1190,7 @@
             "15|Cast|95470101",
             "0|Effect|FxMe1GouzaotiMd10001Attack21|Root|1|",
             0,
-            "0|Effect|FxYubei02|Bip001Head|1|"
+            "3|Effect|FxYubei02|Bip001Head|1|"
         ]
     },
     {
@@ -1206,7 +1208,7 @@
             "20|Cast|90220101",
             "34|Cast|90220102",
             0,
-            "3|Effect|FxYubei02|Bip001Head|1|",
+            "8|Effect|FxYubei02|Bip001Head|1|",
             "0|Effect|FxMe1BioMd004060Attack01||1|",
             0
         ]
@@ -1217,7 +1219,7 @@
             "20|Cast|90220201",
             "30|Cast|90220202",
             0,
-            "3|Effect|FxYubei02|Bip001Head|1|",
+            "8|Effect|FxYubei02|Bip001Head|1|",
             "0|Effect|FxMe1BioMd004060Attack02||1|"
         ]
     },
@@ -1226,9 +1228,9 @@
         "Key": [
             "31|Cast|90220301",
             0,
-            "7|Effect|FxYubei02|Bip001Head|1|",
+            "19|Effect|FxYubei02|Bip001Head|1|",
             31,
-            "13|Cast|90220305",
+            "11|Cast|90220305",
             "0|Effect|FxMe1BioMd004060Attack03||1|"
         ]
     },
@@ -1237,7 +1239,7 @@
         "Key": [
             "30|Cast|90220401",
             0,
-            "5|Effect|FxYubei02|Bip001Head|1|",
+            "18|Effect|FxYubei02|Bip001Head|1|",
             11,
             "0|Effect|FxMe1BioMd004060Attack04||1|",
             0
@@ -1248,7 +1250,7 @@
         "Key": [
             "16|Cast|90220501",
             0,
-            "2|Effect|FxYubei02|Bip001Head|1|",
+            "4|Effect|FxYubei02|Bip001Head|1|",
             "0|Effect|FxMe1BioMd004060Attack0501||1|"
         ]
     },
@@ -1275,7 +1277,7 @@
         "Key": [
             "23|Cast|90220801",
             0,
-            "12|Effect|FxYubei02|Bip001Head|1|",
+            "11|Effect|FxYubei02|Bip001Head|1|",
             "0|Effect|FxMe1BioMd004060Attack08||1|",
             0
         ]
@@ -1303,7 +1305,7 @@
         "Key": [
             "16|Cast|90221001",
             0,
-            "2|Effect|FxYubei02|Bip001Head|1|",
+            "4|Effect|FxYubei02|Bip001Head|1|",
             "16|Cast|90221004",
             "0|Effect|FxMe1BioMd004060Attack0501||1|",
             0
@@ -1314,7 +1316,7 @@
         "Key": [
             "31|Cast|90221101",
             0,
-            "5|Effect|FxYubei02|Bip001Head|1|",
+            "19|Effect|FxYubei02|Bip001Head|1|",
             11,
             "11|Magic|902258|1",
             "11|Magic|902260|1",
@@ -1395,240 +1397,171 @@
         "Id": 904310,
         "Key": [
             0,
-            "5|Cast|90431002|90431004",
-            "0|Turn|120|999|2"
+            "5|Cast|90431002|90431004|90431006",
+            "0|Turn|1800|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P01||1|"
         ]
     },
     {
         "Id": 904311,
         "Key": [
             0,
-            "5|Cast|90431102|90431104",
-            "0|Turn|120|999|2"
+            "5|Cast|90431102|90431104|90431106",
+            "0|Turn|1800|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P01||1|"
         ]
     },
     {
         "Id": 904312,
         "Key": [
             0,
-            "5|Cast|90431202|90431204",
-            "0|Turn|120|999|2"
+            "5|Cast|90431202|90431204|90431206",
+            "0|Turn|1600|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P02||1|"
         ]
     },
     {
         "Id": 904313,
         "Key": [
             0,
-            "5|Cast|90431302|90431304",
-            "0|Turn|120|999|2"
+            "5|Cast|90431302|90431304|90431306",
+            "0|Turn|1400|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P03||1|"
         ]
     },
     {
         "Id": 904314,
         "Key": [
             0,
-            "5|Cast|90431402|90431404",
-            "0|Turn|120|999|2"
+            "5|Cast|90431402|90431404|90431406",
+            "0|Turn|1200|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P04||1|"
         ]
     },
     {
         "Id": 904315,
         "Key": [
             0,
-            "5|Cast|90431502|90431504",
-            "0|Turn|120|999|2"
+            "5|Cast|90431502|90431504|90431506",
+            "0|Turn|1000|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P05||1|"
         ]
     },
     {
         "Id": 904316,
         "Key": [
             0,
-            "5|Cast|90431602|90431604",
-            "0|Turn|120|999|2"
+            "5|Cast|90431602|90431604|90431606",
+            "0|Turn|800|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P06||1|"
         ]
     },
     {
         "Id": 904317,
         "Key": [
             0,
-            "5|Cast|90431702|90431704",
-            "0|Turn|120|999|2"
+            "5|Cast|90431702|90431704|90431706",
+            "0|Turn|600|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P07||1|"
         ]
     },
     {
         "Id": 904318,
         "Key": [
             0,
-            "5|Cast|90431802|90431804",
-            "0|Turn|120|999|2"
+            "5|Cast|90431802|90431804|90431806",
+            "0|Turn|400|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P08||1|"
         ]
     },
     {
         "Id": 904319,
         "Key": [
             0,
-            "5|Cast|90431902|90431904",
-            "0|Turn|120|999|2"
+            "5|Cast|90431902|90431904|90431906",
+            "0|Turn|200|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P09||1|"
         ]
     },
     {
         "Id": 904320,
         "Key": [
             0,
-            "5|Cast|90432002|90432004",
-            "0|Turn|120|999|2"
+            "5|Cast|90432002|90432004|90432006",
+            "0|Turn|120|999|2",
+            "0|Effect|FxMe1SwordMd002001Attack17P10||1|"
         ]
     },
     {
         "Id": 904321,
         "Key": [
-            "33|Cast|90432101",
-            "38|Cast|90432102",
-            "43|Cast|90432103",
-            "48|Cast|90432104",
-            "52|Cast|90432105",
-            "58|Cast|90432106",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432101|90432109",
+            "33|Magic|904352|0",
             34,
-            "33|Cast|90432109",
-            "38|Cast|90432110",
-            "43|Cast|90432111",
-            "48|Cast|90432112",
-            "52|Cast|90432113",
-            "58|Cast|90432114"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904322,
         "Key": [
-            "33|Cast|90432201",
-            "38|Cast|90432202",
-            "43|Cast|90432203",
-            "48|Cast|90432204",
-            "52|Cast|90432205",
-            "58|Cast|90432206",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432201|90432209",
+            "33|Magic|904353|0",
             34,
-            "33|Cast|90432209",
-            "38|Cast|90432210",
-            "43|Cast|90432211",
-            "48|Cast|90432212",
-            "52|Cast|90432213",
-            "58|Cast|90432214"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904323,
         "Key": [
-            "33|Cast|90432301",
-            "38|Cast|90432302",
-            "43|Cast|90432303",
-            "48|Cast|90432304",
-            "52|Cast|90432305",
-            "58|Cast|90432306",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432301|90432309",
+            "33|Magic|904354|0",
             34,
-            "33|Cast|90432309",
-            "38|Cast|90432310",
-            "43|Cast|90432311",
-            "48|Cast|90432312",
-            "52|Cast|90432313",
-            "58|Cast|90432314"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904324,
         "Key": [
-            "33|Cast|90432401",
-            "38|Cast|90432402",
-            "43|Cast|90432403",
-            "48|Cast|90432404",
-            "52|Cast|90432405",
-            "58|Cast|90432406",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432401|90432409",
+            "33|Magic|904355|0",
             34,
-            "33|Cast|90432409",
-            "38|Cast|90432410",
-            "43|Cast|90432411",
-            "48|Cast|90432412",
-            "52|Cast|90432413",
-            "58|Cast|90432414"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904325,
         "Key": [
-            "33|Cast|90432501",
-            "38|Cast|90432502",
-            "43|Cast|90432503",
-            "48|Cast|90432504",
-            "52|Cast|90432505",
-            "58|Cast|90432506",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432501|90432509",
+            "33|Magic|904356|0",
             34,
-            "33|Cast|90432509",
-            "38|Cast|90432510",
-            "43|Cast|90432511",
-            "48|Cast|90432512",
-            "52|Cast|90432513",
-            "58|Cast|90432514"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904326,
         "Key": [
-            "33|Cast|90432601",
-            "38|Cast|90432602",
-            "43|Cast|90432603",
-            "48|Cast|90432604",
-            "52|Cast|90432605",
-            "58|Cast|90432606",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432601|90432609",
+            "33|Magic|904357|0",
             34,
-            "33|Cast|90432609",
-            "38|Cast|90432610",
-            "43|Cast|90432611",
-            "48|Cast|90432612",
-            "52|Cast|90432613",
-            "58|Cast|90432614"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904327,
         "Key": [
-            "33|Cast|90432701",
-            "38|Cast|90432702",
-            "43|Cast|90432703",
-            "48|Cast|90432704",
-            "52|Cast|90432705",
-            "58|Cast|90432706",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432701|90432709",
+            "33|Magic|904358|0",
             34,
-            "33|Cast|90432709",
-            "38|Cast|90432710",
-            "43|Cast|90432711",
-            "48|Cast|90432712",
-            "52|Cast|90432713",
-            "58|Cast|90432714"
+            "60|Magic|904338|0"
         ]
     },
     {
         "Id": 904328,
         "Key": [
-            "33|Cast|90432801",
-            "38|Cast|90432802",
-            "43|Cast|90432803",
-            "48|Cast|90432804",
-            "52|Cast|90432805",
-            "58|Cast|90432806",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Cast|90432801|90432809",
+            "33|Magic|904359|0",
             34,
-            "33|Cast|90432809",
-            "38|Cast|90432810",
-            "43|Cast|90432811",
-            "48|Cast|90432812",
-            "52|Cast|90432813",
-            "58|Cast|90432814"
+            "60|Magic|904338|0"
         ]
     },
     {
@@ -1640,14 +1573,14 @@
             "48|Cast|90432904",
             "52|Cast|90432905",
             "58|Cast|90432906",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Magic|904360|0",
             34,
             "33|Cast|90432909",
             "38|Cast|90432910",
             "43|Cast|90432911",
             "48|Cast|90432912",
             "52|Cast|90432913",
-            "58|Cast|90432914"
+            "60|Magic|904338|0"
         ]
     },
     {
@@ -1659,14 +1592,14 @@
             "48|Cast|90433004",
             "52|Cast|90433005",
             "58|Cast|90433006",
-            "0|Effect|FxMe1SwordMd002001Attack01||1|",
+            "33|Magic|904361|0",
             34,
             "33|Cast|90433009",
             "38|Cast|90433010",
             "43|Cast|90433011",
             "48|Cast|90433012",
             "52|Cast|90433013",
-            "58|Cast|90433014"
+            "60|Magic|904338|0"
         ]
     },
     {

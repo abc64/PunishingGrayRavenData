@@ -3,13 +3,13 @@ Id	Key	Text
 1	Fail	Failed
 2	ServerInternalError	Temporary unavailable due to game server error
 3	ServiceUnavailable	Temporary unavailable as the service is not yet launched
-4	InvalidRequest	
+4	InvalidRequest	Invalid request
 5	ParamsError	Parameter error
 1001	GateServerNotOpen	Server is not yet available\nOpening time
 1002	GateServerUpperLimit	Server population has reached the limit
 1003	LoginApplicationVersionError	Application is not up to date
 1004	LoginDocumentVersionError	Source is not up to date
-1005	LoginTableError	
+1005	LoginTableError	Configuration list client inconsistent with server
 1006	LoginInvalidStatus	Login request error
 1007	LoginInvalidLoginToken	Account has expired, please login again.
 1008	LoginInvalidUserId	Account does not exist
@@ -47,6 +47,7 @@ Id	Key	Text
 20002010	PlayerDataManagerReportTimeLimit	Report in cool down
 20002011	PlayerDataManagerReportTagInvalid	Invalid type of report
 20002012	PlayerDataManagerNameIsTooLong	Your name must not exceed 12 characters
+20002013	PlayerDataManagerAssistCanNotSetInfection	Transcendant cannot be set as a support role
 20003001	FubenManagerCheckTreasureIsGet	You have obtained the chapter chest reward already
 20003002	FubenManagerCheckPreMapNotFound	Chapter ID does not exist
 20003003	FubenManagerCheckPreMapNotPass	You have not completed the previous stage yet
@@ -70,110 +71,113 @@ Id	Key	Text
 20003021	FubenManagerFightIntervalFast	Please challenge at intervals
 20003022	FubenManagerRebootCountNotMatch	Number of quest revivals mismatched
 20003023	FubenManagerStageLocked	The stage has not been unlocked yet
-20003024	FubenControlPreFightParamsError	Team info error
-20003025	FubenManagerBfrtNotGroup	Stronghold does not exist
-20003026	FubenManagerBfrtPreIdNotFinish	Complete the previous stronghold first
-20003027	FubenManagerBfrtNotChallengeCount	Insufficient attempts
-20003028	FubenManagerBfrtEchelonNotFound	Team formation ID does not exist
-20003029	FubenManagerBfrtWinParamError	Stronghold result mismatched
-20003030	FubenManagerBfrtTeamError	Number of deployed team members error
-20003031	FubenManagerBfrtServerTeamError	Deployed team server error
-20003032	FubenManagerBfrtServerTeamNotEqualClientTeam	Number of deployed members error
-20003033	FubenManagerBfrtClientCharacterIdNotInServerTeam	Deployed Construct error
-20003034	FubenManagerBfrtStageNotFinish	Complete the previous stage first
-20003035	FubenManagerBfrtSetTeamFightInfoIdsNotEqualConfigIds	Number of deployed teams error
-20003036	FubenManagerBfrtSetTeamLogisticsNotEqualConfigIds	Number of logistics teams error
-20003037	FubenManagerFightRebootFightIdNotMatch	FightId of revival in battle mismatched
-20003038	FubenManagerFightRebootCountNotMatch	Number of revivals in battle mismatched
-20003039	FubenManagerFightRebootStageNotFound	Mission of revival in battle does not exist
-20003040	FubenManagerGetFightRebootTemplateNotFound	Settings of revival in battle does not exist
-20003041	FubenManagerGetFightRebootRebootCountIllegal	Invalid number of revivals in battle
-20003042	FubenManagerCheckFightRebootTeamIsEmpty	
-20003043	FubenBossSingleNotReset	Phantom Pain Cage has not been reset yet
-20003044	FubenBossSingleChallengeCountNotEnough	Insufficient attempts
-20003045	FubenBossSingleCharacterPointsNotEnough	Insufficient Stamina of Construct
-20003046	FubenBossSingleGetBossSingleDataLevelTypeIllegal	Invalid type of level
-20003047	FubenBossBossStageListNotFound	Stage list does not exist
-20003048	FubenBossSingleScoreRewardIsNotExist	Reward does not exist
-20003049	FubenBossSingleScoreRewardIsGot	Reward Claimed
-20003050	FubenBossSingleScoreRewardTypeError	Type of claimed reward error
-20003051	FubenBossSingleScoreIsNotEnough	Current points are insufficient to claim reward
-20003052	FubenBossSingleHistoryIsNotExist	History not found
-20003053	FubenBossSingleStageCanNotAutoFight	Auto Clear cannot be used in this stage
-20003054	FubenBossSingleStageIsNotExist	Stage does not exist
-20003055	FubenBossSingleSaveScoreIllegality	You cannot save more than once
-20003056	FubenBossSingleAutoFightCountNotEnough	Insufficient attempts
-20003057	FubenBossSingleCurScoreIsBigThanHistory	The progress of Auto Clear is lower than the current progress
-20003058	FubenBossSingleHideStageNotOpen	Hidden stage is not yet available
-20003059	FubenBossSingleIsAutoFighting	Auto Clearing
-20003060	FubenBossOnlineSectionNotFound	Chapter info not found
-20003061	FubenBossOnlineNotInTime	Not the available hours of the Co-op.
-20003062	FubenMainLinePassTimesNotEnough	Insufficient Main Story attempts
-20003063	FubenMainLineChapterIsNotExist	Chapter does not exist
-20003064	FubenMainLineActivityHideChapterNotOpen	The stage has not been cleared yet
-20003065	FubenPrequelStageNotPass	The stage has not been cleared yet
-20003066	FubenPrequelStageRewardAlready	Rank reward claimed
-20003067	FubenPrequelStageIdError	Invalid Side Story stage
-20003068	FubenPrequelCoverIdError	Invalid Side Story cover ID
-20003069	FubenPrequelChallengeIdError	Invalid Side Story ID
-20003070	FubenPrequelChallengeLock	Side Story has not been unlocked yet
-20003071	FubenPrequelChallengeUnlockAlready	Side Story has been unlocked
-20003072	FubenPrequelChallengeCountLimit	Insufficient attempts
-20003073	FubenManagerAutoFightStageNotExist	Mission does not exist
-20003074	FubenManagerAutoFightStageInvalid	Invalid Side Story
-20003075	FubenManagerAutoFightHaventPassed	Side Story has not been cleared yet
-20003076	FubenManagerAutoFightPoolIsFull	Number of teams has reached the limit
-20003077	FubenManagerAutoFightAlreadyRunning	Auto Clearing
-20003078	FubenManagerAutoFightNotEnoughTimes	Insufficient attempts left
-20003079	FubenManagerAutoFightNotEnoughActionPoint	Insufficient Stamina
-20003080	FubenManagerAutoFightIndexInvalid	Invalid Auto Clear number
-20003081	FubenManagerAutoFightStageNotMatch	Auto Clear quest mismatched
-20003082	FubenManagerAutoFightNotComplete	Auto Clear not completed
-20003083	FubenManagerTrialIdIsNotFound	Trial Mission does not exist
-20003084	FubenManagerTrialPreIdIsNotPass	Complete the previous stage first
-20003085	FubenManagerTrialIdIsNotPass	Complete the stage first
-20003086	FubenManagerTrialPassRewardAlreadyGet	Clear reward claimed
-20003087	FubenManagerTrialTypeRewardIsNotExit	Reward does not exist
-20003088	FubenManagerTrialTypeRewardAlreadyGet	Reward Claimed
-20003089	FubenManagerTrialTypeRewardIsNotFinish	Stage not completed
-20003090	FubenManagerDailyChapterNotFound	Daily quest chapter not found
-20003091	FubenManagerDailySectionNotFound	Daily quest not found
-20003092	FubenManagerDailyConditionInvalid	Invalid daily quest requirement
-20003093	FubenManagerDailyTimeNotFit	Not open yet
-20003094	FubenManagerAutoFightTimesError	Auto Clear attempts error
-20003095	FubenManagerBossSingleResetCanNotSaveScore	Unable to save as the rules have been refreshed
-20003096	FubenManagerBossSingleDataIsRefresh	Side Story data has been refreshed, please reload the page.
-20003097	FubenManagerStartFightIntervalFast	You cannot challenge the quest yet
-20003098	FubenAssignChapterNotFound	Stage info configuration error
-20003099	FubenAssignGroupNotFound	Team info configuration error
-20003100	FubenAssignTeamInfoNotFound	You have used all challenge attempts
-20003101	FubenAssignGroupFightCountLimit	Team not configured. Unable to battle
-20003102	FubenAssignGroupTeamNotSet	Battle member number error. Unable to battle
-20003103	FubenAssignFightCardCountError	Border Pact character not in team
-20003104	FubenAssignFightCardNotInTeam	Border Pact stage group does not match
-20003105	FubenAssignFightGroupIdNotMatch	Border Pact stage completed
-20003106	FubenAssignFightStageAlreadyFinish	Border Pact prerequisite stage incomplete
-20003107	FubenAssignFightPreStageNotFinish	Border Pact victory stage does not match
-20003108	FubenAssignWinStageNotMatch	Border Pact victory stage group does not match
-20003109	FubenAssignWinGroupIdNotMatch	Team list does not exist. Unable to battle
-20003110	FubenAssignGroupTeamListNotFound	You have not completed the previous chapter yet
-20003111	FubenAssignPreGroupNotFinish	Team empty. Unable to battle
-20003112	FubenAssignTeamListIsEmpty	Team number does not match the requirement. Unable to battle
-20003113	FubenAssignTeamCountError	Team number does not match the requirement. Unable to battle
-20003114	FubenAssignTeamIsEmpty	Team size does not match the requirement. Unable to battle
-20003115	FubenAssignTeamMemberCountLimit	Duplicated team member. Unable to battle
-20003116	FubenAssignTeamMemberRepeated	Chapter not completed
-20003117	FubenAssignChapterNotFinish	Character already assigned to stationing
-20003118	FubenAssignChapterUseSameCharacter	Character already stationing in another area
-20003119	FubenAssignChapterCharacterAlreadyUse	Chapter reward claimed
-20003120	FubenAssignChapterRewardAlreadyGet	Battle restart ID not matching
-20003121	FubenManagerFightRestartFightIdNotMatch	Battle restart data not matching
-20003122	FubenManagerFightRestartPreFightDataNotMatch	Battle restart data not matching
-20003123	FubenBfrtChapterNotOpen	Stronghold chapter is not yet available
-20003124	FubenBfrtTeamSetCharacterRepeat	Repeated character in team
+20003024	FubenManagerStageCharacterTypeError	Deployed member type error
+20003025	FubenManagerCardIdTypeNotSame	Team member type inconsistent
+20003026	FubenControlPreFightParamsError	Team info error
+20003027	FubenManagerBfrtNotGroup	Stronghold does not exist
+20003028	FubenManagerBfrtPreIdNotFinish	Complete the previous stronghold first
+20003029	FubenManagerBfrtNotChallengeCount	Insufficient attempts
+20003030	FubenManagerBfrtEchelonNotFound	Team formation ID does not exist
+20003031	FubenManagerBfrtWinParamError	Stronghold result mismatched
+20003032	FubenManagerBfrtTeamError	Number of deployed team members error
+20003033	FubenManagerBfrtServerTeamError	Deployed team server error
+20003034	FubenManagerBfrtServerTeamNotEqualClientTeam	Number of deployed members error
+20003035	FubenManagerBfrtClientCharacterIdNotInServerTeam	Deployed character error
+20003036	FubenManagerBfrtStageNotFinish	Complete the previous stage first
+20003037	FubenManagerBfrtSetTeamFightInfoIdsNotEqualConfigIds	Number of deployed teams error
+20003038	FubenManagerBfrtSetTeamLogisticsNotEqualConfigIds	Number of logistics teams error
+20003039	FubenManagerFightRebootFightIdNotMatch	Revival FightId mismatch
+20003040	FubenManagerFightRebootCountNotMatch	Number of revivals mismatched
+20003041	FubenManagerFightRebootStageNotFound	Revival mission does not exist
+20003042	FubenManagerGetFightRebootTemplateNotFound	Revival configuration does not exist
+20003043	FubenManagerGetFightRebootRebootCountIllegal	Invalid number of revivals
+20003044	FubenManagerCheckFightRebootTeamIsEmpty	Revival team is empty
+20003045	FubenBossSingleNotReset	Phantom Pain Cage has not been reset yet
+20003046	FubenBossSingleChallengeCountNotEnough	Insufficient attempts
+20003047	FubenBossSingleCharacterPointsNotEnough	Character has insufficient Stamina
+20003048	FubenBossSingleGetBossSingleDataLevelTypeIllegal	Invalid level type
+20003049	FubenBossBossStageListNotFound	Stage list does not exist
+20003050	FubenBossSingleScoreRewardIsNotExist	Reward does not exist
+20003051	FubenBossSingleScoreRewardIsGot	Reward already claimed
+20003052	FubenBossSingleScoreRewardTypeError	Claimed reward type error
+20003053	FubenBossSingleScoreIsNotEnough	Insufficient points to claim reward
+20003054	FubenBossSingleHistoryIsNotExist	History not found
+20003055	FubenBossSingleStageCanNotAutoFight	Auto Clear cannot be used in this stage
+20003056	FubenBossSingleStageIsNotExist	Stage does not exist
+20003057	FubenBossSingleSaveScoreIllegality	Cannot save more than once
+20003058	FubenBossSingleAutoFightCountNotEnough	Insufficient attempts
+20003059	FubenBossSingleCurScoreIsBigThanHistory	Auto Clear progress lower than current progress
+20003060	FubenBossSingleHideStageNotOpen	Hidden stage not yet available
+20003061	FubenBossSingleIsAutoFighting	Auto Clearing
+20003062	FubenBossOnlineSectionNotFound	Chapter info not found
+20003063	FubenBossOnlineNotInTime	Not the available hours of the Co-op.
+20003064	FubenMainLinePassTimesNotEnough	Insufficient Main Story attempts
+20003065	FubenMainLineChapterIsNotExist	Chapter does not exist
+20003066	FubenMainLineActivityHideChapterNotOpen	Hidden chapter event not yet available
+20003067	FubenPrequelStageNotPass	Stage not yet cleared
+20003068	FubenPrequelStageRewardAlready	Rank reward claimed
+20003069	FubenPrequelStageIdError	Invalid Side Story stage
+20003070	FubenPrequelCoverIdError	Invalid Side Story cover ID
+20003071	FubenPrequelChallengeIdError	Invalid Side Story ID
+20003072	FubenPrequelChallengeLock	Side Story not yet unlocked
+20003073	FubenPrequelChallengeUnlockAlready	Side Story unlocked
+20003074	FubenPrequelChallengeCountLimit	Insufficient attempts
+20003075	FubenManagerAutoFightStageNotExist	Mission does not exist
+20003076	FubenManagerAutoFightStageInvalid	Invalid mission
+20003077	FubenManagerAutoFightHaventPassed	Side Story not yet cleared
+20003078	FubenManagerAutoFightPoolIsFull	Max number of teams reached
+20003079	FubenManagerAutoFightAlreadyRunning	Auto Clearing
+20003080	FubenManagerAutoFightNotEnoughTimes	Insufficient attempts left
+20003081	FubenManagerAutoFightNotEnoughActionPoint	Insufficient Stamina
+20003082	FubenManagerAutoFightIndexInvalid	Invalid Auto Clear number
+20003083	FubenManagerAutoFightStageNotMatch	Auto Clear mission mismatch
+20003084	FubenManagerAutoFightNotComplete	Auto Clear not completed
+20003085	FubenManagerTrialIdIsNotFound	Trial Mission does not exist
+20003086	FubenManagerTrialPreIdIsNotPass	Complete the previous stage first
+20003087	FubenManagerTrialIdIsNotPass	Complete the stage first
+20003088	FubenManagerTrialPassRewardAlreadyGet	Clearance reward claimed
+20003089	FubenManagerTrialTypeRewardIsNotExit	Reward does not exist
+20003090	FubenManagerTrialTypeRewardAlreadyGet	Reward already claimed
+20003091	FubenManagerTrialTypeRewardIsNotFinish	Stage not completed
+20003092	FubenManagerDailyChapterNotFound	Daily mission chapter configuration not found
+20003093	FubenManagerDailySectionNotFound	Daily mission configuration not found
+20003094	FubenManagerDailyConditionInvalid	Invalid daily mission requirement configuration
+20003095	FubenManagerDailyTimeNotFit	Not open yet
+20003096	FubenManagerAutoFightTimesError	Auto Clear attempts error
+20003097	FubenManagerBossSingleResetCanNotSaveScore	Cannot save as the mode has been refreshed
+20003098	FubenManagerBossSingleDataIsRefresh	Side Story data has been refreshed, please reload the page
+20003099	FubenManagerStartFightIntervalFast	You cannot challenge the mission yet
+20003100	FubenAssignChapterNotFound	Chapter info configuration error
+20003101	FubenAssignGroupNotFound	Stage info configuration error
+20003102	FubenAssignTeamInfoNotFound	Team info configuration error
+20003103	FubenAssignGroupFightCountLimit	Challenge attempts used up
+20003104	FubenAssignGroupTeamNotSet	Team not yet set up. Cannot deploy
+20003105	FubenAssignFightCardCountError	Battle member number error. Cannot deploy
+20003106	FubenAssignFightCardNotInTeam	Border Pact character not in team
+20003107	FubenAssignFightGroupIdNotMatch	Border Pact stage group does not match
+20003108	FubenAssignFightStageAlreadyFinish	Border Pact stage completed
+20003109	FubenAssignFightPreStageNotFinish	Border Pact prerequisite stage incomplete
+20003110	FubenAssignWinStageNotMatch	Border Pact victory stage does not match
+20003111	FubenAssignWinGroupIdNotMatch	Border Pact victory stage group does not match
+20003112	FubenAssignGroupTeamListNotFound	Team list does not exist. Cannot deploy
+20003113	FubenAssignPreGroupNotFinish	You have not completed the previous chapter yet
+20003114	FubenAssignTeamListIsEmpty	Team number empty. Cannot deploy
+20003115	FubenAssignTeamCountError	Team number does not match the requirement. Cannot deploy
+20003116	FubenAssignTeamIsEmpty	Insufficient team members. Cannot deploy
+20003117	FubenAssignTeamMemberCountLimit	Team size does not match the requirement. Cannot deploy
+20003118	FubenAssignTeamMemberRepeated	Duplicate team member. Cannot deploy
+20003119	FubenAssignChapterNotFinish	Chapter not completed
+20003120	FubenAssignChapterUseSameCharacter	Character already assigned to stationing
+20003121	FubenAssignChapterCharacterAlreadyUse	Character already stationed in another area
+20003122	FubenAssignChapterRewardAlreadyGet	Chapter reward claimed
+20003123	FubenManagerFightRestartFightIdNotMatch	Battle restart ID mismatch
+20003124	FubenManagerFightRestartPreFightDataNotMatch	Battle restart data mismatch
+20003125	FubenBfrtChapterNotOpen	Stronghold chapter not yet available
+20003126	FubenBfrtTeamSetCharacterRepeat	Duplicate character in team
 20004001	TeamManagerGetTeamIdFail	Failed to obtain team ID
 20004002	TeamManagerPrefabExceedMax	Team default settings have reached the limit
 20004003	TeamManagerSetTeamParaError	Number of team settings error
+20004004	TeamManagerPrefabCharacterTypeNotSame	Different preset character type
 20007001	FightProxyManagerEnterIsExist	The player is already in another battle
 20007002	FightProxyManagerGetFightProxyFail	Failed to obtain battle proxy
 20007003	FightProxyManagerGetFightProxyForPlayerFail	Failed to obtain battle proxy (player)
@@ -249,7 +253,7 @@ Id	Key	Text
 20009057	FashionIsUnLock	This coating has been unlocked
 20009058	CharacterGatherRewardHadGet	Reward has been claimed
 20009059	CharacterPreGatherRewardIsNotGet	Reward of the previous stage not claimed
-20009060	CharacterManagerTrustLevelIsMax	
+20009060	CharacterManagerTrustLevelIsMax	Max Affection reached
 20012001	ItemManagerGetItemTableFailed	Failed to obtain item list
 20012002	ItemManagerGetItemNotFound	Target item not found
 20012003	ItemManagerCheckIdValidFail	Item ID does not exist
@@ -275,9 +279,10 @@ Id	Key	Text
 20012023	ItemCountException	Failed to create item
 20012024	ItemBatchCountNotEnough	Insufficient items
 20012025	ItemBatchNotFound	Item has expired
-20012026	ItemUseMultipleRewardTypeError	
-20012027	ItemCannotConvertEquipExp	
-20012028	ItemEquipExpUseEquipTypeError	
+20012026	ItemUseMultipleRewardTypeError	Reward type error
+20012027	ItemCannotConvertEquipExp	Item cannot be converted into equipment EXP
+20012028	ItemEquipExpUseEquipTypeError	Equipment type error
+20012029	ItemManagerBuyAssetNotAllowConsumeId	Consumable cannot be converted
 20014001	ArrangeManagerCalTypeFail	Invalid ID, unable to identify the type.
 20017001	DropManagerGetDropGoodsFail	Failed to obtain dropped item
 20017002	DropManagerGetDropBottomTableListFail	Failed to obtain guarantee drop list
@@ -322,61 +327,62 @@ Id	Key	Text
 20021013	EquipManagerPutOnRepeat	Equipped already
 20021014	EquipManagerPutOnSiteError	Invalid grid to equip
 20021015	EquipManagerPutOnTypeError	Invalid type to equip
-20021016	EquipManagerTakeOffNotBeenWorn	Equipment has not been equipped yet
-20021017	EquipManagerTakeOffCanNotTakeOff	Equipment is unable to unequip
-20021018	EquipManagerDecomposeDoNot	You cannot recycle equipment in use
-20021019	EquipManagerDecomposeConfigNot	No corresponding term for the recycle list
-20021020	EquipWeaponCapacityNotEnough	Insufficient weapon space
-20021021	EquipChipCapacityNotEnough	Insufficient Memory space
-20021022	EquipSuitTemplateNotFound	Failed to obtain equipment set settings
-20021023	EquipSuitEffectTemplateNotFound	Failed to obtain equipment set bonus settings
-20021024	EquipIsLocked	Lock Equipment
-20021025	EquipIsUnLock	Unlock Equipment
-20021026	EquipCanNotPutOnByThisCharacter	It cannot be worn by the Construct
-20021027	EquipGetEatCostCoinNotFound	Failed to consume Cogs in equipment upgrade
-20021028	EquipLevelUpUseMaterialsIsEmpty	
-20021029	EquipEatUseRepeatEquip	Consumed equipment ID duplicated
-20021030	EquipResonanceCanNotUseSelf	You cannot consume this equipment
-20021031	EquipResonanceCharacterNotOwned	You do not own any Construct with Resonance
-20021032	EquipResonanceUnconfirmedInfoUntreated	Resonance info not confirmed
-20021033	EquipResonanceUseEquipTypeNotSame	Type of Resonance cost mismatched
-20021034	EquipResonanceWeaponStarNotSame	Rank of Resonance cost mismatched
-20021035	EquipResonanceChipSuitIsNotSame	Set ID of Resonance cost mismatched
-20021036	EquipResonanceTemplateNotFound	Resonance settings not found
-20021037	EquipResonanceUseItemTemplateNotFound	Item used for Resonance not found
-20021038	EquipResonanceCanNotUseThisItem	The item cannot be used for Resonance
-20021039	EquipWeaponSkillTemplateNotFound	Skill settings of weapon not found
-20021040	EquipSkillPoolIsEmpty	No skill is equipped
-20021041	EquipResonanceSlotConfigIsEmpty	Resonance slot is empty
-20021042	EquipResonanceConfigError	Resonance settings error
-20021043	EquipResonanceConfirmInfoIsEmpty	Confirmation info of Resonance not found
-20021044	EquipLevelUpCanNotEatSelf	You cannot upgrade the weapon with itself
-20021045	EquipResonanceNeedSelectCharacter	Select the Construct to resonate
-20021046	EquipDecomposeListIsEmpty	Recycle list is empty
-20021047	EquipSuitNotFound	Unable to obtain Memory info
-20021048	EquipSuitCanNotTransform	The Memory set can no longer be refit.
-20021049	EquipSuitSiteError	Invalid grid for the Memory set
-20021050	EquipTransformChipUseEquipCountError	Amount of equipped items error
-20021051	EquipTransformChipUseEquipSuitError	Invalid grid to equip
-20021052	EquipSuitSiteConfigNotFound	Invalid info of obtained Memory set
-20021053	EquipResonancePoolIsEmpty	No Resonance is equipped
-20021054	EquipResonanceWeaponSkillPoolIsEmpty	No Resonance of weapon skill is equipped
-20021055	EquipResonanceCharacterSkillPoolIsEmpty	No Resonance of Construct skill is equipped
-20021056	EquipResonanceAttribGroupPoolIsEmpty	Resonance stats is empty
-20021057	EquipChipGroupCountLimit	The amount of Memory Set has exceeded the limit
-20021058	EquipChipGroupNameTooLong	Memory Set name is too long
-20021059	EquipChipGroupNameInvalid	Invalid Memory Set name
-20021060	EquipChipGroupEquipSiteError	Invalid type of Memory Set
-20021061	EquipChipGroupSiteRepeated	Duplicate grid in the Memory Set
-20021062	EquipChipGroupNotFound	Memory Set not found
-20021063	EquipAwakeTemplateNotFound	Awaken settings not found
-20021064	EquipAwakeWeaponNonsupport	Cannot awaken weapon
-20021065	EquipAwakeStarNotEnough	Insufficient stars to awaken equipment
-20021066	EquipAwakeNotMaxLevel	Equipment not at max level
-20021067	EquipAwakeSlotNonsupport	Invalid awakened equipment slot
-20021068	EquipAwakeSlotIsAlreadyAwake	Equipment has been awakened
-20021069	EquipAwakeSlotNotResonance	Awakened equipment slot not resonated
-20021070	EquipAwakeSlotAttribConfigNotFound	Awaken stats settings not found
+20021016	EquipManagerPutOnCharacterTypeError	
+20021017	EquipManagerTakeOffNotBeenWorn	Equipment not yet equipped
+20021018	EquipManagerTakeOffCanNotTakeOff	Equipment cannot be unequipped
+20021019	EquipManagerDecomposeDoNot	Cannot recycle equipment in use
+20021020	EquipManagerDecomposeConfigNot	No corresponding term for the recycle list
+20021021	EquipWeaponCapacityNotEnough	Insufficient weapon space
+20021022	EquipChipCapacityNotEnough	Insufficient Memory space
+20021023	EquipSuitTemplateNotFound	Failed to access equipment set configuration
+20021024	EquipSuitEffectTemplateNotFound	Failed to access equipment set effect configuration
+20021025	EquipIsLocked	Lock Equipment
+20021026	EquipIsUnLock	Unlock Equipment
+20021027	EquipCanNotPutOnByThisCharacter	Cannot be worn by this character
+20021028	EquipGetEatCostCoinNotFound	Failed to access the Cog cost of equipment upgrade
+20021029	EquipLevelUpUseMaterialsIsEmpty	Consumed material empty
+20021030	EquipEatUseRepeatEquip	Consumed equipment ID duplicate
+20021031	EquipResonanceCanNotUseSelf	Cannot consume this equipment
+20021032	EquipResonanceCharacterNotOwned	You do not own any character with Resonance
+20021033	EquipResonanceUnconfirmedInfoUntreated	Resonance info not confirmed
+20021034	EquipResonanceUseEquipTypeNotSame	Resonance cost type mismatch
+20021035	EquipResonanceWeaponStarNotSame	Resonance cost rank mismatch
+20021036	EquipResonanceChipSuitIsNotSame	Resonance cost set ID mismatch
+20021037	EquipResonanceTemplateNotFound	Resonance configuration not found
+20021038	EquipResonanceUseItemTemplateNotFound	Item used for Resonance not found
+20021039	EquipResonanceCanNotUseThisItem	Item cannot be used for Resonance
+20021040	EquipWeaponSkillTemplateNotFound	Weapon skill configuration not found
+20021041	EquipSkillPoolIsEmpty	No skill is equipped
+20021042	EquipResonanceSlotConfigIsEmpty	Resonance slot empty
+20021043	EquipResonanceConfigError	Resonance configuration error
+20021044	EquipResonanceConfirmInfoIsEmpty	Resonance confirmation info empty
+20021045	EquipLevelUpCanNotEatSelf	Cannot upgrade the weapon with itself
+20021046	EquipResonanceNeedSelectCharacter	Select a character to resonate
+20021047	EquipDecomposeListIsEmpty	Recycle list empty
+20021048	EquipSuitNotFound	Cannot obtain Memory info
+20021049	EquipSuitCanNotTransform	Memory set can no longer be refit
+20021050	EquipSuitSiteError	Memory set grid error
+20021051	EquipTransformChipUseEquipCountError	Equipped item number error
+20021052	EquipTransformChipUseEquipSuitError	Wrong place to equip
+20021053	EquipSuitSiteConfigNotFound	An error occurred while accessing the info of this Memory set
+20021054	EquipResonancePoolIsEmpty	No Resonance equipped
+20021055	EquipResonanceWeaponSkillPoolIsEmpty	No weapon Resonance skill equipped
+20021056	EquipResonanceCharacterSkillPoolIsEmpty	No character Resonance skill equipped
+20021057	EquipResonanceAttribGroupPoolIsEmpty	Resonance stats empty
+20021058	EquipChipGroupCountLimit	Memory Set amount exceeded the limit
+20021059	EquipChipGroupNameTooLong	Memory Set name too long
+20021060	EquipChipGroupNameInvalid	Invalid Memory Set name
+20021061	EquipChipGroupEquipSiteError	Invalid Memory set type
+20021062	EquipChipGroupSiteRepeated	Duplicate grid in the Memory set
+20021063	EquipChipGroupNotFound	Memory set not found
+20021064	EquipAwakeTemplateNotFound	Awaken configuration not found
+20021065	EquipAwakeWeaponNonsupport	Cannot awaken weapon
+20021066	EquipAwakeStarNotEnough	Insufficient stars to awaken equipment
+20021067	EquipAwakeNotMaxLevel	Equipment not at max level
+20021068	EquipAwakeSlotNonsupport	Awakened equipment slot invalid
+20021069	EquipAwakeSlotIsAlreadyAwake	Equipment awakened
+20021070	EquipAwakeSlotNotResonance	Awakened equipment slot not resonated
+20021071	EquipAwakeSlotAttribConfigNotFound	Awaken stats settings not found
 20026001	TaskManagerInitFail	Failed to initialize mission system
 20026002	TaskManagerInitTaskConfigFail	Failed to initialize mission settings
 20026003	TaskManagerGetTaskConditionFail	Failed to obtain mission requirement
@@ -387,7 +393,7 @@ Id	Key	Text
 20026008	TaskManagerTaskNotExist	Mission does not exist
 20026009	TaskManagerGetActivenessStageRewardNotExist	Activity reward does not exist
 20026010	TaskManagerGetActivenessRewardUnknownType	Unknown type of activity
-20026011	TaskManagerGetActivenessRewardAlreadyGeted	Reward Claimed
+20026011	TaskManagerGetActivenessRewardAlreadyGeted	Reward already claimed
 20026012	TaskManagerCourseRewardNotExist	Failed to obtain milestone reward info
 20026013	TaskManagerCourseRewardAlreadyGeted	Milestone reward claimed
 20026014	TaskManagerCourseStageAlreadyGeted	Milestone reward claimed
@@ -396,7 +402,7 @@ Id	Key	Text
 20026017	TaskManagerTaskNotTimeLimit	Mission has expired
 20026018	TaskManagerNewPlayerActivenessIsNotExist	Reward does not exist
 20026019	TaskManagerNewPlayerActivenessRewardIsNotExist	Reward does not exist
-20026020	TaskManagerNewPlayerActivenessAlreadyGet	Reward Claimed
+20026020	TaskManagerNewPlayerActivenessAlreadyGet	Reward already claimed
 20026021	TaskManagerNewPlayerActivenessIsNotEnough	Insufficient EXP to claim
 20026022	TaskManagerNewPlayerTaskTodayCanNotFinish	You cannot complete this mission today
 20027001	MailManagerGetMailFail	Failed to obtain mail
@@ -440,7 +446,7 @@ Id	Key	Text
 20030017	ShopBuyGoodsCountLimit	The purchase amount of products has exceeded the limit
 20030018	ShopKindIsNotReset	Unable to refresh the shop
 20030019	ShopKindIsNotFixed	Type of shop is not fixed
-20030020	ShopOwnedUnknown	
+20030020	ShopOwnedUnknown	Shop type unknown
 20031001	FriendManagerApplyFriendFailedIsRefused	Friend request has been rejected
 20031002	FriendManagerApplyFriendFailedIsDeleted	Failed to send friend request as you have unfriended the player
 20031003	FriendManagerApplyFriendFailedIsAlreadyFriend	Failed to send friend request as the player is already your friend
@@ -480,7 +486,7 @@ Id	Key	Text
 20033007	ChatManagerInvalidEmoji	Invalid chat stamp
 20033008	ChatManagerNoSendGiftFriend	Presentation attempts reset at 07:00 (UTC)
 20033009	ChatManagerChatChannelInvalid	Failed to send message
-20033010	ChatManagerChatChannelIdInvalid	Illegal content
+20033010	ChatManagerChatChannelIdInvalid	Not in Command Bureau. Cannot speak.
 20033011	ChatContentTooLong	Your message is too long
 20033012	ChatIsBanned	You have been muted
 20033013	ChatChannelNotExist	Channel has been disbanded
@@ -501,11 +507,11 @@ Id	Key	Text
 20034015	ConditionManagerCharacterLevelNumIsError	Team member level does not meet the requirement
 20034016	ConditionManagerCharacterIdNumIsError	You have not deployed the specific Construct as a team member
 20034017	ConditionManagerRepeatChallengeLevelNotEnough	Level does not meet the requirement
-20034018	ConditionManagerCharacterAbilityNotEnough	Construct's BR does not meet the requirement
-20034019	ConditionManagerCharacterResonanceNotEnough	Construct's Resonance does not meet the requirement
+20034018	ConditionManagerCharacterAbilityNotEnough	Member's BR does not meet the requirement
+20034019	ConditionManagerCharacterResonanceNotEnough	Member's Resonance does not meet the requirement
 20034020	ConditionManagerCharacterNumIsError	Number of deployed team members error
-20034021	ConditionManagerCharacterExhibitionLevelNotEnough	Awaken requirement of Construct not met
-20034022	ConditionManagerCharacterLiberateLvNotEnough	Construct Overclock level not met
+20034021	ConditionManagerCharacterExhibitionLevelNotEnough	Member does not meet the Awaken requirement
+20034022	ConditionManagerCharacterLiberateLvNotEnough	Member has not reached the required Overclock level
 20034023	ConditionManagerIsNotGetFirstPayReward	1st Recharge reward not claimed
 20034024	ConditionManagerIsNotOwnerFashion	You do not own the specific outfit
 20034025	ConditionManagerIsOwnerFashion	You have owned the specific outfit
@@ -513,24 +519,29 @@ Id	Key	Text
 20034027	ConditionManagerWeaponResonanceNotEnough	Insufficient equipment Resonance Skills
 20034028	ConditionManagerChipResonanceNotEnough	Insufficient Memory Resonance Skills
 20034029	ConditionManagerEquipResonanceNotEnough	Insufficient equipment Resonance Skills
-20034030	ConditionManagerRedEnvelopeNotEnough	Insufficient gifts claimed by Construct
+20034030	ConditionManagerRedEnvelopeNotEnough	Not enough gifts claimed by member
 20034031	ConditionManagerKillBossTimeIsNotSatisfy	Failed to defeat the boss within a required time
 20034032	ConditionManagerBabelTowerLevelNotEnough	Babel Tower level too low
-20034033	ConditionManagerMonsterKillCountNotEnough	
-20034034	ConditionManagerWeaponNotUnlock	
-20034035	ConditionManagerWeaponMaxLevelNotEnough	
-20034036	ConditionManagerWeaponBreakthroughNotEnough	
-20034037	ConditionManagerAwarenessSuitMaxLevelNotEnough	
-20034038	ConditionManagerAwarenessSuitMaxBreakthroughNotEnough	
+20034033	ConditionManagerMonsterKillCountNotEnough	Not enough enemies killed
+20034034	ConditionManagerWeaponNotUnlock	Weapon not unlocked
+20034035	ConditionManagerWeaponMaxLevelNotEnough	Weapon not at max level
+20034036	ConditionManagerWeaponBreakthroughNotEnough	Weapon not Overclocked
+20034037	ConditionManagerAwarenessSuitMaxLevelNotEnough	Memory not at max level
+20034038	ConditionManagerAwarenessSuitMaxBreakthroughNotEnough	Memory not Overclocked
 20034039	ConditionManagerAwarenessSuitNotEnough	
-20034040	ConditionManagerGuildNotIn	
-20034041	ConditionManagerGuildLevelNotEnough	
-20034042	ConditionManagerGuildJoinNotEnough	
-20034043	ConditionManagerGuildMemberNotEnough	
-20034044	ConditionManagerFubenExploreNotFinished	
-20034045	ConditionManagerRogueLikeMaxTierNotEnough	
-20034046	ConditionManagerArenaOnlineFirstPassNotEnough	
-20034047	ConditionManagerArenaOnlineAssistCountNotEnough	
+20034040	ConditionManagerGuildNotIn	Not yet joined Command Bureau
+20034041	ConditionManagerGuildLevelNotEnough	Command Bureau level too low
+20034042	ConditionManagerGuildJoinNotEnough	Not enough days since joining Command Bureau
+20034043	ConditionManagerGuildMemberNotEnough	Not enough Command Bureau members
+20034044	ConditionManagerFubenExploreNotFinished	Exploration incomplete
+20034045	ConditionManagerRogueLikeMaxTierNotEnough	Not enough tower floors climbed
+20034046	ConditionManagerArenaOnlineFirstPassNotEnough	Not enough first-time completions in Joint Warfare
+20034047	ConditionManagerArenaOnlineAssistCountNotEnough	Not enough assists in Joint Warfare
+20034048	ConditionManagerTaskNotFinish	Mission incomplete
+20034049	ConditionManagerSpecialTrainStarNotEnough	Not enough stars gained in Operation Summer
+20034050	ConditionManagerBossActivityStarRewardNotGet	Star reward not claimed
+20034051	ConditionManagerCharacterTypeNumsNotEnough	Not enough deployed member types
+20034052	ConditionManagerSpecialCollectionLevelNotEnough	
 20036001	RobotManagerInitCharacterQualityFail	Robot class error
 20036002	RobotManagerInitCharacterLevelFail	Robot level error
 20036003	RobotManagerInitCharacterGradeFail	Robot rank error
@@ -565,11 +576,11 @@ Id	Key	Text
 20041004	TaskForceHaveNoThisTask	Mission does not exist
 20041005	TaskForceCharacterLevelLimit	Level of the dispatch team does not meet the requirement
 20041006	TaskForceTaskHasAccept	Mission has been accepted
-20041007	TaskForceHaveNoCharacter	Construct does not exist
-20041008	TaskForceCharacterHasBeenDispatched	Construct has been dispatched
+20041007	TaskForceHaveNoCharacter	Member does not exist
+20041008	TaskForceCharacterHasBeenDispatched	Member being dispatched
 20041009	TaskForceNotAcceptThisTask	Mission unaccepted
 20041010	TaskForceTaskWasCompleted	Mission completed
-20041011	TaskForceTaskTheTaskIsNotCompleted	Mission not completed
+20041011	TaskForceTaskTheTaskIsNotCompleted	Mission incomplete
 20043001	VoteGroupTemplateNotFound	Failed to obtain template data of the vote set
 20043002	VoteIsNotEffect	Vote info does not exist
 20043003	VoteIsInvalid	Failed to vote
@@ -635,10 +646,13 @@ Id	Key	Text
 20045020	MatchStartTimeout	You were kicked out due to long standby time
 20045021	MatchCharacterNotUnique	Duplicate Constructs in the team
 20045022	MatchPlayerOffline	Player is offline
+20045023	MatchPlayerIsMatching	Matchmaking...
+20045024	MatchPlayerCountNotEnough	Insufficient players. Battle cannot begin
+20045025	MatchPlayerNotHaveSuitableCharacter	Not suitable characters
 20046001	ExploreChapterIsNotExist	Exploration chapter does not exist
 20046002	ExploreChapterIsNotFinished	Chapter not completed
 20046003	ExplorePreChapterIsNotFinished	You have not completed the previous chapter yet
-20046004	ExploreChapterRewardIsGot	Reward Claimed
+20046004	ExploreChapterRewardIsGot	Reward already claimed
 20046005	ExploreChapterNodeIsNotExist	Exploration point does not exist
 20046006	ExplorePreNodeIsNotFinished	Complete the previous point first
 20046007	ExploreNodeIsFinished	Stage completed
@@ -654,6 +668,9 @@ Id	Key	Text
 20049002	BossActivitySectionIsNotHaveStage	The stage does not exist in this chapter
 20049003	BossActivitySectionPreStageNotFinish	You have not completed the previous stage yet
 20049004	BossActivityIsEnd	Battle period is over
+20049005	BossActivityStarRewardIdNotExist	Reward claim ID does not exist
+20049006	BossActivityTotalStartNotEnough	Not enough stars claimed
+20049007	BossActivityStarRewardAlreadyGet	Reward already claimed
 20050001	SignIdIsNotExist	Sign-in ID does not exist
 20050002	SignIdIsClose	Sign-in is over
 20050003	SignInfoNotFound	Sign-in failed
@@ -678,6 +695,7 @@ Id	Key	Text
 20053011	PurchaseDailyRewardAlreadyGet	Daily reward claimed
 20053012	PurchaseDailyRewardExpire	Monthly Pass expired
 20053013	PurchaseNotContainDailyReward	Purchased item does not include daily reward
+20053101	PurchaseExistMutexItem	Already own a conflicting product. Cannot purchase and replace it now.
 20054001	CdKeyInvalid	Invalid gift code, please check again.
 20054002	CdKeyNotTimeYet	Out of exchange period, please check again.
 20054003	CdKeyTotalCountFull	Gift code has been used, please check again.
@@ -686,16 +704,21 @@ Id	Key	Text
 20054006	CdKeyTimeOut	Gift code has expired, please check again.
 20055001	HeadPortraitTemplateNotFound	Portrait settings not found
 20055002	HeadPortraitNotOwned	You do not own this portrait
-20055003	HeadPortraitNotExist	
-20055004	HeadPortraitTimeout	
-20055005	HeadPortraitNotInTime	
-20057001	FestivalActivityIsNotOpen	Event is not available yet
+20055003	HeadPortraitNotExist	Portrait does not exist
+20055004	HeadPortraitTimeout	Portrait expired
+20055005	HeadPortraitNotInTime	Portrait invalid
+20055501	HeadFrameTemplateNotFound	Portrait frame configuration not found
+20055502	HeadFrameNotOwned	Portrait frame not yet unlocked
+20055503	HeadFrameNotExist	Portrait frame does not exist
+20055504	HeadFrameTimeout	Portrait frame expired
+20055505	HeadFrameNotInTime	Portrait frame invalid
+20057001	FestivalActivityIsNotOpen	Event not yet available
 20057002	FestivalActivityIsOver	Event is over
 20057003	FestivalActivityIdNotFount	Event is over
 20058001	RedEnvelopeActivityInvalid	Invalid Gift Event
-20058002	RedEnvelopeActivityNotOpen	Event is not available yet
+20058002	RedEnvelopeActivityNotOpen	Event not yet available
 20058003	RedEnvelopeActivityHaveClose	Event is over
-20059001	BabelTowerActivityNotOpen	Event is not available yet
+20059001	BabelTowerActivityNotOpen	Event not yet available
 20059002	BabelTowerActivityIsOver	Event is over
 20059003	BabelTowerFightIsEnd	Battle over
 20059004	BabelTowerStageIdError	Stage ID error
@@ -731,10 +754,10 @@ Id	Key	Text
 20060006	DormGetRandomFurnitureConfigIdFails	Failed to obtain decor settings ID randomly
 20060007	DormGetFurnitureTemplateFails	Failed to obtain decor settings
 20060008	DormStringInvalid	Contains illegal characters
-20060009	DormCharacterIdInvalid	Invalid Construct id
-20060010	DormCharacterEventTemplateIdInvalid	Construct event not found
-20060011	DormCharacterEventTypeTemplateIdInvalid	Type of Construct event not found
-20060012	DormCharacterEventNotExist	Construct event does not exist
+20060009	DormCharacterIdInvalid	Invalid member ID
+20060010	DormCharacterEventTemplateIdInvalid	Member event configuration not found 
+20060011	DormCharacterEventTypeTemplateIdInvalid	Member event configuration type not found 
+20060012	DormCharacterEventNotExist	Member event does not exist
 20060013	DormGetFurnitureReturnFails	Failed to recycle decor
 20060014	DormGetFurnitureLevelReturnFails	Failed to recycle decor level
 20060015	DormGetFurnitureRandomAdditionAttrFails	Failed to obtain extra random boosts of decor stats
@@ -768,13 +791,13 @@ Id	Key	Text
 20060043	DormLoadPlayerFails	Failed to load data of visiting player
 20060044	DormCharacterRewardTemplateNotFound	Dormitory Corrupted reward settings not found
 20060045	DormCharacterMoodNotEnough	Resident's Mood too low
-20060046	DormNoCharacterCanVisit	No Constructs can be visited
+20060046	DormNoCharacterCanVisit	No accessible members
 20060047	DormGetFurnitureRewardTemplateFails	Dormitory Decor reward settings not found
 20060048	DormInvalidFurnitureLayout	Dormitory template not found
 20060049	DormCollectLayoutFull	Dormitory collection full
 20060050	DormLayoutBindNothing	Please link to the dormitory needed
-20060051	DormCreateCountTooMuch	
-20060052	DormPutFurnitureCTooMuch	
+20060051	DormCreateCountTooMuch	Max number of dormitories reached
+20060052	DormPutFurnitureCTooMuch	Furniture exceeds dormitory capacity
 20061001	GachaTemplateNotFound	Gacha configuration not found
 20061002	GachaRewardUseUp	No Gacha rewards left
 20061003	GachaNotOpen	Event is not available yet
@@ -793,241 +816,321 @@ Id	Key	Text
 20062010	RepeatChallengePreFightIsNull	Prebattle data not found
 20062011	RepeatChallengeFirstPassLimitCount	1st time challenge is limited to 1 attempt
 20062012	RepeatChallengeRewardNotExist	Reward settings not found
-20062013	RepeatChallengeRewardIsGot	Reward Claimed
+20062013	RepeatChallengeRewardIsGot	Reward already claimed
 20062014	RepeatChallengeResultChallengeCountError	Tally error
 20062015	MultiChallengeCfgIsNotFound	Multiple challenge settings not found
 20062016	RepeatChallengeHideChapterNotOpen	Abyss chapter is not yet available
 20062017	RepeatChallengeChapterNotOpen	Chapter locked
 20062018	RepeatChallengeHideConditionNotSatisfy	Hidden chapter requirement not met
-20063001	GuildServiceUnavaliable	
-20063002	GuildCreateGuildNameIsNull	
-20063003	GuildCreateGuildNameLengthError	
-20063004	GuildCreateGuildNameInvalid	
-20063005	GuildCreateGuildDeclarationIsNull	
-20063006	GuildCreateGuildDeclarationLengthError	
-20063007	GuildCreateGuildDeclarationInvalid	
-20063008	GuildCreateGuildIconIdIsZero	
-20063009	GuildCreateGuildInCreating	
-20063010	GuildCreateGuildPlayerHasGuild	
-20063011	GuildCreateGuildGuildExists	
-20063012	GuildCreateGuildNameDuplicated	
-20063013	GuildCreateGuildPlayerIdDuplicated	
-20063014	GuildCreateGuildIdDuplicated	
-20063015	GuildCreateGuildDataAsyncError	
-20063016	GuildCreateGuildInCd	
-20063017	GuildCreateErrorHeadPortrait	
+20063001	GuildServiceUnavaliable	Command Bureau server error
+20063002	GuildCreateGuildNameIsNull	Command Bureau name cannot be blank
+20063003	GuildCreateGuildNameLengthError	Command Bureau name length requirement not met
+20063004	GuildCreateGuildNameInvalid	Command Bureau name contains illegal characters
+20063005	GuildCreateGuildDeclarationIsNull	Command Bureau notice cannot be blank
+20063006	GuildCreateGuildDeclarationLengthError	Command Bureau notice too long
+20063007	GuildCreateGuildDeclarationInvalid	Command Bureau notice contains illegal characters
+20063008	GuildCreateGuildIconIdIsZero	Select an icon for Command Bureau
+20063009	GuildCreateGuildInCreating	Command Bureau being created. Try again later
+20063010	GuildCreateGuildPlayerHasGuild	Failed to create Command Bureau as you have already joined one
+20063011	GuildCreateGuildGuildExists	Command Bureau name already in use
+20063012	GuildCreateGuildNameDuplicated	Command Bureau name already exists
+20063013	GuildCreateGuildPlayerIdDuplicated	Failed to create Command Bureau as you have already joined another one
+20063014	GuildCreateGuildIdDuplicated	Command Bureau name already in use
+20063015	GuildCreateGuildDataAsyncError	Failed to create Command Bureau data
+20063016	GuildCreateGuildInCd	After leaving a Command Bureau, you need to wait 8 hours before you can join a new one
+20063017	GuildCreateErrorHeadPortrait	Command Bureau portrait does not exist
 20063018	GuildCreateNotEnoughCost	Insufficient currency. Unable to create
-20063019	GuildCreateServiceException	
-20063020	GuildCreateGuildInternalError	
-20063021	GuildApplyInCd	
-20063022	GuildApplyPlyaerHasGuild	
-20063023	GuildApplyPlyaerApplyMaxCount	
+20063019	GuildCreateServiceException	Failed to create Command Bureau
+20063020	GuildCreateGuildInternalError	Cannot create Command Bureau data
+20063021	GuildApplyInCd	After leaving a Command Bureau, you need to wait 8 hours before you can join a new one
+20063022	GuildApplyPlyaerHasGuild	Request failed. Already joined a Command Bureau
+20063023	GuildApplyPlyaerApplyMaxCount	Sending requests to too many Command Bureaus at the same time
 20063024	GuildApplyApplyDuplicated	Application submitted. Please wait
-20063025	GuildApplyServiceException	
-20063026	GuildApplyGuildNotExist	
-20063027	GuildApplyGuildApplyMaxCount	
-20063028	GuildAckApplyAckHasNotGuild	
-20063029	GuildAckApplyAckGuildNotExist	
-20063030	GuildAckApplyAckNotInThisGuild	
-20063031	GuildAckApplyAckLessRank	
-20063032	GuildAckApplyApplicantHasGuild	
-20063033	GuildAckApplyNotApply	
-20063034	GuildAckApplyReachCapacity	
-20063035	GuildAckApplyServiceException	
-20063036	GuildApplyBanApply	
-20063037	GuildListRecommendHasGuild	
-20063038	GuildListRecommendServiceException	
-20063039	GuildListDetailGuildNotExist	
-20063040	GuildListDetailPlayerNotInGuild	
-20063041	GuildListDetailServiceException	
-20063042	GuildChangeIconHasNotGuild	
-20063043	GuildChangeIconGuildNotExist	
-20063044	GuildChangeIconNotInThisGuild	
-20063045	GuildChangeIconLessRank	
-20063046	GuildChangeIconErrorHeadPortrait	
-20063047	GuildChangeIconServiceException	
-20063048	GuildChangeDeclarationHasNotGuild	
-20063049	GuildChangeDeclarationLengthError	
-20063050	GuildChangeDeclarationInvalid	
-20063051	GuildChangeDeclarationGuildNotExist	
-20063052	GuildChangeDeclarationNotInThisGuild	
-20063053	GuildChangeDeclarationLessRank	
-20063054	GuildChangeDeclarationServiceException	
-20063055	GuildChangeRankNameHasNotGuild	
-20063056	GuildChangeRankNameInvalid	
-20063057	GuildChangeRankNameGuildNotExist	
-20063058	GuildChangeNameNotInThisGuild	
-20063059	GuildChangeNameLessRank	
-20063060	GuildChangeRankNameServiceException	
-20063061	GuildReleaseWishHasNotGuild	
-20063062	GuildReleaseWishErrorItemId	
-20063063	GuildReleaseWishMaxCount	
-20063064	GuildReleaseWishGuildNotExist	
-20063065	GuildReleaseWishNotInThisGuild	
-20063066	GuildReleaseWishServiceException	
-20063067	GuildListWishGuildNotExist	
-20063068	GuildListWishHasNotGuild	
-20063069	GuildListWishServiceException	
-20063070	GuildWishContributeGuildNotExist	
-20063071	GuildWishContributeHasNotGuild	
-20063072	GuildWishContributeItemNotEnough	
-20063073	GuildWishContributeCantToSelf	
-20063074	GuildWishContributeNotInThisGuild	
-20063075	GuildWishContributeMaxCount	
-20063076	GuildWishContributeErrorWish	
-20063077	GuildWishContributeOnlyOnce	
-20063078	GuildWishContributeServiceException	
-20063079	GuildChangeRankHasNotGuild	
-20063080	GuildChangeRankCantToSelf	
-20063081	GuildChangeRankErrorNewRank	
-20063082	GuildChangeRankGuildNotExist	
-20063083	GuildChangeRankNotInThisGuild	
-20063084	GuildChangeRankOtherNotInThisGuild	
-20063085	GuildChangeRankSameRank	
-20063086	GuildChangeRankLevelLtOther	
-20063087	GuildChangeRankLevelLtOtherNew	
-20063088	GuildChangeRankMaxCount	
-20063089	GuildChangeRankServiceException	
-20063090	GuildQuitHasNotGuild	
-20063091	GuildQuitGuildNotExist	
-20063092	GuildQuitNotInThisGuild	
-20063093	GuildQuitLeaderCantQuit	
-20063094	GuildQuitServiceException	
-20063095	GuildKickMemberHasNotGuild	
-20063096	GuildKickMemberGuildNotExist	
-20063097	GuildKickMemberKickSelf	
-20063098	GuildKickMemberOfficerNotInThisGuild	
-20063099	GuildKickMemberLessRank	
-20063100	GuildKickMemberOtherNotInThisGuild	
-20063101	GuildKickMemberRankLtOther	
-20063102	GuildKickMemberServiceException	
-20063103	GuildListNewsHasNotGuild	
-20063104	GuildListNewsGuildNotExist	
-20063105	GuildListNewsServiceException	
-20063106	GuildGiveLikeHasNotGuild	
-20063107	GuildGiveLikeGiveSelf	
-20063108	GuildGiveLikeGuildNotExist	
-20063109	GuildGiveLikePlayerNotInThisGuild	
-20063110	GuildGiveLikeOtherNotInThisGuild	
-20063111	GuildGiveLikeItemNotEnough	
-20063112	GuildGiveLikeServiceException	
-20063113	GuildImpeachHasNotGuild	
-20063114	GuildImpeachPlayerNotInThisGuild	
-20063115	GuildImpeachSelf	
-20063116	GuildImpeachErrorDuration	
-20063117	GuildImpeachDuplicated	
-20063118	GuildChangeImpeachServiceException	
-20063119	GuildRejeactImpeachHasNotGuild	
-20063120	GuildChangeScriptHasNotGuild	
-20063121	GuildChangeScriptErrorIndex	
-20063122	GuildChangeScriptInvalid	
-20063123	GuildChangeScriptErrorLength	
-20063124	GuildChangeScriptMaxCount	
-20063125	GuildChangeScriptGuildNotExist	
-20063126	GuildChangeScriptOfficerNotInThisGuild	
-20063127	GuildChangeScriptLessRank	
-20063128	GuildChangeScriptServiceException	
-20063129	GuildListScriptHasNotGuild	
-20063130	GuildListScriptGuildNotExist	
-20063131	GuildListScriptOfficerNotInThisGuild	
-20063132	GuildListScriptLessRank	
-20063133	GuildListScriptServiceException	
-20063134	GuildTouristPlayerHasGuild	
-20063135	GuildTouristTouristHasGuild	
-20063136	GuildTouristGuildNotExist	
-20063137	GuildTouristTryAddFailed	
-20063138	GuildTouristMaxCount	
-20063139	GuildQuitTouristHasNotGuild	
-20063140	GuildQuitTouristNotInThisGuild	
-20063141	GuildRecruitRecommendHasNotGuild	
-20063142	GuildRecruitRecommendException	
-20063143	GuildRecruitRecommendGuildNotExist	
-20063144	GuildRecruitRecommendOfficerNotInThisGuild	
-20063145	GuildRecruitRecommendLessRank	
-20063146	GuildRecruitRecommendNeedRefresh	
-20063147	GuildUpdateRecruitRecommendGuildNotExist	
-20063148	GuildUpdateRecruitRecommendOfficerNotInThisGuild	
-20063149	GuildUpdateRecruitRecommendLessRank	
-20063150	GuildRecruitHasNotGuild	
-20063151	GuildRecruitServiceException	
-20063152	GuildRecruitGuildNotExist	
-20063153	GuildRecruitOfficerNotInThisGuild	
-20063154	GuildRecruitLessRank	
-20063155	GuildRecruitPlayerHasGuild	
-20063156	GuildRecruitPlayerNotInRecommend	The player isn't in the recruit list
-20063157	GuildRecruitDuplicated	
-20063158	GuildRecruitGuildMaxCount	
-20063159	GuildListRecruitHasGuild	The player has already joined a guild
-20063160	GuildListRecruitServiceException	
-20063161	GuildAckRecruitHasGuild	
-20063162	GuildAckRecruitServiceException	
-20063163	GuildAckRecruitGuildNotExist	
-20063164	GuildAckRecruitNoRecruit	
-20063165	GuildAckRecruitReachCapacity	
-20063166	GuildAckRecruitInCd	
-20063167	GuildLevelUpHasNotGuild	
-20063168	GuildLevelUpServiceException	
-20063169	GuildLevelUpGuildNotExist	
-20063170	GuildLevelUpOfficerNotInThisGuild	
-20063171	GuildLevelUpLessRank	
-20063172	GuildLevelUpLessBuild	
-20063173	GuildLevelUpMaxLevel	
-20063174	GuildPayMaintainHasNotGuild	
-20063175	GuildPayMaintainServiceException	
-20063176	GuildPayMaintainGuildNotExist	
-20063177	GuildPayMaintainOfficerNotInThisGuild	
-20063178	GuildPayMaintainLessRank	
-20063179	GuildPayMaintainNotEmergency	
-20063180	GuildPayMaintainLessContribute	
-20063181	GuildAddContributeHasNotGuild	
-20063182	GuildAddContributeServiceException	
-20063183	GuildAddContributeGuildNotExist	
-20063184	GuildListApplyHasNotGuild	
-20063185	GuildListApplyServiceException	
-20063186	GuildListApplyGuildNotExist	
-20063187	GuildListApplyOfficerNotInThisGuild	
-20063188	GuildListApplyLessRank	
-20063189	GuildAddContributePlayerNotInGuild	
-20063190	GuildGetGiftHasNotGuild	
-20063191	GuildGetGiftServiceException	
-20063192	GuildGetGiftInTwoGuild	
-20063193	GuildGetGiftGuildNotExist	
-20063194	GuildGetGiftNotInThisGuild	
-20063195	GuildGetGiftGiftNotExist	
-20063196	GuildGetGiftLessContribute	
-20063197	GuildGetContributeRewardHasNotGuild	
-20063198	GuildGetContributeRewardGot	
-20063199	GuildGetContributeRewardServiceException	
-20063200	GuildGetContributeRewardNotInThisGuild	
-20063201	GuildGetContributeRewardLessContribute	
-20063202	GuildMailServiceUnavaliable	
-20063203	GuildMailServiceException	
-20063204	GuildMailContentFormatError	
-20063205	GuildListChatHasNotGuild	
-20063206	GuildListChatServiceException	
-20063207	GuildListChatGuildNotExist	
-20063208	GuildListChatNotInThisGuild	
-20063209	GuildFindServiceException	
-20063210	GuildChangeApplyOptionHasNotGuild	
-20063211	GuildChangeApplyOptionServiceException	
-20063212	GuildChangeApplyOptionGuildNotExist	
-20063213	GuildChangeApplyOptionNotInThisGuild	
-20063214	GuildChangeApplyOptionLessRank	
-20063215	GuildServerInternalError	
-20063216	GuildGetMemberNotFound	
-20063217	GuildShopGetGuildNotExist	
-20063218	GuildBuyGoodsMemberLessRank	
-20063219	GuildRefreshShopMemberLessRank	
-20063220	GuildGetShopHasNotGuild	
-20063221	GuildGetShopServiceException	
-20063222	GuildBuyGoodsHasNotGuild	
-20063223	GuildBuyGoodsServiceException	
-20063224	GuildRefreshShopHasNotGuild	
-20063225	GuildRefreshShopServiceException	
-20063226	GuildListRankHasNotGuild	
-20063227	GuildListRankServiceException	
-20063228	GuildAddBuildGuildNotExist	
-20063229	GuildAddBuildNotInGuild	
+20063025	GuildApplyServiceException	Request failed. Unknown error
+20063026	GuildApplyGuildNotExist	The player's Command Bureau does not exist
+20063027	GuildApplyGuildApplyMaxCount	The player's Command Bureau request list is full
+20063028	GuildAckApplyAckHasNotGuild	Approval failed. Not in Command Bureau
+20063029	GuildAckApplyAckGuildNotExist	Command Bureau does not exist
+20063030	GuildAckApplyAckNotInThisGuild	Approval failed. Not in Command Bureau
+20063031	GuildAckApplyAckLessRank	No approval authority
+20063032	GuildAckApplyApplicantHasGuild	The player has joined another Command Bureau
+20063033	GuildAckApplyNotApply	Player has not yet sent a request
+20063034	GuildAckApplyReachCapacity	Command Bureau full
+20063035	GuildAckApplyServiceException	Approval failed. Unknown error
+20063036	GuildApplyBanApply	Request denied by the player's Command Bureau
+20063037	GuildApplyLessLevel	You do not meet the level requirement to join this Command Bureau
+20063038	GuildListRecommendHasGuild	Failed to recommend as you are already a member of Command Bureau
+20063039	GuildListRecommendServiceException	Failed to recommend due to unknown error
+20063040	GuildListDetailGuildNotExist	Failed to view detail as Command Bureau has disbanded
+20063041	GuildListDetailPlayerNotInGuild	Failed to view detail as you are not in Command Bureau
+20063042	GuildListDetailServiceException	Failed to view detail due to unknown error
+20063043	GuildChangeIconHasNotGuild	Failed to change icon as you have not joined Command Bureau
+20063044	GuildChangeIconGuildNotExist	Failed to change icon as Command Bureau does not exist
+20063045	GuildChangeIconNotInThisGuild	Failed to change icon as you are not in Command Bureau
+20063046	GuildChangeIconLessRank	Failed to change icon due to insufficient authority
+20063047	GuildChangeIconErrorHeadPortrait	Wrong portrait. Failed to change Command Bureau icon
+20063048	GuildChangeIconServiceException	Failed to change icon due to unknown error
+20063049	GuildChangeDeclarationHasNotGuild	Failed to change notice as you have not joined Command Bureau
+20063050	GuildChangeDeclarationLengthError	Failed to change notice as length limit is exceeded
+20063051	GuildChangeDeclarationInvalid	Failed to change notice as illegal characters were detected
+20063052	GuildChangeDeclarationGuildNotExist	Failed to change notice as Command Bureau does not exist
+20063053	GuildChangeDeclarationNotInThisGuild	Failed to change notice as you are not in Command Bureau
+20063054	GuildChangeDeclarationLessRank	Failed to change notice due to insufficient authority
+20063055	GuildChangeDeclarationServiceException	Failed to change notice due to unknown error
+20063056	GuildChangeRankNameHasNotGuild	Failed to change position title as you have not joined Command Bureau
+20063057	GuildChangeRankNameInvalid	Failed to change position title as illegal characters were detected
+20063058	GuildChangeRankNameGuildNotExist	Failed to change position title as Command Bureau does not exist
+20063059	GuildChangeNameNotInThisGuild	Failed to change position title as you are not in Command Bureau
+20063060	GuildChangeNameLessRank	Failed to change position title due to insufficient authority
+20063061	GuildChangeRankNameServiceException	Failed to change position title due to unknown error
+20063062	GuildReleaseWishHasNotGuild	Failed to send wish as you have not joined Command Bureau
+20063063	GuildReleaseWishErrorItemId	Failed to send wish due to wrong item ID
+20063064	GuildReleaseWishMaxCount	Failed to send wish. Wish limit reached
+20063065	GuildReleaseWishGuildNotExist	Failed to send wish as Command Bureau does not exist
+20063066	GuildReleaseWishNotInThisGuild	Failed to send wish as you are not in Command Bureau
+20063067	GuildReleaseWishServiceException	Failed to send wish due to unknown error
+20063068	GuildListWishGuildNotExist	Failed to view wish as Command Bureau does not exist
+20063069	GuildListWishHasNotGuild	Failed to view wish as you have not joined Command Bureau
+20063070	GuildListWishServiceException	Failed to view wish due to unknown error
+20063071	GuildWishContributeGuildNotExist	Failed to donate wish as Command Bureau does not exist
+20063072	GuildWishContributeHasNotGuild	Failed to donate wish as you have not joined Command Bureau
+20063073	GuildWishContributeItemNotEnough	Failed to donate wish due to insufficient items
+20063074	GuildWishContributeCantToSelf	Failed to donate wish as you cannot donate to yourself
+20063075	GuildWishContributeNotInThisGuild	Failed to donate wish as you are not in Command Bureau
+20063076	GuildWishContributeMaxCount	Failed to donate wish as you have reached the donation limit
+20063077	GuildWishContributeErrorWish	Failed to donate wish as wish data cannot be found
+20063078	GuildWishContributeOnlyOnce	Failed to donate wishes as you cannot donate even number of wishes
+20063079	GuildWishContributeServiceException	Failed to donate wish due to unknown error
+20063080	GuildChangeRankHasNotGuild	Failed to change position as you have not joined Command Bureau
+20063081	GuildChangeRankCantToSelf	Failed to change position as you cannot change your own position
+20063082	GuildChangeRankErrorNewRank	Failed to change position due to a data error with the new position
+20063083	GuildChangeRankGuildNotExist	Failed to change position as Command Bureau does not exist
+20063084	GuildChangeRankNotInThisGuild	Failed to change position as you are not in Command Bureau
+20063085	GuildChangeRankOtherNotInThisGuild	Failed to change position as the player is not in Command Bureau
+20063086	GuildChangeRankSameRank	Failed to change position as you and the player serve in the same position
+20063087	GuildChangeRankLevelLtOther	Failed to change position as your position is lower than the player's
+20063088	GuildChangeRankLevelLtOtherNew	Failed to change position as your current position is lower than the target position
+20063089	GuildChangeRankMaxCount	Failed to change position as you have reached the position change limit
+20063090	GuildChangeRankServiceException	Failed to change position due to unknown error
+20063091	GuildQuitHasNotGuild	Failed to exit Command Bureau as you have not joined it
+20063092	GuildQuitGuildNotExist	Failed to exit Command Bureau as it does not exist
+20063093	GuildQuitNotInThisGuild	Failed to exit Command Bureau as you are not a member
+20063094	GuildQuitLeaderCantQuit	Failed to exit Command Bureau as you are the leader
+20063095	GuildQuitServiceException	Failed to exit Command Bureau due to unknown error
+20063096	GuildKickMemberHasNotGuild	Failed to remove member as you have not joined Command Bureau
+20063097	GuildKickMemberGuildNotExist	Failed to remove member as Command Bureau does not exist
+20063098	GuildKickMemberKickSelf	Failed to remove member as you cannot remove yourself
+20063099	GuildKickMemberOfficerNotInThisGuild	Failed to remove member as you are not in Command Bureau
+20063100	GuildKickMemberLessRank	Failed to remove member due to insufficient authority
+20063101	GuildKickMemberOtherNotInThisGuild	Failed to remove player as he/she is not in Command Bureau
+20063102	GuildKickMemberRankLtOther	Failed to remove member as his/her position is higher than yours
+20063103	GuildKickMemberServiceException	Failed to remove member due to unknown error
+20063104	GuildListNewsHasNotGuild	Failed to view news as you have not joined Command Bureau
+20063105	GuildListNewsGuildNotExist	Failed to view news as Command Bureau does not exist
+20063106	GuildListNewsServiceException	Failed to view news due to unknown error
+20063107	GuildGiveLikeHasNotGuild	Liking failed as you have not joined Command Bureau
+20063108	GuildGiveLikeGiveSelf	Liking failed as you cannot like yourself
+20063109	GuildGiveLikeGuildNotExist	Liking failed as Command Bureau does not exist
+20063110	GuildGiveLikePlayerNotInThisGuild	Liking failed as you are not in Command Bureau
+20063111	GuildGiveLikeOtherNotInThisGuild	Liking failed as the player is not in Command Bureau
+20063112	GuildGiveLikeItemNotEnough	Liking failed due to insufficient items
+20063113	GuildGiveLikeServiceException	Liking failed due to unknown error
+20063114	GuildImpeachHasNotGuild	Impeachment failed as you have not joined Command Bureau
+20063115	GuildImpeachPlayerNotInThisGuild	Impeachment failed as you are not in Command Bureau
+20063116	GuildImpeachSelf	Impeachment failed as you cannot impeach yourself
+20063117	GuildImpeachErrorDuration	Impeachment failed as Commander-in-Chief is back
+20063118	GuildImpeachDuplicated	Impeachment failed due to duplicate impeachment
+20063119	GuildChangeImpeachServiceException	Impeachment failed due to unknown error
+20063120	GuildRejeactImpeachHasNotGuild	Failed to oppose impeachment as you have not joined Command Bureau
+20063121	GuildChangeScriptHasNotGuild	Failed to change welcome message as you have not joined Command Bureau
+20063122	GuildChangeScriptErrorIndex	Failed to change welcome message due to index error
+20063123	GuildChangeScriptInvalid	Failed to change welcome message as sensitive characters were detected
+20063124	GuildChangeScriptErrorLength	Failed to change welcome message as length limit is exceeded
+20063125	GuildChangeScriptMaxCount	Failed to change welcome message as message limit is reached
+20063126	GuildChangeScriptGuildNotExist	Failed to change welcome message as Command Bureau does not exist
+20063127	GuildChangeScriptOfficerNotInThisGuild	Failed to change welcome message as you are not in Command Bureau
+20063128	GuildChangeScriptLessRank	Failed to change welcome message due to insufficient authority
+20063129	GuildChangeScriptServiceException	Failed to change welcome message due to unknown error
+20063130	GuildListScriptHasNotGuild	Failed to view message list as you have not joined Command Bureau
+20063131	GuildListScriptGuildNotExist	Failed to view message list as Command Bureau does not exist
+20063132	GuildListScriptOfficerNotInThisGuild	Failed to view message list as you are not in Command Bureau
+20063133	GuildListScriptLessRank	Failed to view message list due to insufficient authority
+20063134	GuildListScriptServiceException	Failed to view message list due to unknown error
+20063135	GuildTouristPlayerHasGuild	Failed to visit as guest because you have already joined Command Bureau
+20063136	GuildTouristTouristHasGuild	Already joined Command Bureau
+20063137	GuildTouristGuildNotExist	Failed to visit as guest because Command Bureau does not exist
+20063138	GuildTouristTryAddFailed	Failed to visit as guest because you have failed to join as guest
+20063139	GuildTouristMaxCount	Failed to visit as guest because guest limit is reached
+20063140	GuildQuitTouristHasNotGuild	Failed to exit as guest as you have not joined Command Bureau
+20063141	GuildQuitTouristNotInThisGuild	Failed to exit as guest as you are not in Command Bureau
+20063142	GuildRecruitRecommendHasNotGuild	Recruitment recommendation failed as you have not joined Command Bureau
+20063143	GuildRecruitRecommendException	Recruitment recommendation failed due to unknown error
+20063144	GuildRecruitRecommendGuildNotExist	Recruitment recommendation failed as Command Bureau does not exist
+20063145	GuildRecruitRecommendOfficerNotInThisGuild	Recruitment recommendation failed recommend as you are not in Command Bureau
+20063146	GuildRecruitRecommendLessRank	Recruitment recommendation failed due to insufficient authority
+20063147	GuildRecruitRecommendNeedRefresh	Please refresh recruitment recommendation
+20063148	GuildUpdateRecruitRecommendGuildNotExist	Failed to refresh recruitment recommendation as Command Bureau does not exist
+20063149	GuildUpdateRecruitRecommendOfficerNotInThisGuild	Failed to refresh recruitment recommendation as you are not in Command Bureau
+20063150	GuildUpdateRecruitRecommendLessRank	Failed to refresh recruitment recommendation due to insufficient authority
+20063151	GuildRecruitHasNotGuild	Failed to recruit as you have not joined Command Bureau
+20063152	GuildRecruitServiceException	Failed to recruit due to unknown error
+20063153	GuildRecruitGuildNotExist	Failed to recruit as Command Bureau does not exist
+20063154	GuildRecruitOfficerNotInThisGuild	Failed to recruit as you are not in Command Bureau
+20063155	GuildRecruitLessRank	Failed to recruit due to insufficient authority
+20063156	GuildRecruitPlayerHasGuild	The player has joined another Command Bureau
+20063157	GuildRecruitPlayerNotInRecommend	The player is not in the recruit list
+20063158	GuildRecruitDuplicated	Duplicate request
+20063159	GuildRecruitGuildMaxCount	Failed to recruit. Daily recruitment attempts used up
+20063160	GuildListRecruitHasGuild	You have already joined Command Bureau
+20063161	GuildListRecruitServiceException	Failed to view recruit list due to unknown error
+20063162	GuildAckRecruitHasGuild	You have already joined Command Bureau
+20063163	GuildAckRecruitServiceException	Failed to confirm recruitment due to unknown error
+20063164	GuildAckRecruitGuildNotExist	Failed to respond as Command Bureau does not exist
+20063165	GuildAckRecruitNoRecruit	Failed to respond as recruitment message does not exist 
+20063166	GuildAckRecruitReachCapacity	Failed to respond as Command Bureau is full
+20063167	GuildAckRecruitInCd	After leaving a Command Bureau, you need to wait 8 hours before you can join a new one
+20063168	GuildLevelUpHasNotGuild	Failed to upgrade Command Bureau as you have not joined it
+20063169	GuildLevelUpServiceException	Failed to upgrade Command Bureau due to unknown error
+20063170	GuildLevelUpGuildNotExist	Failed to upgrade Command Bureau as it does not exist
+20063171	GuildLevelUpOfficerNotInThisGuild	Failed to upgrade Command Bureau as you are not in it
+20063172	GuildLevelUpLessRank	Failed to upgrade Command Bureau due to insufficient authority
+20063173	GuildLevelUpLessBuild	Failed to upgrade Command Bureau due to insufficient Build Progress
+20063174	GuildLevelUpMaxLevel	Failed to upgrade Command Bureau as it has reached max level
+20063175	GuildPayMaintainHasNotGuild	Failed to pay maintenance fee as you have not joined Command Bureau
+20063176	GuildPayMaintainServiceException	Failed to pay maintenance fee due to unknown error
+20063177	GuildPayMaintainGuildNotExist	Failed to pay maintenance fee as Command Bureau does not exist
+20063178	GuildPayMaintainOfficerNotInThisGuild	Failed to pay maintenance fee as you are not in Command Bureau
+20063179	GuildPayMaintainLessRank	Failed to pay maintenance fee due to insufficient authority
+20063180	GuildPayMaintainNotEmergency	Cannot pay maintenance fee outside emergency maintenance period
+20063181	GuildPayMaintainLessContribute	Failed to pay maintenance fee due to insufficient Contribution
+20063182	GuildAddContributeHasNotGuild	Failed to increase Contribution as you have not joined Command Bureau
+20063183	GuildAddContributeServiceException	Failed to increase Contribution due to unknown error
+20063184	GuildAddContributeGuildNotExist	Failed to increase Contribution as you are not in Command Bureau
+20063185	GuildListApplyHasNotGuild	Failed to access request list as you have not joined Command Bureau
+20063186	GuildListApplyServiceException	Failed to access request list due to unknown error
+20063187	GuildListApplyGuildNotExist	Failed access request list as Command Bureau does not exist
+20063188	GuildListApplyOfficerNotInThisGuild	Failed to access request list as you are not in Command Bureau
+20063189	GuildListApplyLessRank	Failed to access request list due to insufficient authority
+20063190	GuildAddContributePlayerNotInGuild	Failed to increase Contribution as you are not in Command Bureau
+20063191	GuildGetGiftHasNotGuild	Failed to claim activity pack as you have not joined Command Bureau
+20063192	GuildGetGiftServiceException	Failed to claim activity pack due to unknown error
+20063193	GuildGetGiftInTwoGuild	Failed to claim activity pack as it belongs to another Commandant
+20063194	GuildGetGiftGuildNotExist	Failed to claim activity pack as Command Bureau does not exist
+20063195	GuildGetGiftNotInThisGuild	Failed to claim activity pack as you are not in Command Bureau
+20063196	GuildGetGiftGiftNotExist	Failed to claim activity pack as it does not exist
+20063197	GuildGetGiftLessContribute	Failed to claim activity pack due to insufficient Contribution
+20063198	GuildGetGiftDuplicated	Contribution pack already claimed
+20063199	GuildGetContributeRewardHasNotGuild	Failed to claim Contribution reward as you have not joined Command Bureau
+20063200	GuildGetContributeRewardGot	Contribution reward already claimed
+20063201	GuildGetContributeRewardServiceException	Failed to claim Contribution reward due to unknown error
+20063202	GuildGetContributeRewardNotInThisGuild	Failed to claim Contribution reward as you are not in Command Bureau
+20063203	GuildGetContributeRewardLessContribute	Failed to claim Contribution reward due to insufficient Contribution
+20063204	GuildMailServiceUnavaliable	Command Bureau mail feature not available
+20063205	GuildMailServiceException	Failed to send Command Bureau mail due to unknown error
+20063206	GuildMailContentFormatError	Command Bureau mail format error
+20063207	GuildListChatHasNotGuild	Failed to access chat as you have not joined Command Bureau
+20063208	GuildListChatServiceException	Failed to join chat due to unknown error
+20063209	GuildListChatGuildNotExist	Failed to access chat as Command Bureau does not exist
+20063210	GuildListChatNotInThisGuild	Failed to access chat as you are not in Command Bureau
+20063211	GuildFindServiceException	Failed to find Command Bureau due to unknown error
+20063212	GuildChangeApplyOptionHasNotGuild	Failed to change request settings as you have not joined Command Bureau
+20063213	GuildChangeApplyOptionServiceException	Failed to change request settings due to unknown error
+20063214	GuildChangeApplyOptionGuildNotExist	Failed to change request settings as Command Bureau does not exist
+20063215	GuildChangeApplyOptionNotInThisGuild	Failed to change request settings as you are not in Command Bureau
+20063216	GuildChangeApplyOptionLessRank	Failed to change request settings due to insufficient authority
+20063217	GuildServerInternalError	Command Bureau server exception
+20063218	GuildGetMemberNotFound	Failed to access Command Bureau members
+20063219	GuildShopGetGuildNotExist	Failed to access shop info as Command Bureau does not exist
+20063220	GuildBuyGoodsMemberLessRank	Insufficient authority to purchase from Command Bureau shop
+20063221	GuildRefreshShopMemberLessRank	Insufficient authority to refresh Command Bureau shop
+20063222	GuildGetShopHasNotGuild	Failed to access shop info as you have not joined Command Bureau
+20063223	GuildGetShopServiceException	Unknown error with Command Bureau shop
+20063224	GuildBuyGoodsHasNotGuild	Failed to purchase from shop as you have not joined Command Bureau
+20063225	GuildBuyGoodsServiceException	Unknown error occurred while purchasing from Command Bureau shop
+20063226	GuildRefreshShopHasNotGuild	Failed to refresh shop as you have not joined Command Bureau
+20063227	GuildRefreshShopServiceException	Unknown error occurred while refreshing Command Bureau shop
+20063228	GuildListRankHasNotGuild	Failed to view rankings as you have not joined Command Bureau
+20063229	GuildListRankServiceException	Unknown error with Command Bureau rankings
+20063230	GuildAddBuildGuildNotExist	Failed to increase Build Progress as Command Bureau does not exist
+20063231	GuildAddBuildNotInGuild	Failed to increase Build Progress as you are not in Command Bureau
+20063232	GuildRecruitGuildDailyCount	Daily recruitment attempts used up
+20063233	GuildGiveLikeItemInvalid	Failed to send gift due to invalid gift item
+20063234	GuildListTalentException	Failed to access talent due to unknown error
+20063235	GuildListTalentNotInGuild	Cannot perform this action as you are not in Command Bureau
+20063236	GuildListTalentGuildNotExist	Command Bureau disbanded
+20063237	GuildUpgradeTalentNotInGuild	Cannot perform this action as you have left Command Bureau
+20063238	GuildUpgradeTalentGuildNotExist	Command Bureau does not exist
+20063239	GuildUpgradeTalentLessRank	Insufficient authority
+20063240	GuildUpgradeTalentTalentNotExist	Invalid Beacon Amplifier Points
+20063241	GuildUpgradeTalentLessLevel	Command Bureau level too low
+20063242	GuildUpgradeTalentParentNotExist	Prerequisite Beacon Amplifier Points do not exist
+20063243	GuildUpgradeTalentParentLessLevel	Prerequisite Beacon Amplifier Points level too low
+20063244	GuildUpgradeTalentMaxLevel	Max level reached
+20063245	GuildUpgradeTalentPointNotEnough	Insufficient Beacon Points
+20063246	GuildBossBossStatusGuildNotExist	Command Bureau info not found
+20063247	GuildBossBossStatusNotInGuild	Cannot perform this action as you have left Command Bureau
+20063248	GuildBossBossStatusNotOpen	Wait until the next season to join the event
+20063249	GuildBossBossInfoGuildNotExist	Command Bureau info not found
+20063250	GuildBossBossInfoNotInGuild	Cannot perform this action as you have left Command Bureau
+20063251	GuildBossBossInfoNotOpen	Wait until the next season to join the event
+20063252	GuildBossBossActivityGuildNotExist	Command Bureau info not found
+20063253	GuildBossBossActivityNotInGuild	Cannot perform this action as you have left Command Bureau
+20063254	GuildBossBossActivityNotOpen	Available in the next season
+20063255	GuildBossCheckResetNotInGuild	Cannot perform this action as you have left Command Bureau
+20063256	GuildBossCheckResetNotOpen	Available in the next season
+20063257	GuildBossBossStageGuildNotExist	Command Bureau info not found
+20063258	GuildBossBossStageNotInGuild	Cannot perform this action as you have left Command Bureau
+20063259	GuildBossBossStageNotExist	Invalid stage
+20063260	GuildBossBossStageNotOpen	Wait until the next season to join the event
+20063261	GuildBossPlayerRankGuildNotExist	Command Bureau info not found
+20063262	GuildBossPlayerRankNotInGuild	Cannot perform this action as you have left Command Bureau
+20063263	GuildBossPlayerStageRankGuildNotExist	Command Bureau info not found
+20063264	GuildBossPlayerStageRankNotInGuild	Cannot perform this action as you have left Command Bureau
+20063265	GuildBossPlayerStageRankStageNotExist	Stage does not exist
+20063266	GuildBossGuildRankGuildNotExist	Command Bureau info not found
+20063267	GuildBossGuildRankNotInGuild	Cannot perform this action as you have left Command Bureau
+20063268	GuildBossHpBoxGuildNotExist	Command Bureau info not found
+20063269	GuildBossHpBoxNotInGuild	Cannot perform this action as you have left Command Bureau
+20063270	GuildBossHpBoxDuplicated	Already claimed
+20063271	GuildBossHpBoxRewardNotExist	Invalid reward info
+20063272	GuildBossHpBoxConditionFail	Requirement not met
+20063273	GuildBossHpBoxNotOpen	Wait until the next season to join the event
+20063274	GuildBossHpBoxActivityUpdate	This round of event has ended
+20063275	GuildBossScoreBoxGuildNotExist	Command Bureau info not found
+20063276	GuildBossScoreBoxNotInGuild	Cannot perform this action as you have left Command Bureau
+20063277	GuildBossScoreBoxDuplicated	Already claimed
+20063278	GuildBossScoreBoxRewardNotExist	Invalid reward info
+20063279	GuildBossScoreBoxConditionFail	Requirement not met
+20063280	GuildBossScoreBoxNotOpen	Wait until the next season to join the event
+20063281	GuildBossScoreBoxActivityUpdate	This round of event has ended
+20063282	GuildBossFightNoBoss	Event info not found
+20063283	GuildBossFightNoStage	Invalid stage not found
+20063284	GuildBossFightNoRobot	Trial info not found
+20063285	GuildBossFightInvalidRobot	Invalid trial character
+20063286	GuildBossFightStageNotMatch	Stage mismatch
+20063287	GuildBossFightNoScoreRule	Tally rules not found
+20063288	GuildBossUploadNotInGuild	Cannot perform this action as you have left Command Bureau
+20063289	GuildBossUploadStageNotMatch	Stage mismatch
+20063290	GuildBossUploadDamageNotMatch	Tally data mismatch
+20063291	GuildBossUploadMaxCount	Insufficient upload attempts
+20063292	GuildBossDamageNotInGuild	Cannot perform this action as you have left Command Bureau
+20063293	GuildBossDamageActivityUpdate	Event expired
+20063294	GuildBossDamageNoStage	Stage not found
+20063295	GuildBossDamageDuplicated	Already challenged other similar stages
+20063296	GuildBossDamageActivityNotOpen	Wait until the next season to join the event
+20063297	GuildBossDamageNotBreak	Can only save when points exceed the seasonal high
+20063298	GuildBossSetLevelNotInGuild	Cannot perform this action as you have left Command Bureau
+20063299	GuildBossSetLevelActivityUpdate	Event expired
+20063300	GuildBossSetLevelNotAdmin	Only someone in management position can perform this action
+20063301	GuildBossSetLevelNoLevelCfg	Invalid level configuration
+20063302	GuildBossSetLevelLessScore	Insufficient score to unlock
+20063303	GuildBossSetLevelGuildNotExist	Command Bureau info not found
+20063304	GuildBossSetLevelNotOpen	Wait until the next season to join the event
+20063305	GuildBossSetOrderNotInGuild	Cannot perform this action as you have left Command Bureau
+20063306	GuildBossSetOrderActivityUpdate	Event expired
+20063307	GuildBossSetOrderNotAdmin	Only someone in management position can perform this action
+20063308	GuildBossSetOrderGuildNotExist	Command Bureau info not found
+20063309	GuildBossSetOrderNotOpen	Wait until the next season to join the event
 20064001	RogueLikeActivityNotOpen	Outside the event period
 20064002	RogueLikeActionPointNotEnough	Insufficient Action Points
 20064003	RogueLikeSectionInfoIsNull	Chapter info not found
@@ -1085,7 +1188,7 @@ Id	Key	Text
 20065003	ArchiveInvalidId	Invalid ID
 20065004	ArchiveConditionNotFit	Unlocking condition not met
 20065005	ArchiveInvalidTag	Invalid comment tag
-20065006	ArchiveInvalidStoryId	
+20065006	ArchiveInvalidStoryId	Invalid story ID
 20066001	RegressionActivityCfgNotExist	Event settings not found
 20066002	RegressionTaskActivityIsOver	Event is over
 20066003	RegressionGroupScheduleRewardCfgNotExist	Progress reward group not found
@@ -1127,7 +1230,7 @@ Id	Key	Text
 20067016	ProductCommentSignError	Signature error
 20067017	ProductCommentUrlNotExist	Link does not exist
 20067018	ProductCommentUnKnowError	Unknown error
-20067019	ProductCommentScheduleRewardAlreadyGet	Reward Claimed
+20067019	ProductCommentScheduleRewardAlreadyGet	Reward already claimed
 20067020	ProductCommentScheduleRewardIdNotExist	Reward ID does not exist
 20067021	ProductCommentScheduleNotEnough	Insufficient current progress
 20067022	ProductCommentHttpRequestError	Request error. Try again later.
@@ -1149,7 +1252,7 @@ Id	Key	Text
 20069003	MatchServiceInvalidPlayerId	Invalid player ID
 20069004	MatchServiceAlreadyInThisRoom	You are in a room already
 20069005	MatchServiceYouAreNotLeader	Only room host can do this
-20069006	MatchServiceMatchCanceled	
+20069006	MatchServiceMatchCanceled	Matchmaking cancelled
 20069007	MatchServiceAlreadyInMatchPool	You are already in matchmaking
 20069008	MatchServiceHavePlayerNotReady	One or more players are not ready
 20069009	MatchServiceRoomOptionNotExist	Operation does not exist
@@ -1158,8 +1261,8 @@ Id	Key	Text
 20069012	MatchServiceRoomHasClosed	Room has closed
 20069013	MatchServerPlayerHeartbeatTimeout	Room heartbeat timeout
 20070001	ArenaOnlineNotOpen	Event is not available yet
-20070002	ArenaOnlineCharacterTooMuch	Construct limit exceeded
-20070003	ArenaOnlineCharacterNotEnough	Insufficient Constructs
+20070002	ArenaOnlineCharacterTooMuch	Member limit exceeded
+20070003	ArenaOnlineCharacterNotEnough	Not enough member deployed
 20070004	ArenaOnlineEnduranceNotEnough	Character has insufficient stamina
 20070005	ArenaOnlineRoomIdInvalid	Invalid Joint Warfare room ID
 20070006	ArenaOnlineStageIdInvalid	Invalid Joint Warfare mission ID
@@ -1178,7 +1281,73 @@ Id	Key	Text
 20070019	ArenaOnlinePlayerLevelNotMatch	Unable to enter room. You are not in the level range
 20070020	ArenaOnlineInFight	Unable to change during battle
 20070021	ArenaOnlineEnterRoomInFight	Unable to enter during battle
-20080001	UnionKillActivityNotOpen	Event is not available yet
+20072001	InfestorExploreChapterNotFound	Autopoiesis Maze chapter configuration not found
+20072002	InfestorExploreMapNotFound	Autopoiesis Maze map configuration not found
+20072003	InfestorExploreGridNotFound	Autopoiesis Maze location configuration not found
+20072004	InfestorExploreGroupNotFound	Autopoiesis Maze group configuration not found
+20072005	InfestorExploreNodeNotFound	Autopoiesis Maze location type configuration not found
+20072006	InfestorExploreRewardNotFound	Autopoiesis Maze reward configuration does not exist
+20072007	InfestorExploreRewardPoolNotFound	Autopoiesis Maze reward pool configuration does not exist
+20072008	InfestorExploreEventPoolNotFound	Autopoiesis Maze event library configuration does not exist
+20072009	InfestorExploreDiffTemplateNotFound	Autopoiesis Maze difficulty configuration does not exist
+20072010	InfestorExploreGroupLevelNotFound	Autopoiesis Maze level group configuration not found
+20072011	InfestorExploreShopGoodsNotFound	Autopoiesis Maze add-on terminal item configuration not found
+20072012	InfestorExploreShopGoodsListNotFound	Autopoiesis Maze item list configuration not found
+20072013	InfestorExploreShopNotFound	Autopoiesis Maze shop configuration not found
+20072014	InfestorExploreCoreNotFound	Autopoiesis Maze add-on unit configuration not found
+20072015	InfestorExploreCoreLevelEffectNotFound	Autopoiesis Maze add-on unit level effect configuration not found
+20072016	InfestorExploreBuffNotFound	Autopoiesis Maze negative effect configuration not found
+20072017	InfestorExploreBuffListNotFound	Autopoiesis Maze negative effect list configuration not found
+20072018	InfestorExploreActivityNotFound	Autopoiesis Maze event configuration not found
+20072019	InfestorExploreEventShopGoodsNotFound	Autopoiesis Maze overload module item configuration not found
+20072020	InfestorExploreBossScoreRuleNotFound	Autopoiesis Maze Analysis Period Progress tally rules configuration not found
+20072021	InfestorExploreTeamFull	Autopoiesis Maze team full
+20072022	InfestorExploreJoinTeamFail	Failed to join Autopoiesis Maze team
+20072023	InfestorExplorePlayerAlreadySignUp	Already signed up for Autopoiesis Maze
+20072024	InfestorExploreStatusIsUnOpen	Autopoiesis Maze not yet available
+20072025	InfestorExploreStatusIsReset	Autopoiesis Maze tally in progress
+20072026	InfestorExploreCreatePlayerFail	Failed to create player data in Autopoiesis Maze
+20072027	InfestorExploreStatusIsNotStageExplore	Autopoiesis Maze not in exploration status
+20072028	InfestorExplorePlayerSignUpLevelLimit	Autopoiesis Maze sign-up restriction
+20072029	InfestorExplorePlayerNotFound	Autopoiesis Maze player data does not exist
+20072030	InfestorExploreTeamNotFound	Autopoiesis Maze team data does not exist
+20072031	InfestorExploreMoveToGridRepeated	Already in this position
+20072032	InfestorExploreMoveToGridCanNotMove	Cannot move to this position at the moment
+20072033	InfestorExploreMapNotContainGrid	Location not in Autopoiesis Maze map
+20072034	InfestorExploreFrontGridNotFinish	Clear the current location before exploring further
+20072035	InfestorExploreCoreUseIndexError	Autopoiesis Maze add-on unit position error
+20072036	InfestorExploreCoreUnOwned	Autopoiesis Maze does not have this add-on unit
+20072037	InfestorExploreCoreUseRepeated	Add-on unit already equipped
+20072038	InfestorExploreCoreIsUsed	Add-on unit is being equipped
+20072039	InfestorExploreTakeOffIndexError	Grid error while removing add-on unit
+20072040	InfestorExploreTakeOffPosIsEmpty	Grid empty while removing add-on unit
+20072041	InfestorExploreNodeTypeNotMatch	Autopoiesis Maze location type mismatch
+20072042	InfestorExploreFightStageIdNotMatch	Autopoiesis Maze battle stage mismatch
+20072043	InfestorExploreFightStageTeamError	Autopoiesis Maze battle stage team error
+20072044	InfestorExploreBuyFightRewardNotFound	Autopoiesis Maze card-flipping reward does not exist
+20072045	InfestorExploreBuyFightRewardAlreadyBuy	Reward already bought
+20072046	InfestorExploreBuyGoodsNotExist	Item does not exist
+20072047	InfestorExploreBuyGoodsSellout	Item sold out
+20072048	InfestorExploreCanNotChangeCharacter	Cannot change lineup during exploration
+20072049	InfestorExploreCanNotFoundSelectEvent	Selected event does not exist Autopoiesis Maze
+20072050	InfestorExploreRewardGridInfoNotFound	Autopoiesis Maze reward info does not exist
+20072051	InfestorExploreSetRewardIdInvalid	Autopoiesis Maze setting reward ID invalid
+20072052	InfestorExploreSetRewardMsgToLong	Message too long. Please edit it again
+20072053	InfestorExploreMsgInvalid	Message contains sensitive characters. Please try again
+20072054	InfestorExploreBossFightStageIdInvalid	Autopoiesis Maze boss stage ID invalid
+20072055	InfestorExploreCanBuyEventGoodsThisStatus	Cannot purchase overload module item under the current Autopoiesis Maze status
+20072056	InfestorExploreEventShopNotExist	Autopoiesis Maze overload module does not exist
+20072057	InfestorExploreBuyEventGoodsLimit	Item sold out
+20072058	InfestorExploreBuyEventGoodsIdInvalid	Autopoiesis Maze overload module item ID does not exist
+20072059	InfestorExploreLeaveMsgTimeLimit	Sending message too frequently. Please try again later
+20072060	InfestorExploreLeaveMsgChapterNotFound	Message does not exist
+20072061	InfestorExploreLeaveMsgToLong	Message too long. Please edit it again
+20072062	InfestorExploreBfrtCharacterIdError	Autopoiesis Maze strategy simulator dispatched character ID error
+20072063	InfestorUpdateTeamCharacterTypeError	Autopoiesis Maze updated team member type error
+20072064	InfestorUpdateTeamPosTeamIsEmpty	Autopoiesis Maze team position changed. Team does not exist
+20072065	InfestorExploreFightUnknownGridId	Autopoiesis Maze exploration battle location does not exist
+20072066	InfestorExploreFightStageUnMatch	
+20080001	UnionKillActivityNotOpen	Event not yet available
 20080002	UnionKillActivityCfgNotExist	Event settings not found
 20080003	UnionKillSectionIsNotCurSection	Chapter has ended
 20080004	UnionKillSectionCfgNotExist	Chapter settings not found
@@ -1197,7 +1366,7 @@ Id	Key	Text
 20080017	UnionKillFinishBossIsDead	Boss has died
 20080018	UnionKillFinishBossNotDead	Boss is still alive; kill Boss first
 20080019	UnionKillBossNotEnough	Insufficient Boss defeated
-20080020	UnionKillSectionRewardAlreadyGet	Reward Claimed
+20080020	UnionKillSectionRewardAlreadyGet	Reward already claimed
 20080021	UnionKillPreFightShareCardInfoIsNull	Deployed character info empty
 20080022	UnionKillPreFightOneShareInfoIsNull	Single deployed character info not found
 20080023	UnionKillShareCharacterNotExist	Shared deployed character not found
@@ -1213,8 +1382,10 @@ Id	Key	Text
 20080033	UnionKillFightIsOver	Battle over
 20080034	UnionKillPlayerIsFighting	Player is in battle
 20080035	UnionKillOperateFail	Operation failed
-20080036	UnionKillIsMatching	Matchmaking in progress
+20080036	UnionKillIsMatching	Matchmaking...
 20080037	UnionKillTrialStageCanNotUseShareCharacter	Shared character cannot be used in trials
+20080038	UnionKillFightCharacterRepeat	Duplicate character deployed
+20080039	UnionKillFightCardNotEqualShareInfo	Number of deployed characters inconsistent with info
 20081001	DailyLotteryInvalidId	Event ID not found
 20081002	DailyLotteryIdIsClosed	Event is not available yet
 20081003	DailyLotteryDataNotFound	Event data not found
@@ -1225,7 +1396,63 @@ Id	Key	Text
 20081103	FireworksAlreadyFinish	Event is over
 20081104	FireworksNotOpen	Event is not available
 20081105	FireworksTimesIsUpperLimit	You have reached today's event attempts.
-20090001	CollectionScoreNotEnough	
+20090001	CollectionScoreNotEnough	Insufficient collection score
+20091001	EliminateGameNotInTime	Not yet available
+20091002	EliminateGameNotInMove	Cannot move yet
+20091003	EliminateGameNotInFlip	Cannot flip yet
+20091004	EliminateGameGridPosInvalid	Invalid tile
+20091005	EliminateGameGridHadFlip	Tile already flipped
+20091006	EliminateGameInvalidGameId	Invalid game ID
+20091007	EliminateGameInitError	Game initialization error
+20091008	EliminateGameNotExist	Game does not exist
+20091009	EliminateGameRewardNotExist	Reward does not exist
+20091010	EliminateGameRewardNotEnough	Requirement not met
+20091011	EliminateGameRewardHadGet	Reward already claimed
+20091012	EliminateGameTargetIsObstacle	Cannot perform this action on obstacles
+20091013	EliminateGameTooFarAway	Too far
+20091014	EliminateGameNotMove	Please move first
+20092001	SpecialTrainStarNotEnough	Not enough stars gained
+20092002	SpecialTrainRewardHaveGot	Reward already claimed
+20092003	SpecialTrainRewardNotExist	Reward does not exist
+20092004	SpecialTrainRewardCannotFoundChapter	Corresponding chapter not found
+20093001	ChapterExtraPassTimesNotEnough	Not enough extra mission completions
+20093002	ChapterExtraInvalidStageId	Invalid extra mission ID
+20093003	ChapterExtraActivityHideChapterNotOpen	Extra event mission not yet available
+20094001	MarketVoteTokenUrlConnectFail	Connection failed
+20094002	MarketVoteTokenUrlParamError	Token parameter request error
+20094003	MarketVoteTokenUrlServerError	Token service request error
+20094004	MarketVoteTokenUrlSignError	Token signature request error
+20094005	MarketVoteTokenUrlUnknownError	Unknown token request error
+20094006	MarketGetVoteTokenFail	Token request failed
+20095001	BriefStoryIdInvalid	Story ID does not exist
+20095002	BriefStoryIdIsFinished	Story completed
+20097001	PuzzleActivityInvalidId	
+20097002	PuzzleActivityInvalidPieceId	
+20097003	PuzzleActivityPieceAlreadyFilped	
+20097004	PuzzleActivityRewardFailedPieceNotEnough	
+20098001	ClickClearCanNotFindActivityData	Event not yet available
+20098002	ClickClearCanNotFindStageConfig	Stage info not found
+20098003	ClickClearStageLock	Unlock requirement not met
+20098004	ClickClearNotBestRecord	Not the best on record
+20098005	ClickClearRewardAlreadyGot	Already claimed
+20098006	ClickClearNotPass	Corresponding difficulty not completed
+20098007	ClickClearTimeOut	Record timeout
+20140001	SlotMachinesTemplateNotFound	detector settings not found
+20140002	SlotMachinesIconTemplateNotFound	detector symbol settings not found
+20140003	SlotMachinesActivityTemplateCanNotFound	detector event not found
+20140004	SlotMachinesTemplateIconNotFound	detector symbols not found
+20140005	SlotMachinesActivityNotOpen	Event is not available yet
+20140006	SlotMachinesActivityIsNotFound	Event is over
+20140007	SlotMachinesScoreAlreadyFull	Points full
+20140008	SlotMachinesStartConfigNeedPerUnlock	Need to complete the Common Detector before unlocking the Wide-Range Detector
+20140009	SlotMachinesPerDataIsNull	No prerequisite detector data
+20140010	SlotMachinesNeedAchievePerUnlockScore	Points must reach unlock prerequisite
+20140011	SlotMachinesReceiveRewardNotExist	Rewards to claim does not exist
+20140012	SlotMachinesScoreIsNotEnough	Not enough points. Cannot claim.
+20140013	SlotMachinesRewardIsAlreadyReceive	Reward claimed
+20140014	SlotMachinesRockTypeNotFound	detector error
+20140015	SlotMachinesCoinEnoughNotNeedBuy	Enough Cell Battery, no need to purchase
+20140016	SlotMachinesBuyNumNoMatchNeedNum	The quantity purchased don't match the quantity required
 30002001	PlayerNotExist	Player does not exist
 30002002	ServerNodeNotFound	Server not found
 30002003	RequestError	Request error
@@ -1243,33 +1470,16 @@ Id	Key	Text
 40001012	PayUpdateReceiptStatusFail	Failed to refresh the recharge permit
 40001013	PayFirstPayRewardIsGet	1st Recharge reward claimed
 40001014	PayTotalPayMoneyNotEnough	Insufficient total recharge
-40001015	PayOrderAlreadyRefund	
+40001015	PayOrderAlreadyRefund	Recharge order refunded
 40001016	PayUseKeyPlatformError	Failed to pay with the current platform
-40001017	AccumulatedPayIdIsError	Total Recharge ID error
-40001018	AccumulatedPayIdIsNotExist	Total Recharge ID does not exist
+40001017	AccumulatedPayIdIsError	Total recharge ID error
+40001018	AccumulatedPayIdIsNotExist	Total recharge ID does not exist
 40001019	AccumulatedPayIdNotInOpenTime	Total Recharge event is not available yet
 40001020	AccumulatedPayRewardIdIsError	Total Recharge reward ID error
 40001021	AccumulatedPayRewardIdIsNotExist	Total Recharge reward ID does not exist
-40001022	AccumulatePayRewardIdIsGot	Reward Claimed
+40001022	AccumulatePayRewardIdIsGot	Reward already claimed
 40001023	AccumulatePayRewardMoneyNotEnough	Insufficient recharge amount
 40001024	PayUnsupportedTargetType	Payment processing method unsupported
 40001025	PayInvalidPlatformForPay	Payment platform settings invalid
 40001026	PayPlatformPayKeyNotMatch	PayKey mismatched
 40001027	PayModuleNotHandled	Did not perform payment module processing
-20053101	PurchaseExistMutexItem	Already own a conflicting product. Cannot purchase and replace it now.
-20140001	SlotMachinesTemplateNotFound	detector settings not found
-20140002	SlotMachinesIconTemplateNotFound	detector symbol settings not found
-20140003	SlotMachinesActivityTemplateCanNotFound	detector event not found
-20140004	SlotMachinesTemplateIconNotFound	detector symbols not found
-20140005	SlotMachinesActivityNotOpen	Event is not available yet
-20140006	SlotMachinesActivityIsNotFound	Event is over
-20140007	SlotMachinesScoreAlreadyFull	Points full
-20140008	SlotMachinesStartConfigNeedPerUnlock	Need to complete the Common Detector before unlocking the Wide-Range Detector
-20140009	SlotMachinesPerDataIsNull	No prerequisite detector data
-20140010	SlotMachinesNeedAchievePerUnlockScore	Points must reach unlock prerequisite
-20140011	SlotMachinesReceiveRewardNotExist	Rewards to claim does not exist
-20140012	SlotMachinesScoreIsNotEnough	Not enough points. Cannot claim.
-20140013	SlotMachinesRewardIsAlreadyReceive	Reward claimed
-20140014	SlotMachinesRockTypeNotFound	detector error
-20140015	SlotMachinesCoinEnoughNotNeedBuy	Enough Cell Battery, no need to purchase
-20140016	SlotMachinesBuyNumNoMatchNeedNum	The quantity purchased don't match the quantity required

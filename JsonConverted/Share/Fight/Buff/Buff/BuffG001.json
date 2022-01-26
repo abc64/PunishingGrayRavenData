@@ -455,7 +455,7 @@
     {
         "Id": 904575,
         "Delay": 0,
-        "Duration": 10,
+        "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
         "Kind": 9045750,
@@ -464,7 +464,7 @@
     {
         "Id": 904576,
         "Delay": 0,
-        "Duration": 10,
+        "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
         "Kind": 9045760,
@@ -484,13 +484,43 @@
     {
         "Id": 904580,
         "Delay": 0,
-        "Duration": 3,
+        "Duration": "-1",
         "Limit": 1,
         "Cd": 0,
         "Kind": 9045800,
-        "Cover": 9045540,
-        "Mutex": 9045540,
         "Magic": 904580000
+    },
+    {
+        "Id": 904581,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045810,
+        "Cover": "9045800|9045810",
+        "Magic": 904581000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 904582,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045820,
+        "Cover": 9045810,
+        "Magic": 904582000,
+        "TriggerInterval": 1
+    },
+    {
+        "Id": 904583,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 9045830,
+        "Cover": 9045810,
+        "Magic": 904583000
     },
     {
         "Id": 904601,

@@ -10,9 +10,13 @@
             999800010
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -27,9 +31,13 @@
             999800020
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -44,15 +52,20 @@
             999800030
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
     {
         "Id": 99980004,
         "Behavior": 99980004,
+        "Name": "左右走滑步测试关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 25,
@@ -61,9 +74,13 @@
             999800040
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -72,15 +89,19 @@
         "Behavior": 99980005,
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 25,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999800050
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -95,9 +116,13 @@
             999800060
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -107,83 +132,123 @@
         "Name": "摩托车",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 71,
+        "SceneCamera": 74,
         "CameraId": 9,
         "Terrains": [
             300309020
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
     {
         "Id": 99980008,
         "Behavior": 99980008,
+        "Name": "热气球",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            999800080
+            999800080,
+            15010161,
+            15010162
         ],
         "Position": [
+            "0|0|0",
+            61.63,
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            0,
             "0|0|0"
         ]
     },
     {
         "Id": 99980009,
         "Behavior": 99980009,
+        "Name": "过山车1",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            999800090
+            999800090,
+            15010161,
+            15010162
         ],
         "Position": [
+            "0|0|0",
+            61.63,
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            0,
             "0|0|0"
         ]
     },
     {
         "Id": 99980010,
         "Behavior": 99980010,
+        "Name": "过山车2",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            999800100
+            999800100,
+            15010161,
+            15010162
         ],
         "Position": [
+            "0|0|0",
+            61.63,
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            0,
             "0|0|0"
         ]
     },
     {
         "Id": 99980011,
         "Behavior": 99980011,
+        "Name": "热气球",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 23,
         "CameraId": 9,
         "Terrains": [
-            999800110
+            999800110,
+            15010162,
+            15010160
         ],
         "Position": [
-            "0|0|0"
+            "0|0|0",
+            "0|0|0",
+            103.9407
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -198,9 +263,13 @@
             999800120
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
@@ -215,133 +284,35 @@
             999800130
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     },
     {
-        "Id": 99980014,
-        "Behavior": 99980014,
+        "Id": 30031301,
+        "Behavior": 30031301,
+        "Name": "机兵乱斗",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
-            999800140
+            300313010
         ],
         "Position": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ],
         "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99980015,
-        "Behavior": 99980015,
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            999800150
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10120102,
-        "Behavior": 10120102,
-        "Name": "商业区1",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            101201020
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10120109,
-        "Behavior": 10120109,
-        "Name": "商业区2",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            101201090
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10120116,
-        "Behavior": 10120116,
-        "Name": " ",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            101201160
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 10120118,
-        "Behavior": 10120118,
-        "Name": "商业区保护神威",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            101201180
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 11120101,
-        "Behavior": 11120101,
-        "Name": "平民区自控机兵",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 9,
-        "Terrains": [
-            111201010
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
+            "0|0|0",
+            "0|0|0",
             "0|0|0"
         ]
     }

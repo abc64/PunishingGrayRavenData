@@ -254,6 +254,22 @@
         "Desc": "Own Construct Lucia: Plume"
     },
     {
+        "Id": 323,
+        "Type": 10102,
+        "Params": [
+            1131002
+        ],
+        "Desc": "Own Construct Vera: Rozen"
+    },
+    {
+        "Id": 324,
+        "Type": 10102,
+        "Params": [
+            1511003
+        ],
+        "Desc": "Own Transcendant Camu: Crocotta"
+    },
+    {
         "Id": 401,
         "Type": 11105,
         "Params": [
@@ -366,6 +382,14 @@
         "Desc": "Unlocked when Commandant reaches Lv.62"
     },
     {
+        "Id": 8005,
+        "Type": 10101,
+        "Params": [
+            52
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.52"
+    },
+    {
         "Id": 10001,
         "Type": 10101,
         "Params": [
@@ -432,6 +456,14 @@
         "Desc": "No Vanguard-type Constructs"
     },
     {
+        "Id": 10450,
+        "Type": 10105,
+        "Params": [
+            30010405
+        ],
+        "Desc": "Clear Combat Supply AE-5"
+    },
+    {
         "Id": 1001201,
         "Type": 18103,
         "Params": [
@@ -479,7 +511,7 @@
         "Params": [
             25
         ],
-        "Desc": "Requires Construct Lv.25"
+        "Desc": "Requires member Lv.25"
     },
     {
         "Id": 30001,
@@ -1033,12 +1065,20 @@
         "Desc": "Complete Normal Story 12-11"
     },
     {
+        "Id": 100701,
+        "Type": 10105,
+        "Params": [
+            15010120
+        ],
+        "Desc": "Clear Extra Story EX01-20"
+    },
+    {
         "Id": 109000,
         "Type": 13103,
         "Params": [
             2
         ],
-        "Desc": "Construct reaches Lv.2"
+        "Desc": "Member reaches Lv.2"
     },
     {
         "Id": 110000,
@@ -1046,7 +1086,7 @@
         "Params": [
             10
         ],
-        "Desc": "Construct reaches Lv.10"
+        "Desc": "Member reaches Lv.10"
     },
     {
         "Id": 110001,
@@ -1054,7 +1094,7 @@
         "Params": [
             20
         ],
-        "Desc": "Construct reaches Lv.20"
+        "Desc": "Member reaches Lv.20"
     },
     {
         "Id": 110002,
@@ -1062,7 +1102,7 @@
         "Params": [
             30
         ],
-        "Desc": "Construct reaches Lv.30"
+        "Desc": "Member reaches Lv.30"
     },
     {
         "Id": 110003,
@@ -1070,7 +1110,7 @@
         "Params": [
             40
         ],
-        "Desc": "Construct reaches Lv.40"
+        "Desc": "Member reaches Lv.40"
     },
     {
         "Id": 110004,
@@ -1078,7 +1118,7 @@
         "Params": [
             45
         ],
-        "Desc": "Construct reaches Lv.45"
+        "Desc": "Member reaches Lv.45"
     },
     {
         "Id": 110005,
@@ -1086,7 +1126,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct reaches Lv.50"
+        "Desc": "Member reaches Lv.50"
     },
     {
         "Id": 110006,
@@ -1094,7 +1134,7 @@
         "Params": [
             55
         ],
-        "Desc": "Construct reaches Lv.55"
+        "Desc": "Member reaches Lv.55"
     },
     {
         "Id": 110007,
@@ -1102,7 +1142,7 @@
         "Params": [
             60
         ],
-        "Desc": "Construct reaches Lv.60"
+        "Desc": "Member reaches Lv.60"
     },
     {
         "Id": 110008,
@@ -1110,7 +1150,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct reaches Lv.65"
+        "Desc": "Member reaches Lv.65"
     },
     {
         "Id": 110009,
@@ -1118,7 +1158,7 @@
         "Params": [
             70
         ],
-        "Desc": "Construct reaches Lv.70"
+        "Desc": "Member reaches Lv.70"
     },
     {
         "Id": 110010,
@@ -1126,7 +1166,7 @@
         "Params": [
             75
         ],
-        "Desc": "Construct reaches Lv.75"
+        "Desc": "Member reaches Lv.75"
     },
     {
         "Id": 110011,
@@ -1134,7 +1174,15 @@
         "Params": [
             80
         ],
-        "Desc": "Construct reaches Lv.80"
+        "Desc": "Member reaches Lv.80"
+    },
+    {
+        "Id": 120000,
+        "Type": 10101,
+        "Params": [
+            200
+        ],
+        "Desc": "Event is not available yet."
     },
     {
         "Id": 200000,
@@ -1293,7 +1341,7 @@
             10,
             1
         ],
-        "Desc": "Have 1 Lv.10 Construct in the team"
+        "Desc": "Have 1 Lv.10 member in the team"
     },
     {
         "Id": 40001,
@@ -1302,7 +1350,7 @@
             20,
             2
         ],
-        "Desc": "Have 2 Lv.20 Constructs in the team"
+        "Desc": "Have 2 Lv.20 members in the team"
     },
     {
         "Id": 40002,
@@ -1311,7 +1359,7 @@
             30,
             3
         ],
-        "Desc": "Have 3 Lv.30 Constructs in the team"
+        "Desc": "Have 3 Lv.30 members in the team"
     },
     {
         "Id": 40003,
@@ -1320,7 +1368,7 @@
             40,
             1
         ],
-        "Desc": "Have 1 Lv.40 Construct in the team"
+        "Desc": "Have 1 Lv.40 member in the team"
     },
     {
         "Id": 40004,
@@ -1329,7 +1377,7 @@
             50,
             2
         ],
-        "Desc": "Have 2 Lv.50 Constructs in the team"
+        "Desc": "Have 2 Lv.50 members in the team"
     },
     {
         "Id": 40005,
@@ -1338,7 +1386,7 @@
             60,
             3
         ],
-        "Desc": "Have 3 Lv.60 Constructs in the team"
+        "Desc": "Have 3 Lv.60 members in the team"
     },
     {
         "Id": 40006,
@@ -1347,7 +1395,7 @@
             10,
             1
         ],
-        "Desc": "Have 1 Lv.10 Construct in the team"
+        "Desc": "Have 1 Lv.10 member in the team"
     },
     {
         "Id": 40007,
@@ -1356,7 +1404,7 @@
             20,
             2
         ],
-        "Desc": "Have 2 Lv.20 Constructs in the team"
+        "Desc": "Have 2 Lv.20 members in the team"
     },
     {
         "Id": 40008,
@@ -1365,7 +1413,7 @@
             30,
             3
         ],
-        "Desc": "Have 3 Lv.30 Constructs in the team"
+        "Desc": "Have 3 Lv.30 members in the team"
     },
     {
         "Id": 40009,
@@ -1374,7 +1422,7 @@
             40,
             1
         ],
-        "Desc": "Have 1 Lv.40 Construct in the team"
+        "Desc": "Have 1 Lv.40 member in the team"
     },
     {
         "Id": 40010,
@@ -1383,7 +1431,7 @@
             50,
             2
         ],
-        "Desc": "Have 2 Lv.50 Constructs in the team"
+        "Desc": "Have 2 Lv.50 members in the team"
     },
     {
         "Id": 40011,
@@ -1392,7 +1440,7 @@
             60,
             3
         ],
-        "Desc": "Have 3 Lv.60 Constructs in the team"
+        "Desc": "Have 3 Lv.60 members in the team"
     },
     {
         "Id": 40012,
@@ -1545,7 +1593,7 @@
             10,
             2
         ],
-        "Desc": "Requires Construct Lv.10"
+        "Desc": "Requires member Lv.10"
     },
     {
         "Id": 40029,
@@ -1554,7 +1602,7 @@
             20,
             2
         ],
-        "Desc": "Requires Construct Lv.20"
+        "Desc": "Requires member Lv.20"
     },
     {
         "Id": 40030,
@@ -1563,7 +1611,7 @@
             30,
             2
         ],
-        "Desc": "Requires Construct Lv.30"
+        "Desc": "Requires member Lv.30"
     },
     {
         "Id": 40031,
@@ -1572,7 +1620,7 @@
             40,
             2
         ],
-        "Desc": "Requires Construct Lv.40"
+        "Desc": "Requires member Lv.40"
     },
     {
         "Id": 40032,
@@ -1581,7 +1629,7 @@
             50,
             2
         ],
-        "Desc": "Requires Construct Lv.50"
+        "Desc": "Requires member Lv.50"
     },
     {
         "Id": 40033,
@@ -1590,7 +1638,7 @@
             60,
             2
         ],
-        "Desc": "Requires Construct Lv.60"
+        "Desc": "Requires member Lv.60"
     },
     {
         "Id": 40034,
@@ -1599,7 +1647,7 @@
             70,
             2
         ],
-        "Desc": "Requires Construct Lv.70"
+        "Desc": "Requires member Lv.70"
     },
     {
         "Id": 40035,
@@ -1608,7 +1656,7 @@
             80,
             2
         ],
-        "Desc": "Requires Construct Lv.80"
+        "Desc": "Requires member Lv.80"
     },
     {
         "Id": 40036,
@@ -1805,7 +1853,7 @@
         "Params": [
             5
         ],
-        "Desc": "Construct reaches Lv.5"
+        "Desc": "Member reaches Lv.5"
     },
     {
         "Id": 50001,
@@ -1813,7 +1861,7 @@
         "Params": [
             10
         ],
-        "Desc": "Construct reaches Lv.10"
+        "Desc": "Member reaches Lv.10"
     },
     {
         "Id": 50002,
@@ -1821,7 +1869,7 @@
         "Params": [
             15
         ],
-        "Desc": "Construct reaches Lv.15"
+        "Desc": "Member reaches Lv.15"
     },
     {
         "Id": 50003,
@@ -1829,7 +1877,7 @@
         "Params": [
             20
         ],
-        "Desc": "Construct reaches Lv.20"
+        "Desc": "Member reaches Lv.20"
     },
     {
         "Id": 50004,
@@ -1837,7 +1885,7 @@
         "Params": [
             25
         ],
-        "Desc": "Construct reaches Lv.25"
+        "Desc": "Member reaches Lv.25"
     },
     {
         "Id": 50005,
@@ -1845,7 +1893,7 @@
         "Params": [
             30
         ],
-        "Desc": "Construct reaches Lv.30"
+        "Desc": "Member reaches Lv.30"
     },
     {
         "Id": 50006,
@@ -1853,7 +1901,7 @@
         "Params": [
             35
         ],
-        "Desc": "Construct reaches Lv.35"
+        "Desc": "Member reaches Lv.35"
     },
     {
         "Id": 50007,
@@ -1861,7 +1909,7 @@
         "Params": [
             40
         ],
-        "Desc": "Construct reaches Lv.40"
+        "Desc": "Member reaches Lv.40"
     },
     {
         "Id": 50008,
@@ -1869,7 +1917,7 @@
         "Params": [
             45
         ],
-        "Desc": "Construct reaches Lv.45"
+        "Desc": "Member reaches Lv.45"
     },
     {
         "Id": 50009,
@@ -1877,7 +1925,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct reaches Lv.50"
+        "Desc": "Member reaches Lv.50"
     },
     {
         "Id": 50010,
@@ -1885,7 +1933,7 @@
         "Params": [
             55
         ],
-        "Desc": "Construct reaches Lv.55"
+        "Desc": "Member reaches Lv.55"
     },
     {
         "Id": 50011,
@@ -1893,7 +1941,7 @@
         "Params": [
             60
         ],
-        "Desc": "Construct reaches Lv.60"
+        "Desc": "Member reaches Lv.60"
     },
     {
         "Id": 50012,
@@ -1901,7 +1949,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct reaches Lv.65"
+        "Desc": "Member reaches Lv.65"
     },
     {
         "Id": 50013,
@@ -1909,7 +1957,7 @@
         "Params": [
             70
         ],
-        "Desc": "Construct reaches Lv.70"
+        "Desc": "Member reaches Lv.70"
     },
     {
         "Id": 50014,
@@ -1917,7 +1965,7 @@
         "Params": [
             75
         ],
-        "Desc": "Construct reaches Lv.75"
+        "Desc": "Member reaches Lv.75"
     },
     {
         "Id": 50015,
@@ -1925,7 +1973,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct reaches Lv.80"
+        "Desc": "Member reaches Lv.80"
     },
     {
         "Id": 1001,
@@ -3294,6 +3342,22 @@
         "Desc": "Unlock Lucia: Plume to open"
     },
     {
+        "Id": 6108,
+        "Type": 10102,
+        "Params": [
+            1131002
+        ],
+        "Desc": "Unlock Vera: Rozen to open"
+    },
+    {
+        "Id": 6109,
+        "Type": 10102,
+        "Params": [
+            1511003
+        ],
+        "Desc": "Unlock Camu: Crocotta to open"
+    },
+    {
         "Id": 18108001,
         "Type": 18108,
         "Params": [
@@ -4352,7 +4416,7 @@
         "Params": [
             1
         ],
-        "Desc": "Construct reaches Lv.1"
+        "Desc": "Member reaches Lv.1"
     },
     {
         "Id": 60001,
@@ -4360,7 +4424,7 @@
         "Params": [
             10
         ],
-        "Desc": "Construct reaches Lv.10"
+        "Desc": "Member reaches Lv.10"
     },
     {
         "Id": 60002,
@@ -4368,7 +4432,7 @@
         "Params": [
             14
         ],
-        "Desc": "Construct reaches Lv.14"
+        "Desc": "Member reaches Lv.14"
     },
     {
         "Id": 60003,
@@ -4376,7 +4440,7 @@
         "Params": [
             18
         ],
-        "Desc": "Construct reaches Lv.18"
+        "Desc": "Member reaches Lv.18"
     },
     {
         "Id": 60004,
@@ -4384,7 +4448,7 @@
         "Params": [
             22
         ],
-        "Desc": "Construct reaches Lv.22"
+        "Desc": "Member reaches Lv.22"
     },
     {
         "Id": 60005,
@@ -4392,7 +4456,7 @@
         "Params": [
             26
         ],
-        "Desc": "Construct reaches Lv.26"
+        "Desc": "Member reaches Lv.26"
     },
     {
         "Id": 60006,
@@ -4400,7 +4464,7 @@
         "Params": [
             30
         ],
-        "Desc": "Construct reaches Lv.30"
+        "Desc": "Member reaches Lv.30"
     },
     {
         "Id": 60007,
@@ -4408,7 +4472,7 @@
         "Params": [
             34
         ],
-        "Desc": "Construct reaches Lv.34"
+        "Desc": "Member reaches Lv.34"
     },
     {
         "Id": 60008,
@@ -4416,7 +4480,7 @@
         "Params": [
             38
         ],
-        "Desc": "Construct reaches Lv.38"
+        "Desc": "Member reaches Lv.38"
     },
     {
         "Id": 60009,
@@ -4424,7 +4488,7 @@
         "Params": [
             42
         ],
-        "Desc": "Construct reaches Lv.42"
+        "Desc": "Member reaches Lv.42"
     },
     {
         "Id": 60010,
@@ -4432,7 +4496,7 @@
         "Params": [
             46
         ],
-        "Desc": "Construct reaches Lv.46"
+        "Desc": "Member reaches Lv.46"
     },
     {
         "Id": 60011,
@@ -4440,7 +4504,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct reaches Lv.50"
+        "Desc": "Member reaches Lv.50"
     },
     {
         "Id": 60012,
@@ -4448,7 +4512,7 @@
         "Params": [
             54
         ],
-        "Desc": "Construct reaches Lv.54"
+        "Desc": "Member reaches Lv.54"
     },
     {
         "Id": 60013,
@@ -4456,7 +4520,7 @@
         "Params": [
             58
         ],
-        "Desc": "Construct reaches Lv.58"
+        "Desc": "Member reaches Lv.58"
     },
     {
         "Id": 60014,
@@ -4464,7 +4528,7 @@
         "Params": [
             62
         ],
-        "Desc": "Construct reaches Lv.62"
+        "Desc": "Member reaches Lv.62"
     },
     {
         "Id": 60015,
@@ -4472,7 +4536,7 @@
         "Params": [
             66
         ],
-        "Desc": "Construct reaches Lv.66"
+        "Desc": "Member reaches Lv.66"
     },
     {
         "Id": 60016,
@@ -4480,7 +4544,7 @@
         "Params": [
             70
         ],
-        "Desc": "Construct reaches Lv.70"
+        "Desc": "Member reaches Lv.70"
     },
     {
         "Id": 60017,
@@ -4488,7 +4552,7 @@
         "Params": [
             74
         ],
-        "Desc": "Construct reaches Lv.74"
+        "Desc": "Member reaches Lv.74"
     },
     {
         "Id": 60100,
@@ -4496,7 +4560,7 @@
         "Params": [
             1
         ],
-        "Desc": "Construct reaches Lv.1"
+        "Desc": "Member reaches Lv.1"
     },
     {
         "Id": 60101,
@@ -4504,7 +4568,7 @@
         "Params": [
             12
         ],
-        "Desc": "Construct reaches Lv.12"
+        "Desc": "Member reaches Lv.12"
     },
     {
         "Id": 60102,
@@ -4512,7 +4576,7 @@
         "Params": [
             16
         ],
-        "Desc": "Construct reaches Lv.16"
+        "Desc": "Member reaches Lv.16"
     },
     {
         "Id": 60103,
@@ -4520,7 +4584,7 @@
         "Params": [
             20
         ],
-        "Desc": "Construct reaches Lv.20"
+        "Desc": "Member reaches Lv.20"
     },
     {
         "Id": 60104,
@@ -4528,7 +4592,7 @@
         "Params": [
             24
         ],
-        "Desc": "Construct reaches Lv.24"
+        "Desc": "Member reaches Lv.24"
     },
     {
         "Id": 60105,
@@ -4536,7 +4600,7 @@
         "Params": [
             28
         ],
-        "Desc": "Construct reaches Lv.28"
+        "Desc": "Member reaches Lv.28"
     },
     {
         "Id": 60106,
@@ -4544,7 +4608,7 @@
         "Params": [
             32
         ],
-        "Desc": "Construct reaches Lv.32"
+        "Desc": "Member reaches Lv.32"
     },
     {
         "Id": 60107,
@@ -4552,7 +4616,7 @@
         "Params": [
             36
         ],
-        "Desc": "Construct reaches Lv.36"
+        "Desc": "Member reaches Lv.36"
     },
     {
         "Id": 60108,
@@ -4560,7 +4624,7 @@
         "Params": [
             40
         ],
-        "Desc": "Construct reaches Lv.40"
+        "Desc": "Member reaches Lv.40"
     },
     {
         "Id": 60109,
@@ -4568,7 +4632,7 @@
         "Params": [
             44
         ],
-        "Desc": "Construct reaches Lv.44"
+        "Desc": "Member reaches Lv.44"
     },
     {
         "Id": 60110,
@@ -4576,7 +4640,7 @@
         "Params": [
             48
         ],
-        "Desc": "Construct reaches Lv.48"
+        "Desc": "Member reaches Lv.48"
     },
     {
         "Id": 60111,
@@ -4584,7 +4648,7 @@
         "Params": [
             52
         ],
-        "Desc": "Construct reaches Lv.52"
+        "Desc": "Member reaches Lv.52"
     },
     {
         "Id": 60112,
@@ -4592,7 +4656,7 @@
         "Params": [
             56
         ],
-        "Desc": "Construct reaches Lv.56"
+        "Desc": "Member reaches Lv.56"
     },
     {
         "Id": 60113,
@@ -4600,7 +4664,7 @@
         "Params": [
             60
         ],
-        "Desc": "Construct reaches Lv.60"
+        "Desc": "Member reaches Lv.60"
     },
     {
         "Id": 60114,
@@ -4608,7 +4672,7 @@
         "Params": [
             64
         ],
-        "Desc": "Construct reaches Lv.64"
+        "Desc": "Member reaches Lv.64"
     },
     {
         "Id": 60115,
@@ -4616,7 +4680,7 @@
         "Params": [
             68
         ],
-        "Desc": "Construct reaches Lv.68"
+        "Desc": "Member reaches Lv.68"
     },
     {
         "Id": 60116,
@@ -4624,7 +4688,7 @@
         "Params": [
             72
         ],
-        "Desc": "Construct reaches Lv.72"
+        "Desc": "Member reaches Lv.72"
     },
     {
         "Id": 60117,
@@ -4632,7 +4696,7 @@
         "Params": [
             76
         ],
-        "Desc": "Construct reaches Lv.76"
+        "Desc": "Member reaches Lv.76"
     },
     {
         "Id": 60200,
@@ -4640,7 +4704,7 @@
         "Params": [
             1
         ],
-        "Desc": "Construct reaches Lv.1"
+        "Desc": "Member reaches Lv.1"
     },
     {
         "Id": 60201,
@@ -4648,7 +4712,7 @@
         "Params": [
             14
         ],
-        "Desc": "Construct reaches Lv.14"
+        "Desc": "Member reaches Lv.14"
     },
     {
         "Id": 60202,
@@ -4656,7 +4720,7 @@
         "Params": [
             18
         ],
-        "Desc": "Construct reaches Lv.18"
+        "Desc": "Member reaches Lv.18"
     },
     {
         "Id": 60203,
@@ -4664,7 +4728,7 @@
         "Params": [
             22
         ],
-        "Desc": "Construct reaches Lv.22"
+        "Desc": "Member reaches Lv.22"
     },
     {
         "Id": 60204,
@@ -4672,7 +4736,7 @@
         "Params": [
             26
         ],
-        "Desc": "Construct reaches Lv.26"
+        "Desc": "Member reaches Lv.26"
     },
     {
         "Id": 60205,
@@ -4680,7 +4744,7 @@
         "Params": [
             30
         ],
-        "Desc": "Construct reaches Lv.30"
+        "Desc": "Member reaches Lv.30"
     },
     {
         "Id": 60206,
@@ -4688,7 +4752,7 @@
         "Params": [
             34
         ],
-        "Desc": "Construct reaches Lv.34"
+        "Desc": "Member reaches Lv.34"
     },
     {
         "Id": 60207,
@@ -4696,7 +4760,7 @@
         "Params": [
             38
         ],
-        "Desc": "Construct reaches Lv.38"
+        "Desc": "Member reaches Lv.38"
     },
     {
         "Id": 60208,
@@ -4704,7 +4768,7 @@
         "Params": [
             42
         ],
-        "Desc": "Construct reaches Lv.42"
+        "Desc": "Member reaches Lv.42"
     },
     {
         "Id": 60209,
@@ -4712,7 +4776,7 @@
         "Params": [
             46
         ],
-        "Desc": "Construct reaches Lv.46"
+        "Desc": "Member reaches Lv.46"
     },
     {
         "Id": 60210,
@@ -4720,7 +4784,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct reaches Lv.50"
+        "Desc": "Member reaches Lv.50"
     },
     {
         "Id": 60211,
@@ -4728,7 +4792,7 @@
         "Params": [
             54
         ],
-        "Desc": "Construct reaches Lv.54"
+        "Desc": "Member reaches Lv.54"
     },
     {
         "Id": 60212,
@@ -4736,7 +4800,7 @@
         "Params": [
             58
         ],
-        "Desc": "Construct reaches Lv.58"
+        "Desc": "Member reaches Lv.58"
     },
     {
         "Id": 60213,
@@ -4744,7 +4808,7 @@
         "Params": [
             62
         ],
-        "Desc": "Construct reaches Lv.62"
+        "Desc": "Member reaches Lv.62"
     },
     {
         "Id": 60214,
@@ -4752,7 +4816,7 @@
         "Params": [
             66
         ],
-        "Desc": "Construct reaches Lv.66"
+        "Desc": "Member reaches Lv.66"
     },
     {
         "Id": 60215,
@@ -4760,7 +4824,7 @@
         "Params": [
             70
         ],
-        "Desc": "Construct reaches Lv.70"
+        "Desc": "Member reaches Lv.70"
     },
     {
         "Id": 60216,
@@ -4768,7 +4832,7 @@
         "Params": [
             74
         ],
-        "Desc": "Construct reaches Lv.74"
+        "Desc": "Member reaches Lv.74"
     },
     {
         "Id": 60217,
@@ -4776,7 +4840,7 @@
         "Params": [
             78
         ],
-        "Desc": "Construct reaches Lv.78"
+        "Desc": "Member reaches Lv.78"
     },
     {
         "Id": 60300,
@@ -4784,7 +4848,7 @@
         "Params": [
             1
         ],
-        "Desc": "Construct reaches Lv.1"
+        "Desc": "Member reaches Lv.1"
     },
     {
         "Id": 60301,
@@ -4928,7 +4992,7 @@
         "Params": [
             16
         ],
-        "Desc": "Construct reaches Lv.16"
+        "Desc": "Member reaches Lv.16"
     },
     {
         "Id": 60502,
@@ -4936,7 +5000,7 @@
         "Params": [
             20
         ],
-        "Desc": "Construct reaches Lv.20"
+        "Desc": "Member reaches Lv.20"
     },
     {
         "Id": 60503,
@@ -4944,7 +5008,7 @@
         "Params": [
             24
         ],
-        "Desc": "Construct reaches Lv.24"
+        "Desc": "Member reaches Lv.24"
     },
     {
         "Id": 60504,
@@ -4952,7 +5016,7 @@
         "Params": [
             28
         ],
-        "Desc": "Construct reaches Lv.28"
+        "Desc": "Member reaches Lv.28"
     },
     {
         "Id": 60505,
@@ -4960,7 +5024,7 @@
         "Params": [
             32
         ],
-        "Desc": "Construct reaches Lv.32"
+        "Desc": "Member reaches Lv.32"
     },
     {
         "Id": 60506,
@@ -4968,7 +5032,7 @@
         "Params": [
             36
         ],
-        "Desc": "Construct reaches Lv.36"
+        "Desc": "Member reaches Lv.36"
     },
     {
         "Id": 60507,
@@ -4976,7 +5040,7 @@
         "Params": [
             40
         ],
-        "Desc": "Construct reaches Lv.40"
+        "Desc": "Member reaches Lv.40"
     },
     {
         "Id": 60508,
@@ -4984,7 +5048,7 @@
         "Params": [
             44
         ],
-        "Desc": "Construct reaches Lv.44"
+        "Desc": "Member reaches Lv.44"
     },
     {
         "Id": 60509,
@@ -4992,7 +5056,7 @@
         "Params": [
             48
         ],
-        "Desc": "Construct reaches Lv.48"
+        "Desc": "Member reaches Lv.48"
     },
     {
         "Id": 60510,
@@ -5000,7 +5064,7 @@
         "Params": [
             52
         ],
-        "Desc": "Construct reaches Lv.52"
+        "Desc": "Member reaches Lv.52"
     },
     {
         "Id": 60511,
@@ -5008,7 +5072,7 @@
         "Params": [
             56
         ],
-        "Desc": "Construct reaches Lv.56"
+        "Desc": "Member reaches Lv.56"
     },
     {
         "Id": 60512,
@@ -5016,7 +5080,7 @@
         "Params": [
             60
         ],
-        "Desc": "Construct reaches Lv.60"
+        "Desc": "Member reaches Lv.60"
     },
     {
         "Id": 60513,
@@ -5024,7 +5088,7 @@
         "Params": [
             64
         ],
-        "Desc": "Construct reaches Lv.64"
+        "Desc": "Member reaches Lv.64"
     },
     {
         "Id": 60514,
@@ -5032,7 +5096,7 @@
         "Params": [
             68
         ],
-        "Desc": "Construct reaches Lv.68"
+        "Desc": "Member reaches Lv.68"
     },
     {
         "Id": 60515,
@@ -5040,7 +5104,7 @@
         "Params": [
             72
         ],
-        "Desc": "Construct reaches Lv.72"
+        "Desc": "Member reaches Lv.72"
     },
     {
         "Id": 60516,
@@ -5048,7 +5112,7 @@
         "Params": [
             76
         ],
-        "Desc": "Construct reaches Lv.76"
+        "Desc": "Member reaches Lv.76"
     },
     {
         "Id": 60517,
@@ -5056,7 +5120,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct reaches Lv.80"
+        "Desc": "Member reaches Lv.80"
     },
     {
         "Id": 60400,
@@ -5255,6 +5319,24 @@
             4
         ],
         "Desc": "Awaken Plume's Ultima Rank"
+    },
+    {
+        "Id": 60422,
+        "Type": 11102,
+        "Params": [
+            1131002,
+            4
+        ],
+        "Desc": "Awaken Rozen's Ultima Rank"
+    },
+    {
+        "Id": 60423,
+        "Type": 11102,
+        "Params": [
+            1511003,
+            4
+        ],
+        "Desc": "Awaken Crocotta's Ultima Rank"
     },
     {
         "Id": 61001,
@@ -5888,6 +5970,14 @@
         "Desc": "Complete Normal Story 3-5 to unlock"
     },
     {
+        "Id": 770710,
+        "Type": 10105,
+        "Params": [
+            10040201
+        ],
+        "Desc": "Complete Normal Story 4-5 to unlock"
+    },
+    {
         "Id": 770800,
         "Type": 10101,
         "Params": [
@@ -6036,7 +6126,7 @@
         "Id": 772270,
         "Type": 10101,
         "Params": [
-            20
+            40
         ],
         "Desc": "Unlocked when Commandant reaches Lv.20"
     },
@@ -6063,6 +6153,14 @@
             1
         ],
         "Desc": "Unlocked when Commandant reaches Lv.1"
+    },
+    {
+        "Id": 772310,
+        "Type": 10101,
+        "Params": [
+            40
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.40"
     },
     {
         "Id": 772400,
@@ -6564,6 +6662,13 @@
         ]
     },
     {
+        "Id": 852731,
+        "Type": 10105,
+        "Params": [
+            10040201
+        ]
+    },
+    {
         "Id": 852801,
         "Type": 10105,
         "Params": [
@@ -6582,6 +6687,20 @@
         "Type": 10105,
         "Params": [
             10060304
+        ]
+    },
+    {
+        "Id": 852961,
+        "Type": 10101,
+        "Params": [
+            52
+        ]
+    },
+    {
+        "Id": 852991,
+        "Type": 10105,
+        "Params": [
+            30010405
         ]
     },
     {
@@ -8638,7 +8757,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061002,
@@ -8646,7 +8765,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061003,
@@ -8654,7 +8773,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061004,
@@ -8662,7 +8781,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061005,
@@ -8670,7 +8789,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061006,
@@ -8678,7 +8797,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061007,
@@ -8686,7 +8805,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061008,
@@ -8694,7 +8813,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061009,
@@ -8702,7 +8821,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061010,
@@ -8710,7 +8829,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061011,
@@ -8718,7 +8837,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061012,
@@ -8726,7 +8845,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061013,
@@ -8734,7 +8853,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061014,
@@ -8742,7 +8861,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061015,
@@ -8750,7 +8869,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061016,
@@ -8758,7 +8877,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061017,
@@ -8766,7 +8885,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061018,
@@ -8774,7 +8893,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061019,
@@ -8782,7 +8901,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061020,
@@ -8790,7 +8909,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061021,
@@ -8798,7 +8917,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061022,
@@ -8806,7 +8925,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061023,
@@ -8814,7 +8933,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061024,
@@ -8822,7 +8941,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061025,
@@ -8830,7 +8949,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061026,
@@ -8838,7 +8957,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061027,
@@ -8846,7 +8965,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061028,
@@ -8854,7 +8973,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061029,
@@ -8862,7 +8981,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061030,
@@ -8870,7 +8989,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061031,
@@ -8878,7 +8997,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061032,
@@ -8886,7 +9005,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061033,
@@ -8894,7 +9013,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061034,
@@ -8902,7 +9021,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061035,
@@ -8910,7 +9029,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061036,
@@ -8918,7 +9037,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061037,
@@ -8926,7 +9045,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061038,
@@ -8934,7 +9053,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061039,
@@ -8942,7 +9061,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061040,
@@ -8950,7 +9069,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061041,
@@ -8958,7 +9077,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061042,
@@ -8966,7 +9085,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061043,
@@ -8974,7 +9093,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061044,
@@ -8982,7 +9101,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061045,
@@ -8990,7 +9109,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061046,
@@ -8998,7 +9117,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061047,
@@ -9006,7 +9125,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061048,
@@ -9014,7 +9133,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061049,
@@ -9022,7 +9141,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061050,
@@ -9030,7 +9149,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061051,
@@ -9038,7 +9157,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061052,
@@ -9046,7 +9165,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061053,
@@ -9054,7 +9173,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061054,
@@ -9062,7 +9181,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061055,
@@ -9070,7 +9189,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061056,
@@ -9078,7 +9197,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061057,
@@ -9086,7 +9205,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061058,
@@ -9094,7 +9213,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061059,
@@ -9102,7 +9221,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061060,
@@ -9110,7 +9229,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061061,
@@ -9118,7 +9237,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061062,
@@ -9126,7 +9245,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061063,
@@ -9134,7 +9253,7 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40061064,
@@ -9142,7 +9261,7 @@
         "Params": [
             50
         ],
-        "Desc": "Construct Lv.50"
+        "Desc": "Member Lv.50"
     },
     {
         "Id": 40061065,
@@ -9150,7 +9269,7 @@
         "Params": [
             65
         ],
-        "Desc": "Construct Lv.65"
+        "Desc": "Member Lv.65"
     },
     {
         "Id": 40061066,
@@ -9158,7 +9277,55 @@
         "Params": [
             80
         ],
-        "Desc": "Construct Lv.80"
+        "Desc": "Member Lv.80"
+    },
+    {
+        "Id": 40061067,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Member Lv.50"
+    },
+    {
+        "Id": 40061068,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Member Lv.65"
+    },
+    {
+        "Id": 40061069,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Member Lv.80"
+    },
+    {
+        "Id": 40061070,
+        "Type": 13103,
+        "Params": [
+            50
+        ],
+        "Desc": "Member Lv.50"
+    },
+    {
+        "Id": 40061071,
+        "Type": 13103,
+        "Params": [
+            65
+        ],
+        "Desc": "Member Lv.65"
+    },
+    {
+        "Id": 40061072,
+        "Type": 13103,
+        "Params": [
+            80
+        ],
+        "Desc": "Member Lv.80"
     },
     {
         "Id": 40062001,
@@ -9166,7 +9333,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062002,
@@ -9174,7 +9341,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062003,
@@ -9182,7 +9349,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062004,
@@ -9190,7 +9357,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062005,
@@ -9198,7 +9365,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062006,
@@ -9206,7 +9373,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062007,
@@ -9214,7 +9381,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062008,
@@ -9222,7 +9389,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062009,
@@ -9230,7 +9397,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062010,
@@ -9238,7 +9405,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062011,
@@ -9246,7 +9413,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062012,
@@ -9254,7 +9421,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062013,
@@ -9262,7 +9429,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062014,
@@ -9270,7 +9437,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062015,
@@ -9278,7 +9445,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062016,
@@ -9286,7 +9453,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062017,
@@ -9294,7 +9461,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062018,
@@ -9302,7 +9469,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062019,
@@ -9310,7 +9477,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062020,
@@ -9318,7 +9485,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062021,
@@ -9326,7 +9493,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062022,
@@ -9334,7 +9501,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062023,
@@ -9342,7 +9509,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062024,
@@ -9350,7 +9517,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062025,
@@ -9358,7 +9525,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062026,
@@ -9366,7 +9533,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062027,
@@ -9374,7 +9541,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062028,
@@ -9382,7 +9549,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062029,
@@ -9390,7 +9557,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062030,
@@ -9398,7 +9565,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062031,
@@ -9406,7 +9573,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062032,
@@ -9414,7 +9581,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062033,
@@ -9422,7 +9589,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062034,
@@ -9430,7 +9597,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062035,
@@ -9438,7 +9605,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062036,
@@ -9446,7 +9613,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062037,
@@ -9454,7 +9621,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062038,
@@ -9462,7 +9629,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062039,
@@ -9470,7 +9637,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062040,
@@ -9478,7 +9645,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062041,
@@ -9486,7 +9653,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062042,
@@ -9494,7 +9661,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062043,
@@ -9502,7 +9669,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062044,
@@ -9510,7 +9677,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062045,
@@ -9518,7 +9685,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062046,
@@ -9526,7 +9693,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062047,
@@ -9534,7 +9701,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062048,
@@ -9542,7 +9709,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062049,
@@ -9550,7 +9717,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062050,
@@ -9558,7 +9725,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062051,
@@ -9566,7 +9733,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062052,
@@ -9574,7 +9741,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062053,
@@ -9582,7 +9749,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062054,
@@ -9590,7 +9757,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062055,
@@ -9598,7 +9765,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062056,
@@ -9606,7 +9773,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062057,
@@ -9614,7 +9781,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062058,
@@ -9622,7 +9789,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062059,
@@ -9630,7 +9797,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062060,
@@ -9638,7 +9805,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062061,
@@ -9646,7 +9813,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062062,
@@ -9654,7 +9821,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062063,
@@ -9662,7 +9829,7 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40062064,
@@ -9670,7 +9837,7 @@
         "Params": [
             2500
         ],
-        "Desc": "Construct reaches 2500 BP"
+        "Desc": "Member reaches 2500 BP"
     },
     {
         "Id": 40062065,
@@ -9678,7 +9845,7 @@
         "Params": [
             4000
         ],
-        "Desc": "Construct reaches 4000 BP"
+        "Desc": "Member reaches 4000 BP"
     },
     {
         "Id": 40062066,
@@ -9686,7 +9853,55 @@
         "Params": [
             5500
         ],
-        "Desc": "Construct reaches 5500 BP"
+        "Desc": "Member reaches 5500 BP"
+    },
+    {
+        "Id": 40062067,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Member reaches 2500 BP"
+    },
+    {
+        "Id": 40062068,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Member reaches 4000 BP"
+    },
+    {
+        "Id": 40062069,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Member reaches 5500 BP"
+    },
+    {
+        "Id": 40062070,
+        "Type": 13108,
+        "Params": [
+            2500
+        ],
+        "Desc": "Member reaches 2500 BP"
+    },
+    {
+        "Id": 40062071,
+        "Type": 13108,
+        "Params": [
+            4000
+        ],
+        "Desc": "Member reaches 4000 BP"
+    },
+    {
+        "Id": 40062072,
+        "Type": 13108,
+        "Params": [
+            5500
+        ],
+        "Desc": "Member reaches 5500 BP"
     },
     {
         "Id": 40063001,
@@ -9887,12 +10102,27 @@
         "Desc": "Equip 6★ Resonance Skills * 12"
     },
     {
+        "Id": 40063023,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
+        "Id": 40063024,
+        "Type": 13109,
+        "Params": [
+            6,
+            12
+        ],
+        "Desc": "Equip 6★ Resonance Skills * 12"
+    },
+    {
         "Id": 40006313,
         "Type": 21101,
-        "Params": [
-            2,
-            83028
-        ],
+        "Params": [],
         "Desc": "Claim Monthly Pass?"
     },
     {
@@ -10481,10 +10711,10 @@
         "Id": 30000101,
         "Type": 18111,
         "Params": [
-            2,
+            1,
             2
         ],
-        "Desc": "Deploy at least 2 Constructs"
+        "Desc": "Deploy at least 1 member"
     },
     {
         "Id": 30000102,
@@ -10777,6 +11007,22 @@
         "Desc": "Unlock Construct - Lucia: Plume"
     },
     {
+        "Id": 30100823,
+        "Type": 10102,
+        "Params": [
+            1511003
+        ],
+        "Desc": "Unlock Corrupted - Camu: Crocotta"
+    },
+    {
+        "Id": 30100824,
+        "Type": 10102,
+        "Params": [
+            1131002
+        ],
+        "Desc": "Unlock Construct - Vera: Rozen"
+    },
+    {
         "Id": 555,
         "Type": 10110,
         "Params": [
@@ -10858,6 +11104,16 @@
     },
     {
         "Id": 602,
+        "Type": 11107,
+        "Params": [
+            1,
+            6,
+            3
+        ],
+        "Desc": "Ask if player has a rank S or higher Construct at SSS+ rank"
+    },
+    {
+        "Id": 603,
         "Type": 11107,
         "Params": [
             1,
@@ -11040,7 +11296,7 @@
         "Params": [
             6310107
         ],
-        "Desc": "所持済の塗装です"
+        "Desc": "Coating owned"
     },
     {
         "Id": 6210304,
@@ -11104,7 +11360,7 @@
         "Params": [
             6710105
         ],
-        "Desc": "所持済の塗装です"
+        "Desc": "Coating owned"
     },
     {
         "Id": 6410302,
@@ -11171,10 +11427,58 @@
         "Desc": "Coating owned"
     },
     {
+        "Id": 6000304,
+        "Type": 11105,
+        "Params": [
+            6000304
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6000404,
+        "Type": 11105,
+        "Params": [
+            6000404
+        ],
+        "Desc": "Coating owned"
+    },
+    {
         "Id": 6210404,
         "Type": 11105,
         "Params": [
             6210404
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6310306,
+        "Type": 11105,
+        "Params": [
+            6310306
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6110306,
+        "Type": 11105,
+        "Params": [
+            6110306
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6710306,
+        "Type": 11105,
+        "Params": [
+            6710306
+        ],
+        "Desc": "Coating owned"
+    },
+    {
+        "Id": 6210306,
+        "Type": 11105,
+        "Params": [
+            6210306
         ],
         "Desc": "Coating owned"
     },
@@ -11494,7 +11798,9 @@
             1081003,
             1091002,
             1011003,
-            1121002
+            1121002,
+            1021004,
+            1131002
         ],
         "Desc": "Deploy a Melee-Type Construct"
     },
@@ -11514,7 +11820,9 @@
             1081003,
             1041003,
             1111002,
-            1121002
+            1121002,
+            1021004,
+            1131002
         ],
         "Desc": "Deploy a Construct with Elemental Stats"
     },
@@ -11552,6 +11860,15 @@
         "Desc": "Deploy 3 Constructs"
     },
     {
+        "Id": 410010,
+        "Type": 18112,
+        "Params": [
+            2,
+            1
+        ],
+        "Desc": "Deploy 1 Transcendant"
+    },
+    {
         "Id": 7100,
         "Type": 13113,
         "Params": [
@@ -11584,7 +11901,8 @@
         "Type": 13113,
         "Params": [
             1021001,
-            1021002
+            1021002,
+            1021004
         ],
         "Desc": "Valentine's Message: Lucia"
     },
@@ -11601,7 +11919,8 @@
         "Id": 7105,
         "Type": 13113,
         "Params": [
-            1041002
+            1041002,
+            1041003
         ],
         "Desc": "Valentine's Message: Bianca"
     },
@@ -12251,6 +12570,47 @@
         "Desc": "Unlocks after overclocking a Memory of a set 4 times"
     },
     {
+        "Id": 812001,
+        "Type": 11104,
+        "Params": [
+            6410305
+        ],
+        "Desc": "Unlocks from owning the Coating \"Ink-Lit Hermit\""
+    },
+    {
+        "Id": 812002,
+        "Type": 11104,
+        "Params": [
+            6210404
+        ],
+        "Desc": "Unlocks from owning the Coating \"Eventide Glow\""
+    },
+    {
+        "Id": 812003,
+        "Type": 11104,
+        "Params": [
+            6110306
+        ],
+        "Desc": "Unlocks from owning the Coating \"Oceanic Blues\""
+    },
+    {
+        "Id": 812004,
+        "Type": 11104,
+        "Params": [
+            6310306
+        ],
+        "Desc": "Unlocks from owning the Coating \"Puella Subnautica\""
+    },
+    {
+        "Id": 812005,
+        "Type": 11114,
+        "Params": [
+            6710306,
+            6210306
+        ],
+        "Desc": "Unlocks from owning the Coating \"Tulle Redbud\" or \"Seaside Sunbath\""
+    },
+    {
         "Id": 841001,
         "Type": 10105,
         "Params": [
@@ -12638,6 +12998,129 @@
             1012
         ],
         "Desc": "Unlocks after clearing Stronghold Chapter 12"
+    },
+    {
+        "Id": 850010,
+        "Type": 10111,
+        "Params": [
+            13319
+        ],
+        "Desc": "Required to complete \"Ether Tower II\" Mission"
+    },
+    {
+        "Id": 850011,
+        "Type": 10111,
+        "Params": [
+            13320
+        ],
+        "Desc": "Required to complete \"Ether Tower III\" Mission"
+    },
+    {
+        "Id": 850012,
+        "Type": 10111,
+        "Params": [
+            13321
+        ],
+        "Desc": "Required to complete \"Ether Tower IV\" Mission"
+    },
+    {
+        "Id": 850013,
+        "Type": 15105,
+        "Params": [
+            20000505,
+            1
+        ],
+        "Desc": "Clear Co-op [Event] Gabriel Overclock - Easy"
+    },
+    {
+        "Id": 850014,
+        "Type": 15105,
+        "Params": [
+            20000505,
+            2
+        ],
+        "Desc": "Clear Co-op [Event] Gabriel Overclock - Elite"
+    },
+    {
+        "Id": 850015,
+        "Type": 15105,
+        "Params": [
+            20000505,
+            3
+        ],
+        "Desc": "Clear Co-op [Event] Gabriel Overclock - Nightmare"
+    },
+    {
+        "Id": 850016,
+        "Type": 10112,
+        "Params": [
+            6,
+            2
+        ],
+        "Desc": "Get 11 stars from Park Parade stages"
+    },
+    {
+        "Id": 850017,
+        "Type": 10112,
+        "Params": [
+            6,
+            3
+        ],
+        "Desc": "Get 13 stars from Park Parade stages"
+    },
+    {
+        "Id": 850018,
+        "Type": 10112,
+        "Params": [
+            6,
+            4
+        ],
+        "Desc": "Get 15 stars from Park Parade stages"
+    },
+    {
+        "Id": 850019,
+        "Type": 15105,
+        "Params": [
+            20000504,
+            1
+        ],
+        "Desc": "Clear Co-op [Event] Gabriel Berserk - Easy"
+    },
+    {
+        "Id": 850020,
+        "Type": 10113,
+        "Params": [
+            20000504,
+            20000505
+        ],
+        "Desc": "Clear Co-op [Event] Gabriel in Berserk or higher difficulty"
+    },
+    {
+        "Id": 850021,
+        "Type": 15103,
+        "Params": [
+            13000600,
+            5250
+        ],
+        "Desc": "\"Siege Recorder\" reaches Lv.6"
+    },
+    {
+        "Id": 850022,
+        "Type": 15103,
+        "Params": [
+            13000600,
+            22750
+        ],
+        "Desc": "\"Siege Recorder\" reaches Lv.11"
+    },
+    {
+        "Id": 850023,
+        "Type": 15103,
+        "Params": [
+            13000600,
+            47750
+        ],
+        "Desc": "\"Siege Recorder\" reaches Lv.16"
     },
     {
         "Id": 84100101,
@@ -13917,7 +14400,7 @@
         "Params": [
             11010101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 1-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 1-1"
     },
     {
         "Id": 84200102,
@@ -13925,7 +14408,7 @@
         "Params": [
             11010102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 1-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 1-2"
     },
     {
         "Id": 84200106,
@@ -13933,7 +14416,7 @@
         "Params": [
             11010106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 1-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 1-6"
     },
     {
         "Id": 84200201,
@@ -13941,7 +14424,7 @@
         "Params": [
             11020101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 2-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 2-1"
     },
     {
         "Id": 84200202,
@@ -13949,7 +14432,7 @@
         "Params": [
             11020102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 2-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 2-2"
     },
     {
         "Id": 84200203,
@@ -13957,7 +14440,7 @@
         "Params": [
             11020103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 2-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 2-3"
     },
     {
         "Id": 84200206,
@@ -13965,7 +14448,7 @@
         "Params": [
             11020106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 2-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 2-6"
     },
     {
         "Id": 84200301,
@@ -13973,7 +14456,7 @@
         "Params": [
             11030101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 3-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 3-1"
     },
     {
         "Id": 84200302,
@@ -13981,7 +14464,7 @@
         "Params": [
             11030102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 3-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 3-2"
     },
     {
         "Id": 84200303,
@@ -13989,7 +14472,7 @@
         "Params": [
             11030103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 3-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 3-3"
     },
     {
         "Id": 84200304,
@@ -13997,7 +14480,7 @@
         "Params": [
             11030104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 3-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 3-4"
     },
     {
         "Id": 84200306,
@@ -14005,7 +14488,7 @@
         "Params": [
             11030106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 3-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 3-6"
     },
     {
         "Id": 84200401,
@@ -14013,7 +14496,7 @@
         "Params": [
             11040101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-1"
     },
     {
         "Id": 84200402,
@@ -14021,7 +14504,7 @@
         "Params": [
             11040102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-2"
     },
     {
         "Id": 84200403,
@@ -14029,7 +14512,7 @@
         "Params": [
             11040103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-3"
     },
     {
         "Id": 84200404,
@@ -14037,7 +14520,7 @@
         "Params": [
             11040104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-4"
     },
     {
         "Id": 84200405,
@@ -14045,7 +14528,7 @@
         "Params": [
             11040105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-5"
     },
     {
         "Id": 84200406,
@@ -14053,7 +14536,7 @@
         "Params": [
             11040106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 4-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 4-6"
     },
     {
         "Id": 84200501,
@@ -14061,7 +14544,7 @@
         "Params": [
             11050101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-1"
     },
     {
         "Id": 84200502,
@@ -14069,7 +14552,7 @@
         "Params": [
             11050102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-2"
     },
     {
         "Id": 84200503,
@@ -14077,7 +14560,7 @@
         "Params": [
             11050103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-3"
     },
     {
         "Id": 84200504,
@@ -14085,7 +14568,7 @@
         "Params": [
             11050104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-4"
     },
     {
         "Id": 84200505,
@@ -14093,7 +14576,7 @@
         "Params": [
             11050105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-5"
     },
     {
         "Id": 84200506,
@@ -14101,7 +14584,7 @@
         "Params": [
             11050106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 5-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 5-6"
     },
     {
         "Id": 84200601,
@@ -14109,7 +14592,7 @@
         "Params": [
             11060101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-1"
     },
     {
         "Id": 84200602,
@@ -14117,7 +14600,7 @@
         "Params": [
             11060102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-2"
     },
     {
         "Id": 84200603,
@@ -14125,7 +14608,7 @@
         "Params": [
             11060103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-3"
     },
     {
         "Id": 84200604,
@@ -14133,7 +14616,7 @@
         "Params": [
             11060104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-4"
     },
     {
         "Id": 84200605,
@@ -14141,7 +14624,7 @@
         "Params": [
             11060105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-5"
     },
     {
         "Id": 84200606,
@@ -14149,7 +14632,7 @@
         "Params": [
             11060106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 6-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 6-6"
     },
     {
         "Id": 84200701,
@@ -14157,7 +14640,7 @@
         "Params": [
             11070101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-1"
     },
     {
         "Id": 84200702,
@@ -14165,7 +14648,7 @@
         "Params": [
             11070102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-2"
     },
     {
         "Id": 84200703,
@@ -14173,7 +14656,7 @@
         "Params": [
             11070103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-3"
     },
     {
         "Id": 84200704,
@@ -14181,7 +14664,7 @@
         "Params": [
             11070104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-4"
     },
     {
         "Id": 84200705,
@@ -14189,7 +14672,7 @@
         "Params": [
             11070105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-5"
     },
     {
         "Id": 84200706,
@@ -14197,7 +14680,7 @@
         "Params": [
             11070106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 7-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 7-6"
     },
     {
         "Id": 84200801,
@@ -14205,7 +14688,7 @@
         "Params": [
             11080101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-1"
     },
     {
         "Id": 84200802,
@@ -14213,7 +14696,7 @@
         "Params": [
             11080102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-2"
     },
     {
         "Id": 84200803,
@@ -14221,7 +14704,7 @@
         "Params": [
             11080103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-3"
     },
     {
         "Id": 84200804,
@@ -14229,7 +14712,7 @@
         "Params": [
             11080104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-4"
     },
     {
         "Id": 84200805,
@@ -14237,7 +14720,7 @@
         "Params": [
             11080105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-5"
     },
     {
         "Id": 84200806,
@@ -14245,7 +14728,7 @@
         "Params": [
             11080106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 8-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 8-6"
     },
     {
         "Id": 84200901,
@@ -14253,7 +14736,7 @@
         "Params": [
             11090101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 9-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 9-1"
     },
     {
         "Id": 84200902,
@@ -14261,7 +14744,7 @@
         "Params": [
             11090102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 9-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 9-2"
     },
     {
         "Id": 84200903,
@@ -14269,7 +14752,7 @@
         "Params": [
             11090103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 9-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 9-3"
     },
     {
         "Id": 84201001,
@@ -14277,7 +14760,7 @@
         "Params": [
             11100101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-1"
     },
     {
         "Id": 84201002,
@@ -14285,7 +14768,7 @@
         "Params": [
             11100102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-2"
     },
     {
         "Id": 84201003,
@@ -14293,7 +14776,7 @@
         "Params": [
             11100103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-3"
     },
     {
         "Id": 84201004,
@@ -14301,7 +14784,7 @@
         "Params": [
             11100104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-4"
     },
     {
         "Id": 84201005,
@@ -14309,7 +14792,7 @@
         "Params": [
             11100105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-5"
     },
     {
         "Id": 84201006,
@@ -14317,7 +14800,7 @@
         "Params": [
             11100106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 10-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 10-6"
     },
     {
         "Id": 84201100,
@@ -14325,7 +14808,7 @@
         "Params": [
             11110100
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-1"
     },
     {
         "Id": 84201101,
@@ -14333,7 +14816,7 @@
         "Params": [
             11110101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-1"
     },
     {
         "Id": 84201102,
@@ -14341,7 +14824,7 @@
         "Params": [
             11110102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-2"
     },
     {
         "Id": 84201103,
@@ -14349,7 +14832,7 @@
         "Params": [
             11110105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-3"
     },
     {
         "Id": 84201104,
@@ -14357,7 +14840,7 @@
         "Params": [
             11110103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-4"
     },
     {
         "Id": 84201105,
@@ -14365,7 +14848,7 @@
         "Params": [
             11110104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 11-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 11-5"
     },
     {
         "Id": 84201201,
@@ -14373,7 +14856,7 @@
         "Params": [
             11120101
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-1"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-1"
     },
     {
         "Id": 84201202,
@@ -14381,7 +14864,7 @@
         "Params": [
             11120102
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-2"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-2"
     },
     {
         "Id": 84201203,
@@ -14389,7 +14872,7 @@
         "Params": [
             11120103
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-3"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-3"
     },
     {
         "Id": 84201204,
@@ -14397,7 +14880,7 @@
         "Params": [
             11120104
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-4"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-4"
     },
     {
         "Id": 84201205,
@@ -14405,7 +14888,7 @@
         "Params": [
             11120105
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-5"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-5"
     },
     {
         "Id": 84201206,
@@ -14413,7 +14896,7 @@
         "Params": [
             11120106
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-6"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-6"
     },
     {
         "Id": 84201207,
@@ -14421,7 +14904,7 @@
         "Params": [
             11120107
         ],
-        "Desc": "Unlocks after clearing Hidden Story 12-7"
+        "Desc": "Unlocks after clearing Main Hidden Story 12-7"
     },
     {
         "Id": 84301001,
@@ -15320,6 +15803,118 @@
         "Desc": "Unlocks after clearing Interlude \"Flawless\" Hidden Stage"
     },
     {
+        "Id": 84312011,
+        "Type": 10105,
+        "Params": [
+            13011711
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 1"
+    },
+    {
+        "Id": 84312012,
+        "Type": 10105,
+        "Params": [
+            13011712
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 2"
+    },
+    {
+        "Id": 84312013,
+        "Type": 10105,
+        "Params": [
+            13011713
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 3"
+    },
+    {
+        "Id": 84312014,
+        "Type": 10105,
+        "Params": [
+            13011714
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 4"
+    },
+    {
+        "Id": 84312015,
+        "Type": 10105,
+        "Params": [
+            13011715
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 5"
+    },
+    {
+        "Id": 84312016,
+        "Type": 10105,
+        "Params": [
+            13011716
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 6"
+    },
+    {
+        "Id": 84312017,
+        "Type": 10105,
+        "Params": [
+            13011720
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Hidden Stage"
+    },
+    {
+        "Id": 84313011,
+        "Type": 10105,
+        "Params": [
+            13011811
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Valkyrie\" Stage 1"
+    },
+    {
+        "Id": 84313012,
+        "Type": 10105,
+        "Params": [
+            13011812
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Stage 2"
+    },
+    {
+        "Id": 84313013,
+        "Type": 10105,
+        "Params": [
+            13011813
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Stage 3"
+    },
+    {
+        "Id": 84313014,
+        "Type": 10105,
+        "Params": [
+            13011814
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Stage 4"
+    },
+    {
+        "Id": 84313015,
+        "Type": 10105,
+        "Params": [
+            13011815
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Stage 5"
+    },
+    {
+        "Id": 84313016,
+        "Type": 10105,
+        "Params": [
+            13011816
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Stage 6"
+    },
+    {
+        "Id": 84313017,
+        "Type": 10105,
+        "Params": [
+            13011820
+        ],
+        "Desc": "Unlocks after clearing Interlude \"Like Shadow\" Hidden Stage"
+    },
+    {
         "Id": 84400101,
         "Type": 10105,
         "Params": [
@@ -15920,6 +16515,230 @@
         "Desc": "Unlocks after clearing Border Pact \"Cape Nohama Air Base\" Area"
     },
     {
+        "Id": 84800101,
+        "Type": 10105,
+        "Params": [
+            15010101
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-1"
+    },
+    {
+        "Id": 84800102,
+        "Type": 10105,
+        "Params": [
+            15010102
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-2"
+    },
+    {
+        "Id": 84800103,
+        "Type": 10105,
+        "Params": [
+            15010103
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-3"
+    },
+    {
+        "Id": 84800104,
+        "Type": 10105,
+        "Params": [
+            15010104
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-4"
+    },
+    {
+        "Id": 84800105,
+        "Type": 10105,
+        "Params": [
+            15010105
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-5"
+    },
+    {
+        "Id": 84800106,
+        "Type": 10105,
+        "Params": [
+            15010106
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-6"
+    },
+    {
+        "Id": 84800107,
+        "Type": 10105,
+        "Params": [
+            15010107
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-7"
+    },
+    {
+        "Id": 84800108,
+        "Type": 10105,
+        "Params": [
+            15010108
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-8"
+    },
+    {
+        "Id": 84800109,
+        "Type": 10105,
+        "Params": [
+            15010109
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-9"
+    },
+    {
+        "Id": 84800110,
+        "Type": 10105,
+        "Params": [
+            15010110
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-10"
+    },
+    {
+        "Id": 84800111,
+        "Type": 10105,
+        "Params": [
+            15010111
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-11"
+    },
+    {
+        "Id": 84800112,
+        "Type": 10105,
+        "Params": [
+            15010112
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-12"
+    },
+    {
+        "Id": 84800113,
+        "Type": 10105,
+        "Params": [
+            15010113
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-13"
+    },
+    {
+        "Id": 84800114,
+        "Type": 10105,
+        "Params": [
+            15010114
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-14"
+    },
+    {
+        "Id": 84800115,
+        "Type": 10105,
+        "Params": [
+            15010115
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-15"
+    },
+    {
+        "Id": 84800116,
+        "Type": 10105,
+        "Params": [
+            15010116
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-16"
+    },
+    {
+        "Id": 84800117,
+        "Type": 10105,
+        "Params": [
+            15010117
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-17"
+    },
+    {
+        "Id": 84800118,
+        "Type": 10105,
+        "Params": [
+            15010118
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-18"
+    },
+    {
+        "Id": 84800119,
+        "Type": 10105,
+        "Params": [
+            15010119
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-19"
+    },
+    {
+        "Id": 84800120,
+        "Type": 10105,
+        "Params": [
+            15010120
+        ],
+        "Desc": "Unlocks after clearing Extra Story EX01-20"
+    },
+    {
+        "Id": 84900101,
+        "Type": 10105,
+        "Params": [
+            16010101
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-1"
+    },
+    {
+        "Id": 84900102,
+        "Type": 10105,
+        "Params": [
+            16010102
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-2"
+    },
+    {
+        "Id": 84900103,
+        "Type": 10105,
+        "Params": [
+            16010103
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-3"
+    },
+    {
+        "Id": 84900104,
+        "Type": 10105,
+        "Params": [
+            16010104
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-4"
+    },
+    {
+        "Id": 84900105,
+        "Type": 10105,
+        "Params": [
+            16010105
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-5"
+    },
+    {
+        "Id": 84900106,
+        "Type": 10105,
+        "Params": [
+            16010106
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-6"
+    },
+    {
+        "Id": 84900107,
+        "Type": 10105,
+        "Params": [
+            16010107
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-7"
+    },
+    {
+        "Id": 84900108,
+        "Type": 10105,
+        "Params": [
+            16010108
+        ],
+        "Desc": "Unlocks after clearing Extra Hidden Story EX01-8"
+    },
+    {
         "Id": 84600101,
         "Type": 10105,
         "Params": [
@@ -16040,6 +16859,86 @@
         "Desc": "Unlocks after clearing 80 locations in Path of Stars"
     },
     {
+        "Id": 84600120,
+        "Type": 11111,
+        "Params": [
+            16
+        ],
+        "Desc": "Unlocks after clearing 16 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600121,
+        "Type": 11111,
+        "Params": [
+            32
+        ],
+        "Desc": "Unlocks after clearing 32 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600122,
+        "Type": 11111,
+        "Params": [
+            48
+        ],
+        "Desc": "Unlocks after clearing 48 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600123,
+        "Type": 11111,
+        "Params": [
+            64
+        ],
+        "Desc": "Unlocks after clearing 64 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600124,
+        "Type": 11111,
+        "Params": [
+            80
+        ],
+        "Desc": "Unlocks after clearing 80 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600125,
+        "Type": 11111,
+        "Params": [
+            96
+        ],
+        "Desc": "Unlocks after clearing 96 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600126,
+        "Type": 11111,
+        "Params": [
+            112
+        ],
+        "Desc": "Unlocks after clearing 112 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600127,
+        "Type": 11111,
+        "Params": [
+            128
+        ],
+        "Desc": "Unlocks after clearing 128 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600128,
+        "Type": 11111,
+        "Params": [
+            144
+        ],
+        "Desc": "Unlocks after clearing 144 nodes in Legend of the Executor - GR"
+    },
+    {
+        "Id": 84600129,
+        "Type": 11111,
+        "Params": [
+            160
+        ],
+        "Desc": "Unlocks after clearing 160 nodes in Legend of the Executor - GR"
+    },
+    {
         "Id": 84600201,
         "Type": 15106,
         "Params": [
@@ -16069,7 +16968,7 @@
         "Params": [
             30130401
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 1"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 1"
     },
     {
         "Id": 84600312,
@@ -16077,7 +16976,7 @@
         "Params": [
             30130402
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 2"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 2"
     },
     {
         "Id": 84600313,
@@ -16085,7 +16984,7 @@
         "Params": [
             30130403
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 3"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 3"
     },
     {
         "Id": 84600314,
@@ -16093,7 +16992,7 @@
         "Params": [
             30130404
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 4"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 4"
     },
     {
         "Id": 84600315,
@@ -16101,7 +17000,7 @@
         "Params": [
             30130405
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 5"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 5"
     },
     {
         "Id": 84600316,
@@ -16109,7 +17008,7 @@
         "Params": [
             30130406
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 6"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 6"
     },
     {
         "Id": 84600317,
@@ -16117,7 +17016,7 @@
         "Params": [
             30130407
         ],
-        "Desc": "Unlocks after clearing \"Summer Game\" Event Stage 7"
+        "Desc": "Unlocks after clearing \"Summer Pockets\" Event Stage 7"
     },
     {
         "Id": 84600401,
@@ -16176,6 +17075,38 @@
         "Desc": "Unlocks after clearing \"Unforgotten Holiday\" Event Stage 7"
     },
     {
+        "Id": 84600501,
+        "Type": 11110,
+        "Params": [
+            1
+        ],
+        "Desc": "Unlocks  after clearing Babel Tower: Theme Park once (at least at Lv.1)"
+    },
+    {
+        "Id": 84600601,
+        "Type": 10105,
+        "Params": [
+            30130702
+        ],
+        "Desc": "Unlocks after clearing East General's Find and Tag challenge"
+    },
+    {
+        "Id": 84600602,
+        "Type": 10105,
+        "Params": [
+            30130703
+        ],
+        "Desc": "Unlocks after clearing South General's Find and Tag challenge"
+    },
+    {
+        "Id": 84600603,
+        "Type": 10105,
+        "Params": [
+            30130704
+        ],
+        "Desc": "Unlocks after clearing West General's Find and Tag challenge"
+    },
+    {
         "Id": 84700101,
         "Type": 15104,
         "Params": [
@@ -16222,6 +17153,14 @@
             12070001
         ],
         "Desc": "Own Weapon Coating [Firecrackers]"
+    },
+    {
+        "Id": 84700201,
+        "Type": 10101,
+        "Params": [
+            52
+        ],
+        "Desc": "Unlocked when Commandant reaches Lv.52"
     },
     {
         "Id": 900000001,
@@ -16343,5 +17282,37 @@
             30130109
         ],
         "Desc": "Unlocks after clearing \"Night on Christmas\" Event Stage 9"
+    },
+    {
+        "Id": 96000010,
+        "Type": 13113,
+        "Params": [
+            1121002
+        ],
+        "Desc": "EN1.13情人节库洛姆通讯"
+    },
+    {
+        "Id": 96000011,
+        "Type": 13113,
+        "Params": [
+            1111002
+        ],
+        "Desc": "EN1.13情人节苏菲亚通讯"
+    },
+    {
+        "Id": 96000012,
+        "Type": 13113,
+        "Params": [
+            1131002
+        ],
+        "Desc": "EN1.13情人节薇拉通讯"
+    },
+    {
+        "Id": 96000013,
+        "Type": 13113,
+        "Params": [
+            1511003
+        ],
+        "Desc": "EN1.13情人节卡穆通讯"
     }
 ]

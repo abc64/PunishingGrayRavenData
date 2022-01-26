@@ -1,14 +1,12 @@
 [
     {
-        "Id": 50000,
+        "Id": 1001,
         "LastSectionId": 3001,
-        "Activity": 1,
         "Weight": 100,
         "DifficultType": 1,
         "StageId": 20000101,
         "ModelId": "Mb1OsirisMd000001",
         "NpcPic": "RoleStory.bossonline01",
-        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene2.prefab",
         "CameraSetting": [
             "UiFubenOnlineBoss2_1",
             "UiFubenOnlineBoss2_2",
@@ -31,15 +29,13 @@
         ]
     },
     {
-        "Id": 50001,
+        "Id": 1002,
         "LastSectionId": 6001,
-        "Activity": 1,
         "Weight": 100,
         "DifficultType": 2,
         "StageId": 20000102,
         "ModelId": "Mb1OsirisMd000001",
         "NpcPic": "RoleStory.bossonline01",
-        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene2.prefab",
         "CameraSetting": [
             "UiFubenOnlineBoss2_1",
             "UiFubenOnlineBoss2_2",
@@ -62,15 +58,13 @@
         ]
     },
     {
-        "Id": 50002,
+        "Id": 1003,
         "LastSectionId": 9001,
-        "Activity": 1,
         "Weight": 100,
         "DifficultType": 3,
         "StageId": 20000103,
         "ModelId": "Mb1OsirisMd000001",
         "NpcPic": "RoleStory.bossonline01",
-        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene2.prefab",
         "CameraSetting": [
             "UiFubenOnlineBoss2_1",
             "UiFubenOnlineBoss2_2",
@@ -93,15 +87,13 @@
         ]
     },
     {
-        "Id": 50003,
+        "Id": 1004,
         "LastSectionId": 12001,
-        "Activity": 1,
         "Weight": 100,
         "DifficultType": 4,
         "StageId": 20000104,
         "ModelId": "Mb1OsirisMd000001",
         "NpcPic": "RoleStory.bossonline01",
-        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene2.prefab",
         "CameraSetting": [
             "UiFubenOnlineBoss2_1",
             "UiFubenOnlineBoss2_2",
@@ -123,43 +115,6 @@
             "Osiris summons the Eye of Punishment, which will fire a laser beam when fully charged. Damage taken by the Eye of Punishment is greatly reduced when Super Armor and Shield are active.",
             "Osiris summons a sandstorm, <color=#ff5656>which draws in nearby enemies</color>.",
             "Legends say that Osiris can summon the Eye of Judgment, bringing about the end of the world when it is fully charged."
-        ]
-    },
-    {
-        "Id": 50004,
-        "LastSectionId": 12001,
-        "Activity": 1,
-        "Weight": 100,
-        "DifficultType": 5,
-        "StageId": 20000105,
-        "ModelId": "Mb1OsirisMd000001",
-        "NpcPic": "RoleStory.bossonline01",
-        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene2.prefab",
-        "CameraSetting": [
-            "UiFubenOnlineBoss2_1",
-            "UiFubenOnlineBoss2_2",
-            "UiFubenOnlineBoss2_3"
-        ],
-        "Description": [
-            "Fight a battle with a team of [Close-range Tank, Attacker, Support]",
-            "Draw Osiris' attention and destroy the Eye of Punishment",
-            "<color=#ff5656>Warning: Large Corrupted. HIGH RISK.</color>"
-        ],
-        "SkillName": [
-            "Emperor",
-            "Punish",
-            "Sand Explosion",
-            "Overclock - Judgment",
-            "Sunfire",
-            "Sandstorm"
-        ],
-        "SkillDes": [
-            "Osiris attacks the nearest enemy.",
-            "Osiris summons the Eye of Punishment, which will fire a laser beam when fully charged. Damage taken by the Eye of Punishment is greatly reduced when Super Armor and Shield are active.",
-            "Osiris blows up the sand under the enemies. <color=#ff5656>Being hit by the sand explosion will accelerate the charging progress of Eye of Judgment</color>!",
-            "Osiris summons the Eye of Judgment. <color=#ff5656>Once the Eye of Judgment is fully charged, it will cast \"Sunfire\"</color>!",
-            "Sunfire blasts all the enemies and leaves the ground burning.",
-            "Osiris summons a sandstorm, <color=#ff5656>which draws in nearby enemies</color>."
         ]
     },
     {
@@ -371,6 +326,187 @@
             "Rosetta switches to attack mode, increasing mobility and attack power.",
             "Rosetta increases her energy output, greatly increasing attack speed.",
             "\"It is said that the Polar Storm leaves behind ion fields on the ground, which create energy clones of Rosetta. One must use their own body to destabilize the ion fields on the ground.\""
+        ]
+    },
+    {
+        "Id": 50000,
+        "LastSectionId": 3001,
+        "Activity": 1,
+        "Weight": 100,
+        "DifficultType": 1,
+        "StageId": 20000501,
+        "ModelId": "Mb1JiabailieMd000002",
+        "NpcPic": "RoleStory.bossonline01",
+        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene3.prefab",
+        "CameraSetting": [
+            "UiFubenOnlineBoss2_1",
+            "UiFubenOnlineBoss2_2",
+            "UiFubenOnlineBoss2_3"
+        ],
+        "Description": [
+            "Fight a battle with a team of [Tank, Attacker, Support]",
+            "Beware of Gabriel's gravitational field",
+            "Mass-produced Gabriel"
+        ],
+        "SkillName": [
+            "Mass-produced",
+            "Gravitational Trap",
+            "Laser Cannon"
+        ],
+        "SkillDes": [
+            "Some combat modules are chopped for mass production.",
+            "Gabriel smites the ground to create a gravitational field. Enemies inside cannot act.",
+            "Gabriel uses a laser cannon to strafe the targets ahead."
+        ]
+    },
+    {
+        "Id": 50001,
+        "LastSectionId": 6001,
+        "Activity": 1,
+        "Weight": 100,
+        "DifficultType": 2,
+        "StageId": 20000502,
+        "ModelId": "Mb1JiabailieMd000002",
+        "NpcPic": "RoleStory.bossonline01",
+        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene3.prefab",
+        "CameraSetting": [
+            "UiFubenOnlineBoss2_1",
+            "UiFubenOnlineBoss2_2",
+            "UiFubenOnlineBoss2_3"
+        ],
+        "Description": [
+            "Fight a battle with a team of [Tank, Attacker, Support]",
+            "Beware of Gabriel's gravitational field",
+            "Mass-produced Gabriel"
+        ],
+        "SkillName": [
+            "Mass-produced",
+            "Gravitational Trap",
+            "Laser Cannon"
+        ],
+        "SkillDes": [
+            "Some combat modules are chopped for mass production.",
+            "Gabriel smites the ground to create a gravitational field. Enemies inside cannot act.",
+            "Gabriel uses a laser cannon to strafe the targets ahead."
+        ]
+    },
+    {
+        "Id": 50002,
+        "LastSectionId": 9001,
+        "Activity": 1,
+        "Weight": 100,
+        "DifficultType": 3,
+        "StageId": 20000503,
+        "ModelId": "Mb1JiabailieMd000002",
+        "NpcPic": "RoleStory.bossonline01",
+        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene3.prefab",
+        "CameraSetting": [
+            "UiFubenOnlineBoss2_1",
+            "UiFubenOnlineBoss2_2",
+            "UiFubenOnlineBoss2_3"
+        ],
+        "Description": [
+            "Fight a battle with a team of [Tank, Attacker, Support]",
+            "Beware of Gabriel's gravitational field",
+            "Mass-produced Gabriel"
+        ],
+        "SkillName": [
+            "Mass-produced",
+            "Gravitational Trap",
+            "Laser Cannon"
+        ],
+        "SkillDes": [
+            "Some combat modules are chopped for mass production.",
+            "Gabriel smites the ground to create a gravitational field. Enemies inside cannot act.",
+            "Gabriel uses a laser cannon to strafe the targets ahead."
+        ]
+    },
+    {
+        "Id": 50003,
+        "LastSectionId": 12001,
+        "Activity": 1,
+        "Weight": 100,
+        "DifficultType": 4,
+        "StageId": 20000504,
+        "ModelId": "Mb1JiabailieMd000002",
+        "NpcPic": "RoleStory.bossonline01",
+        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene3.prefab",
+        "CameraSetting": [
+            "UiFubenOnlineBoss2_1",
+            "UiFubenOnlineBoss2_2",
+            "UiFubenOnlineBoss2_3"
+        ],
+        "Description": [
+            "Fight a battle with a team of [Tank, Attacker, Support]",
+            "Beware of Gabriel's gravitational field",
+            "Mass-produced Gabriel"
+        ],
+        "SkillName": [
+            "Mass-produced",
+            "Gravitational Trap",
+            "Laser Cannon",
+            "Terror-Antares",
+            "Terror-Roaming Star",
+            "Terror-Falling Meteor",
+            "Terror-Annihilation Storm",
+            "Terror-Habitable Zone",
+            "Terror-Roche Circle",
+            "Terror-Three Body Problem"
+        ],
+        "SkillDes": [
+            "Some combat modules are chopped for mass production.",
+            "Gabriel smites the ground to create a gravitational field. Enemies inside cannot act.",
+            "Gabriel uses a laser cannon to strafe the targets ahead.",
+            "Gabriel will replicate a Virus Embodiment of a Withered Star.",
+            "After swiping, Gabriel will unleash the weapon [Wandering Star]. Normal attacks will change its trajectory. Once it returns to Gabriel, he will initiate another swipe.",
+            "Once the Withered Shade appears, it's energy will cause shooting stars to rain down on the battlefield.",
+            "The Withered Shade will begin to erupt within, dealing a powerful energy blast. Without a shield...",
+            "While in the simulator habitable zone, haywire tidal energy will deal damage to Constructs. ",
+            "On the battlefield, gravity will create a virtual Roche limit reaction zone.",
+            "Gabriel will release up to 3 Wandering Stars onto the battlefield."
+        ]
+    },
+    {
+        "Id": 50004,
+        "LastSectionId": 12001,
+        "Activity": 1,
+        "Weight": 100,
+        "DifficultType": 5,
+        "StageId": 20000505,
+        "ModelId": "Mb1JiabailieMd000002",
+        "NpcPic": "RoleStory.bossonline01",
+        "Scene": "Assets/Product/Ui/Scene3DPrefab/UiOnlineBossScene3.prefab",
+        "CameraSetting": [
+            "UiFubenOnlineBoss2_1",
+            "UiFubenOnlineBoss2_2",
+            "UiFubenOnlineBoss2_3"
+        ],
+        "Description": [
+            "Fight a battle with a team of [Tank, Attacker, Support]",
+            "Be careful in choosing where Shooting Stars land!",
+            "<color=#ff5656>Gabriel - Prototype</color>"
+        ],
+        "SkillName": [
+            "Easy-Roaming Star",
+            "Elite-Antares",
+            "Elite-Falling Meteor",
+            "Elite-Annihilation Storm",
+            "Nightmare-Brittle Star",
+            "Nightmare-Tidal Action",
+            "Terror-Habitable Zone",
+            "Terror-Roche Circle",
+            "Terror-Three Body Problem"
+        ],
+        "SkillDes": [
+            "After swiping, Gabriel will unleash the weapon [Wandering Star]. Normal attacks will change its trajectory. Once it returns to Gabriel, he will initiate another swipe.",
+            "Gabriel will replicate a Virus Embodiment of a Withered Star.",
+            "Once the Withered Shade appears, it's energy will cause shooting stars to rain down on the battlefield.",
+            "The Withered Shade will begin to erupt within, dealing a powerful energy blast. Without a shield...",
+            "Strong tidal energy greatly decreases stability for Star Embodiments and Constructs.",
+            "When a Roaming Star, Withering Shade, or a Falling Star collide, it will cause damage and even trigger an Annihilation Storm.",
+            "While in the simulator habitable zone, haywire tidal energy will deal damage to Constructs. ",
+            "On the battlefield, gravity will create a virtual Roche limit reaction zone.",
+            "Gabriel will release up to 3 Wandering Stars onto the battlefield."
         ]
     }
 ]

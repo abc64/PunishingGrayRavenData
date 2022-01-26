@@ -85,10 +85,10 @@
     },
     {
         "Id": 999800050,
-        "Name": "Scene07005",
-        "Info": 90090001,
+        "Name": "Scene01304",
+        "Info": 10130401,
         "BornPosition": [
-            "PB1",
+            "PB2",
             "PB2",
             "PB3",
             "PB4",
@@ -106,10 +106,10 @@
     },
     {
         "Id": 999800060,
-        "Name": "Scene01206",
-        "Info": 10120125,
+        "Name": "Scene01304",
+        "Info": 10130401,
         "BornPosition": [
-            "PB1",
+            "PB2",
             "PB2",
             "PB3",
             "PB4",
@@ -148,8 +148,8 @@
     },
     {
         "Id": 999800080,
-        "Name": "Scene01203",
-        "Info": 10120114,
+        "Name": "Scene01302xzm",
+        "Info": 99980008,
         "BornPosition": [
             "PB1",
             "PB2",
@@ -169,8 +169,8 @@
     },
     {
         "Id": 999800090,
-        "Name": "Scene01203",
-        "Info": 10120114,
+        "Name": "Scene01302xzm",
+        "Info": 99980009,
         "BornPosition": [
             "PB1",
             "PB2",
@@ -190,8 +190,8 @@
     },
     {
         "Id": 999800100,
-        "Name": "Scene01204",
-        "Info": 30090552,
+        "Name": "Scene01302xzm",
+        "Info": 99980010,
         "BornPosition": [
             "PB1",
             "PB2",
@@ -211,8 +211,8 @@
     },
     {
         "Id": 999800110,
-        "Name": "Scene01203",
-        "Info": 99980010,
+        "Name": "Scene01302xzm",
+        "Info": 99980011,
         "BornPosition": [
             "PB1"
         ],
@@ -237,8 +237,8 @@
     },
     {
         "Id": 999800130,
-        "Name": "Scene01104",
-        "Info": 99980001,
+        "Name": "Scene01301",
+        "Info": 99980013,
         "BornPosition": [
             "PB1"
         ],
@@ -249,128 +249,24 @@
         "DefaultDynamicObject": []
     },
     {
-        "Id": 999800140,
-        "Name": "Scene01106",
-        "Info": 99980001,
+        "Id": 300313010,
+        "Name": "Scene01301",
+        "Info": 99980013,
         "BornPosition": [
-            "PB1"
+            "PB1",
+            "PB2",
+            "PB3",
+            "PB4",
+            "PB5"
         ],
         "LookPosition": [
-            "B101"
+            "S101",
+            "S102",
+            "S103",
+            "B102",
+            "B102"
         ],
         "DefaultObstacleArea": [],
         "DefaultDynamicObject": []
-    },
-    {
-        "Id": 999800150,
-        "Name": "Scene01106",
-        "Info": 99980001,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [],
-        "DefaultDynamicObject": []
-    },
-    {
-        "Id": 101201020,
-        "Name": "Scene01202",
-        "Info": 10120102,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [
-            "AW3",
-            "AW5"
-        ],
-        "DefaultDynamicObject": [
-            "AW3",
-            "AW5"
-        ]
-    },
-    {
-        "Id": 101201090,
-        "Name": "Scene01202",
-        "Info": 10120109,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [
-            "AW1",
-            "AW3",
-            "AW4",
-            "XZ1"
-        ],
-        "DefaultDynamicObject": [
-            "AW3",
-            "AW4",
-            "Erlou"
-        ]
-    },
-    {
-        "Id": 101201160,
-        "Name": "Scene01202",
-        "Info": 10120116,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [
-            "AW3",
-            "AW6",
-            "AW7"
-        ],
-        "DefaultDynamicObject": [
-            "AW3",
-            "Erlou"
-        ]
-    },
-    {
-        "Id": 101201180,
-        "Name": "Scene01202",
-        "Info": 10120118,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [
-            "AW2",
-            "AW7"
-        ],
-        "DefaultDynamicObject": [
-            "AW2",
-            "Erlou"
-        ]
-    },
-    {
-        "Id": 111201010,
-        "Name": "Scene01203",
-        "Info": 10120114,
-        "BornPosition": [
-            "PB1"
-        ],
-        "LookPosition": [
-            "B101"
-        ],
-        "DefaultObstacleArea": [
-            "AW1",
-            "AW2"
-        ],
-        "DefaultDynamicObject": [
-            "Zhangai01",
-            "Zhangai02"
-        ]
     }
 ]

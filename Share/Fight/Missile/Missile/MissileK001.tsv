@@ -9,10 +9,10 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81500301	随意踩踏	2	3			3	0			4			0.1						-1		FxMb1OrphanMd030001Attack03Shouji						-1			1					0	0	0								0							0	1				815003011	801040	200003	815058			200003			0	HitCase	1	0		1			1					
 81500303	随意踩踏（特效）	2	1.33			1	0			4			2						-1						FxMb1OrphanMd030001Attack03		-1			1					0	0	0								0							0	3													0	HitCase		0					0					
 81500401	跳跃 - 轻	2	3				0			4			0.75						-1								-1			1					0	0	0								0	0.75		1	81500411			0	3													0	HitCase	1	1		1			1					
-81500411	跳跃 - 轻 （伤害）	2	5				0			4			0.1						-1		FxMb1OrphanMd030001Attack04Shouji						-1			1					0	0	0								2	0		1	81500412			0	2				815004111	801050	200003	815059			200003		815004112	0	HitCase		0		1			1					
+81500411	跳跃 - 轻 （伤害）	2	5				0			4			0.1						-1		FxMb1OrphanMd030001Attack04Shouji						-1			1					0	0	0								2	0		1	81500412			0	1				815004111	801050	200003	815059			200003		815004112	0	HitCase		0		1			1					
 81500412	P3 空中飞人 （弹道特效）	2	10				0			4			2						-1						FxMb1OrphanMd030001Attack04		-1			1					0	0	0								2							0	3													0	HitCase		0					0					
 81500501	跳跃 - 重	2	7				0			4			0.7						-1								-1			1					0	0	0								0	0.7		1	81500511			0	3													0	HitCase	1	1		1			1					
-81500511	跳跃 - 重 （伤害）	2	10				0			4			0.1						-1		FxMb1OrphanMd030001Attack05Shouji						-1			1					0	0	0								2	0		1	81500512			0	2				815005111	801080	200005	815001	815060		200005			0	HitCase	1	0		1			1					
+81500511	跳跃 - 重 （伤害）	2	10				0			4			0.1						-1		FxMb1OrphanMd030001Attack05Shouji						-1			1					0	0	0								2	0		1	81500512			0	1				815005111	801080	200005	815001	815060		200005			0	HitCase	1	0		1			1					
 81500512	P3 空中飞人 （弹道特效）	2	15				0			4			1						-1						FxMb1OrphanMd030001Attack05		-1			1					0	0	0								2							0	3													0	HitCase		0					0					
 81500601	喷射 - 直线	1	1.5	1.5	1.5	1	3.7			4			2						-1								-1			1					0	0	0								0		0.25	8	81500611			0	3													0	HitCase		0					1					
 81500602	喷射 - 地面特效	2	1.33				0			4			15						-1						FxMb1OrphanMd030001Attack06Dimian		-1			1					0	0	0								0							0	3													0	HitCase		0					0					
@@ -56,10 +56,10 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81600201	挥砍2式 伤害	1	2	3		1.5	0			4			0.1						-1		FxMb1LuolanMd010001Attack02Shouji01						-1			1					0	0	0								0							0	3				816002011	801070	200003	816052			200003			0	HitCase	1	0					1					
 81600202	挥砍2式 伤害	1	2	3		1.5	0			4			0.1						-1		FxMb1LuolanMd010001Attack02Shouji02						-1			1					0	0	0								0							0	3				816002021	801070	200003	816053			200003			0	HitCase	1	0					1					
 81600301	踏步斩 伤害	1	2	4		2	0			4			0.1						-1		FxMb1LuolanMd010001Attack03Shouji						-1			1					0	0	0								0							0	3				816003011	801060	200005	816054			200005			0	HitCase	1	0					1					
-81600401	开枪 伤害	2	0.5		0.2	0.2	90			4			1						1		FxMb1LuolanMd010001QiangkouShouji				FxMb1LuolanMd010001Attack04Dandao		1			1					0	0	0								0							0	1				816004011	801050	200005	816055			200005			1.4	HitCase		0					1					
+81600401	开枪 伤害	2	0.5		0.2	0.2	90			4			1						1		FxMb1LuolanMd010001QiangkouShouji				FxMb1LuolanMd010001Attack04Dandao		1			1					0	0	0								0							0	3				816004011	801050	200005	816055			200005			1.4	HitCase		0					1					
 81600601	链刀1式 伤害	1	3	12		6	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	3				816006011	801030	200003	816056			200003			0	HitCase	1	0					1					
 81600602	链刀1式 伤害	1	3	12		6	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	3				816006021	801030	200003	816057			200003			0	HitCase	1	0					1					
-81600603	链刀1式 伤害	1	3	12		6	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	1				816006031	801040	200005	816058			200005			0	HitCase	1	0					1					
+81600603	链刀1式 伤害	1	3	12		6	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	3				816006031	801040	200005	816058			200005			0	HitCase	1	0					1					
 81600701	链刀2式 伤害	1	6	10		5	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	3				816007011	801050	200003	816059			200003			0	HitCase	1	0					1					
 81600702	链刀2式 伤害	1	6	10		5	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	1				816007021	801050	200005	816060			200005			0	HitCase	1	0					1					
 81600801	链刀3式 伤害	1	3	12		6	0			4			0.1						-1		FxMb1LuolanMd010001BianziShouji						-1			1					0	0	0								0							0	3				816008011	801050	200003	816061			200003			0	HitCase	1	0					1					
@@ -127,7 +127,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81700306	旋转尖刺	2	1				0		225	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.55		1	81700311			0	3													1	HitCase		0					0					
 81700307	旋转尖刺	2	1				0		270	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.55		1	81700311			0	3													1	HitCase		0					0					
 81700308	旋转尖刺	2	1				0		315	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.55		1	81700311			0	3													1	HitCase		0					0					
-81700311	FxNpcYujing01	2	1			1.5	0		0	4			0.5						-1								-1			1					0	0	0								2	0.5		1	81700312			2	3													1	HitCase		0					0					
+81700311	FxNpcYujing01	2	1			1.5	0		0	4			0.5						-1								-1			1					0	0	0								2	0.45		1	81700312			2	3													1	HitCase		0					0					
 81700312	旋转尖刺	2	1				100		0	4			1						-1		FxMb1VirginbioMd030001Attack03Shouji						-1			1					0	0	0								2							2	3				817003121	801040	200005	816003			200005			1	HitCase		0					1					
 81700401	头盔激光	2	0.5			0	10			4			3		1				1		FxMb1VirginbioMd030001Attack14Shouji			Bone001	FxMb1VirginbioMd030001Attack14		1	0.9	FxMb1VirginbioMd030001Attack04Baozha	3	0	0	10	1	0	0	0								0							1	3				817004011	801030	816003							0	HitCase		0				1	1					
 81700402	头盔激光	2	0.5			0	10			4			3		1				1		FxMb1VirginbioMd030001Attack14Shouji			Bone001	FxMb1VirginbioMd030001Attack14		1	0.9	FxMb1VirginbioMd030001Attack04Baozha	3	0	0	10	1	0	0	0								0							1	3					801030	816003							0	HitCase		0				1	1					
@@ -146,15 +146,15 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81700608	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81700612			0	3													1.4	HitCase		0	1				0					
 81700609	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81700612			0	3													2.1	HitCase		0	1				0					
 81700612	伤害子弹	2	1				100		0	4			1						-1		FxMb1VirginbioMd030001Attack03Shouji						-1			1					0	0	0								2							2	3				817006121	801010	200005	816003			200005			1	HitCase		0					1					
-81701201	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													0.7	HitCase		0	1				0					
-81701202	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													1.4	HitCase		0	1				0					
-81701203	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													2.1	HitCase		0	1				0					
-81701204	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													0.7	HitCase		0	1				0					
-81701205	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													1.4	HitCase		0	1				0					
-81701206	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													2.1	HitCase		0	1				0					
-81701207	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													0.7	HitCase		0	1				0					
-81701208	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													1.4	HitCase		0	1				0					
-81701209	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	1		1	81701212			0	3													2.1	HitCase		0	1				0					
+81701201	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													0.7	HitCase		0	1				0					
+81701202	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													1.4	HitCase		0	1				0					
+81701203	尖刺连射	1	1	1.5		1	0		0	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													2.1	HitCase		0	1				0					
+81701204	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													0.7	HitCase		0	1				0					
+81701205	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													1.4	HitCase		0	1				0					
+81701206	尖刺连射	1	1	1.5		1	0		-30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													2.1	HitCase		0	1				0					
+81701207	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													0.7	HitCase		0	1				0					
+81701208	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													1.4	HitCase		0	1				0					
+81701209	尖刺连射	1	1	1.5		1	0		30	4			3						-1						FxMb1VirginbioMd030001Attack03		-1			1					0	0	0								0	0.95		1	81701212			0	3													2.1	HitCase		0	1				0					
 81701212	伤害子弹	2	1				100		0	4			1						-1		FxMb1VirginbioMd030001Attack03Shouji						-1			1					0	0	0								2							2	3				817012121	801010	200005	816003			200005			1	HitCase		0					1					
 81701502	P2 抛物 Loop （发起子弹）	2	1				0			4			999						-1					Bip001RFinger31			-1			1					0	0	0								0		1.5	99	81701511			0	3													0	HitCase		1		1			0					
 81701511		2	2			0	15			4			99		1				1						FxMb1VirginbioMd030001Attack14		1	3.5	FxMb1VirginbioMd030001Attack14baozha	3	-40	0	10	1	0	0	0								0	9999		1	81701512	1		1	3													2.2	HitCase		0	1		9999	1	0					

@@ -254,6 +254,18 @@
     {
         "Role": "R3ShenweiMd019031",
         "Layer": 0,
+        "Target": "RunStartEnd02",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R3ShenweiMd019031",
+        "Layer": 0,
+        "Target": "StopR",
+        "TransitionDuration": 0.1
+    },
+    {
+        "Role": "R3ShenweiMd019031",
+        "Layer": 0,
         "Target": "Attack01",
         "TransitionDuration": 0.1
     },

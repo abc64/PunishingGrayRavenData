@@ -1605,7 +1605,9 @@
         "Animation": "Lieonfloor",
         "Layer": 0,
         "TotalFrame": 5,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
@@ -1774,24 +1776,30 @@
         "Animation": "Run",
         "Layer": 0,
         "TotalFrame": 27,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
         "Animation": "RunLeanL",
         "Layer": 0,
         "TotalFrame": 27,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
         "Animation": "RunLeanR",
         "Layer": 0,
         "TotalFrame": 27,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
-        "Role": "R3LifuMd010011",
+        "Role": "R3LifuMd019161",
         "Animation": "RunStart",
         "Layer": 0,
         "TotalFrame": 23,
@@ -1824,29 +1832,29 @@
         ],
         "OffsetZ": [
             0,
-            0.2235,
-            0.446,
-            0.6705,
-            0.895,
-            1.119,
-            1.344,
-            1.5694,
-            1.796,
-            2.023,
-            2.25,
-            2.4765,
+            0.2234,
+            0.4466,
+            0.6701,
+            0.8939,
+            1.1185,
+            1.3435,
+            1.5691,
+            1.7956,
+            2.0231,
+            2.2506,
+            2.4771,
             2.703,
-            2.9295,
-            3.156,
-            3.3824,
-            3.61,
-            3.839,
-            4.068,
-            4.2975,
-            4.526,
-            4.7555,
-            4.985,
-            5.137
+            2.9287,
+            3.1547,
+            3.3811,
+            3.6081,
+            3.835,
+            4.0624,
+            4.2905,
+            4.5193,
+            4.7485,
+            4.9775,
+            5.1301
         ]
     },
     {
@@ -2020,21 +2028,27 @@
         "Animation": "Save",
         "Layer": 0,
         "TotalFrame": 34,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
         "Animation": "Stand1",
         "Layer": 0,
         "TotalFrame": 41,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
         "Animation": "Stand2",
         "Layer": 0,
         "TotalFrame": 27,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
@@ -2357,13 +2371,17 @@
         "Animation": "Stun",
         "Layer": 0,
         "TotalFrame": 34,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     },
     {
         "Role": "R3LifuMd010011",
         "Animation": "Win",
         "Layer": 0,
         "TotalFrame": 81,
-        "TailLength": 0
+        "TailLength": 0,
+        "OffsetX": [],
+        "OffsetZ": []
     }
 ]

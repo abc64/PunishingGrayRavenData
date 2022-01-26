@@ -2,12 +2,12 @@
     {
         "Id": 1,
         "OrderId": 1,
-        "Name": "Confrontation",
-        "ChapterName": "Confrontation",
+        "Name": "Park Parade",
+        "ChapterName": "Park Parade",
         "Cover": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner04.png",
         "Icon": "Assets/Product/Texture/Atlas/UiFubenActivityZhixian/UFAZhixianIcon1.png",
         "Prefab": "Assets/Product/Ui/ComponentPrefab/FuBenActivityBossSingle/FuBenActivityBossSingle.prefab",
-        "Description": "Confrontation",
+        "Description": "Park Parade",
         "MinLevel": 1,
         "MaxLevel": 120,
         "ShowRewardId": 1001,
@@ -18,6 +18,12 @@
             3,
             4,
             5
+        ],
+        "StarRewardId": [
+            1,
+            2,
+            3,
+            4
         ]
     }
 ]

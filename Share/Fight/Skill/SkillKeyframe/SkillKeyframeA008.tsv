@@ -1,32 +1,33 @@
 Id	Key[1]	Key[2]	Key[3]	Key[4]	Key[5]	Key[6]	Key[7]	Key[8]	Key[9]	Key[10]	Key[11]	Key[12]	Key[13]	Key[14]	Key[15]	Key[16]	Key[17]	Key[18]	Key[19]	Key[20]	Key[21]	Key[22]	Key[23]	Key[24]	Key[25]	Key[26]	Key[27]	Key[28]	Key[29]	Key[30]	Key[31]	Key[32]	Key[33]	Key[34]	Key[35]	Key[36]	Key[37]	Key[38]	Key[39]	Key[40]	Key[41]	Key[42]	Key[43]	Key[44]	Key[45]	Key[46]	Key[47]	Key[48]	Key[49]	Key[50]	Key[51]	Key[52]	Key[53]	Key[54]	Key[55]	Key[56]	Key[57]	Key[58]	Key[59]	Key[60]	Key[61]	Key[62]	Key[63]	Key[64]	Key[65]	Key[66]	Key[67]	Key[68]	Key[69]	Key[70]	Key[71]	Key[72]	Key[73]	Key[74]	Key[75]	Key[76]	Key[77]	Key[78]	Key[79]	Key[80]
-110301	5|Cast|11030101	8|Cast|11030102																																																																														
-110302	5|Cast|11030201																																																																															
-110303	6|Cast|11030301	17|Cast|11030302																																																																														
-110304	3|Cast|11030401	15|Cast|11030402																																																																														
-110305	7|Cast|11030501	11|Cast|11030502	14|Cast|11030503																																																																													
-110306	0|Cast|11030601	14|Cast|11030602	16|Cast|11030603	18|Cast|11030604																																																																												
-110307	0|Cast|11030701	14|Cast|11030702	16|Cast|11030703	18|Cast|11030704																																																																												
-110308	0|Cast|11030801	14|Cast|11030802	16|Cast|11030803	18|Cast|11030804																																																																												
-110309	4|Cast|11030901																																																																															
-110310	4|Cast|11031001																																																																															
-110311	4|Cast|11031101																																																																															
-110312	0|Cast|11031201	8|Cast|11031202	10|Cast|11031203																																																																													
-110313	0|Cast|11031301	8|Cast|11031302	10|Cast|11031303																																																																													
-110314	0|Cast|11031401	8|Cast|11031402	10|Cast|11031403																																																																													
-110315																																																																																
-110316																																																																																
-110317																																																																																
-110318																																																																																
+110301	2|Cast|11030101	3|Cast|11030102	0|Effect|FxR2WeilaAttack01||1|																																																																													
+110302	4|Cast|11030201	9|Cast|11030202	4|Effect|FxR2WeilaAttack0201||1|	9|Effect|FxR2WeilaAttack0202||1|	0|Effect|FxR2WeilaAttack02Sound||1|																																																																											
+110303	4|Cast|11030302	5|Cast|11030303	11|Cast|11030304	12|Cast|11030305	4|Effect|FxR2WeilaAttack0301||1|	11|Effect|FxR2WeilaAttack0302||1|	4|Cast|11030308	0|Effect|FxR2WeilaAttack03Sound||1|	11|Shake|3|0.15|-0.5|10|0.15|2																																																																							
+110304	3|Cast|11030401	4|Cast|11030402	5|Cast|11030403	6|Cast|11030404	10|Cast|11030405	16|Cast|11030406|11030411	3|Effect|FxR2WeilaAttack0401||1|	9|Effect|FxR2WeilaAttack0402||1|	16|Cast|11030409	0|Effect|FxR2WeilaAttack04Sound||1|																																																																						
+110305	5|Cast|11030501	13|Cast|11030502	4|Effect|FxR2WeilaAttack0501||1|	13|Effect|FxR2WeilaAttack0502||1|	1|Effect|FxR2WeilaWuqiBao|WeaponCase1|1|	34|Effect|FxR2WeilaWuqiXiaoshi|WeaponCase1|1|	0|Effect|FxR2WeilaAttack05Sound||1|																																																																									
+110306	3|Cast|11030601	4|Cast|11030602	6|Cast|11030603	8|Cast|11030604	11|Cast|11030605	13|Cast|11030606	18|Cast|11030607	22|Cast|11030608	0|Effect|FxR2WeilaAttack11Sound||1|	2|Cast|11030610	18|Cast|11030611	0|Cast|11030613	4|Cast|11030614	9|Cast|11030615	19|Cast|11030616	21|Cast|11030617	2|Cast|11030618	5|Cast|11030619	11|Cast|11030620	900|Effect|FxR2WeilaAttack11M||1|	25|Magic|110315|0																																																											
+110307	3|Cast|11030701	4|Cast|11030702	6|Cast|11030703	8|Cast|11030704	11|Cast|11030705	13|Cast|11030706	18|Cast|11030707	22|Cast|11030708	0|Effect|FxR2WeilaAttack11Sound||1|	2|Cast|11030710	18|Cast|11030711	0|Cast|11030713	4|Cast|11030714	9|Cast|11030715	19|Cast|11030716	21|Cast|11030717	2|Cast|11030718	5|Cast|11030719	11|Cast|11030720	900|Effect|FxR2WeilaAttack11M||1|	25|Magic|110315|0																																																											
+110308	3|Cast|11030801	4|Cast|11030802	6|Cast|11030803	8|Cast|11030804	11|Cast|11030805	13|Cast|11030806	18|Cast|11030807	22|Cast|11030808	0|Effect|FxR2WeilaAttack13Sound||1|	2|Cast|11030810	18|Cast|11030811	0|Cast|11030813	4|Cast|11030814	9|Cast|11030815	19|Cast|11030816	21|Cast|11030817	2|Cast|11030818	5|Cast|11030819	11|Cast|11030820	0|Effect|FxR2WeilaAttack11M||1|	25|Magic|110315|0																																																											
+110309	3|Cast|11030901	3|Move|-10|0.1|20	0|Effect|FxR2WeilaAttack21||1|	4|Cast|11030904	4|Shake|3|0.15|-0.5|10|0.25|1																																																																											
+110310	3|Cast|11031001	3|Move|-10|0.1|20	0|Effect|FxR2WeilaAttack21||1|	4|Cast|11031004	4|Shake|3|0.15|-0.5|10|0.25|1																																																																											
+110311	3|Cast|11031101	3|Move|-10|0.1|20	0|Effect|FxR2WeilaAttack23||1|	4|Cast|11031104	4|Shake|3|0.25|-0.8|10|0.25|1																																																																											
+110312	5|Cast|11031201	6|Cast|11031202	8|Cast|11031203	10|Cast|11031204	12|Cast|11031205	2|Shake|3|0.25|-1|10|0.1|5	0|Effect|FxR2WeilaAttack31||1|	2|Cast|11031211	2|Cast|11031212																																																																							
+110313	5|Cast|11031301	6|Cast|11031302	8|Cast|11031303	10|Cast|11031304	12|Cast|11031305	2|Shake|3|0.25|-1|10|0.1|5	0|Effect|FxR2WeilaAttack31||1|	2|Cast|11031311	2|Cast|11031312																																																																							
+110314	5|Cast|11031401	6|Cast|11031402	8|Cast|11031403	10|Cast|11031404	12|Cast|11031405	2|Shake|3|0.25|-1|10|0.1|5	0|Effect|FxR2WeilaAttack33||1|	2|Cast|11031411	2|Cast|11031412																																																																							
+110315	4|Cast|11031501|11031502	0|Cast|11031503	38|Cast|11031504	10|Magic|110367|0	3|Magic|110372|0	6|Magic|110379|0	28|Magic|110383|0	0|Magic|100091|0	40|Magic|100092|0																																																																							
+110316	0|Effect|FxR2WeilaMove01||0|	8|Magic|100094|0																																																																														
+110317	0|Effect|FxR2WeilaMove02||0|	8|Magic|100094|0																																																																														
+110318	30|Cast|11031801	0|Effect|FxR2WeilaAttack51||0|	0|Cast|11031809	0|Magic|110357|0	0|Magic|100091|0	32|Magic|100092|0	31|Magic|110356|0																																																																									
 110319																																																																																
-110320																																																																																
+110320	0|Magic|110371|0	0|Effect|FxR2WeilaWin|1||																																																																														
 110321																																																																																
-110322																																																																																
+110322	0|Magic|110370|0	0|Effect|FxR2WeilaBorn|1||																																																																														
 110323																																																																																
-110324																																																																																
-110325																																																																																
-110326																																																																																
-110327																																																																																
-110328																																																																																
-110329																																																																																
-110330	5|Cast|11033001	8|Cast|11033002	4|Move|20|0.1|-5																																																																													
+110324	3|Cast|11032401	4|Cast|11032402	6|Cast|11032403	8|Cast|11032404	11|Cast|11032405	13|Cast|11032406	19|Cast|11032407	22|Cast|11032408	0|Effect|FxR2WeilaAttack11Sound||1|	2|Cast|11032410	18|Cast|11032411	0|Cast|11032413	4|Cast|11032414	9|Cast|11032415	19|Cast|11032416	21|Cast|11032417	2|Cast|11032418	5|Cast|11032419	11|Cast|11032420	0|Effect|FxR2WeilaAttack11M||1|	25|Magic|110315|0																																																											
+110325	8|Cast|11032501|11032511|11032512	0|Effect|FxR2WeilaAttack41||1|	3|Effect|FxR2WeilaWuqiBaoEx|WeaponCase1|1|	0|Effect|FxR2WeilaBeidong||1|	0|Magic|110362|0	7|Magic|110363|0	4|Magic|110369|0	900|Magic|110352|0	900|Magic|110353|0	3|Magic|110378|0	3|Move|-3|0.1|0.5	4|Cast|11032516	8|Shake|3|0.25|-0.5|10|0.15|3	22|Effect|FxR2WeilaWuqiXiaoshiEx|WeaponCase1|1|	14|Magic|110319|0																																																																	
+110326	1|Cast|11032601	6|Cast|11032602	2|Effect|FxR2WeilaAttack4201||1|	6|Effect|FxR2WeilaAttack4202||1|	0|Effect|FxR2WeilaBeidong||1|	1|Cast|11032606	6|Cast|11032607	1|Cast|11032608	6|Cast|11032609	1|Shake|3|0.15|-0.5|10|0.15|4	6|Shake|3|0.25|-0.5|10|0.15|5	27|Effect|FxR2WeilaWuqiXiaoshiEx|WeaponCase1|1|	0|Effect|FxR2WeilaAttack42Sound||1|	12|Magic|110319|0																																																																		
+110327	2|Cast|11032701|11032705|11032706	0|Effect|FxR2WeilaAttack43||1|	0|Effect|FxR2WeilaBeidong||1|	19|Effect|FxR2WeilaWuqiXiaoshiEx|WeaponCase1|1|	2|Shake|3|0.25|-0.5|10|0.15|2	10|Magic|110319|0																																																																										
+110328	3|Cast|11032801|11032805|11032806	0|Effect|FxR2WeilaAttack44||1|	0|Effect|FxR2WeilaBeidong||1|	39|Effect|FxR2WeilaWuqiXiaoshiEx|WeaponCase1|1|	3|Shake|3|0.25|-0.5|10|0.15|2	10|Magic|110319|0																																																																										
+110329	4|Cast|11032901	9|Cast|11032902	3|Effect|FxR2WeilaAttack4501||1|	8|Effect|FxR2WeilaAttack4502||1|	0|Effect|FxR2WeilaBeidong||1|	4|Cast|11032906	9|Cast|11032907	3|Cast|11032908	8|Cast|11032909	4|Effect|FxR2WeilaWuqiXiaoshiEx|WeaponCase1|1|	0|Effect|FxR2WeilaAttack45Sound||1|	7|Magic|110364|0	4|Shake|3|0.15|-0.5|10|0.15|4	9|Shake|3|0.3|-0.5|10|0.35|5	12|Magic|110319|0																																																																	
+110330	2|Cast|11033001	3|Cast|11033002	0|Effect|FxR2WeilaAttack01||1|	2|Move|20|0.1|-65																																																																												
 110331																																																																																
+110332	2|Cast|11033201	7|Cast|11033202	9|Cast|11033203	11|Cast|11033204	17|Cast|11033205	2|Effect|FxR2WeilaAttack1001||1|	17|Cast|11033207	0|Effect|FxR2WeilaAttack10Sound||1|	2|Move|12|0.1|-50	16|Cast|11033210																																																																						

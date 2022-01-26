@@ -140,6 +140,21 @@
         "Value": 12
     },
     {
+        "Key": "TypeIdGuildBossLow",
+        "Type": "int",
+        "Value": 20
+    },
+    {
+        "Key": "TypeIdGuildBossHigh",
+        "Type": "int",
+        "Value": 21
+    },
+    {
+        "Key": "TypeIdGuildBossBoss",
+        "Type": "int",
+        "Value": 22
+    },
+    {
         "Key": "TypeIdUnionFight",
         "Type": "int",
         "Value": 40
@@ -880,11 +895,6 @@
         "Value": 1
     },
     {
-        "Key": "ArenaOnlineOpenTimestamp",
-        "Type": "int",
-        "Value": 1591822800
-    },
-    {
         "Key": "BaseEquipMaxCount",
         "Type": "int",
         "Value": 30
@@ -1037,7 +1047,7 @@
     {
         "Key": "GuildRecruitGuildMaxCount",
         "Type": "int",
-        "Value": 60
+        "Value": 20
     },
     {
         "Key": "GuildLikedItemId",
@@ -1072,7 +1082,7 @@
     {
         "Key": "GuildScriptLength",
         "Type": "int",
-        "Value": 25
+        "Value": 40
     },
     {
         "Key": "GuildTouristDuration",
@@ -1082,7 +1092,7 @@
     {
         "Key": "GuildPlayerRecommendLevel",
         "Type": "int",
-        "Value": 15
+        "Value": 40
     },
     {
         "Key": "GuildPlayerRecommendCount",
@@ -1135,9 +1145,14 @@
         "Value": 30
     },
     {
+        "Key": "GuildPlayerNewsMaxCount",
+        "Type": "int",
+        "Value": 50
+    },
+    {
         "Key": "GuildEnterCd",
         "Type": "int",
-        "Value": 1
+        "Value": 8
     },
     {
         "Key": "GuildChatMaxCount",
@@ -1147,7 +1162,7 @@
     {
         "Key": "GuildCoinCd",
         "Type": "int",
-        "Value": 72
+        "Value": 0
     },
     {
         "Key": "GuildApplyCd",
@@ -1167,12 +1182,67 @@
     {
         "Key": "GuildRecommendRefresh",
         "Type": "int",
-        "Value": 24
+        "Value": 1
     },
     {
         "Key": "GuildFindLikeCount",
         "Type": "int",
         "Value": 25
+    },
+    {
+        "Key": "GuildRecruitGuildDailyCount",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "GuildImpeachCostItem",
+        "Type": "string",
+        "Value": "3|1"
+    },
+    {
+        "Key": "GuildImpeachCostCount",
+        "Type": "string",
+        "Value": "300|500000"
+    },
+    {
+        "Key": "GuildBuildIntervalWhenMaxLevel",
+        "Type": "int",
+        "Value": 32000
+    },
+    {
+        "Key": "GuildTalentPointCountWhenMaxLevel",
+        "Type": "int",
+        "Value": 20
+    },
+    {
+        "Key": "GuildRankListCount",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildScriptText",
+        "Type": "string",
+        "Value": "Greetings to New Commandant"
+    },
+    {
+        "Key": "GuildNameMinLen",
+        "Type": "int",
+        "Value": 1
+    },
+    {
+        "Key": "GuildNameMaxLen",
+        "Type": "int",
+        "Value": 16
+    },
+    {
+        "Key": "GuildDeclarationMaxLen",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildApplyTimeoutSec",
+        "Type": "int",
+        "Value": 86400
     },
     {
         "Key": "BossOnlineKillFloorValue",
@@ -1198,6 +1268,91 @@
         "Key": "TestServer",
         "Type": "string",
         "Value": "Testing Server"
+    },
+    {
+        "Key": "ArenaOnlineOpenTimestamp",
+        "Type": "int",
+        "Value": 1591822800
+    },
+    {
+        "Key": "InfestorRewardMsgMaxLength",
+        "Type": "int",
+        "Value": 15
+    },
+    {
+        "Key": "InfestorChapterLeaveMsgInterval",
+        "Type": "int",
+        "Value": 15
+    },
+    {
+        "Key": "InfestorChapterLeaveMsgMaxLength",
+        "Type": "int",
+        "Value": 15
+    },
+    {
+        "Key": "InfestorChapterLeaveMsgMaxCount",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "InfestorRandomEventGoodsCount",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "InfestorSyncPlayerInfoInterval",
+        "Type": "int",
+        "Value": 300
+    },
+    {
+        "Key": "InfestorBfrtSubHpTimes",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "InfestorActionPointDailyRecover",
+        "Type": "int",
+        "Value": 14
+    },
+    {
+        "Key": "InfestorCoreUseMaxCount",
+        "Type": "int",
+        "Value": 6
+    },
+    {
+        "Key": "GuildBossDeathAddScore",
+        "Type": "int",
+        "Value": 80000
+    },
+    {
+        "Key": "GuildBossStageUploadCount",
+        "Type": "int",
+        "Value": 3
+    },
+    {
+        "Key": "GuildBossStageAddBuffPoint",
+        "Type": "int",
+        "Value": 10
+    },
+    {
+        "Key": "GuildBossStageMaxBuffPoint",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildBossScoreContributeRatio",
+        "Type": "float",
+        "Value": 0.001
+    },
+    {
+        "Key": "GuildBossRankListCount",
+        "Type": "int",
+        "Value": 100
+    },
+    {
+        "Key": "GuildBossScoreCollectionRatio",
+        "Type": "float",
+        "Value": 0.0001
     },
     {
         "Key": "PurchasePayLockGoodsTime",

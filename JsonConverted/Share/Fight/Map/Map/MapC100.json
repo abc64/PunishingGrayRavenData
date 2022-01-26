@@ -1355,7 +1355,7 @@
         "Name": "场景测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             950000800
@@ -2146,7 +2146,7 @@
     {
         "Id": 95000126,
         "Behavior": 95000126,
-        "Name": "シーンテスト（中国船）",
+        "Name": "场景测试(中国船）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2164,7 +2164,7 @@
     {
         "Id": 95000127,
         "Behavior": 95000127,
-        "Name": "シーンテスト（中国船）",
+        "Name": "场景测试(中国船）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2182,7 +2182,7 @@
     {
         "Id": 95000128,
         "Behavior": 95000128,
-        "Name": "シーンテスト（中国船潜入1）",
+        "Name": "场景测试(中国船潜行1）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -2200,7 +2200,7 @@
     {
         "Id": 95000129,
         "Behavior": 95000129,
-        "Name": "シーンテスト（中国船艦橋）",
+        "Name": "场景测试(中国船主控）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2218,7 +2218,7 @@
     {
         "Id": 95000130,
         "Behavior": 95000130,
-        "Name": "シーンテスト（中国船甲板）",
+        "Name": "场景测试(中国船甲板）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2236,7 +2236,7 @@
     {
         "Id": 95000131,
         "Behavior": 95000131,
-        "Name": "シーンテスト（データ迷宮）",
+        "Name": "场景测试(数据迷宫）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 66,
@@ -2254,7 +2254,7 @@
     {
         "Id": 95000132,
         "Behavior": 95000132,
-        "Name": "シーンテスト（中国船倉庫）",
+        "Name": "场景测试(中国船货仓）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2272,7 +2272,7 @@
     {
         "Id": 95000133,
         "Behavior": 95000133,
-        "Name": "シーンテスト（中国船バベルの塔）",
+        "Name": "场景测试(中国船巴别塔）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -2315,6 +2315,204 @@
         "CameraId": 9,
         "Terrains": [
             950001350
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000136,
+        "Behavior": 95000136,
+        "Name": "场景测试(中国城工业区）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001360
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000137,
+        "Behavior": 95000137,
+        "Name": "场景测试(中国城工业区）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001370
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000138,
+        "Behavior": 95000138,
+        "Name": "场景测试(中国城商业区）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001380
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000139,
+        "Behavior": 95000139,
+        "Name": "场景测试(中国城平民窟）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001390
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000140,
+        "Behavior": 95000140,
+        "Name": "场景测试(中国城庭院）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001400
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000141,
+        "Behavior": 95000141,
+        "Name": "场景测试(中国城塔顶）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            950001410
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000142,
+        "Behavior": 95000142,
+        "Name": "场景测试(中国城潜行）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            950001420
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000143,
+        "Behavior": 95000143,
+        "Name": "场景测试(摩托车赛道）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 71,
+        "CameraId": 9,
+        "Terrains": [
+            950001430
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000144,
+        "Behavior": 95000144,
+        "Name": "场景测试(感染体沙滩）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            950001440
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000145,
+        "Behavior": 95000145,
+        "Name": "场景测试(感染体游乐场）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            950001450
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 95000146,
+        "Behavior": 95000146,
+        "Name": "场景测试(感染体沙滩）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            950001460
         ],
         "Position": [
             "0|0|0"

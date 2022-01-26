@@ -736,5 +736,54 @@
             1011003
         ],
         "HateCharIds": []
+    },
+    {
+        "Id": 1131002,
+        "Type": 2,
+        "Model": "Assets/Product/Role/Room/Prefab/QR2WeilaMd010011.prefab",
+        "Name": "Vera: Rozen",
+        "NameFrist": "Vera",
+        "NameLast": "Rozen",
+        "HeadRoundIcon": "Assets/Product/Texture/Image/Role/RoleHeadWeila3Q.png",
+        "HeadIcon": "Assets/Product/Texture/Image/Role/RoleHeadWeilaQ.png",
+        "ExpFondleWidgetHeight": 0.85,
+        "ExpDetailWidgetHeight": 0.7,
+        "PutOnWidgetHight": 1.2,
+        "DailogWidgetHight": 1.4,
+        "DailogTouchHight": 0.51,
+        "EffectWidgetHight": 1,
+        "TouchWidgetHight": 0.6,
+        "LoveType": 1,
+        "LikeType": 2,
+        "LikeCharIds": [],
+        "HateCharIds": [
+            81600
+        ]
+    },
+    {
+        "Id": 1511003,
+        "Type": 6,
+        "Model": "Assets/Product/Role/Room/Prefab/QR2KamuMd010011.prefab",
+        "Name": "Camu: Crocotta",
+        "NameFrist": "Camu",
+        "NameLast": "Crocotta",
+        "HeadRoundIcon": "Assets/Product/Texture/Image/Role/RoleHeadKamu3Q.png",
+        "HeadIcon": "Assets/Product/Texture/Image/Role/RoleHeadKamuQ.png",
+        "ExpFondleWidgetHeight": 0.85,
+        "ExpDetailWidgetHeight": 0.7,
+        "PutOnWidgetHight": 1.2,
+        "DailogWidgetHight": 1.4,
+        "DailogTouchHight": 0.51,
+        "EffectWidgetHight": 1,
+        "TouchWidgetHight": 0.6,
+        "LoveType": 3,
+        "LikeType": 2,
+        "LikeCharIds": [
+            1061002,
+            1061003
+        ],
+        "HateCharIds": [
+            81600
+        ]
     }
 ]

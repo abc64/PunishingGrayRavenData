@@ -1,22 +1,70 @@
 [
     {
         "Id": 1,
-        "StageId": 30001301
+        "StageId": 30001401,
+        "StageAttention": [
+            "Have fun with Shark-speare, even though you might take a beating."
+        ],
+        "StageAttentionTitle": [
+            "Let's Play"
+        ]
     },
     {
         "Id": 2,
-        "StageId": 30001302
+        "StageId": 30001402,
+        "StageAttention": [
+            "Shark-speare decides to go all out. Her <color=#34aff9>ATK is boosted</color>, and she gets the skill <color=#34aff9>Lightning Mine</color>.",
+            "Shark-speare's raincoat is naturally known as an excellent insulator. You haven't noticed it just because it slipped your mind. <color=#34aff9>(Lightning Resistance boosted)</color>"
+        ],
+        "StageAttentionTitle": [
+            "Go All Out",
+            "Lightning Resistance"
+        ]
     },
     {
         "Id": 3,
-        "StageId": 30001303
+        "StageId": 30001403,
+        "StageAttention": [
+            "Shark-speare seems to have been triggered a little bit. She <color=#34aff9>has changed her form</color>. When her <color=#34aff9>HP is below 50%</color>, she will become much more aggressive.",
+            "Her bionic design and streamlined appearance make her harder to be hit by ranged attacks. <color=#34aff9>(Takes less DMG from attacks from beyond 3m)</color>",
+            "After using <color=#34aff9>Berserk Quintuple Combo</color>, Shark-speare will be <color=#34aff9>paralyzed</color> briefly due to frame overloading."
+        ],
+        "StageAttentionTitle": [
+            "Mutate",
+            "Closed Loop",
+            "Weakness"
+        ]
     },
     {
         "Id": 4,
-        "StageId": 30001304
+        "StageId": 30001404,
+        "StageAttention": [
+            "Shark-speare grows desperate. <color=#34aff9>When her HP is below 50%</color>, she will be much more aggressive. She also gets the skills <color=#34aff9>Lightning Mine</color> and <color=#34aff9>Penetration</color>.",
+            "Her bionic design and streamlined appearance make her harder to be hit by ranged attacks. <color=#34aff9>(Takes less DMG from attacks from beyond 3m)</color>",
+            "Punishing Virus has greatly increased Shark-speare's aggressiveness, but also rendered her consciousness signal unstable. <color=#34aff9>(Dark Resistance decreased)</color>",
+            "After using <color=#34aff9>Berserk Quintuple Combo</color>, Shark-speare will be <color=#34aff9>paralyzed</color> briefly due to frame overloading."
+        ],
+        "StageAttentionTitle": [
+            "Trick and Cheat",
+            "Closed Loop",
+            "Nyctophobia",
+            "Weakness"
+        ]
     },
     {
         "Id": 5,
-        "StageId": 30001305
+        "StageId": 30001405,
+        "StageAttention": [
+            "Shark-speare goes berserk. Her <color=#34aff9>aggressiveness is boosted dramatically</color>, and she gets the skills <color=#34aff9>Lightning Mine</color> and <color=#34aff9>Penetration</color>.",
+            "Her bionic design and streamlined appearance make her harder to be hit by ranged attacks. <color=#34aff9>(Takes less DMG from attacks from beyond 3m)</color>",
+            "Punishing Virus has greatly increased Shark-speare's aggressiveness, but also rendered her consciousness signal unstable. <color=#34aff9>(Dark Resistance decreased)</color>",
+            "Shark-speare is unleashing a storm of attacks. It would be wiser to <color=#34aff9>dodge and then counterattack</color>."
+        ],
+        "StageAttentionTitle": [
+            "Berserk",
+            "Closed Loop",
+            "Nyctophobia",
+            "Seamless Armor"
+        ]
     }
 ]

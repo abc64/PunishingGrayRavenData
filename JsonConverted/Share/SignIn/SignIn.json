@@ -81,8 +81,8 @@
             1005
         ],
         "OpenLevel": 20,
-        "StartTimeStr": "2020/1/24 5:00",
-        "CloseTimeStr": "2020/2/5 23:59",
+        "StartTimeStr": "2022/1/29 7:00",
+        "CloseTimeStr": "2022/2/12 6:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     },
@@ -132,8 +132,27 @@
             1008
         ],
         "OpenLevel": 20,
-        "StartTimeStr": "2021/12/22 2:00",
-        "CloseTimeStr": "2022/1/12 6:59",
+        "StartTimeStr": "2020/6/10 5:00",
+        "CloseTimeStr": "2020/6/25 5:00",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 11,
+        "Name": "Grand Blue Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignShuishangleyuanNew.prefab",
+        "Type": 2,
+        "RoundDays": [
+            7,
+            7
+        ],
+        "SubRoundId": [
+            1009,
+            1010
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2022/1/26 2:00",
+        "CloseTimeStr": "2022/2/23 6:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     },
@@ -217,6 +236,23 @@
         "OpenLevel": 20,
         "StartTimeStr": "2022/1/14 7:00",
         "CloseTimeStr": "2022/1/21 6:59",
+        "IsShowWhenDayOver": 0,
+        "IsShowWhenSignOver": 0
+    },
+    {
+        "Id": 1300040,
+        "Name": "Lantern Fest. Sign-in",
+        "PrefabPath": "Assets/Product/Ui/ComponentPrefab/Sign/SignLanternFestival.prefab",
+        "Type": 2,
+        "RoundDays": [
+            5
+        ],
+        "SubRoundId": [
+            1300040
+        ],
+        "OpenLevel": 20,
+        "StartTimeStr": "2022/2/13 7:00",
+        "CloseTimeStr": "2022/2/20 6:59",
         "IsShowWhenDayOver": 0,
         "IsShowWhenSignOver": 0
     }

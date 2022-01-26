@@ -25,7 +25,8 @@
             30130107,
             30130108,
             30130109
-        ]
+        ],
+        "StageName": []
     },
     {
         "Id": 2,
@@ -58,7 +59,8 @@
             30110111,
             30110112,
             30110113
-        ]
+        ],
+        "StageName": []
     },
     {
         "Id": 3,
@@ -75,22 +77,23 @@
         "TitleIcon": "Assets/Product/Texture/Image/UiFubenChristmas/UiFubenChristmasImg1.png",
         "TitleBg": "Assets/Product/Texture/Image/UiFubenChristmas/UiFubenChristmasTitleBg.png",
         "ChapterBgm": 11,
-        "BeginTimeStr": "2020/1/19 5:00",
-        "EndTimeStr": "2020/2/2 5:00",
+        "BeginTimeStr": "2022/1/29 7:00",
+        "EndTimeStr": "2022/2/12 6:59",
         "StageId": [
-            30090318,
-            30090317,
-            30090316,
-            30090315,
-            30090314,
-            30090313,
-            30090312,
-            30090311,
             30090310,
-            30090309,
+            30090311,
+            30090312,
+            30090313,
+            30090314,
+            30090315,
+            30090316,
+            30090317,
+            30090318,
+            30090307,
             30090308,
-            30090307
-        ]
+            30090309
+        ],
+        "StageName": []
     },
     {
         "Id": 4,
@@ -121,7 +124,8 @@
             30130209,
             30130210,
             30130211
-        ]
+        ],
+        "StageName": []
     },
     {
         "Id": 5,
@@ -138,8 +142,8 @@
         "TitleIcon": "Assets/Product/Texture/Image/UiFubenDuanwu/UiFubenDuanwuImg01.png",
         "TitleBg": "Assets/Product/Texture/Image/UiFubenDuanwu/UiFubenDuanwuBg01.png",
         "ChapterBgm": 5,
-        "BeginTimeStr": "2020/6/25 5:00",
-        "EndTimeStr": "2020/7/2 5:00",
+        "BeginTimeStr": "2020/6/12 5:00",
+        "EndTimeStr": "2020/6/13 5:00",
         "StageId": [
             30130301,
             30130302,
@@ -148,7 +152,8 @@
             30130305,
             30130306,
             30130307
-        ]
+        ],
+        "StageName": []
     },
     {
         "Id": 6,
@@ -171,11 +176,12 @@
             10130150,
             10130151,
             10130152
-        ]
+        ],
+        "StageName": []
     },
     {
         "Id": 7,
-        "Name": "Summer Game",
+        "Name": "Summer Pockets",
         "Priority": 7,
         "FunctionOpenId": 10306,
         "StagePrefix": "SDW-",
@@ -187,9 +193,9 @@
         "GridStoryPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageJuqingSwimming.prefab",
         "TitleIcon": "Assets/Product/Texture/Image/UiFubenSwimming/FubenSwimmingImg01.png",
         "TitleBg": "Assets/Product/Texture/Image/UiFubenSwimming/FubenSwimmingBg01.png",
-        "ChapterBgm": 205,
-        "BeginTimeStr": "2020/7/9 5:00",
-        "EndTimeStr": "2020/7/23 5:00",
+        "ChapterBgm": 32,
+        "BeginTimeStr": "2022/1/26 2:00",
+        "EndTimeStr": "2022/2/9 6:59",
         "StageId": [
             30130401,
             30130402,
@@ -198,6 +204,89 @@
             30130405,
             30130406,
             30130407
+        ],
+        "StageName": []
+    },
+    {
+        "Id": 8,
+        "Name": "Moonlit Night",
+        "Priority": 8,
+        "FunctionOpenId": 10306,
+        "StagePrefix": "DSF-",
+        "BannerBg": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner14.png",
+        "ChapterType": 27,
+        "MainBackgound": "Assets/Product/Texture/Image/UiFubenQiXi/FubenQiXiBg.png",
+        "FubenPrefab": "Assets/Product/Ui/ComponentPrefab/FubenQiXi/FuBenQiXiStrong.prefab",
+        "GridFubenPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageFightSwimming.prefab",
+        "GridStoryPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageJuqingSwimming.prefab",
+        "TitleIcon": "Assets/Product/Texture/Image/UiFubenQiXi/FubenQiXiImg01.png",
+        "TitleBg": "Assets/Product/Texture/Image/UiFubenQiXi/FubenQiXiBg01.png",
+        "ChapterBgm": 5,
+        "BeginTimeStr": "2020/6/12 5:00",
+        "EndTimeStr": "2020/6/18 5:00",
+        "StageId": [
+            30130501,
+            30130502,
+            30130503,
+            30130504
+        ],
+        "StageName": [
+            "DSF-1",
+            "DSF-2",
+            "DSF-3",
+            "SNM"
         ]
+    },
+    {
+        "Id": 9,
+        "Name": "Fist of the Taoist",
+        "Priority": 9,
+        "FunctionOpenId": 10306,
+        "SkipId": 20029,
+        "StagePrefix": "ZYG-",
+        "BannerBg": "Assets/Product/Texture/Image/UiFubenDuanwu/FubenActivityBanner15.png",
+        "ChapterType": 27,
+        "MainBackgound": "Assets/Product/Texture/Image/UiFubenZhongYuan/fubenZhongYuanGamebg.png",
+        "FubenPrefab": "Assets/Product/Ui/ComponentPrefab/FubenZhongYuan/FuBenZhongYuanStrong.prefab",
+        "GridFubenPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageFightZhongYuan.prefab",
+        "GridStoryPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageJuqingZhongYuan.prefab",
+        "TitleIcon": "Assets/Product/Texture/Image/UiFubenZhongYuan/FubenZhongYuanImg01.png",
+        "TitleBg": "Assets/Product/Texture/Image/UiFubenZhongYuan/FubenZhongYuanBg01.png",
+        "ChapterBgm": 205,
+        "BeginTimeStr": "2020/8/27 5:00",
+        "EndTimeStr": "2020/9/3 5:00",
+        "StageId": [
+            30130701,
+            30130702,
+            30130703,
+            30130704,
+            30130705,
+            30130706
+        ],
+        "StageName": []
+    },
+    {
+        "Id": 10,
+        "Name": "Snow Tracks",
+        "Priority": 10,
+        "FunctionOpenId": 10306,
+        "StagePrefix": "RTP-",
+        "BannerBg": "Assets/Product/Texture/Image/UiFubenActivityBanner/FubenActivityBanner10.png",
+        "ChapterType": 27,
+        "MainBackgound": "Assets/Product/Texture/Image/UIFubenYure/FubenYureBg01.png",
+        "FubenPrefab": "Assets/Product/Ui/ComponentPrefab/FubenYure/FuBenYureLuosaita.prefab",
+        "GridFubenPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageFightLuosaita.prefab",
+        "GridStoryPrefab": "Assets/Product/Ui/ComponentPrefab/GridStage/GridStageJuqingLuosaita.prefab",
+        "TitleIcon": "Assets/Product/Texture/Image/UIFubenYure/FubenYureCD01.png",
+        "TitleBg": "Assets/Product/Texture/Image/UIFubenYure/FubenYureTitle01.png",
+        "ChapterBgm": 8,
+        "BeginTimeStr": "2022/2/23 7:00",
+        "EndTimeStr": "2022/3/2 1:59",
+        "StageId": [
+            15020150,
+            15020151,
+            15020152
+        ],
+        "StageName": []
     }
 ]

@@ -144,15 +144,15 @@
         ]
     },
     {
-        "Id": 30150224,
-        "Behavior": 30150224,
-        "Name": "三角队伍",
+        "Id": 30150231,
+        "Behavior": 30150231,
+        "Name": "巴别塔第一关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
-            301502240
+            301502310
         ],
         "Position": [
             "0|0|0"
@@ -162,18 +162,56 @@
         ]
     },
     {
-        "Id": 30150225,
-        "Behavior": 30150225,
-        "Name": "整体队伍",
+        "Id": 30150232,
+        "Behavior": 30150232,
+        "Name": "巴别塔第二关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
-            301502250
+            301502320
         ],
         "Position": [
             "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30150233,
+        "Behavior": 30150233,
+        "Name": "巴别塔第三关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            301502330
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30150234,
+        "Behavior": 30150234,
+        "Name": "巴别塔第四关",
+        "Environment": "Scene01303",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            301502340
+        ],
+        "Position": [
+            58.3
         ],
         "Rotation": [
             "0|0|0"

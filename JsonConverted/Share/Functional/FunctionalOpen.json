@@ -77,7 +77,7 @@
     },
     {
         "Id": 102,
-        "Name": "Construct - Promote",
+        "Name": "Member-Promote",
         "Priority": 8,
         "Hint": 1,
         "Condition": [
@@ -95,10 +95,20 @@
     },
     {
         "Id": 104,
-        "Name": "Construct - Skill",
+        "Name": "Member-Skills",
         "Priority": 10,
         "Hint": 1,
         "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 106,
+        "Name": "Member - Transcendant",
+        "Priority": 10,
+        "Hint": 1,
+        "Condition": [
+            8005
+        ],
         "Type": 1
     },
     {
@@ -323,8 +333,10 @@
         "Id": 1901,
         "Name": "Guild",
         "Priority": 38,
-        "Hint": 0,
-        "Condition": [],
+        "Hint": 1,
+        "Condition": [
+            770710
+        ],
         "Type": 1
     },
     {
@@ -341,6 +353,16 @@
         "Priority": 38,
         "Hint": 0,
         "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 1904,
+        "Name": "Guild Boss",
+        "Priority": 38,
+        "Hint": 1,
+        "Condition": [
+            772310
+        ],
         "Type": 1
     },
     {
@@ -467,7 +489,7 @@
     },
     {
         "Id": 10304,
-        "Name": "Event [Azure Scar]",
+        "Name": "Brutal Level",
         "Priority": 44,
         "Hint": 0,
         "Condition": [
@@ -556,6 +578,54 @@
         "Type": 1
     },
     {
+        "Id": 10314,
+        "Name": "Extra Story",
+        "Priority": 50,
+        "Hint": 0,
+        "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10315,
+        "Name": "Autopoiesis Maze",
+        "Priority": 50,
+        "Hint": 1,
+        "Condition": [
+            84700201
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10316,
+        "Name": "Special Training",
+        "Priority": 51,
+        "Hint": 0,
+        "Condition": [
+            774800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10317,
+        "Name": "Special Training Minigame",
+        "Priority": 51,
+        "Hint": 0,
+        "Condition": [
+            774800
+        ],
+        "Type": 1
+    },
+    {
+        "Id": 10319,
+        "Name": "Ghost Festival Minigame",
+        "Priority": 53,
+        "Hint": 0,
+        "Condition": [
+            772250
+        ],
+        "Type": 1
+    },
+    {
         "Id": 10401,
         "Name": "Resource Mission",
         "Priority": 33,
@@ -597,7 +667,7 @@
     },
     {
         "Id": 10406,
-        "Name": "Resource - Special Training",
+        "Name": "Resources-Special Training",
         "Priority": 38,
         "Hint": 1,
         "Condition": [
@@ -757,7 +827,7 @@
     },
     {
         "Id": 105,
-        "Name": "Construct Army",
+        "Name": "Army",
         "Priority": 55,
         "Hint": 1,
         "Condition": [
@@ -1015,6 +1085,16 @@
         "Priority": 105,
         "Hint": 0,
         "Condition": [],
+        "Type": 1
+    },
+    {
+        "Id": 10450,
+        "Name": "Resource Shop",
+        "Priority": 106,
+        "Hint": 1,
+        "Condition": [
+            10450
+        ],
         "Type": 1
     }
 ]

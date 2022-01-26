@@ -187,7 +187,7 @@
         "CharacterID": 1031002,
         "Pic": "Assets/Product/Texture/Image/UiFightTips/UiFightTipsJiaoxueR2Lifu01.png",
         "Title": "Reversed Egretfield",
-        "Description": "Attacking a marked enemy with Basic Attacks and Red Orb may trigger Lightning Lure. The 5th trigger will make Ex - Lightning Lure, dealing Lightning DMG to enemies and healing the allies in the area.",
+        "Description": "Attacking a marked enemy with Basic Attacks and Red Orb attacks may trigger Lightning Lure. The 5th trigger will activate Ex - Lightning Lure, dealing Lightning DMG to enemies and healing allies in the area.",
         "NextTrialID": 25
     },
     {
@@ -371,5 +371,54 @@
         "Title": "Final - Halcyonic Blossoms",
         "Description": "The more Signature Points you have in Arctic Form, Signature deals more DMG. Unleash Final - Halcyonic Blossoms when you have 4 Signature Points. After that, Plume returns to Normal Form with 0 Energy.",
         "NextTrialID": 44
+    },
+    {
+        "Id": 48,
+        "CharacterID": 1131002,
+        "Title": "Mass Illusion",
+        "Description": "Overclock Pts are earned automatically over time or through pinging Signal Orbs. Once Vera has enough Overclock Pts, long tap the Basic Attack to launch her Core Attack.",
+        "NextTrialID": 49
+    },
+    {
+        "Id": 49,
+        "CharacterID": 1131002,
+        "Title": "Mass Illusion",
+        "Description": "Vera's Core Attack deals Dark DMG in an area, and Physical DMG to targets in melee range. Vera will consume Overclock Pts and gain energy when casting her Core Attack.",
+        "NextTrialID": 48
+    },
+    {
+        "Id": 50,
+        "CharacterID": 1511003,
+        "Title": "Instinct Unlocked",
+        "Description": "Signature Move: Upon entering Berserk mode, earn Dark Impulse for Super Armor that depletes over time. Once all Energy has depleted, Berserk mode will deactivate.",
+        "NextTrialID": 51
+    },
+    {
+        "Id": 51,
+        "CharacterID": 1511003,
+        "Title": "Instinct Unlocked",
+        "Description": "While in Berserk, taking damage will deplete Dark Impulse. Entering the Matrix will not deplete Dark Impulse.",
+        "NextTrialID": 52
+    },
+    {
+        "Id": 52,
+        "CharacterID": 1511003,
+        "Title": "Instinct Unlocked",
+        "Description": "Special red, yellow and blue signal orbs are used while in a Berserk state, with the upper limit of each signal orbs being 1. Each ping is regarded as a 3-ping; cleared orbs will regenerate in 2 seconds with up to 3 signal orbs recovering at once.",
+        "NextTrialID": 53
+    },
+    {
+        "Id": 53,
+        "CharacterID": 1511003,
+        "Title": "Surging Madness",
+        "Description": "Core Passive: While in a normal state, any 3-ping will generate stacks of Surge (max 3). Once Surge is at max level, any 3-ping will generate additional Signature Move Energy.",
+        "NextTrialID": 54
+    },
+    {
+        "Id": 54,
+        "CharacterID": 1511003,
+        "Title": "Surging Madness",
+        "Description": "When entering Berserk mode, spend all Rage stacks. While Berserk, deal increased DMG equal to the amount of Rage stacks consumed.",
+        "NextTrialID": 50
     }
 ]

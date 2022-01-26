@@ -631,6 +631,295 @@
         "Magic": 770070000
     },
     {
+        "Id": 770076,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700760,
+        "Magic": 770076000
+    },
+    {
+        "Id": 770077,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 5,
+        "Cd": 0,
+        "Kind": 7700770
+    },
+    {
+        "Id": 770079,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700790,
+        "Magic": 770079000
+    },
+    {
+        "Id": 770080,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 3,
+        "Cd": 0,
+        "Kind": 7700800
+    },
+    {
+        "Id": 770082,
+        "Delay": 0,
+        "Duration": 3,
+        "EffectType": 203,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7700820|203|200|5",
+        "Magic": 770082000,
+        "Effect": "FxTongyongJiansu",
+        "EffectJoint": "Root"
+    },
+    {
+        "Id": 770083,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700830,
+        "Magic": 770083000
+    },
+    {
+        "Id": 770084,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700840,
+        "Magic": 770084000
+    },
+    {
+        "Id": 770085,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700850,
+        "Magic": 770085000
+    },
+    {
+        "Id": 770086,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700860,
+        "Magic": 770086000
+    },
+    {
+        "Id": 770087,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700870,
+        "Magic": 770087000
+    },
+    {
+        "Id": 770088,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700880,
+        "Magic": 770088000
+    },
+    {
+        "Id": 770089,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700890,
+        "Magic": 770089000
+    },
+    {
+        "Id": 770090,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700900,
+        "Magic": 770090000
+    },
+    {
+        "Id": 770091,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700910,
+        "Magic": 770091000
+    },
+    {
+        "Id": 770092,
+        "Delay": 0,
+        "Duration": "-1",
+        "EffectType": 102,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7700920|102|100|6",
+        "Magic": 770092000,
+        "Effect": "FxTongyongJiafang",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 770093,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700930,
+        "Cover": "7700830|7700840|7700850",
+        "Mutex": "7700830|7700840|7700850",
+        "Magic": 770093000
+    },
+    {
+        "Id": 770094,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700940
+    },
+    {
+        "Id": 770095,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700950
+    },
+    {
+        "Id": 770096,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700960
+    },
+    {
+        "Id": 770097,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700970,
+        "Magic": 770097000
+    },
+    {
+        "Id": 770098,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700980,
+        "Cover": "7700980|7700990|7701000|7701010|7701020|7701030",
+        "Effect": "FxCizhuiDuanlu0101",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770099,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7700990,
+        "Cover": "7700980|7700990|7701000|7701010|7701020|7701030",
+        "Effect": "FxCizhuiDuanlu0102",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770100,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701000,
+        "Cover": "7700980|7700990|7701000|7701010|7701020|7701030",
+        "Effect": "FxCizhuiDuanlu0103",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770101,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701010,
+        "Cover": "7700980|7700990|7701000|7701010|7701020|7701030",
+        "Effect": "FxCizhuiDuanlu0104",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770102,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701020,
+        "Cover": "7700980|7700990|7701000|7701010|7701020",
+        "Effect": "FxCizhuiDuanlu0105",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770103,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701030,
+        "Cover": "7700980|7700990|7701000|7701010|7701030"
+    },
+    {
+        "Id": 770104,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701040,
+        "Cover": "7701040|7701050|7701060|7701070",
+        "Effect": "FxCizhuiDuanlu0201",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770105,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701050,
+        "Cover": "7701040|7701050|7701060|7701070",
+        "Effect": "FxCizhuiDuanlu0202",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770106,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701060,
+        "Cover": "7701040|7701050|7701060",
+        "Effect": "FxCizhuiDuanlu0203",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 770107,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7701070,
+        "Cover": "7701040|7701050|7701070"
+    },
+    {
         "Id": 770500,
         "Delay": 0,
         "Duration": "-1",
@@ -1219,6 +1508,24 @@
         "Cd": 0,
         "Kind": 7705650,
         "Magic": 770565000
+    },
+    {
+        "Id": 770566,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7705660,
+        "Magic": 770566000
+    },
+    {
+        "Id": 770567,
+        "Delay": 0,
+        "Duration": 8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "7705670|202|200|5",
+        "Magic": 770567000
     },
     {
         "Id": 771001,
@@ -3179,10 +3486,13 @@
         "Id": 771689,
         "Delay": 0,
         "Duration": 5,
+        "EffectType": 101,
         "Limit": 5,
         "Cd": 0,
         "Kind": "7716890|101|100|6",
-        "Magic": 771689000
+        "Magic": 771689000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
     },
     {
         "Id": 771690,
@@ -3518,6 +3828,24 @@
         "Magic": 771728000,
         "Effect": "FxTongyongBati",
         "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 771729,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7717290,
+        "Magic": 771729000
+    },
+    {
+        "Id": 771730,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7717300,
+        "Magic": 771730000
     },
     {
         "Id": 772000,
@@ -3898,5 +4226,196 @@
         "Cd": 0,
         "Kind": 7720770,
         "Magic": 772077000
+    },
+    {
+        "Id": 772078,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720780,
+        "Magic": 772078000
+    },
+    {
+        "Id": 772079,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720790,
+        "Magic": 772079000
+    },
+    {
+        "Id": 772080,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720800,
+        "Magic": 772080000
+    },
+    {
+        "Id": 772081,
+        "Delay": 0,
+        "Duration": 2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720810,
+        "Effect": "FxCizhuiYanwu2s",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 772082,
+        "Delay": 0,
+        "Duration": 4,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720820,
+        "Effect": "FxCizhuiYanwu4s",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 772083,
+        "Delay": 0,
+        "Duration": 6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720830,
+        "Effect": "FxCizhuiYanwu6s",
+        "EffectJoint": "MarkCase"
+    },
+    {
+        "Id": 772084,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720840,
+        "Magic": 772084000
+    },
+    {
+        "Id": 772085,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720850,
+        "Magic": 772085000
+    },
+    {
+        "Id": 772086,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720860,
+        "Magic": 772086000
+    },
+    {
+        "Id": 772087,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720870,
+        "Magic": 772087000
+    },
+    {
+        "Id": 772088,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720880,
+        "Magic": 772088000
+    },
+    {
+        "Id": 772089,
+        "Delay": 0,
+        "Duration": 0.2,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7720890
+    },
+    {
+        "Id": 772090,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720900,
+        "Magic": 772090000
+    },
+    {
+        "Id": 772093,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720930
+    },
+    {
+        "Id": 772094,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720940
+    },
+    {
+        "Id": 772095,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720950
+    },
+    {
+        "Id": 772096,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720960
+    },
+    {
+        "Id": 772097,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720970
+    },
+    {
+        "Id": 772098,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720980
+    },
+    {
+        "Id": 772099,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7720990
+    },
+    {
+        "Id": 772100,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7721000
+    },
+    {
+        "Id": 772101,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7721010
     }
 ]

@@ -1,14 +1,13 @@
 [
     {
         "Id": 1,
-        "BeginTimeStr": "2019/3/14 0:00",
-        "EndTimeStr": "2020/1/31 5:00",
+        "BeginTimeStr": "2022/1/29 7:00",
+        "EndTimeStr": "2022/2/12 6:59",
         "StageList": [
             30090106,
             30090306
         ],
         "StageTypeList": [
-            15,
             2
         ],
         "DropIds": [
@@ -17,13 +16,12 @@
     },
     {
         "Id": 2,
-        "BeginTimeStr": "2020/7/9 10:00",
-        "EndTimeStr": "2020/8/6 9:59",
+        "BeginTimeStr": "2022/1/26 2:00",
+        "EndTimeStr": "2022/2/23 6:59",
         "StageList": [],
         "StageTypeList": [
             1,
             7,
-            16,
             21,
             25
         ],
@@ -33,8 +31,8 @@
     },
     {
         "Id": 3,
-        "BeginTimeStr": "2020/7/9 10:00",
-        "EndTimeStr": "2020/8/6 9:59",
+        "BeginTimeStr": "2022/1/26 2:00",
+        "EndTimeStr": "2022/2/23 6:59",
         "StageList": [
             30130403,
             30130404,
@@ -60,8 +58,6 @@
             30090559
         ],
         "StageTypeList": [],
-        "DropIds": [
-            4
-        ]
+        "DropIds": []
     }
 ]

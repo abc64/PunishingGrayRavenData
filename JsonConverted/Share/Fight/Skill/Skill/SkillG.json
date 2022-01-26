@@ -208,6 +208,7 @@
         "CastTime": 2.2,
         "AfterTime": 0,
         "Animation": "Attack01",
+        "FinalMagicIds": 700031,
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillFaceType": 0
@@ -478,6 +479,7 @@
         "CastTime": 1.5,
         "AfterTime": 0,
         "Animation": "Attack04",
+        "FinalMagicIds": 901926,
         "DistNoTarget": 10,
         "SkillMoveType": 6,
         "SkillFaceType": 4
@@ -591,6 +593,7 @@
         "CastTime": 1.4,
         "AfterTime": 0,
         "Animation": "Attack03",
+        "FinalMagicIds": 905073,
         "DistNoTarget": 10,
         "SkillMoveType": 2,
         "SkillFaceType": 0
@@ -648,9 +651,10 @@
     {
         "Id": 902106,
         "Name": "重构屠夫冲锋-冲锋",
-        "CastTime": 3,
+        "CastTime": 9999,
         "AfterTime": 0,
         "Animation": "Attack06",
+        "FinalMagicIds": 902119,
         "DistNoTarget": 10,
         "SkillMoveType": 6,
         "MissileLockTarget": 1,

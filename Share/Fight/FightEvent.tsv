@@ -103,6 +103,7 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 21131	Upon triggering QTE, heals the construct for 15% of maximum HP.		771616							
 21211	Fire DMG increases by 30%		771651							
 21221	Lightning DMG increases by 30%		771650							
+21231	Ice DMG increases by 30%.		762202							
 21261	During Simulation, Construct's Extra DMG Reduction increases by 45%		771648							
 21271	During Simulation, Construct's Extra DMG Reduction increases by 30%		771649							
 22051	During Simulation, the healing effect for the deployed Constructs increases by 25%.		771631							
@@ -124,6 +125,10 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 22211	The deployed Constructs' HP increases by 45%		771501							
 22221	Constructs on field gain 3 Signal Orb of the same color every 3s		771673							
 22231	Basic Attack's Extra DMG Bonus increases by 15%.		771677							
+22241	Increases the Construct's Signature gauge accumulation speed by 1%.		771572							
+22251	Limit of Dodge Gauge increases by 700.		773136							
+22261	Limit of Dodge Gauge increases by 400.		773135							
+22271	Increases the Signature gauge accumulation speed by 2%.		771573							
 31071	Movement Speed of enemies increases by 5%-40%. The farther away from the target, the higher the Movement Speed becomes.						780211			
 31072	Movement Speed of enemies increases moderately. The farther away from the target, the higher the Movement Speed becomes.						780211			
 31073	Movement Speed of enemies increases significantly. The farther away from the target, the higher the Movement Speed becomes.						780211			
@@ -191,6 +196,32 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 33121	Generates an energy shield that deals 5% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780690			
 33122	Generates an energy shield that deals 7% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780691			
 33123	Generates an energy shield that deals 10% Physical DMG to the attackers. Lasts 3s. 16s cooldown.						780692			
+33131	Your sight distance is reduced by 60% by a haze of smoke for 2s.		772096							
+33132	Your sight distance is reduced by 60% by a haze of smoke for 4s.		772097							
+33133	Your sight distance is reduced by 60% by a haze of smoke for 6s.		772098							
+33141	After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 2s.						770094			
+33142	After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 4s.						770095			
+33143	After triggering a mine, your sight distance is reduced by 60% by a haze of smoke for 6s.						770096			
+33151	Triggering a mine will create a burning area. Units that stay inside this area over 1.5s will become burned (emitting an orange glow) and take burning DMG equal to 20% of the caster's ATK per second for 2s. This DMG will not interrupt actions.						772095			
+33161	Spawns 3 NPCs around the enemy. All of their stats are 10% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.						770083			
+33162	Spawns 3 NPCs around the enemy. All of their stats are 20% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.						770084			
+33163	Spawns 3 NPCs around the enemy. All of their stats are 30% of their original ones. Spawned NPCs will not attack and move. The boss receives 80% less damage before all 3 NPCs are destroyed.						770085			
+33171	When the attack effect is stacked to 5 times, you will be stunned for 1s. After that, the stacks will start counting up again after 8s.						770076			
+33172	When the attack effect is stacked to 3 times, you will be stunned for 1s. After that, the stacks will start counting up again after 8s.						770079			
+33181	Your attacks increase Ice DMG by 45% for 8s. 8s cooldown.						770566			
+33191	Phase 3 Babel Environment Affix									
+33201	Dealing DMG has a 15% chance to inflict "Corruption" for 5s. Cannot be stacked. 8s cooldown on each enemy.						773085			
+33211	There will be an increased amount of enemies.		772094							
+33221	Enemy attacks have a 10% chance to deal additional 10% Lightning DMG and inflict "Electrocute".		772101							
+33222	Enemy attacks have a 15% chance to deal additional 15% Lightning DMG and inflict "Electrocute".		772101							
+33223	Enemy attacks have a 20% chance to deal additional 20% Lightning DMG and inflict "Electrocute".		772101							
+33231	Enemies gain 15% ATK for every 20% HP lost.						772093			
+33241	Enemy attacks have a 10% chance to deal additional 10% Dark DMG and stun their target for 1s.		772100							
+33242	Enemy attacks have a 15% chance to deal additional 15% Dark DMG and stun their target for 1s.		772100							
+33243	Enemy attacks have a 20% chance to deal additional 20% Dark DMG and stun their target for 1s.		772100							
+33251	Enemy attacks have a 10% chance to deal additional 10% Ice DMG and freeze their target for 1s.		772099							
+33252	Enemy attacks have a 15% chance to deal additional 15% Ice DMG and freeze their target for 1s.		772099							
+33253	Enemy attacks have a 20% chance to deal additional 20% Ice DMG and freeze their target for 1s.		772099							
 40000	Extra DMG Bonus increases by 8%		761138							
 40001	Extra DMG Bonus increases by 16%		761139							
 40002	Extra DMG Bonus increases by 24%		761140							
@@ -351,6 +382,27 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 52010	Healing effect increases by 15%. Increases the Extra Damage Bonus of targets healed by 20% for 5s.		773279							
 52011	Characters in combat gain 8% CRIT every second. After landing a critical hit, gain "Guaranteed Critical" effect for 2s. This effect has a 15s cooldown.		773284							
 52012	Characters in combat gain 3 Energy every second.		773282							
+52013	Basic Attacks deal additional Ice DMG equal to 50% of self ATK.		773300							
+52014	Basic Attacks deal additional Ice DMG equal to 70% of self ATK.		773301							
+52015	Basic Attacks deal additional Ice DMG equal to 100% of self ATK.		773302							
+52016	Basic Attacks deal additional Dark DMG equal to 50% of self ATK.		773303							
+52017	Basic Attacks deal additional Dark DMG equal to 70% of self ATK.		773304							
+52018	Basic Attacks deal additional Dark DMG equal to 100% of self ATK.		773305							
+52019	Ice DMG increases by 10%.		773306							
+52020	Ice DMG increases by 20%.		773307							
+52021	Ice DMG increases by 30%.		773308							
+52022	Dark DMG increases by 10%.		773309							
+52023	Dark DMG increases by 20%.		773310							
+52024	Dark DMG increases by 30%.		773311							
+52025	Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 50% of max HP. Immune to any attacks when the shield exists. CD: 15s.		773312							
+52026	Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 75% of max HP. Immune to any attacks when the shield exists. CD: 15s.		773313							
+52027	Dealing Ice DMG has a 20% chance to grant self an ice shield equal to 100% of max HP. Immune to any attacks when the shield exists. CD: 15s.		773314							
+52031	Ice DMG has a 10% chance to freeze the enemy for 3s. It can only be triggered once per 13s.		773318							
+52032	Ice DMG has a 20% chance to freeze the enemy for 3s. It can only be triggered once per 13s.		773319							
+52033	Ice DMG has a 30% chance to freeze the enemy for 3s. It can only be triggered once per 13s.		773320							
+52035	All enemies receive Dark DMG equal to 10% of ATK of the Construct on field once per 3s.		773322							
+52036	All enemies receive Dark DMG equal to 20% of ATK of the Construct on field once per 3s.		773323							
+52037	All enemies receive Dark DMG equal to 30% of ATK of the Construct on field once per 3s.		773324							
 60000	Fire DMG increases by 10%		701040							
 60001	Ranged-type Constructs' Extra DMG Bonus increases by 10%		701043							
 60002	Tank-type Constructs' CRIT Rate increases to 100%		701045							
@@ -366,13 +418,13 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 70008	Lv.1 Effect: Every time characters are switched, they get 2 additional Signal Orbs.		771694							
 70009	Lv.1 Effect: Support Constructs' healing effect increases by 25%.		771696							
 70010	Lv.1 Effect: Limit of Dodge Gauge increases by 400.		773135							
-70011	Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771710							
-70012	Lv.1 Effect: Support Constructs' ATK increases by 20%.		771683							
+70011	Lv.1 Effect: Strikes back at the attacker for 300% of ATK every time after taking more than 300 damage.		771710							
+70012	Lv.1 Effect: Support Constructs' ATK increases by 40%.		771683							
 70013	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
 70014	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
 70015	Lv.1 Effect: Every successful dodge will reduce the attacker's DEF by 10%. Can be stacked up to 3 times.		772073							
-70016	Lv.1 Effect: Support Constructs deal 25% more damage.		771700							
-70017	Lv.1 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771710							
+70016	Lv.1 Effect: Support Constructs deal 50% more damage.		771700							
+70017	Lv.1 Effect: Strikes back at the attacker for 300% of ATK every time after taking more than 300 damage.		771710							
 70018	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
 70019	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
 70020	Lv.1 Effect: Physical DMG increases by 20%.		771706							
@@ -383,7 +435,7 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 70025	Lv.1 Effect: CRIT chance increases by 20%.		771717							
 70026	Lv.1 Effect: Attacker Constructs' ATK increases by 20%.		771679							
 70027	Lv.1 Effect: Tank Constructs' ATK increases by 20%.		771681							
-70028	Lv.1 Effect: Support Constructs' ATK increases by 20%.		771683							
+70028	Lv.1 Effect: Support Constructs' ATK increases by 40%.		771683							
 70029	Lv.1 Effect: Elemental DMG increases by 20%.		771704							
 70030	Lv.1 Effect: Starts a battle with 50 Energy.		761188							
 70031	Lv.1 Effect: Limit of Dodge Gauge increases by 400.		773135							
@@ -406,13 +458,13 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 70048	Lv.2 Effect: Every time characters are switched, they get 4 additional Signal Orbs.		771695							
 70049	Lv.2 Effect: Support Constructs' healing effect increases by 50%.		771697							
 70050	Lv.2 Effect: Limit of Dodge Gauge increases by 700.		773136							
-70051	Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.		771711							
-70052	Lv.2 Effect: Support Constructs' ATK increases by 40%.		771684							
+70051	Lv.2 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771711							
+70052	Lv.2 Effect: Support Constructs' ATK increases by 80%.		771684							
 70053	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
-70054	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
+70054	Lv.2 Effect: Attacker Constructs' ATK increases by 80%.		771680							
 70055	Lv.2 Effect: Every successful dodge will reduce the attacker's DEF by 20%. Can be stacked up to 3 times.		772074							
-70056	Lv.2 Effect: Support Constructs deal 50% more damage.		771701							
-70057	Lv.2 Effect: Strikes back at the attacker for 1200% of ATK every time after taking more than 300 damage.		771711							
+70056	Lv.2 Effect: Support Constructs deal 100% more damage.		771701							
+70057	Lv.2 Effect: Strikes back at the attacker for 600% of ATK every time after taking more than 300 damage.		771711							
 70058	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
 70059	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
 70060	Lv.2 Effect: Physical DMG increases by 40%.		771707							
@@ -423,7 +475,7 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 70065	Lv.2 Effect: CRIT chance increases by 40%.		771718							
 70066	Lv.2 Effect: Attacker Constructs' ATK increases by 40%.		771680							
 70067	Lv.2 Effect: Tank Constructs' ATK increases by 40%.		771682							
-70068	Lv.2 Effect: Support Constructs' ATK increases by 40%.		771684							
+70068	Lv.2 Effect: Support Constructs' ATK increases by 80%.		771684							
 70069	Lv.2 Effect: Elemental DMG increases by 40%.		771705							
 70070	Lv.2 Effect: Starts a battle with 100 Energy.		761189							
 70071	Lv.2 Effect: Limit of Dodge Gauge increases by 700.		773136							
@@ -436,4 +488,149 @@ Id	Description	ConditionId[1]	BornMagic[1]	BornMagic[2]	BornMagic[3]	BornMagic[4
 70078	Lv.2 Effect: Physical DMG increases by 40%.		771707							
 70079	Lv.2 Effect: Constructs become immune to attacks and gain 45% DMG Reduction.		771725	771648						
 70080	Lv.2 Effect: For every Orb pinged, increases Extra Damage Bonus by 6% for 5s. Stacks up to 5 times.		771688							
+762500	Guild Talent - ATK Boost		762500							
+762501	Guild Talent - Fire DMG Boost		762501							
+762502	Guild Talent - Ice DMG Boost		762502							
+762503	Guild Talent - Lightning DMG Boost		762503							
+762504	Guild Talent - Dark DMG Boost		762504							
+762505	Guild Talent - Physical DMG Boost		762505							
+762506	Guild Talent - CRIT Rate		762506							
+762507	Guild Talent - CRIT DMG		762507							
+762508	Guild Talent - Extra DMG Boost		762508							
+762509	Guild Talent - Physical DEF Boost		762509							
+762510	Guild Talent - Healing Effect Boost		762510							
+762511	Guild Talent - Starting Energy		762511							
+762512	Guild Talent - Running Speed		762512							
+762513	Guild Talent - Dodge Gauge		762513							
+762514	Guild Talent - Max HP		762514							
+762515	Guild Talent - Shield		762515							
 80001	Synchronized characters' ATK increases by 25%		762106							
+81000	ATK & HP +5%		761300							
+81001	ATK & HP +10%		761301							
+81002	ATK & HP +15%		761302							
+81003	Increases your character's skill DMG by 20%.		771560							
+81004	Increases your character's skill DMG by 30%.		771561							
+81005	Increases your character's skill DMG by 40%.		771562							
+81006	Signature Move DMG is increased by 20%.		771566							
+81007	Signature Move DMG is increased by 30%.		771567							
+81008	Signature Move DMG is increased by 40%.		771568							
+81009	Gains 60 energy at the start of battle.		761303							
+81010	Gains 80 energy at the start of battle.		761304							
+81011	Gains 100 energy at the start of battle.		761305							
+81012	Fire DMG increases by 18%.		761306							
+81013	Fire DMG increases by 23%.		761307							
+81014	Fire DMG increases by 28%.		761308							
+81015	Lightning DMG increases by 18%.		761309							
+81016	Lightning DMG increases by 23%.		761310							
+81017	Lightning DMG increases by 28%.		761311							
+81018	Ice DMG increases by 18%.		761312							
+81019	Ice DMG increases by 23%.		761313							
+81020	Ice DMG increases by 28%.		761314							
+81021	Dark DMG increases by 18%.		761315							
+81022	Dark DMG increases by 23%.		761316							
+81023	Dark DMG increases by 28%.		761317							
+81024	Physical DMG increases by 18%.		761318							
+81025	Physical DMG increases by 23%.		761319							
+81026	Physical DMG increases by 28%.		761320							
+81027	Nullifies lethal DMG once per battle.		761321							
+81028	Basic Attack DMG increases by 18%.		761325							
+81029	Basic Attack DMG increases by 23%.		761326							
+81030	Basic Attack DMG increases by 28%.		761327							
+81031	Restores 3% HP per 10s after the battle starts. It can be triggered 3 times per battle.		761330							
+81032	Restores 5% HP per 10s after the battle starts. It can be triggered 3 times per battle.		761331							
+81033	Restores 8% HP per 10s after the battle starts. It can be triggered 3 times per battle.		761332							
+81034	Restores 10% of maximum HP at the start of battle.		761333							
+81035	Restores 15% of maximum HP at the start of battle.		761334							
+81036	Restores 20% of maximum HP at the start of battle.		761335							
+81037	Restores 3% of maximum HP for each enemy killed.		761336							
+81038	Restores 4% of maximum HP for each enemy killed.		761337							
+81039	Restores 5% of maximum HP for each enemy killed.		761338							
+81040	Heals all Constructs for 7.5% of maximum HP at the end of battle		773189							
+81041	Heals all Constructs for 15% of maximum HP at the end of battle		773190							
+81042	Heals all Constructs for 22.5% of maximum HP at the end of battle		773191							
+81043	Has a 30% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.		761339							
+81044	Has a 40% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.		761340							
+81045	Has a 50% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown.		761341							
+81046	Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 30% of self ATK to all enemies within 2m.		761344							
+81047	Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 40% of self ATK to all enemies within 2m.		761345							
+81048	Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 50% of self ATK to all enemies within 2m.		761346							
+81049	Limit of Dodge Gauge increases by 400.		773135							
+81050	Limit of Dodge Gauge increases by 700.		773136							
+81051	Limit of Dodge Gauge increases by 1000.		773137							
+81052	"Each dodge increases Movement Speed by 15% and all DMG dealt by 3% for 5s. Can be stacked up to 5 times."		761350							
+81053	"Each dodge increases Movement Speed by 15% and all DMG dealt by 4% for 5s. Can be stacked up to 5 times."		761351							
+81054	"Each dodge increases Movement Speed by 15% and all DMG dealt by 5% for 5s. Can be stacked up to 5 times."		761352							
+81055	Upon entering Matrix, unleash a shockwave within 3m that deals 600% DMG.		773181							
+81056	Upon entering Matrix, unleash a shockwave within 3m that deals 900% DMG.		773182							
+81057	Upon entering Matrix, unleash a shockwave within 3m that deals 1200% DMG.		773183							
+81058	Gain a shield equal to 10% HP at the start of battle.		761358	761361						
+81059	Gain a shield equal to 15% HP at the start of battle.		761359	761361						
+81060	Gain a shield equal to 20% HP at the start of battle.		761360	761361						
+81061	Has a 40% chance to gain a shield equal to 5% HP for 5s when taking DMG.		761363							
+81062	Has a 50% chance to gain a shield equal to 10% HP for 5s when taking DMG.		761364							
+81063	Has a 60% chance to gain a shield equal to 15% HP for 5s when taking DMG.		761365							
+81064	All DMG dealt increases by 10% when a shield exists.		761369							
+81065	All DMG dealt increases by 15% when a shield exists.		761370							
+81066	All DMG dealt increases by 20% when a shield exists.		761371							
+81067	At the start of battle, gains 1 additional Signal Orb (3 identical Signal Orbs if at max level).		761373							
+81068	At the start of battle, gains 2 additional Signal Orbs (3 identical Signal Orbs if at max level).		761374							
+81069	At the start of battle, gains 3 identical Signal Orbs.		761375							
+81070	The enemy drops 1 random Signal Orb upon death.		773263							
+81071	The enemy drops 2 random Signal Orbs upon death.		773264							
+81072	The enemy drops 3 random Signal Orbs upon death.		773265							
+81073	For every Orb pinged, increases Extra DMG Bonus by 3% for 5s. Stacks up to 5 times.		771687							
+81074	For every Orb pinged, increases Extra DMG Bonus by 4% for 5s. Stacks up to 5 times.		771729							
+81075	For every Orb pinged, increases Extra DMG Bonus by 6% for 5s. Stacks up to 5 times.		771688							
+81076	Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 10% for 5s.		761376							
+81077	Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 15% for 5s.		761377							
+81078	Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 20% for 5s.		761378							
+81079	Melee DMG increases by 18%.		761380							
+81080	Melee DMG increases by 23%.		761381							
+81081	Melee DMG increases by 28%.		761382							
+81082	Deals DMG equal to 1% of the enemy's maximum HP to all enemies within 4m per second.		761387							
+81083	Ranged DMG increases by 18%.		761383							
+81084	Ranged DMG increases by 23%.		761384							
+81085	Ranged DMG increases by 28%.		761385							
+81086	Attacks have a 50% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.		761389							
+81087	Attacks have a 100% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.		761390							
+81088	Attacks have a 120% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s.		761391							
+81089	QTE cooldown decreases by 1s.		773129							
+81090	QTE cooldown decreases by 2s.		773130							
+81091	QTE cooldown decreases by 3s.		773131							
+81092	QTE increases the controlling character's ATK by 10% for 5s.		761395							
+81093	QTE increases the controlling character's ATK by 15% for 5s.		761396							
+81094	QTE increases the controlling character's ATK by 20% for 5s.		761397							
+81095	QTE reduces the target's Physical DEF by 20% for 5s.		761398							
+81096	QTE reduces the target's Physical DEF by 25% for 5s.		761399							
+81097	QTE reduces the target's Physical DEF by 30% for 5s.		761400							
+81098	QTE reduces the target's Elemental Resistance by 20% for 5s.		761401							
+81099	QTE reduces the target's Elemental Resistance by 25% for 5s.		761402							
+81100	QTE reduces the target's Elemental Resistance by 30% for 5s.		761403							
+81101	After summoning a QTE, unleash a shockwave within 3m that deals 300% Physical Damage.		773117							
+81102	After summoning a QTE, unleash a shockwave within 3m that deals 450% Physical Damage.		773118							
+81103	After summoning a QTE, unleash a shockwave within 3m that deals 600% Physical Damage.		773119							
+81104	Each attack has a 30% chance to increase its DMG by 30%.		761416							
+81105	Each attack has a 40% chance to increase its DMG by 40%.		761417							
+81106	Each attack has a 50% chance to increase its DMG by 60%.		761418							
+81107	When Combo is greater than 50, DMG increases by 15%.		761419							
+81108	When Combo is greater than 50, DMG increases by 20%.		761420							
+81109	When Combo is greater than 50, DMG increases by 25%.		761421							
+81110	When Combo is greater than 50, attacks have a 10% chance to stun the enemy for 3s.		761422							
+81111	When Combo is greater than 50, attacks have a 20% chance to stun the enemy for 3s.		761423							
+81112	When Combo is greater than 50, attacks have a 30% chance to stun the enemy for 3s.		761424							
+81113	Movement Speed decreases by 20%.		773241							
+81114	Limit of Dodge Gauge reduces by 20%.		761414							
+81115	The maximum HP of deployed characters is reduced by 20%.		771002							
+81116	When an enemy dies, it will increase other enemies' Extra DMG Bonus by 25%.						773251			
+81117	Enemy ATK increases by 30%.						760131			
+81118	Enemy Fire Resistance increases by 30%.						760141			
+81119	Enemy Lightning Resistance increases by 30%.						760151			
+81120	Enemy Ice Resistance increases by 30%.						760161			
+81121	Enemy Dark Resistance increases by 30%.						760171			
+81122	Enemy Physical DEF increases by 30%.						760181			
+82000	Fire ATK increases by 30%.		762203				760002			
+82100	Lightning ATK increases by 30%.		762204				760012			
+82200	Ice ATK increases by 30%.		762202				760022			
+82300	Dark ATK increases by 30%.		762205				760032			
+82400	Physical ATK increases by 30%.		762201				760042			
+83000	ATK decreases by 9%.		512036							

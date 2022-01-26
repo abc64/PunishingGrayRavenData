@@ -240,7 +240,7 @@
             "999|Magic|904007|1",
             "999|Magic|904008|1",
             "1|Cast|90400108",
-            "20|Effect|FxYubei02|HitCase|1|",
+            "23|Effect|FxYubei02|HitCase|1|",
             "23|Magic|730063|0",
             "0|Effect|FxMe1CattleMd000002Attack01||1|",
             "999|Cast|90400112|90400113",
@@ -252,7 +252,7 @@
         "Key": [
             "19|Cast|90400201|90400202",
             "1|Cast|90400203|90400204",
-            "4|Effect|FxYubei02|HitCase|1|",
+            "7|Effect|FxYubei02|HitCase|1|",
             "7|Magic|730063|0",
             "0|Effect|FxMe1CattleMd000002Attack02||1|",
             "0|Effect|FxMe1CattleMd000002Attack02GuadianBone03|Bone03|1|",
@@ -264,7 +264,7 @@
         "Key": [
             "26|Cast|90400301|90400302|90400303",
             "23|Cast|90400304",
-            "5|Cast|90400305",
+            "14|Effect|FxYubei02|HitCase|1|",
             "7|Cast|90400306",
             "1|Magic|970001|0",
             "1|Cast|90400308",
@@ -277,7 +277,7 @@
             "44|Cast|90400401",
             "43|Cast|90400402|90400403",
             "1|Cast|90400404|90400407|90400408",
-            "28|Effect|FxYubei02|HitCase|1|",
+            "32|Effect|FxYubei02|HitCase|1|",
             "31|Magic|730063|0",
             "2|Effect|FxMe1CattleMd000002Attack04||1|"
         ]
@@ -287,7 +287,7 @@
         "Key": [
             "23|Cast|90400501|90400502|90400503",
             "1|Cast|90400504|90400507|90400508",
-            "8|Effect|FxYubei02|HitCase|1|",
+            "11|Effect|FxYubei02|HitCase|1|",
             "11|Magic|730063|0",
             "23|Cast|90400511",
             "0|Effect|FxMe1CattleMd000002Attack05GuadianBone17|Bone17|1|"
@@ -298,7 +298,7 @@
         "Key": [
             "19|Cast|90400601|90400602|90400603",
             "1|Cast|90400604|90400607|90400608|90400609",
-            "4|Effect|FxYubei02|HitCase|1|",
+            "7|Effect|FxYubei02|HitCase|1|",
             "7|Magic|730063|0",
             "1|Cast|90400610|90400611",
             "0|Effect|FxMe1CattleMd000002Attack06||1|"
@@ -361,7 +361,7 @@
         "Key": [
             "16|Cast|90450101",
             "0|Effect|FxMe1BioMd005010Attack01||1|",
-            "5|Effect|FxYubei02|HitCase|1|",
+            "4|Effect|FxYubei02|HitCase|1|",
             0
         ]
     },
@@ -370,7 +370,7 @@
         "Key": [
             "15|Cast|90450201",
             "0|Effect|FxMe1BioMd005010Attack02||1|",
-            "4|Effect|FxYubei02|HitCase|1|",
+            "3|Effect|FxYubei02|HitCase|1|",
             0
         ]
     },
@@ -381,7 +381,7 @@
             "0|Effect|FxMe1BioMd005010Attack03||1|",
             "0|Turn|20|1|1",
             "0|Cast|90450309",
-            "22|Cast|90450310",
+            "18|Cast|90450310",
             "0|Magic|904509|0",
             "0|Magic|904520|0"
         ]
@@ -681,15 +681,45 @@
     {
         "Id": 904563,
         "Key": [
-            "0|Cast|90456301|90456306",
-            "0|Magic|904552|0",
-            "0|Magic|904553|0",
-            "0|Magic|904551|0",
+            "0|Cast|90456301",
+            "0|Magic|904580|0"
+        ]
+    },
+    {
+        "Id": 904564,
+        "Key": [
+            "0|Cast|90456401",
+            "0|Magic|904581|0",
             "0|Turn|160|9999|2",
             "0|Magic|904512|0",
             "0|Magic|730017|0",
             "0|Move|12|9999|2",
-            "0|Magic|904577|0"
+            "0|Magic|904577|0",
+            "0|Magic|700027|0"
+        ]
+    },
+    {
+        "Id": 904565,
+        "Key": [
+            "0|Cast|90456501",
+            "0|Magic|904582|0",
+            0,
+            "39|Magic|700031|0",
+            "0|Magic|730018|0"
+        ]
+    },
+    {
+        "Id": 904566,
+        "Key": [
+            "0|Magic|904583|0",
+            "0|Effect|FxMe1BioMd005010Attack07||1|"
+        ]
+    },
+    {
+        "Id": 904567,
+        "Key": [
+            "0|Cast|90456701",
+            "0|Effect|FxMe1BioMd005010Attack07||1|"
         ]
     },
     {
@@ -698,7 +728,7 @@
             "30|Cast|90460101|90460102",
             7,
             "10|Cast|90460104|90460105",
-            "26|Cast|90460106|90460107",
+            "22|Cast|90460106|90460107",
             "0|Effect|FxMe1BioMd005020Attack01||1|",
             "30|Cast|90460109|90460110"
         ]
@@ -715,7 +745,7 @@
             "0|Cast|90460301",
             "15|Magic|904601|0",
             "0|Magic|700027|0",
-            "0|Effect|FxYubei02|HitCase|1|"
+            "4|Effect|FxYubei02|HitCase|1|"
         ]
     },
     {
@@ -776,7 +806,7 @@
             "20|Cast|90460905",
             "19|Magic|730021|0",
             "50|Magic|730026|0",
-            "5|Effect|FxYubei02|HitCase|1|"
+            "9|Effect|FxYubei02|HitCase|1|"
         ]
     },
     {
@@ -824,7 +854,7 @@
             "53|Effect|FxMe1BioMd005020Attack12|WeaponCase||",
             "56|Effect|FxMe1BioMd005020Attack12|WeaponCase||",
             "59|Effect|FxMe1BioMd005020Attack12|WeaponCase||",
-            "17|Effect|FxYubei02|HitCase|1|"
+            "16|Effect|FxYubei02|HitCase|1|"
         ]
     },
     {

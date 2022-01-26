@@ -15,20 +15,20 @@
         "HitRadius": 0.1,
         "ModelScale": 1,
         "EffectScale": 1,
-        "UiResId": 110201,
+        "UiResId": 110301,
         "BossHp": 0,
         "HpWdigetCount": 10,
         "HpWidgetHeight": 0.8,
         "HpWidgetType": 1,
         "RollCharHeight": 1,
-        "LieOnFloorTime": 0.05,
+        "LieOnFloorTime": 0.35,
         "StandUpImmuneHitTime": 0.6,
         "MaxHitValue": 10,
         "BeHitInterval": 0,
         "Ball": "1#110301|2#110302|3#110303",
         "RandomBall": "1#1#15|2#1#15|3#1#15",
-        "DodgeSkillId": 110215,
-        "DeathTime": 2.5,
+        "DodgeSkillId": 110316,
+        "DeathTime": 1.85,
         "HasRunToStand": 1,
         "HasRunStart": 1,
         "HasStandTransition": 1,
@@ -42,10 +42,8 @@
             100051,
             100054,
             100074,
-            110340,
-            110357,
-            110344,
-            110328
+            110339,
+            110340
         ],
         "SkillId": [
             110301,
@@ -78,7 +76,8 @@
             110328,
             110329,
             110330,
-            110331
+            110331,
+            110332
         ]
     }
 ]

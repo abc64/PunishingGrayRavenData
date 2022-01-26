@@ -2,7 +2,7 @@
     {
         "Id": 99930001,
         "Behavior": 99930001,
-        "Name": "潜入ステージテスト",
+        "Name": "潜行关测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -20,7 +20,7 @@
     {
         "Id": 99930002,
         "Behavior": 99930002,
-        "Name": "潜入ステージテストAI",
+        "Name": "潜行关测试AI",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -38,7 +38,7 @@
     {
         "Id": 99930003,
         "Behavior": 99930003,
-        "Name": "二番目の倉庫潜行ステージテスト",
+        "Name": "第二个货仓潜行关测试",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -56,7 +56,7 @@
     {
         "Id": 99930004,
         "Behavior": 99930004,
-        "Name": "自動案内テストステージ",
+        "Name": "自动寻路测试关卡",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -74,7 +74,7 @@
     {
         "Id": 99930005,
         "Behavior": 99930005,
-        "Name": "自動案内テストステージ（敵性体多数）",
+        "Name": "自动寻路测试关卡（多怪物）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -92,7 +92,7 @@
     {
         "Id": 99930006,
         "Behavior": 99930006,
-        "Name": "潜入ステージテストAI",
+        "Name": "潜行关测试AI",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -110,7 +110,7 @@
     {
         "Id": 99930007,
         "Behavior": 99930007,
-        "Name": "最初の車両（敵性体AIテスト）",
+        "Name": "第一节车厢（怪物AI测试）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 11,
@@ -128,7 +128,7 @@
     {
         "Id": 99930008,
         "Behavior": 99930008,
-        "Name": "大昌兄視点弾丸テストステージ",
+        "Name": "大昌哥视觉子弹测试关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -144,30 +144,12 @@
         ]
     },
     {
-        "Id": 99930013,
-        "Behavior": 99930013,
-        "Name": "新版刺杀测试关",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 23,
-        "CameraId": 9,
-        "Terrains": [
-            999300130
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 99930009,
         "Behavior": 99930009,
         "Name": "地下场景白模测试关",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 23,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999300090
@@ -203,7 +185,7 @@
         "Name": "沙滩白模场景",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 23,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999300110
@@ -225,6 +207,168 @@
         "CameraId": 9,
         "Terrains": [
             999300120
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930013,
+        "Behavior": 99930013,
+        "Name": "新版刺杀测试关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999300130
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930014,
+        "Behavior": 99930014,
+        "Name": "嗷拉酱广场-一阶段",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999300140
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99930015,
+        "Behavior": 99930015,
+        "Name": "嗷拉酱广场-二阶段",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            999300150
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30031101,
+        "Behavior": 30031101,
+        "Name": "新版潜行测试关",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            300311010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30001401,
+        "Behavior": 30001401,
+        "Name": "嗷拉酱超难关（1）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            300014010
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30001402,
+        "Behavior": 30001402,
+        "Name": "嗷拉酱超难关（2）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            300014020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30001403,
+        "Behavior": 30001403,
+        "Name": "嗷拉酱超难关（3）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            300014030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30001404,
+        "Behavior": 30001404,
+        "Name": "嗷拉酱超难关（4）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            300014040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30001405,
+        "Behavior": 30001405,
+        "Name": "嗷拉酱超难关（5）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            300014050
         ],
         "Position": [
             "0|0|0"

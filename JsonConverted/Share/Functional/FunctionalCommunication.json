@@ -1041,7 +1041,7 @@
         "ConditionIds": [
             400000
         ],
-        "Priority": 48,
+        "Priority": 51,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Lee",
@@ -1061,7 +1061,7 @@
         "ConditionIds": [
             400001
         ],
-        "Priority": 49,
+        "Priority": 52,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Liv",
@@ -1081,7 +1081,7 @@
         "ConditionIds": [
             400002
         ],
-        "Priority": 50,
+        "Priority": 53,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Kamui",
@@ -1102,7 +1102,7 @@
         "ConditionIds": [
             400003
         ],
-        "Priority": 51,
+        "Priority": 54,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Lucia",
@@ -1122,7 +1122,7 @@
         "ConditionIds": [
             400004
         ],
-        "Priority": 52,
+        "Priority": 55,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Nanami",
@@ -1143,7 +1143,7 @@
         "ConditionIds": [
             400005
         ],
-        "Priority": 53,
+        "Priority": 56,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Celica",
@@ -1164,7 +1164,7 @@
         "ConditionIds": [
             400006
         ],
-        "Priority": 54,
+        "Priority": 57,
         "SkipId": 8002,
         "BtnContent": "I got it",
         "NpcName": "Karenina",
@@ -1175,6 +1175,28 @@
             "I'm just saying that if you're gonna have a party, you need fireworks!",
             "Luckily for you, I've got them prepared.",
             "And since it's boring to watch fireworks by myself, I'll let you watch them together with me."
+        ],
+        "Type": 1,
+        "UiType": 1
+    },
+    {
+        "Id": 24,
+        "Name": "Challenge - Autopoiesis Maze",
+        "ConditionIds": [
+            84700201
+        ],
+        "Priority": 36,
+        "SkipId": 21,
+        "BtnContent": "Got it.",
+        "NpcName": "Hassen",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/HasangNomal01.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/HasangNomal01.png",
+        "Contents": [
+            "Alright, the regular update is complete. Everyone is dismissed. Commandant, please stay for a moment.",
+            "...Let's get down to business. It has to do with \"Venus Splash Park\".",
+            "According to the identification feature provided by the Engineering Force in the underground region of the \"Venus Splash Park\", we found similar things in the vicinity of several forward operating bases.",
+            "Now that you have the exploration experience linking Camu to the area, I hope you join what we call the \"Autopoiesis Maze\" Exploration Party.",
+            "Data will be sent to your Terminal."
         ],
         "Type": 1,
         "UiType": 1

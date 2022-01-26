@@ -58,7 +58,7 @@
     {
         "Id": 750007,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": "-1",
         "Limit": "-1",
         "Cd": 0,
         "Kind": 7500070,
@@ -67,7 +67,7 @@
     {
         "Id": 750008,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": "-1",
         "Limit": "-1",
         "Cd": 0,
         "Kind": 7500080,
@@ -76,7 +76,7 @@
     {
         "Id": 750009,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": "-1",
         "Limit": "-1",
         "Cd": 0,
         "Kind": 7500090,
@@ -85,20 +85,11 @@
     {
         "Id": 750010,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": "-1",
         "Limit": "-1",
         "Cd": 0,
         "Kind": 7500100,
         "Magic": 750010000
-    },
-    {
-        "Id": 750011,
-        "Delay": 0,
-        "Duration": 0,
-        "Limit": "-1",
-        "Cd": 0,
-        "Kind": 7500110,
-        "Magic": 750011000
     },
     {
         "Id": 750012,
@@ -375,7 +366,7 @@
     {
         "Id": 750043,
         "Delay": 0,
-        "Duration": "-1",
+        "Duration": 3,
         "Limit": 1,
         "Cd": 0,
         "Kind": 7500430,
@@ -384,20 +375,11 @@
     {
         "Id": 750044,
         "Delay": 0,
-        "Duration": "-1",
-        "Limit": "-1",
+        "Duration": 3,
+        "Limit": 1,
         "Cd": 0,
         "Kind": 7500440,
         "Magic": 750044000
-    },
-    {
-        "Id": 750045,
-        "Delay": 0,
-        "Duration": "-1",
-        "Limit": "-1",
-        "Cd": 0,
-        "Kind": 7500450,
-        "Magic": 750045000
     },
     {
         "Id": 750046,
@@ -932,12 +914,10 @@
     {
         "Id": 750104,
         "Delay": 0,
-        "Duration": "-1",
+        "Duration": 0,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 7501040,
-        "Cover": 7501020,
-        "Mutex": 7501020
+        "Kind": 7501040
     },
     {
         "Id": 750105,

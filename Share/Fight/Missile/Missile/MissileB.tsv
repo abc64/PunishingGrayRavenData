@@ -1,7 +1,7 @@
 Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
 0	通用:怪物攻击前全局顿帧	2	25				0			7			0.1						-1								-1			1	0	0	0	0	0	0	0								0							0	1					900002								0	HitCase		0		1			0					
 90000101	mianchaoxiang	2	10				0			4			-1						-1	1			0.05		FxNpcYujing03		-1			1	0	0	0	0	0	0	0								0							0	1					900104								0	HitCase	1	1		1			0					
-90000102	测试:3米距离	2	2	20			0			4			-1						-1						FxNpcYujing03		-1			1	0	0	0	0	0	0	0								3							0	1													0	HitCase	1	1		1			0					
+90000102	测试:3米距离	2	3	20			0			4			-1						-1						FxNpcYujing03		-1			1	0	0	0	0	0	0	0								3							0	1													0	HitCase	1	1		1			0					
 90000103	测试:5米距离	2	5				0			4			-1						-1						FxNpcYujing04		-1			1	0	0	0	0	0	0	0								3							0	1													0	HitCase	1	1		1			0					
 90000104	测试:10米距离	2	10				0			4			-1						-1						FxNpcYujing05		-1			1	0	0	0	0	0	0	0								1							0	1													0	HitCase	1	1		1			0					
 90000105	测试:15米距离	2	15				0			4			-1						-1						FxNpcYujing06		-1			1	0	0	0	0	0	0	0								1							0	1													0	HitCase	1	1		1			0					
@@ -108,6 +108,38 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 82140110	测试循环发射激光子弹	2	1				5			4			8.2						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
 82140111	测试循环发射激光子弹	2	1				5			4			8.2						-1								-1			1	0	0	0	0	0	0	0								3							4	1					821320	821542							0	HitCase	1	0		1			1					
 82140112	测试:40米距离	1	2	40			0			1			0.5						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140122	测试循环发射激光子弹	2	1				20			4			4.2						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140114	测试循环发射激光子弹	2	1				20			4			4.2						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140115	测试:40米距离	1	2	40			0			1			0.5						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140116	测试循环发射激光子弹	2	1				50			4			4.2						-1		FxMb1BraveMd010011ShouJi				FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								2							2	1					873184	821542							0	HitCase	1	0		1			1					
+82140117	测试循环发射激光子弹	2	1				0			4			0.4						-1								-1			1	0	0	0	0	0	0	0								3	0.4		1	82140116	1		4	1													0	HitCase	1	0		1			0					
+82140118	测试:40米距离	1	2	40			0			1			0.5						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140119	测试循环发射激光子弹	2	1				5			4			8.2						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140120	测试循环发射激光子弹	2	1				5			4			8.2						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140121	测试:40米距离	1	2	40			0			1			0.5						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140130	测试循环发射激光子弹	2	1				5			4			8.2						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140131	测试循环发射激光子弹	2	1				5			4			8.2						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140132	测试:40米距离	1	2	40			0			1			-1						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140129	测试循环发射激光子弹	2	1				0			4			-1						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								0							0	1													0	HitCase	1	0		1			1					
+82140133	4005	1	2	40			0			1			7.75						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140134	4004	1	2	40			0			1			6.3						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140135	4003	1	2	40			0			1			4.9						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140136	4002	1	2	40			0			1			3.55						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140137	4001	1	2	40			0			1			2.2						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140138	测试循环发射激光子弹	2	1				50			2			4.2						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140139	测试循环发射激光子弹	2	1				50			2			4.2						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140140	测试:40米距离	1	2	40			0			1			0.2						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140141	测试循环发射激光子弹	2	1				26			2			1.45						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140142	测试循环发射激光子弹	2	1				26			2			1.45						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140143	测试循环发射激光子弹	2	1				10			4			4.1						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140144	测试循环发射激光子弹	2	1				10			4			4.1						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140145	测试:40米距离	1	2	40			0			1			0.2						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140150	测试循环发射激光子弹	2	1				13			4			3						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140151	测试循环发射激光子弹	2	1				13			4			3						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140152	测试:40米距离	1	2	40			0			1			0.2						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
+82140153	测试循环发射激光子弹	2	1				10			4			4.1						-1						FxMb1BraveMd010011Attack08Laser		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			1					
+82140154	测试循环发射激光子弹	2	1				10			4			4.1						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								3							4	1					873184	821542							0	HitCase	1	0		1			1					
+82140155	测试:40米距离	1	2	40			0			1			0.2						-1						FxMb1BraveMd010011Attack08Yujing		-1			1	0	0	0	0	0	0	0								3							4	1													0	HitCase	1	0		1			0					
 82150001	点亮大电球	2	1			1.2	5			2			5		1				-1					EffectCase1	FxMb1BraveMd010011Attack0602		-1	1	FxMb1BraveMd010011Attack0603	3	-13	0	10	0	0	0	0								0	5		1	82150004	1		1	1													0	HitCase		0		1	0	1	0					
 82150002	自爆虫自爆伤害	2	4				0			4			0.1						-1		FxMb1BraveMd010011ShouJi						-1			1	0	0	0	0	0	0	0								0							0	2				821500021	821317	821534							0	HitCase		0		1			1					
 82150003	自爆虫爆炸特效	2	0.1				0			4			2						-1						FxMb1BraveMd010011Attack0604		-1			1	0	0	0	0	0	0	0								0							0	1													0	HitCase		0		1			0					

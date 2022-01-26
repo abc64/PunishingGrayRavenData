@@ -621,7 +621,7 @@
         "Pre": 1,
         "Round": 1,
         "Day": 1,
-        "IsGrandPrix": 1,
+        "IsGrandPrix": 0,
         "RewardType": 1,
         "RewardId": 7110,
         "ShowRewardId": 7110
@@ -643,7 +643,7 @@
         "Pre": 3,
         "Round": 1,
         "Day": 3,
-        "IsGrandPrix": 0,
+        "IsGrandPrix": 1,
         "RewardType": 1,
         "RewardId": 7112,
         "ShowRewardId": 7112
@@ -654,7 +654,7 @@
         "Pre": 4,
         "Round": 1,
         "Day": 4,
-        "IsGrandPrix": 1,
+        "IsGrandPrix": 0,
         "RewardType": 1,
         "RewardId": 7113,
         "ShowRewardId": 7113
@@ -665,7 +665,7 @@
         "Pre": 5,
         "Round": 1,
         "Day": 5,
-        "IsGrandPrix": 0,
+        "IsGrandPrix": 1,
         "RewardType": 1,
         "RewardId": 7114,
         "ShowRewardId": 7114
@@ -922,6 +922,160 @@
         "RewardType": 1,
         "RewardId": 7146,
         "ShowRewardId": 7146
+    },
+    {
+        "Id": 85,
+        "SignId": 11,
+        "Pre": 1,
+        "Round": 1,
+        "Day": 1,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7150,
+        "ShowRewardId": 7150
+    },
+    {
+        "Id": 86,
+        "SignId": 11,
+        "Pre": 2,
+        "Round": 1,
+        "Day": 2,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7151,
+        "ShowRewardId": 7151
+    },
+    {
+        "Id": 87,
+        "SignId": 11,
+        "Pre": 3,
+        "Round": 1,
+        "Day": 3,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7152,
+        "ShowRewardId": 7152
+    },
+    {
+        "Id": 88,
+        "SignId": 11,
+        "Pre": 4,
+        "Round": 1,
+        "Day": 4,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7153,
+        "ShowRewardId": 7153
+    },
+    {
+        "Id": 89,
+        "SignId": 11,
+        "Pre": 5,
+        "Round": 1,
+        "Day": 5,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7154,
+        "ShowRewardId": 7154
+    },
+    {
+        "Id": 90,
+        "SignId": 11,
+        "Pre": 6,
+        "Round": 1,
+        "Day": 6,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7155,
+        "ShowRewardId": 7155
+    },
+    {
+        "Id": 91,
+        "SignId": 11,
+        "Pre": 7,
+        "Round": 1,
+        "Day": 7,
+        "IsGrandPrix": 1,
+        "RewardType": 1,
+        "RewardId": 7156,
+        "ShowRewardId": 7156
+    },
+    {
+        "Id": 92,
+        "SignId": 11,
+        "Pre": 1,
+        "Round": 2,
+        "Day": 1,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7157,
+        "ShowRewardId": 7157
+    },
+    {
+        "Id": 93,
+        "SignId": 11,
+        "Pre": 2,
+        "Round": 2,
+        "Day": 2,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7158,
+        "ShowRewardId": 7158
+    },
+    {
+        "Id": 94,
+        "SignId": 11,
+        "Pre": 3,
+        "Round": 2,
+        "Day": 3,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7159,
+        "ShowRewardId": 7159
+    },
+    {
+        "Id": 95,
+        "SignId": 11,
+        "Pre": 4,
+        "Round": 2,
+        "Day": 4,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7160,
+        "ShowRewardId": 7160
+    },
+    {
+        "Id": 96,
+        "SignId": 11,
+        "Pre": 5,
+        "Round": 2,
+        "Day": 5,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7161,
+        "ShowRewardId": 7161
+    },
+    {
+        "Id": 97,
+        "SignId": 11,
+        "Pre": 6,
+        "Round": 2,
+        "Day": 6,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 7162,
+        "ShowRewardId": 7162
+    },
+    {
+        "Id": 98,
+        "SignId": 11,
+        "Pre": 7,
+        "Round": 2,
+        "Day": 7,
+        "IsGrandPrix": 1,
+        "RewardType": 1,
+        "RewardId": 7163,
+        "ShowRewardId": 7163
     },
     {
         "Id": 1000014,
@@ -1285,5 +1439,60 @@
         "RewardType": 1,
         "RewardId": 5000244,
         "ShowRewardId": 5000244
+    },
+    {
+        "Id": 1300040,
+        "SignId": 1300040,
+        "Pre": 1,
+        "Round": 1,
+        "Day": 1,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 5000280,
+        "ShowRewardId": 5000280
+    },
+    {
+        "Id": 1300041,
+        "SignId": 1300040,
+        "Pre": 2,
+        "Round": 1,
+        "Day": 2,
+        "IsGrandPrix": 1,
+        "RewardType": 1,
+        "RewardId": 5000281,
+        "ShowRewardId": 5000281
+    },
+    {
+        "Id": 1300042,
+        "SignId": 1300040,
+        "Pre": 3,
+        "Round": 1,
+        "Day": 3,
+        "IsGrandPrix": 0,
+        "RewardType": 1,
+        "RewardId": 5000282,
+        "ShowRewardId": 5000282
+    },
+    {
+        "Id": 1300043,
+        "SignId": 1300040,
+        "Pre": 4,
+        "Round": 1,
+        "Day": 4,
+        "IsGrandPrix": 1,
+        "RewardType": 1,
+        "RewardId": 5000283,
+        "ShowRewardId": 5000283
+    },
+    {
+        "Id": 1300044,
+        "SignId": 1300040,
+        "Pre": 5,
+        "Round": 1,
+        "Day": 5,
+        "IsGrandPrix": 1,
+        "RewardType": 1,
+        "RewardId": 5000284,
+        "ShowRewardId": 5000284
     }
 ]

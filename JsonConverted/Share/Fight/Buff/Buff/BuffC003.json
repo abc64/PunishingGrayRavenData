@@ -21,7 +21,7 @@
         "Id": 730003,
         "Delay": 0,
         "Duration": 1,
-        "Limit": 1,
+        "Limit": "-1",
         "Cd": 0,
         "Kind": 7300030,
         "Cover": 7300010
@@ -100,7 +100,8 @@
         "Cd": 0,
         "Kind": 7300110,
         "Cover": 7300090,
-        "Magic": 730011000
+        "Magic": 730011000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 730012,
@@ -157,7 +158,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7300170,
-        "Magic": 730017000
+        "Magic": 730017000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 730018,
@@ -166,7 +168,8 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 7300180,
-        "Magic": 730018000
+        "Magic": 730018000,
+        "TriggerOnAdd": 1
     },
     {
         "Id": 730019,
@@ -190,7 +193,7 @@
         "Id": 730021,
         "Delay": 0,
         "Duration": "-1",
-        "Limit": "-1",
+        "Limit": 1,
         "Cd": 0,
         "Kind": 7300210,
         "Magic": 730021000
@@ -239,8 +242,7 @@
         "Limit": "-1",
         "Cd": 0,
         "Kind": 7300260,
-        "Cover": "7300170|7300180|7300210",
-        "TriggerOnAdd": 1
+        "Cover": "7300170|7300180|7300210"
     },
     {
         "Id": 730027,
@@ -1595,6 +1597,162 @@
         "Cd": 0,
         "Kind": 7301820,
         "Magic": 730182000
+    },
+    {
+        "Id": 730185,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301850,
+        "Magic": 730185000
+    },
+    {
+        "Id": 730186,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301860,
+        "Magic": 730186000
+    },
+    {
+        "Id": 730187,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301870,
+        "Magic": 730187000
+    },
+    {
+        "Id": 730188,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301880,
+        "Cover": 7301880,
+        "Magic": 730188000
+    },
+    {
+        "Id": 730189,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7301890,
+        "Magic": 730189000
+    },
+    {
+        "Id": 730190,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7301900,
+        "Magic": 730190000
+    },
+    {
+        "Id": 730191,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301910,
+        "Magic": 730191000
+    },
+    {
+        "Id": 730192,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301920,
+        "Effect": "FxQiangqiuluandou01"
+    },
+    {
+        "Id": 730193,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301930
+    },
+    {
+        "Id": 730194,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301940,
+        "Effect": "FxQiangqiuluandou03"
+    },
+    {
+        "Id": 730195,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": "-1",
+        "Cd": 0,
+        "Kind": 7301950,
+        "Effect": "FxQiangqiuluandou05"
+    },
+    {
+        "Id": 730197,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301970,
+        "Effect": "FxQiangqiuluandou06",
+        "EffectJoint": "RootCase"
+    },
+    {
+        "Id": 730198,
+        "Delay": 0,
+        "Duration": 0.1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7301980,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 730200,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7302000,
+        "Magic": 730200000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 730201,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7302010,
+        "Magic": 730201000
+    },
+    {
+        "Id": 730202,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7302020,
+        "Magic": 730202000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 730216,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 7302160,
+        "Effect": "FxSceneMotianlunSound"
     },
     {
         "Id": 731001,

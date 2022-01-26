@@ -77,3 +77,7 @@ PathFinderMaxNodes	int	512
 PathFinderMaxCheckCount	int	350
 AreaFinderMaxNodes	int	512
 AreaFinderMaxCheckCount	int	256
+HitFlyUpAccelerationSpeed	fix	-15
+HitFlyDownAccelerationSpeed	fix	30
+MaxHitFlyHeight	fix	3
+HitFlyHeightDamping	fix	0.8

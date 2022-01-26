@@ -16,3 +16,8 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 99811016	削弱BUFF子子弹	2	5				0			3			0.1						-1	1							-1			1					0	0	0								1							0	1					750520								0	HitCase	0	1		0			0					
 99811017	伤害子弹	2	2				40			4			5						1	1							-1			1					0	0	0								3							1	1					801010								0	HitCase		0					0					
 99811018	眩晕子弹	2	2				40			4			1						1	1							-1			1					0	0	0								3							1	1					750524								0	HitCase		0					0					
+99811019	1秒火焰子弹	2	2	2			0			4			1						-1	1	FxTongyongFireShouji		0.3	Root	FxScene01201Fire01		-1			1	0				0	0	0								0							0	1					750531								0	HitCase		0		0			0		1			
+99811020	火焰预警取消	2	4	4			0			4			2						-1					Root	FxScene01201Fire01yujing02		-1			1	0				0	0	0								0							0	1													0	HitCase		0		0			0		1			
+99811021	多重炮击子弹	2	2				0			4			1						-1	1			0.3		FxHongzha		-1			1					0	0	0								3							0	1					750540								0	HitCase		0					0					
+99811022	多重炮击子弹	1	6	6			0			4			1						-1	1			0.3		FxHongzha		-1			1					0	0	0								3							0	1					750545								0	HitCase		0					0					
+99811023	预警子弹	1	6	6			0			4			15	15					-1						FxNpcYujing01		-1			1					0	0	0								3							0	1													0	HitCase		0					0					

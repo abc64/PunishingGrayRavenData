@@ -1,21 +1,21 @@
 Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
-99210101	剑客拔刀斩-伤害子弹	1	5.5	2.5		1.5	0			4			0.3						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992101011	991101	991109	991111						0	HitCase	1	1		1			1					
-99210106	剑客拔刀斩-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1					991110								0	HitCase		0		1			0					
-99210201	剑客连续斩-一段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102011	991102								0	HitCase	1	0		1			1					
-99210202	剑客连续斩-二段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102021	991103								0	HitCase	1	0		1			1					
-99210203	剑客连续斩-三段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102031	991104	991109	991111						0	HitCase	1	1		1			1					
-99210208	剑客连续斩-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1					991110								0	HitCase		0		1			0					
-99210301	剑客挥劈-伤害子弹	1	3	6	-0.5	0	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992103011	991105								0	HitCase	1	0		1			1					
+99210101	剑客拔刀斩-伤害子弹	1	5.5	2.5		1.5	0			4			0.3						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992101011									0	HitCase	1	1		1			1					
+99210106	剑客拔刀斩-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
+99210201	剑客连续斩-一段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102011									0	HitCase	1	0		1			1					
+99210202	剑客连续斩-二段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102021									0	HitCase	1	0		1			1					
+99210203	剑客连续斩-三段伤害子弹	1	5.5	2.5	0	1.5	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992102031									0	HitCase	1	1		1			1					
+99210208	剑客连续斩-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
+99210301	剑客挥劈-伤害子弹	1	3	6	-0.5	0	0			4			0.1						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992103011									0	HitCase	1	0		1			1					
 99210302	剑客挥劈-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
-99210401	剑客戳刺-伤害子弹	1	1	6	0	3	0			4			0.27						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992104011	991106								0	HitCase	1	0		1			1					
+99210401	剑客戳刺-伤害子弹	1	1	6	0	3	0			4			0.27						-1		FxDibingShouji				FxNpcYujing02		-1			1					0	0	0								0							0	1				992104011									0	HitCase	1	0		1			1					
 99210403	剑客戳刺-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
-99210501	剑客大招-伤害子弹1	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105011	991107								0	HitCase	1	1		1			1					
-99210502	剑客大招-伤害子弹2	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105021	991107								0	HitCase	1	1		1			1					
-99210503	剑客大招-伤害子弹3	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105031	991107								0	HitCase	1	1		1			1					
-99210504	剑客大招-伤害子弹4	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105041	991107								0	HitCase	1	1		1			1					
-99210505	剑客大招-伤害子弹5	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105051	991107								0	HitCase	1	1		1			1					
-99210506	剑客大招-伤害子弹6	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105061	991107								0	HitCase	1	1		1			1					
-99210507	剑客大招-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1					991110								0	HitCase		0		1			0					
+99210501	剑客大招-伤害子弹1	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105011									0	HitCase	1	1		1			1					
+99210502	剑客大招-伤害子弹2	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105021									0	HitCase	1	1		1			1					
+99210503	剑客大招-伤害子弹3	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105031									0	HitCase	1	1		1			1					
+99210504	剑客大招-伤害子弹4	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105041									0	HitCase	1	1		1			1					
+99210505	剑客大招-伤害子弹5	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105051									0	HitCase	1	1		1			1					
+99210506	剑客大招-伤害子弹6	2	2.5		0	0	0			4			0.15						-1		FxDibingShouji				FxNpcYujing01		-1			1					0	0	0								0							0	1				992105061									0	HitCase	1	1		1			1					
+99210507	剑客大招-震屏	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 97010201	酸液喷射者-Skill-02-戳刺	2	3			4	0			4			0.1						-1		FxMe1SpiderMd000001Shouji						-1			1					0	0	0								0							0	3				970102011	801026	970106							0	HitCase	1	0		1			1					
 97010202	酸液喷射者-Skill-02-戳刺	2	3			4	0			4			0.1						-1		FxMe1SpiderMd000001Shouji						-1			1					0	0	0								0							0	3				970102021	801026	970106							0	HitCase	1	0		1			1					
 97010301	酸液喷射者-Skill-03-吐息	2	0.9			3.6	25			4			3		1				1		FxMe1SpiderMd000001Shouji			EffectCase1	FxMe1SpiderMd000001Attack03Dandao		1	0.9		3	-20	0	10	1	0	0	0								0	3		1	97010302	1		1	1				970103011	801052	970106							0	HitCase		0		1	9999	1	1					
@@ -115,9 +115,9 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 99221502	酸液喷射者-Skill-11-爱心7-实弹	2	2				5			4			10		1				-1	1	FxMe1SpiderMd000001Shouji			Bone22	FxMe1SpiderMd000001Attack03Dandao		0	2	FxMe1SpiderMd000001Attack04	3	-100	0	10	0	0	0	0								3							4	1													0	HitCase	1	0		1	9999	1	1					
 99221503	酸液喷射者-Skill-11-爱心7-毒圈	2	2				0			4			2.1						-1	1			0.3				-1			1	0				0	0	0								2	0		1	99221504			0	1					701031								0	HitCase	1	0		1			0					
 99221504	酸液喷射者-Skill-11-爱心7-毒圈特效	2	1				0			4			2.1						-1						FxMe1SpiderMd000001Attack0503		-1			1	0				0	0	0								2							0	1													0	HitCase	1	0		1			0					
-99230101	重构镇暴兵盾猛-伤害子弹	3	3	210		1	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992301011	901901	700279							0	HitCase	1	0		1			1					
-99230201	重构镇暴兵横扫-伤害子弹	3	3	210		1	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992302011	901902								0	HitCase	1	0		1			1					
-99230401	重构镇暴兵-冲锋	1	2	2		1.5	0			4			2						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992304011	901903	700281							0	HitCase	1	1		1			0					
+99230101	重构镇暴兵盾猛-伤害子弹	3	3	210		1	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992301011		700279							0	HitCase	1	0		1			1					
+99230201	重构镇暴兵横扫-伤害子弹	3	3	210		1	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992302011									0	HitCase	1	0		1			1					
+99230401	重构镇暴兵-冲锋	1	2	2		1.5	0			4			2						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				992304011		700281							0	HitCase	1	1		1			0					
 99230402	重构镇暴兵-预警	1	2	20		6	0			4			2						-1						FxNpcYujing02		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
 90350101	铁罐（实验级）-普攻-红茶-伤害	1	3	3		1.5	0			4			0.1						-1		FxMe1BioMd004040Attack06Shouji						-1			1					0	0	0								0							0	1				903501011	903512	903524							0	HitCase	1	0		1			1					
 90350104	铁罐（实验级）-普攻-红茶-范围	1	3	3		1.5	0			4			0.5						-1								-1	3		1	0				0	0	0								0							0	1													0	HitCase	1	0		0			0					
@@ -154,5 +154,8 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 20160907	击飞对方	2	15				0			4			0.1						-1					Root			-1			1	0				0	0	0								1							0	1				201609071									0	HitCase		0		1			0					
 20160908	1秒火焰子弹	2	2				0			4			1						-1	1	FxTongyongFireShouji		0.3	Root	FxScene01201Fire01		-1			1	0				0	0	0								0							0	1					715334								0	HitCase		0		0			0		1			
 20160909	火焰预警取消	2	4				0			4			2						-1					Root	FxScene01201Fire01yujing02		-1			1	0				0	0	0								0							0	1													0	HitCase		0		0			0		1			
+20160910	炮击预警子弹	2	1				0			4			2.5						-1						FxYujing1M15S		-1			1	0				0	0	0								1	1.5		1	20160911			0	1													0	HitCase	1	0		1			0					
+20160911	炮击伤害子弹	2	1				0			4			3						-1						FxHongzha		-1			1					0	0	0								3							0	1					903537	715384							0	HitCase		0		1			0					
+20160912	传送特效子弹	2	4				0			4			2						-1					Root	FxQte2		-1			1	0				0	0	0								3							4	1													1	HitCase		0		0			0		1			
 90199801	重构镇暴兵的技能5-盾墙释放	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 90199901	重构镇暴兵的技能5-盾墙结束	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					

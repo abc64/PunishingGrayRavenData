@@ -622,6 +622,34 @@
         "EffectJoint": "WeaponCase1"
     },
     {
+        "Id": 502330,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5023300,
+        "Magic": 502330000
+    },
+    {
+        "Id": 502332,
+        "Delay": 0,
+        "Duration": 0.6,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5023320,
+        "Effect": "FxWeaponSword64Wuqi01",
+        "EffectJoint": "WeaponCase1"
+    },
+    {
+        "Id": 502333,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5023330,
+        "Magic": 502333000
+    },
+    {
         "Id": 503001,
         "Delay": 0,
         "Duration": "-1",
@@ -2574,6 +2602,280 @@
         "Kind": 5313120
     },
     {
+        "Id": 512001,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120010,
+        "Magic": 512001000
+    },
+    {
+        "Id": 512003,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120030,
+        "Magic": 512003000
+    },
+    {
+        "Id": 512004,
+        "Delay": 0,
+        "Duration": 4,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120040|101|100|6",
+        "Cover": 5120040,
+        "Magic": 512004000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 512005,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120050,
+        "Magic": 512005000
+    },
+    {
+        "Id": 512006,
+        "Delay": 0,
+        "Duration": 3,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120060|101|100|6",
+        "Magic": 512006000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 512007,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120070,
+        "Magic": 512007000
+    },
+    {
+        "Id": 512009,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120090,
+        "Effect": "FxTongyongJiaqiu",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 512010,
+        "Delay": 0,
+        "Duration": 8,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120100,
+        "Magic": 512010000
+    },
+    {
+        "Id": 512012,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120120|101|100|6",
+        "Magic": 512012000
+    },
+    {
+        "Id": 512013,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120130,
+        "Magic": 512013000
+    },
+    {
+        "Id": 512014,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120140|101|100|6",
+        "Cover": 5120140,
+        "Magic": 512014000
+    },
+    {
+        "Id": 512015,
+        "Delay": 0,
+        "Duration": 10,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120150|111|110|100|6",
+        "Cover": 5120150,
+        "Magic": 512015000
+    },
+    {
+        "Id": 512016,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120160|101|100|6",
+        "Magic": 512016000
+    },
+    {
+        "Id": 512017,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120170,
+        "Magic": 512017000
+    },
+    {
+        "Id": 512019,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120190,
+        "Magic": 512019000
+    },
+    {
+        "Id": 512020,
+        "Delay": 0,
+        "Duration": 0.2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120200|5120190",
+        "Magic": 512020000
+    },
+    {
+        "Id": 512021,
+        "Delay": 0,
+        "Duration": 0.2,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120210|101|5120190|100|6",
+        "Magic": 512021000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 512022,
+        "Delay": 0,
+        "Duration": 0.2,
+        "EffectType": 103,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120220|103|5120190|100|6",
+        "Magic": 512022000,
+        "Effect": "FxTongyongJiasu",
+        "EffectJoint": "Root"
+    },
+    {
+        "Id": 512023,
+        "Delay": 0,
+        "Duration": 0.2,
+        "EffectType": 201,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120230|201|5120190|200|5",
+        "Magic": 512023000,
+        "Effect": "FxTongyongJiangong",
+        "EffectJoint": "HitCase",
+        "TriggerMagic": 512024,
+        "TriggerInterval": 0.1
+    },
+    {
+        "Id": 512024,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120240,
+        "Magic": 512024000,
+        "TriggerOnAdd": 1
+    },
+    {
+        "Id": 512026,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120260,
+        "Magic": 512026000
+    },
+    {
+        "Id": 512027,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120270,
+        "Magic": 512027000
+    },
+    {
+        "Id": 512030,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120300,
+        "Magic": 512030000
+    },
+    {
+        "Id": 512031,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120310,
+        "Magic": 512031000
+    },
+    {
+        "Id": 512032,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120320|101|100|6",
+        "Magic": 512032000
+    },
+    {
+        "Id": 512033,
+        "Delay": 0,
+        "Duration": 0.3,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "5120330|101|100|6",
+        "Magic": 512033000
+    },
+    {
+        "Id": 512034,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120340,
+        "Effect": "FxWeaponKamu61Wuqi01"
+    },
+    {
+        "Id": 512036,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 5120360,
+        "Magic": 512036000
+    },
+    {
         "Id": 509001,
         "Delay": 0,
         "Duration": "-1",
@@ -3932,6 +4234,46 @@
         "Magic": 610404000
     },
     {
+        "Id": 610410,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6104100,
+        "Magic": 610410000
+    },
+    {
+        "Id": 610412,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6104120,
+        "Magic": 610412000
+    },
+    {
+        "Id": 610414,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6104140,
+        "Magic": 610414000
+    },
+    {
+        "Id": 610415,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6104150|101|100|6",
+        "Cover": 6104150,
+        "Magic": 610415000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
         "Id": 620101,
         "Delay": 0,
         "Duration": "-1",
@@ -4718,6 +5060,71 @@
         "Mutex": 6208060
     },
     {
+        "Id": 620810,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6208100,
+        "Magic": 620810000
+    },
+    {
+        "Id": 620811,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6208110,
+        "Magic": 620811000
+    },
+    {
+        "Id": 620812,
+        "Delay": 0,
+        "Duration": 3,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6208120|101|100|6",
+        "Cover": 6208120,
+        "Magic": 620812000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620813,
+        "Delay": 0,
+        "Duration": 3,
+        "EffectType": 103,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6208130|103|100|6",
+        "Cover": 6208130,
+        "Magic": 620813000,
+        "Effect": "FxTongyongJiasu",
+        "EffectJoint": "Root"
+    },
+    {
+        "Id": 620814,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6208140,
+        "Magic": 620814000
+    },
+    {
+        "Id": 620815,
+        "Delay": 0,
+        "Duration": "-1",
+        "EffectType": 101,
+        "Limit": 5,
+        "Cd": 0,
+        "Kind": "6208150|101|100|6",
+        "Magic": 620815000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
         "Id": 620901,
         "Delay": 0,
         "Duration": "-1",
@@ -4821,6 +5228,93 @@
         "Cd": 0,
         "Kind": "6209280|101|100|6",
         "Magic": 620928000
+    },
+    {
+        "Id": 620911,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209110,
+        "Magic": 620911000
+    },
+    {
+        "Id": 620912,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209120,
+        "Magic": 620912000
+    },
+    {
+        "Id": 620913,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209130,
+        "Magic": 620913000
+    },
+    {
+        "Id": 620914,
+        "Delay": 0,
+        "Duration": 15,
+        "EffectType": 103,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209140|103|100|6",
+        "Cover": 6209140,
+        "Magic": 620914000,
+        "Effect": "FxTongyongJiansu",
+        "EffectJoint": "Root"
+    },
+    {
+        "Id": 620915,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209150,
+        "Magic": 620915000
+    },
+    {
+        "Id": 620916,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209160,
+        "Magic": 620916000
+    },
+    {
+        "Id": 620918,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209180,
+        "Magic": 620918000
+    },
+    {
+        "Id": 620919,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209190,
+        "Effect": "FxEquipKFC01Hit",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620920,
+        "Delay": 0,
+        "Duration": 1,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209200,
+        "Effect": "FxEquipKFC02Hit",
+        "EffectJoint": "HitCase"
     },
     {
         "Id": 621001,
@@ -6115,7 +6609,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "6306060|101|100|6",
-        "Cover": 6306060,
+        "Cover": 6206060,
         "Magic": 630606000,
         "Effect": "FxTongyongJiagong",
         "EffectJoint": "HitCase"
@@ -6934,6 +7428,93 @@
         "Mutex": "6315090|6315100|6315110"
     },
     {
+        "Id": 620930,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209300,
+        "Magic": 620930000
+    },
+    {
+        "Id": 620931,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209310,
+        "Magic": 620931000
+    },
+    {
+        "Id": 620932,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209320|101|100|6",
+        "Magic": 620932000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620933,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209330|101|100|6",
+        "Magic": 620933000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620934,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209340|101|100|6",
+        "Magic": 620934000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620935,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209350|101|100|6",
+        "Magic": 620935000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620936,
+        "Delay": 0,
+        "Duration": 8,
+        "EffectType": 101,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209360|101|100|6",
+        "Magic": 620936000,
+        "Effect": "FxTongyongJiagong",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620937,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209370|104|100|6",
+        "Magic": 620937000
+    },
+    {
         "Id": 620943,
         "Delay": 0,
         "Duration": "-1",
@@ -6972,5 +7553,54 @@
         "Magic": 620947000,
         "Effect": "FxEquipPhyTank64Hudun",
         "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620948,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209480,
+        "Magic": 620948000
+    },
+    {
+        "Id": 620949,
+        "Delay": 0,
+        "Duration": 5,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": "6209490|111|110|100|6",
+        "Magic": 620949000,
+        "Effect": "FxEquipPhyTank64Hudun",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620950,
+        "Delay": 0,
+        "Duration": 0,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209500,
+        "Effect": "FxEquipPhyTank64HudunShouji",
+        "EffectJoint": "HitCase"
+    },
+    {
+        "Id": 620951,
+        "Delay": 0,
+        "Duration": "-1",
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209510,
+        "Magic": 620951000
+    },
+    {
+        "Id": 620953,
+        "Delay": 0,
+        "Duration": 1.2,
+        "Limit": 1,
+        "Cd": 0,
+        "Kind": 6209530,
+        "Effect": "FxTongyongCureshouji",
+        "EffectJoint": "Root"
     }
 ]

@@ -1,0 +1,112 @@
+[
+    {
+        "Id": 96990700,
+        "Behavior": 96990700,
+        "Name": "测试关卡",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 77,
+        "CameraId": 9,
+        "Terrains": [
+            969907000
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010102,
+        "Behavior": 15010102,
+        "Name": "13-2测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            150101020
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010104,
+        "Behavior": 15010104,
+        "Name": "13-4测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            150101040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010105,
+        "Behavior": 15010105,
+        "Name": "13-5测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 77,
+        "CameraId": 9,
+        "Terrains": [
+            150101050
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 16010103,
+        "Behavior": 16010103,
+        "Name": "隐藏13-3测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            160101030
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 16010104,
+        "Behavior": 16010104,
+        "Name": "隐藏13-4测试",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            160101040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    }
+]

@@ -538,6 +538,60 @@
         "StageIds": []
     },
     {
+        "Id": 1028,
+        "Order": 28,
+        "Name": "Cathy",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1BiaoyanyirenMd000001.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1BiaoyanyirenMd000001.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 1,
+        "TagGroupId": 1,
+        "TagIds": [
+            9931
+        ],
+        "Actions": [],
+        "NpcId": [
+            90710
+        ],
+        "StageIds": []
+    },
+    {
+        "Id": 1029,
+        "Order": 29,
+        "Name": "Martini",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1TiaojiushiMd000001.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1TiaojiushiMd000001.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 1,
+        "TagGroupId": 1,
+        "TagIds": [
+            9932
+        ],
+        "Actions": [],
+        "NpcId": [
+            90720
+        ],
+        "StageIds": []
+    },
+    {
+        "Id": 1030,
+        "Order": 30,
+        "Name": "Mr. White",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1YouyongjiaoguanMd000001.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMo1YouyongjiaoguanMd000001.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 1,
+        "TagGroupId": 1,
+        "TagIds": [
+            9933
+        ],
+        "Actions": [],
+        "NpcId": [
+            90730
+        ],
+        "StageIds": []
+    },
+    {
         "Id": 2001,
         "Order": 23,
         "Author": "Andy Liu",
@@ -920,6 +974,24 @@
         "StageIds": []
     },
     {
+        "Id": 2020,
+        "Order": 42,
+        "Name": "A'Mao",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMe1XiguajunMd000002.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMe1XiguajunMd000002.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 2,
+        "TagGroupId": 1,
+        "TagIds": [
+            9907
+        ],
+        "Actions": [],
+        "NpcId": [
+            92740
+        ],
+        "StageIds": []
+    },
+    {
         "Id": 3001,
         "Order": 40,
         "Name": "Assault Fort",
@@ -1296,6 +1368,46 @@
         "Actions": [],
         "NpcId": [
             83600
+        ],
+        "StageIds": []
+    },
+    {
+        "Id": 3021,
+        "Order": 61,
+        "Name": "Shark-speare",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMb1AolajiangMd010001.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMb1AolajiangMd010001.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 3,
+        "TagGroupId": 1,
+        "TagIds": [
+            9915,
+            9907
+        ],
+        "Actions": [],
+        "NpcId": [
+            837000,
+            837100
+        ],
+        "StageIds": []
+    },
+    {
+        "Id": 3022,
+        "Order": 60,
+        "Name": "Gabriel - Starfall",
+        "Icon": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMb1JiabailieMd000002.png",
+        "Pic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/HeadMb1JiabailieMd000002.png",
+        "LockPic": "Assets/Product/Texture/Image/UiArchiveMonsterHead/UiArchiveMonsterUnknown.png",
+        "Type": 3,
+        "TagGroupId": 1,
+        "TagIds": [
+            9914,
+            9915,
+            9907
+        ],
+        "Actions": [],
+        "NpcId": [
+            87500
         ],
         "StageIds": []
     }

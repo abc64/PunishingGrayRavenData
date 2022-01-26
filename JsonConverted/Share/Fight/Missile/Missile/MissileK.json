@@ -172,9 +172,7 @@
         "BornPosition": 0,
         "BornDirectionType": 1,
         "BeHitCenter": 1,
-        "Magic": [
-            970104
-        ],
+        "Magic": [],
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
@@ -3826,9 +3824,12 @@
         "BeHitState": 811021011,
         "Magic": [
             801075,
-            811046
+            811046,
+            200003
         ],
-        "MagicLauncherNpc": [],
+        "MagicLauncherNpc": [
+            200003
+        ],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
         "BindLauncher": 0,
@@ -5439,9 +5440,12 @@
         "BeHitState": 811221011,
         "Magic": [
             801075,
-            811046
+            811046,
+            200003
         ],
-        "MagicLauncherNpc": [],
+        "MagicLauncherNpc": [
+            200003
+        ],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
         "BindLauncher": 0,
@@ -9250,7 +9254,7 @@
         ],
         "ScaleParams": [],
         "BornPosition": 0,
-        "ChildDelay": 0.1,
+        "ChildDelay": 0.05,
         "ChildCountLimit": 1,
         "ChildId": 81400502,
         "BornDirectionType": 0,
@@ -10272,7 +10276,7 @@
         ],
         "ScaleParams": [],
         "BornPosition": 0,
-        "ChildDelay": 0.1,
+        "ChildDelay": 0.05,
         "ChildCountLimit": 1,
         "ChildId": 81400502,
         "BornDirectionType": 0,

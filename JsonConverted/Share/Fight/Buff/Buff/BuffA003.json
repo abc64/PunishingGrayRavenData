@@ -653,6 +653,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": 1011160,
+        "Cover": 1011160,
         "Magic": 101116000,
         "Effect": "FxTongyongBati",
         "EffectJoint": "HitCase"
@@ -1018,10 +1019,11 @@
     {
         "Id": 101176,
         "Delay": 0,
-        "Duration": 0,
+        "Duration": 5,
         "Limit": 1,
         "Cd": 0,
-        "Kind": 1011760
+        "Kind": 1011760,
+        "Magic": 101176000
     },
     {
         "Id": 101177,

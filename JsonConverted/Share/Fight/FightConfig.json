@@ -388,5 +388,25 @@
         "Key": "AreaFinderMaxCheckCount",
         "Type": "int",
         "Value": 256
+    },
+    {
+        "Key": "HitFlyUpAccelerationSpeed",
+        "Type": "fix",
+        "Value": "-15"
+    },
+    {
+        "Key": "HitFlyDownAccelerationSpeed",
+        "Type": "fix",
+        "Value": 30
+    },
+    {
+        "Key": "MaxHitFlyHeight",
+        "Type": "fix",
+        "Value": 3
+    },
+    {
+        "Key": "HitFlyHeightDamping",
+        "Type": "fix",
+        "Value": 0.8
     }
 ]

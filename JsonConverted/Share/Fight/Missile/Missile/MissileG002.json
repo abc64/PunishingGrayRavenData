@@ -739,7 +739,7 @@
         "LiveTime": 1.1,
         "HitCount": "-1",
         "HitEffect": [],
-        "Effect": "FxYujing1M09S",
+        "Effect": "FxYujing1M10S",
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -885,42 +885,6 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90370508,
-        "Name": "屏幕外预警",
-        "Shape": 2,
-        "SizeX": 0.1,
-        "OffsetY": 0,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.5,
-        "HitCount": "-1",
-        "HitEffect": [],
-        "StartJoint": "HitCase",
-        "Effect": "FxYujingXian02",
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "Magic": [],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90375101,
         "Name": "位移闪避-玩家操作",
         "Shape": 2,
@@ -969,8 +933,9 @@
     {
         "Id": 90375201,
         "Name": "位移闪避-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 40,
         "Direction": 0,
         "TargetType": 4,
@@ -1015,8 +980,9 @@
     {
         "Id": 90375501,
         "Name": "普通攻击-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 50,
         "TargetType": 4,
         "LiveTime": 5,
@@ -1063,8 +1029,9 @@
     {
         "Id": 90375601,
         "Name": "普通攻击-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 50,
         "TargetType": 4,
         "LiveTime": 5,
@@ -1111,8 +1078,9 @@
     {
         "Id": 90375602,
         "Name": "普通攻击-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 50,
         "TargetType": 4,
         "LiveTime": 5,
@@ -1159,8 +1127,9 @@
     {
         "Id": 90375701,
         "Name": "位移闪避-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 40,
         "Direction": 0,
         "TargetType": 4,
@@ -1208,8 +1177,9 @@
     {
         "Id": 90375702,
         "Name": "位移闪避-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 40,
         "Direction": 0,
         "TargetType": 4,
@@ -1257,8 +1227,9 @@
     {
         "Id": 90375703,
         "Name": "位移闪避-玩家操作",
-        "Shape": 2,
-        "SizeX": 0.5,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 1,
         "Speed": 40,
         "Direction": 0,
         "TargetType": 4,
@@ -6873,7 +6844,7 @@
         "OffsetY": 6.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.8,
+        "LiveTime": 0.7,
         "FillTime": 0.5,
         "HitCount": "-1",
         "HitEffect": [],
@@ -7161,7 +7132,7 @@
         "Speed": 0,
         "TargetType": 4,
         "LiveTime": 0.8,
-        "FillTime": 0.5,
+        "FillTime": 0.6,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingJu01",
@@ -8090,8 +8061,8 @@
         "OffsetY": 6,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.8,
-        "FillTime": 0.4,
+        "LiveTime": 1.15,
+        "FillTime": 0.55,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingJu01",
@@ -8215,8 +8186,8 @@
         "OffsetY": 5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 1.2,
-        "FillTime": 0.8,
+        "LiveTime": 1.3,
+        "FillTime": 0.75,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingJu01",
@@ -9031,7 +9002,7 @@
         "OffsetY": 0.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.6,
+        "LiveTime": 0.4,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingXian02",
@@ -9110,7 +9081,7 @@
         "OffsetY": 0.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.5,
+        "LiveTime": 0.4,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingXian02",
@@ -9227,7 +9198,7 @@
         "OffsetY": 0.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.5,
+        "LiveTime": 0.4,
         "HitCount": "-1",
         "HitEffect": [],
         "Effect": "FxYujingXian02",
@@ -9259,7 +9230,7 @@
         "Name": "光球投射",
         "Shape": 2,
         "SizeX": 2,
-        "Speed": 18,
+        "Speed": 15,
         "TargetType": 4,
         "LiveTime": 3,
         "DeadExplosion": 1,
@@ -9292,7 +9263,6 @@
         "MagicLauncherNpc": [],
         "EffectHeight": 0,
         "HitOnJoint": "HitCase",
-        "ResizeEffect": 1,
         "BindLauncher": 0,
         "BindSkill": 0,
         "ExplodeOnFloor": 1,
@@ -9392,7 +9362,7 @@
         "LiveTime": 1,
         "HitCount": "-1",
         "HitEffect": [],
-        "Effect": "FxYujing1M08S",
+        "Effect": "FxYujing1M10S",
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -12779,7 +12749,7 @@
         "OffsetY": 0.2,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.5,
+        "LiveTime": 0.4,
         "HitCount": "-1",
         "HitEffect": [],
         "StartJoint": "HitCase",
@@ -13039,7 +13009,7 @@
         "OffsetY": 7,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 1,
+        "LiveTime": 1.3,
         "FillTime": 0.9,
         "HitCount": "-1",
         "HitEffect": [],
@@ -14051,7 +14021,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14081,6 +14053,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431006,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P01Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431102,
@@ -14135,7 +14141,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14165,6 +14173,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431106,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P01Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431202,
@@ -14219,7 +14261,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14249,6 +14293,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431206,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P02Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431302,
@@ -14303,7 +14381,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14333,6 +14413,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431306,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P03Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431402,
@@ -14387,7 +14501,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14417,6 +14533,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431406,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P04Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431502,
@@ -14471,7 +14621,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14501,6 +14653,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431506,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P05Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431602,
@@ -14555,7 +14741,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14585,6 +14773,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431606,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P06Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431702,
@@ -14639,7 +14861,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14669,6 +14893,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431706,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P07Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431802,
@@ -14723,7 +14981,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14753,6 +15013,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431806,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P08Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90431902,
@@ -14807,7 +15101,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14837,6 +15133,40 @@
         "BindLauncher": 0,
         "BindSkill": 1,
         "DodgeLimitMark": 1
+    },
+    {
+        "Id": 90431906,
+        "Name": "特效",
+        "Shape": 2,
+        "SizeX": 0.1,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 2,
+        "HitCount": "-1",
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P09Dilie",
+        "DamageCount": "-1",
+        "LineType": 1,
+        "LineParams": [
+            null,
+            null,
+            null,
+            null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
     },
     {
         "Id": 90432002,
@@ -14891,7 +15221,9 @@
         "TargetType": 2,
         "LiveTime": 0.1,
         "HitCount": "-1",
-        "HitEffect": [],
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14923,17 +15255,16 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432101,
-        "Name": "旋风斩-伤害子弹",
+        "Id": 90432006,
+        "Name": "特效",
         "Shape": 2,
-        "SizeX": 3.2,
+        "SizeX": 0.1,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 2,
         "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
+        "HitEffect": [],
+        "Effect": "FxMe1SwordMd002001Attack17P10Dilie",
         "DamageCount": "-1",
         "LineType": 1,
         "LineParams": [
@@ -14941,6 +15272,43 @@
             null,
             null,
             null,
+            0,
+            0,
+            0
+        ],
+        "ScaleParams": [],
+        "BornPosition": 0,
+        "BornDirectionType": 0,
+        "BeHitCenter": 1,
+        "Magic": [],
+        "MagicLauncherNpc": [],
+        "EffectHeight": 0,
+        "HitOnJoint": "HitCase",
+        "BindLauncher": 0,
+        "BindSkill": 1,
+        "DodgeLimitMark": 0
+    },
+    {
+        "Id": 90432101,
+        "Name": "旋风斩-伤害子弹",
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 3.2,
+        "OffsetY": 1.6,
+        "Speed": 0,
+        "TargetType": 4,
+        "LiveTime": 1.3,
+        "HitCount": "-1",
+        "HitEffect": [
+            "FxMe1SwordMd002001Attack17Shouji"
+        ],
+        "DamageCount": "-1",
+        "LineType": 2,
+        "LineParams": [
+            "-1400",
+            0,
+            1.6,
+            1.6,
             0,
             0,
             0
@@ -14951,7 +15319,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904321011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -14962,219 +15330,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432102,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432103,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432104,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432105,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432106,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432109,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 3.2,
+        "OffsetY": 1.6,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            1.6,
+            1.6,
             0,
             0,
             0
@@ -15185,7 +15360,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904321091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -15196,219 +15371,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432110,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432111,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432112,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432113,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432114,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 3.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904321141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432201,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 5.4,
+        "OffsetY": 2.7,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            2.7,
+            2.7,
             0,
             0,
             0
@@ -15419,7 +15401,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904322011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -15430,219 +15412,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432202,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432203,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432204,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432205,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432206,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432209,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 5.4,
+        "OffsetY": 2.7,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            2.7,
+            2.7,
             0,
             0,
             0
@@ -15653,7 +15442,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904322091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -15664,219 +15453,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432210,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432211,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432212,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432213,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432214,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 5.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904322141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432301,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 7.6,
+        "OffsetY": 3.8,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            3.8,
+            3.8,
             0,
             0,
             0
@@ -15887,7 +15483,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904323011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -15898,219 +15494,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432302,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432303,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432304,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432305,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432306,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432309,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 7.6,
+        "OffsetY": 3.8,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            3.8,
+            3.8,
             0,
             0,
             0
@@ -16121,7 +15524,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904323091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -16132,219 +15535,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432310,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432311,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432312,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432313,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432314,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 7.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904323141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432401,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 9.8,
+        "OffsetY": 4.9,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            4.9,
+            4.9,
             0,
             0,
             0
@@ -16355,7 +15565,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904324011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -16366,219 +15576,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432402,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432403,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432404,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432405,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432406,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432409,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 9.8,
+        "OffsetY": 4.9,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            4.9,
+            4.9,
             0,
             0,
             0
@@ -16589,7 +15606,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904324091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -16600,219 +15617,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432410,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432411,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432412,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432413,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432414,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 9.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904324141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432501,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 12,
+        "OffsetY": 6,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            6,
+            6,
             0,
             0,
             0
@@ -16823,7 +15647,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904325011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -16834,219 +15658,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432502,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432503,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432504,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432505,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432506,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432509,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 12,
+        "OffsetY": 6,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            6,
+            6,
             0,
             0,
             0
@@ -17057,7 +15688,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904325091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -17068,219 +15699,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432510,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432511,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432512,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432513,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432514,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 12,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904325141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432601,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 14.2,
+        "OffsetY": 7.1,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            7.1,
+            7.1,
             0,
             0,
             0
@@ -17291,7 +15729,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904326011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -17302,219 +15740,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432602,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432603,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432604,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432605,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432606,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432609,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 14.2,
+        "OffsetY": 7.1,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            7.1,
+            7.1,
             0,
             0,
             0
@@ -17525,7 +15770,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904326091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -17536,219 +15781,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432610,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432611,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432612,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432613,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432614,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 14.2,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904326141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432701,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 16.4,
+        "OffsetY": 8.2,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            8.2,
+            8.2,
             0,
             0,
             0
@@ -17759,7 +15811,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904327011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -17770,219 +15822,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432702,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432703,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432704,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432705,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432706,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432709,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 16.4,
+        "OffsetY": 8.2,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            8.2,
+            8.2,
             0,
             0,
             0
@@ -17993,7 +15852,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904327091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -18004,219 +15863,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432710,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432711,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432712,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432713,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432714,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 16.4,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904327141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432801,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 18.6,
+        "OffsetY": 9.3,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            9.3,
+            9.3,
             0,
             0,
             0
@@ -18227,7 +15893,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904328011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -18238,219 +15904,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432802,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328021,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432803,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328031,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432804,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328041,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432805,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328051,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432806,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 4,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328061,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432809,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 18.6,
+        "OffsetY": 9.3,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            9.3,
+            9.3,
             0,
             0,
             0
@@ -18461,7 +15934,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904328091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -18472,219 +15945,26 @@
         "DodgeLimitMark": 1
     },
     {
-        "Id": 90432810,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328101,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432811,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328111,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432812,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328121,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432813,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90432814,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 18.6,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904328141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90432901,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 20.8,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 20.8,
+        "OffsetY": 10.4,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            10.4,
+            10.4,
             0,
             0,
             0
@@ -18695,7 +15975,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904329011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -18715,7 +15995,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18754,7 +16034,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18793,7 +16073,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18832,7 +16112,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18871,7 +16151,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18903,22 +16183,24 @@
     {
         "Id": 90432909,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 20.8,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 20.8,
+        "OffsetY": 10.4,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            10.4,
+            10.4,
             0,
             0,
             0
@@ -18929,7 +16211,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904329091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -18949,7 +16231,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -18988,7 +16270,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19027,7 +16309,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19066,7 +16348,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19096,63 +16378,26 @@
         "DodgeLimitMark": 0
     },
     {
-        "Id": 90432914,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 20.8,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904329141,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
         "Id": 90433001,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 23,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 23,
+        "OffsetY": 11.5,
         "Speed": 0,
         "TargetType": 4,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            11.5,
+            11.5,
             0,
             0,
             0
@@ -19163,7 +16408,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904330011,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -19183,7 +16428,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19222,7 +16467,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19261,7 +16506,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19300,7 +16545,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19339,7 +16584,7 @@
         "LiveTime": 0.1,
         "HitCount": "-1",
         "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
+            "FxMe1SwordMd002001Attack17Shouji"
         ],
         "DamageCount": "-1",
         "LineType": 1,
@@ -19371,22 +16616,24 @@
     {
         "Id": 90433009,
         "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 23,
+        "Shape": 1,
+        "SizeX": 2,
+        "SizeY": 23,
+        "OffsetY": 11.5,
         "Speed": 0,
         "TargetType": 2,
-        "LiveTime": 0.1,
+        "LiveTime": 1.3,
         "HitCount": "-1",
         "HitEffect": [
             "FxMe1SwordMd002001Attack01Shouji"
         ],
         "DamageCount": "-1",
-        "LineType": 1,
+        "LineType": 2,
         "LineParams": [
-            null,
-            null,
-            null,
-            null,
+            "-1400",
+            0,
+            11.5,
+            11.5,
             0,
             0,
             0
@@ -19397,7 +16644,7 @@
         "BeHitCenter": 1,
         "BeHitState": 904330091,
         "Magic": [
-            801021,
+            801100,
             812013
         ],
         "MagicLauncherNpc": [],
@@ -19552,45 +16799,6 @@
         "BornDirectionType": 0,
         "BeHitCenter": 1,
         "BeHitState": 904330131,
-        "Magic": [
-            801021,
-            812013
-        ],
-        "MagicLauncherNpc": [],
-        "EffectHeight": 0,
-        "HitOnJoint": "HitCase",
-        "BindLauncher": 1,
-        "BindSkill": 1,
-        "DodgeLimitMark": 0
-    },
-    {
-        "Id": 90433014,
-        "Name": "旋风斩-伤害子弹",
-        "Shape": 2,
-        "SizeX": 23,
-        "Speed": 0,
-        "TargetType": 2,
-        "LiveTime": 0.1,
-        "HitCount": "-1",
-        "HitEffect": [
-            "FxMe1SwordMd002001Attack01Shouji"
-        ],
-        "DamageCount": "-1",
-        "LineType": 1,
-        "LineParams": [
-            null,
-            null,
-            null,
-            null,
-            0,
-            0,
-            0
-        ],
-        "ScaleParams": [],
-        "BornPosition": 0,
-        "BornDirectionType": 0,
-        "BeHitCenter": 1,
-        "BeHitState": 904330141,
         "Magic": [
             801021,
             812013

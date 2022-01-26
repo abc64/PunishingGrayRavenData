@@ -1,6 +1,8 @@
 Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	NpcSearcherId	TrackTarget	LiveTime	FillTime	DeadExplosion	MoveExcludeObstacle	ActsExcludeObstacle	ExplosionOnCollideObstacle	HitCount	RepeatDamage	HitEffect[1]	HitEffect[2]	DamageInterval	StartJoint	Effect	WaitTime	DamageCount	DamageRange	ExplosionEffect	LineType	LineParams[1]	LineParams[2]	LineParams[3]	LineParams[4]	LineParams[5]	LineParams[6]	LineParams[7]	ScaleFunction	ScaleParams[1]	ScaleParams[2]	ScaleParams[3]	ScaleParams[4]	ScaleParams[5]	ScaleType	BornPosition	ChildDelay	ChildInterval	ChildCountLimit	ChildId	BornChildWhileDead	SwitchTargetOnHit	BornDirectionType	BeHitCenter	HitShakeDirection	HitShakeDuration	HitShakeIntensity	BeHitState	Magic[1]	Magic[2]	Magic[3]	Magic[4]	Magic[5]	MagicLauncherNpc[1]	MagicLauncherNpc[3]	MagicLauncherNpc[2]	EffectHeight	HitOnJoint	ResizeEffect	BindLauncher	LockLauncherFightTarget	BindSkill	ActiveDelayTime	ExplodeOnFloor	DodgeLimitMark	HitEffectUseMissileDirection	IgnoreNpcTimeScale	ScaleTimeOnHit	TimeScale	TimeScaleDuration
 20502101	502101-概率落雷-假紫太刀	2	0.3				0			4			0.6						-1						FxWeaponSword51Luolei		-1			1					0	0	0								3	0.05		1	20502102			4	3		0	0										0	HitCase		0					0	1				
 20502102	502102-落雷伤害-假紫太刀	2	0.5				0			4			0.1						-1		FxTongyongEleShouji						-1			1					0	0	0								2							2	3		0.2	0.1	205021021	502102							205021022	1.3			0					0	1				
+20502330	502330-暗影冲击伤害-A薇拉剑	1	2	3			65			4			2						-1		FxR2WeilaAttack31DandaoShouji						-1			1					0	0	0								3							4	3		0.2	0.1	205023301	502331								0.3	HitCase		0					0	1				
+20502331	502330-暗影冲击特效-A薇拉剑	2	0.3				0			4			3						-1						FxR2WeilaAttack31Dandao		-1			1					0	0	0								3							4	3		0.2	0.1										0	HitCase		0					0	1				
 20503311	503311-消12球范围增伤-付费橙炮2	2	5				0			3			5.5						-1	1			0.5		FxWeaponFloat62Wuqi03		-1			1					0	0	0								0							0	3		0	0		503312								0	HitCase		0					0	1				
 20504310	504310-落雷弓-落雷伤害	2	2				0			4			0.2						-1							0.1	-1			1					0	0	0								3							4	3		0.2	0.1	205043101	504311								0	HitCase		0					0	1				
 20504311	504311-落雷弓-落雷特效	2	0.3				0			4			1.6						-1						FxR3BiankaAttack23Luolei		-1			1					0	0	0								3							4	3		0	0										0	HitCase		0					0	1				
@@ -24,6 +26,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 20510303	510303-超算空间特效-禁锢	2	3				0			4			3.3						-1						FxWeaponExChaosuankongjian		-1			1					0	0	0								3							4	3		0	0										0	HitCase		0					0	1				
 20510401	510401-200%能量长矛-流星落	2	1.5				0			4			0.1						-1							0.3	-1			1					0	0	0								3							4	3		0.2	0.1		510402								0	HitCase		0					0	1				
 20510402	510402-200%能量长矛特效-流星落	2	1.5				0			4			0.6						-1						FxWeaponExChangmaoShouji		-1			1					0	0	0								3							4	3		0	0										0	HitCase		0					0	1				
+20510410	512027-光环消失	2	3				0			4			1						-1								-1		FxWeaponKamu61Wuqi02	1					0	0	0								0							0	3		0	0										0	HitCase		0		0			0	1				
 20600504	600504-几率炮弹-预约套	2	0.3				0			4			3						-1						FxR2KalieninaAttack51Dandao		-1			1					0	0	0								3	0.15		1	20600505			4	3		0.2	0.1										0	HitCase		0					0	1				
 20600505	600504-炮弹伤害-预约套	2	2				0			4			0.3						-1		FxR2KalieninaAttack11Shouji						-1			1					0	0	0								2			1	20600506			2	2		0.2	0.1	206005051	600505							206005052	1.2			0					0	1				
 20600506	600506-全震屏-预约套	2	99				0			4			0.2						1								1			1					0	0	0								2							2	3		0.2	0.1		600507								0	HitCase		0					0	1				
@@ -32,14 +35,22 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 20620208	620208-属性光环-抗性与重置-5星元素辅助	2	5				0			3			0.2						-1								-1			1					0	0	0								2							2	3		0	0		620212	620213	620214	620215	620216				0	HitCase		0					0	1				
 20620411	620411-半径5属性效果-5星坦克元素	2	5				0			4			0.1						-1								-1			1					0	0	0								3							4	3		0	0		620407	620408	620409	620410	620412				0	HitCase		0					0	1				
 20620904	620904-礼物1掉落-5星圣诞意识套	2	0.8				8			4			9999		1				-1						FxEquipChristmasBox07		-1			3	-50	-0.15	2	0	0	0	0								3	9999		1	20620905	1		4	3		0	0										1	HitCase		0		0	999	1	0	1				
-20620905	620905-礼物1烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620906			2	3		0	0										0.5	HitCase		0		0		1	0	1				
-20620906	620906-礼物1落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox01		1			1					0	0	0								2							2	3		0	0		620905	620906	620909	620910					0.5	HitCase		0		0			0	1				
-20620907	620907-礼物2掉落-5星圣诞意识套	2	0.8				8			4			9999		1				-1						FxEquipChristmasBox07		-1			3	-50	-0.15	2	0	0	0	0								3	9999		1	20620908	1		4	3		0	0										1	HitCase		0		0	999	1	0	1				
-20620908	620908-礼物2烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620909			2	3		0	0										0.5	HitCase		0		0		1	0	1				
-20620909	620909-礼物2落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox02		1			1					0	0	0								2							2	3		0	0		620905	620907	620909	620910					0.5	HitCase		0		0			0	1				
-20620910	620910-礼物3掉落-5星圣诞意识套	2	0.8				8			4			9999		1				-1						FxEquipChristmasBox07		-1			3	-50	-0.15	2	0	0	0	0								3	9999		1	20620911	1		4	3		0	0										1	HitCase		0		0	999	1	0	1				
-20620911	620911-礼物3烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620912			2	3		0	0										0.5	HitCase		0		0		1	0	1				
-20620912	620912-礼物3落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox03		1			1					0	0	0								2							2	3		0	0		620905	620908	620909	620910					0.5	HitCase		0		0			0	1				
+20620905	620904-礼物1烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620906			2	3		0	0										0.5	HitCase		0		0		1	0	1				
+20620906	620904-礼物1落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox01		1			1					0	0	0								2							2	3		0	0		620905	620906	620909	620910					0.5	HitCase		0		0			0	1				
+20620907	620904-礼物2掉落-5星圣诞意识套	2	0.8				8			4			9999		1				-1						FxEquipChristmasBox07		-1			3	-50	-0.15	2	0	0	0	0								3	9999		1	20620908	1		4	3		0	0										1	HitCase		0		0	999	1	0	1				
+20620908	620904-礼物2烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620909			2	3		0	0										0.5	HitCase		0		0		1	0	1				
+20620909	620904-礼物2落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox02		1			1					0	0	0								2							2	3		0	0		620905	620907	620909	620910					0.5	HitCase		0		0			0	1				
+20620910	620904-礼物3掉落-5星圣诞意识套	2	0.8				8			4			9999		1				-1						FxEquipChristmasBox07		-1			3	-50	-0.15	2	0	0	0	0								3	9999		1	20620911	1		4	3		0	0										1	HitCase		0		0	999	1	0	1				
+20620911	620904-礼物3烟雾-5星圣诞意识套	2	0.8				0			4			1						-1						FxEquipChristmasBox08		-1			1					0	0	0								2	0.3		1	20620912			2	3		0	0										0.5	HitCase		0		0		1	0	1				
+20620912	620904-礼物3落地-5星圣诞意识套	2	0.8			0.2	0			4			9999						1						FxEquipChristmasBox03		1			1					0	0	0								2							2	3		0	0		620905	620908	620909	620910					0.5	HitCase		0		0			0	1				
+20620920	620912-KFC-全家桶掉落	2	0.1				8			3			10		1				-1						FxEquipKFC01Dandao		-1			3	-20	-0.5	10	0	0	0	0								3	999		1	20620921	1	1	4	3		0	0										0.5			0					0	1				
+20620921	620912-KFC-全家桶拾取	2	3				0			3		1	10		1				1						FxEquipKFC01Start		1		FxEquipKFC01End	5	0	90	0	1.5	125.6636	0	0								2	999		1	20620922	1	1	2	3		0	0										0			0					0	1				
+20620922	620912-KFC-全家桶跟踪	2	0.1				20			3	20620922	1	3		1				1						FxEquipKFC01Dandao		-1			5	0	90	0	1.5	125.6636	0	0								2	999		1	20620923	1	1	2	3		0	0										0.5			0					0	1				
+20620923	620912-KFC-全家桶效果	2	4				0			3			0.5						-1								-1			1					0	0	0								2							2	3		0	0		620914	620919							0	HitCase		0					0	1				
+20620924	620915-KFC-鸡腿堡掉落	2	0.1				8			3			1		1				-1						FxEquipKFC02Dandao		-1			3	-20	-0.5	10	0	0	0	0								3	999		1	20620925	1	1	4	3		0	0										0.5			0					0	1				
+20620925	620915-KFC-鸡腿堡拾取	2	3				0			3		1	10		1				1						FxEquipKFC02Start		1		FxEquipKFC02End	5	0	90	0	1.5	125.6636	0	0								2	999		1	20620926	1	1	2	3		0	0										0			0					0	1				
+20620926	620915-KFC-鸡腿堡跟踪	2	0.1				20			3	20620925	1	3		1				1						FxEquipKFC02Dandao		-1			5	0	90	0	1.5	125.6636	0	0								2	999		1	20620927	1	1	2	3		0	0										0.5			0					0	1				
+20620927	620915-KFC-鸡腿堡效果	2	4				0			3			0.5						-1								-1			1					0	0	0								2							2	3		0	0		620917	620920							0	HitCase		0					0	1				
 20621006	621006-2020春节红包-红包1	2	0.25				0		-135	4			10						-1	1	FxTongyongFireShouji		0.5		FxEquipSpringFestival01		-1			2	240	0	1.5	1.5	0	0	0								0							0	3		0.2	0.1	206210061	621007								1.2	HitCase		1		0			0	1				
 20621007	621006-2020春节红包-红包2	2	0.25				0		-45	4			10						-1	1	FxTongyongFireShouji		0.5		FxEquipSpringFestival01		-1			2	240	0	1.5	1.5	0	0	0								0							0	3		0.2	0.1	206210071	621007								1.2	HitCase		1		0			0	1				
 20621008	621006-2020春节红包-红包3	2	0.25				0		45	4			10						-1	1	FxTongyongFireShouji		0.5		FxEquipSpringFestival01		-1			2	240	0	1.5	1.5	0	0	0								0							0	3		0.2	0.1	206210081	621007								1.2	HitCase		1		0			0	1				
@@ -51,11 +62,11 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 20630214	631214-物理治疗-6星物理辅助	2	5				300			3		1	1.1						-1								-1			1					0	0	0								3							4	3		0	0		630212	630213	630216						0	HitCase		0					0	1				
 20630804	630804-红黄蓝冲击波-6星消球套	2	6				0			4			0.5						-1						FxEquipBall64Chongjibo		-1			1					0	0	0								3							4	2		0.2	0.1	206308041	630808								0	HitCase		0					0	1				
 20630907	630907-暗区域-6星暗元素套	2	6				0			4			5						-1	1			0.5		FxEquipDarkAtk64Anying		-1			1					0	0	0								3							4	3		0	0		630908	630912							0	HitCase		0					0	1				
-20631007	631011-冰爆伤害-6星冰元素套	2	3			-0.3	300			4		1	0.1						-1		FxTongyongIceShouji						-1			1					0	0	0								3							4	2		0	0	206310071	631008	631009	631010	631012					0	HitCase		0					0	1				
+20631007	631011-冰爆伤害-6星冰元素套	2	3				0			4			0.1						-1		FxTongyongIceShouji						-1			1					0	0	0								3							4	2		0	0	206310071	631008	631009	631010	631012					0	HitCase		0					0	1				
 20631008	631011-冰爆特效-6星冰元素套	2	0.3				0			4			1.25						-1						FxEquipIceAtk64BingBao		-1			1					0	0	0								3							4	3		0	0										0	HitCase		0					0	1				
 20631107	631107-雷暴-6星雷元素套	2	3.5				0			4			0.5						-1		FxTongyongEleShouji						-1			1					0	0	0								3							4	2		0.2	0.1	206311071	631109	631108							0	HitCase		0					0	1				
 20631108	621108-雷暴特效-6星雷元素套	2	0.3				0			4			1.2						-1						FxEquipEleAtk64Leibao		-1			1					0	0	0								3							4	3		0	0										0	HitCase		0					0	1				
-20631110	631110-闪电链-6星雷元素套	2	99				0			4			1.2						-1								-1			1					0	0	0								3							4	3		0.2	0.1	206311101	631112								0	HitCase		0					0	1				
+20631110	631110-闪电链-6星雷元素套	2	99				0			4			1.2						-1								-1			1					0	0	0								3							4	3		0.2	0.1	206311101									0	HitCase		0					0	1				
 20631207	631207-爆炸-6星火元素套	2	2				0			4			0.3						-1		FxTongyongFireShouji						-1			1					0	0	0								3							4	2		0.2	0.1	206312071	631210								0	HitCase		0					0	1				
 20631208	631208-爆炸特效-6星火元素套	2	0.3				0			4			1.25						-1						FxEquipFireAtk64Baozha		-1			1					0	0	0								3							4	3		0	0										1	HitCase		0					0	1				
 10020101	红球1消-1	1	3	6		3	0			4			0.3						-1	1	FxR1LuxiyaAttack11Shouji01		0.1				-1			1					0	0	0								0							0	3	20	0.1	0.08	100201011	100220								1.2			1					1	1				
@@ -107,9 +118,9 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 10022512	援助技能（双刀一套）-12	1	2	3		1.5	0			4			0.1						-1	1	FxR1LuxiyaAttack43Shouji02		0.05				-1			1					0	0	0								0							0	3	270	0.2	0.08	100225121	100255							100225122	1.2			0					1	1				
 10022513	援助技能（双刀一套）-13	1	2	3		1.5	0			4			0.1						-1	1	FxR1LuxiyaAttack43Shouji03		0.05				-1			1					0	0	0								0							0	3	0	0.2	0.12	100225131	100255							100225132	1.2			0					1	1				
 10022517	援助技能（双刀一套）-17	1	2	4		2	0			4			0.1						-1	1	FxR1LuxiyaAttack44Shouji01		0.05				-1			1					0	0	0								0							0	3	0	0.2	0.12	100225171	100256							100225172	1.2			0					1	1				
-10022801	超级极限闪避对我-1	2	666				0			1			0.1						1								1			1					0	0	0								1			1	10022802			1	3		0.2	0.1		100061	100064	100072	199964					0	HitCase		0					0	1				
-10022802	超级极限闪避对我-2	2	0.3				0			4			4						-1						FxJixianshanbi		-1			1					0	0	0								0							0	3		0.2	0.1										0	HitCase		0					0	1				
-10022803	超级极限闪避对怪-1	2	666				0			4			0.1						-1								-1			1					0	0	0								1							1	3		0.2	0.1		100061	100062	900030						0	HitCase		0					0	1				
+10022801	超级极限闪避对我-1【技能用】	2	666				0			1			0.1						1								1			1					0	0	0								1			1	10022802			1	3		0.2	0.1		100061	100064	100072	199964					0	HitCase		0					0	1				
+10022802	超级极限闪避对我-2【技能用】	2	0.3				0			4			4						-1						FxJixianshanbi		-1			1					0	0	0								0							0	3		0.2	0.1										0	HitCase		0					0	1				
+10022803	超级极限闪避对怪-1【技能用】	2	666				0			4			0.1						-1								-1			1					0	0	0								1							1	3		0.2	0.1		100061	100062	900030						0	HitCase		0					0	1				
 10022804	普通闪避对我-1	2	666				0			1			0.1						1								1			1					0	0	0								1							1	3		0.2	0.1		100061								0	HitCase		0					0	1				
 10022805	普通闪避对怪-1	2	666				0			4			0.1						-1								-1			1					0	0	0								1							1	3		0.2	0.1		100061	900030							0	HitCase		0					0	1				
 10022806	超级极限闪避对我-1【装备用】	2	666				0			1			0.1						1								1			1					0	0	0								1			1	10022807			1	3		0.2	0.1		100061	100064	100072						0	HitCase		0					0	1				

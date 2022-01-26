@@ -168,6 +168,29 @@
         ]
     },
     {
+        "Id": 1416,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/ENimiziI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/ENimizi01002.png",
+        "Name": "Nimitz",
+        "Description": "ATK Boost",
+        "SkillEffect": [
+            null,
+            141602,
+            null,
+            141604,
+            null,
+            141606
+        ],
+        "SkillDescription": [
+            null,
+            "Basic Attack DMG increases by 5%.",
+            null,
+            "Extra DMG Bonus of 3-Ping is increased by 5%.",
+            null,
+            "After an Entrance Skill, Extra DMG Bonus increases by 10% for 8s."
+        ]
+    },
+    {
         "Id": 1501,
         "IconPath": "Assets/Product/Texture/Image/IconToolsSp/ELongmeierI01001Sp.png",
         "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/ELongmeierI01002.png",
@@ -320,6 +343,29 @@
         ]
     },
     {
+        "Id": 1509,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EBudikaI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EBudika01002.png",
+        "Name": "Boudica",
+        "Description": "ATK Boost",
+        "SkillEffect": [
+            null,
+            150902,
+            null,
+            150904,
+            null,
+            150906
+        ],
+        "SkillDescription": [
+            null,
+            "Basic Attack DMG increases by 7%.",
+            null,
+            "All DMG dealt and Movement Speed are increased by 5% and 10% when in Matrix.",
+            null,
+            "Extra DMG Bonus increases by 3% upon dealing DMG. It can only be triggered once per 2s. Stacks up to 5 times until taking DMG."
+        ]
+    },
+    {
         "Id": 1550,
         "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EShengdanlifuI01001Sp.png",
         "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EShengdanlifuI01001.png",
@@ -366,6 +412,36 @@
         "SkillDescription": [
             null,
             "After performing a 3-Ping or QTE skill, releases a lantern to follow the character on field, increasing the ATK and Movement Speed of nearby allies by 7% for 15s. 30s cooldown."
+        ]
+    },
+    {
+        "Id": 1555,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EKFC02Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EKFC02002.png",
+        "Name": "KFC·Alpha",
+        "Description": "Speed Boost",
+        "SkillEffect": [
+            null,
+            155032
+        ],
+        "SkillDescription": [
+            null,
+            "A QTE or 3-Ping has a 50% chance to drop a bucket of chicken. 30s cooldown. The bucket disappears in 10s. Picking it up will increase Movement Speed by 12% for 15s. Duration resets every time it is triggered."
+        ]
+    },
+    {
+        "Id": 1556,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EKFC01Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EKFC01002.png",
+        "Name": "KFC·Lucia",
+        "Description": "Energy Boost",
+        "SkillEffect": [
+            null,
+            155042
+        ],
+        "SkillDescription": [
+            null,
+            "A QTE or 3-Ping has a 50% chance to drop a chicken burger. 30s cooldown. The chicken burger disappears in 10s. Picking it up grants 8 energy."
         ]
     },
     {
@@ -654,6 +730,29 @@
         ]
     },
     {
+        "Id": 1616,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EKeyaI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EKeya01002.png",
+        "Name": "Koya",
+        "Description": "ATK Boost",
+        "SkillEffect": [
+            null,
+            161602,
+            null,
+            161604,
+            null,
+            161606
+        ],
+        "SkillDescription": [
+            null,
+            "Extra DMG increases by 10%.",
+            null,
+            "Gains 20% energy when switched in. Signal Orb Skill DMG increases by 10% while a shield exists.",
+            null,
+            "When Camu: Crocotta is Berserk, increases Damage Dealt by 10% and Speed by 20%. Ping Skills that deal damage also inflict Fear for the duration of Berserk.Fear: Reduces ATK DMG by 10% and deals an additional 10% ATK DMG to the target."
+        ]
+    },
+    {
         "Id": 1901,
         "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EGouliangI01001Sp.png",
         "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EGouliangI01002.png",
@@ -783,6 +882,25 @@
             "Basic Attack DMG increases by 10%.",
             null,
             "After any 3-Ping, randomly gain one of the below effects for 3s. 4s cooldown. Wild Rocker: All DMG increases by 7%. Soothing Chord: Receives a shield equal to 15% of your Defense. The shield refreshes when this effect is triggered again."
+        ]
+    },
+    {
+        "Id": 20001,
+        "IconPath": "Assets/Product/Texture/Image/IconToolsSp/EJpLivlizhuangI01001Sp.png",
+        "BigIconPath": "Assets/Product/Texture/Image/RoleWaferBag/EJpLivlizhuangB01001.png",
+        "Name": "Liv-Ceremony",
+        "Description": "Survival Boost",
+        "SkillEffect": [
+            null,
+            3000002,
+            null,
+            3000004
+        ],
+        "SkillDescription": [
+            null,
+            "When taking damage, gains a shield equal to 20% of own maximum HP for 5s. 30s cooldown.",
+            null,
+            "Gain a healing effect equal to 15% of own maximum HP for every 20s."
         ]
     }
 ]

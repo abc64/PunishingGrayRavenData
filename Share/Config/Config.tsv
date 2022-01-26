@@ -27,6 +27,9 @@ FubenMaxRecordPlayerNum	int	10
 TypeIdMainLine	int	10
 TypeIdBossSingle	int	11
 TypeIdExplore	int	12
+TypeIdGuildBossLow	int	20
+TypeIdGuildBossHigh	int	21
+TypeIdGuildBossBoss	int	22
 TypeIdUnionFight	int	40
 TeamMaxPos	int	3
 AssistTypePasser	int	1
@@ -175,7 +178,6 @@ ArenaTeamRankShow	int	100
 ArenaDayUnlockCount	int	4
 ArenaTeamRankSortTime	int	1800
 ArenaOnlineCharMaxEndurance	int	1
-ArenaOnlineOpenTimestamp	int	1591822800
 BaseEquipMaxCount	int	30
 DormWorkMaxCount	int	8
 DormReNameLen	int	12
@@ -206,16 +208,16 @@ GuildCreateCostItemType	int	3
 GuildCreateCostItemCount	int	300
 GuildApplyPlayerMaxCount	int	200
 GuildApplyGuildMaxCount	int	60
-GuildRecruitGuildMaxCount	int	60
+GuildRecruitGuildMaxCount	int	20
 GuildLikedItemId	int	37
 GuildAddPopularity	int	3
 GuildImpeachDays	int	7
 GuildImpeachDuration	int	3
 GuildImpeachExtend	int	1
 GuildScriptCount	int	5
-GuildScriptLength	int	25
+GuildScriptLength	int	40
 GuildTouristDuration	int	48
-GuildPlayerRecommendLevel	int	15
+GuildPlayerRecommendLevel	int	40
 GuildPlayerRecommendCount	int	30
 GuildPlayerRecommendCountPage	int	10
 GuildPlayerRecommendRefresh	int	1
@@ -226,17 +228,46 @@ GuildContributeRewardCoA	float	0.8
 GuildContributeRewardCoB	int	100
 GuildWishContributeAddCoin	int	20
 GuildNewsMaxCount	int	30
-GuildEnterCd	int	1
+GuildPlayerNewsMaxCount	int	50
+GuildEnterCd	int	8
 GuildChatMaxCount	int	50
-GuildCoinCd	int	72
+GuildCoinCd	int	0
 GuildApplyCd	int	24
 GuildRecommendCount	int	100
 GuildRecommendCountPage	int	30
-GuildRecommendRefresh	int	24
+GuildRecommendRefresh	int	1
 GuildFindLikeCount	int	25
+GuildRecruitGuildDailyCount	int	10
+GuildImpeachCostItem	string	3|1
+GuildImpeachCostCount	string	300|500000
+GuildBuildIntervalWhenMaxLevel	int	32000
+GuildTalentPointCountWhenMaxLevel	int	20
+GuildRankListCount	int	100
+GuildScriptText	string	Greetings to New Commandant
+GuildNameMinLen	int	1
+GuildNameMaxLen	int	16
+GuildDeclarationMaxLen	int	100
+GuildApplyTimeoutSec	int	86400
 BossOnlineKillFloorValue	int	12
 BossOnlineKillCeilingValue	int	19
 SparkServer	string	Star in the Dark Server
 BeaconServer	string	Beacon Server
 TestServer	string	Testing Server
+ArenaOnlineOpenTimestamp	int	1591822800
+InfestorRewardMsgMaxLength	int	15
+InfestorChapterLeaveMsgInterval	int	15
+InfestorChapterLeaveMsgMaxLength	int	15
+InfestorChapterLeaveMsgMaxCount	int	10
+InfestorRandomEventGoodsCount	int	3
+InfestorSyncPlayerInfoInterval	int	300
+InfestorBfrtSubHpTimes	int	3
+InfestorActionPointDailyRecover	int	14
+InfestorCoreUseMaxCount	int	6
+GuildBossDeathAddScore	int	80000
+GuildBossStageUploadCount	int	3
+GuildBossStageAddBuffPoint	int	10
+GuildBossStageMaxBuffPoint	int	100
+GuildBossScoreContributeRatio	float	0.001
+GuildBossRankListCount	int	100
+GuildBossScoreCollectionRatio	float	0.0001
 PurchasePayLockGoodsTime	float	15

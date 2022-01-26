@@ -19,8 +19,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 801,
@@ -42,8 +42,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 802,
@@ -64,8 +64,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 803,
@@ -87,8 +87,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 804,
@@ -110,8 +110,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 805,
@@ -133,8 +133,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 806,
@@ -154,8 +154,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 807,
@@ -176,8 +176,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 808,
@@ -198,8 +198,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 809,
@@ -220,8 +220,8 @@
         ],
         "Type": 1,
         "UiType": 2,
-        "StartTimeStr": "2020/2/14 0:00",
-        "EndTimeStr": "2020/2/16 23:59"
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     },
     {
         "Id": 900,
@@ -242,5 +242,90 @@
         "UiType": 2,
         "StartTimeStr": "2020/6/1 0:00",
         "EndTimeStr": "2020/6/1 23:59"
+    },
+    {
+        "Id": 96000010,
+        "Name": "Valentine's Message: Chrome",
+        "ConditionIds": [
+            96000010
+        ],
+        "Priority": 65,
+        "BtnContent": "Happy Valentine's Day, Chrome.",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKuluomu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/R2KuluomuNormal01.png",
+        "Contents": [
+            "*Connection request from Chrome through a private channel*",
+            "Commandant, I hope I'm not bothering you.",
+            "I've heard that today is the day people express their most heartfelt feelings. I... Strike Hawk has been in your care the whole time, so I would like to express my thanks today.",
+            "I have prepared a little something. I hope you'd like it.",
+            "I wasn't sure what type of chocolate you might prefer, so I've prepared different types and flavors. I hope you find one that you like.Well, then... Happy Valentine's Day, KURONAME."
+        ],
+        "Type": 1,
+        "UiType": 2,
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
+    },
+    {
+        "Id": 96000011,
+        "Name": "Valentine's Message: Sophia",
+        "ConditionIds": [
+            96000011
+        ],
+        "Priority": 66,
+        "BtnContent": "Thanks. I like it a lot.",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadSufeiya1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/R2SufeiyaNormal01.png",
+        "Contents": [
+            "I heard that today you send your important ones gifts.",
+            "And they say this is the most fitting one.",
+            "Commandant... Do you like it?"
+        ],
+        "Type": 1,
+        "UiType": 2,
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
+    },
+    {
+        "Id": 96000012,
+        "Name": "Valentine's Message: Vera",
+        "ConditionIds": [
+            96000012
+        ],
+        "Priority": 67,
+        "BtnContent": "Will... do.",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadWeila1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/R2WeilaNormal01.png",
+        "Contents": [
+            "Hey hey, my little birdling. How's it been? Today's Valentine's, you'd know, won't you?",
+            "Hah. I know. You're expecting something... special on a day like this, aren'tcha?",
+            "Something like... This piece of chocolate, a piece that's so sweet that it hurts?",
+            "Ahaha. Take it. When you pop it in your mouth, don't forget who granted you this pain."
+        ],
+        "Type": 1,
+        "UiType": 2,
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
+    },
+    {
+        "Id": 96000013,
+        "Name": "Valentine's Message: Camu",
+        "ConditionIds": [
+            96000013
+        ],
+        "Priority": 68,
+        "BtnContent": "Thank you.",
+        "NpcHandIcon": "Assets/Product/Texture/Image/RoleCharacter/RoleHeadKamu1.png",
+        "NpcHalfIcon": "Assets/Product/Texture/Image/RoleStory/R2KamuNormal01.png",
+        "Contents": [
+            "Finally. Took you long enough. Well, Gray Raven Commandant, you know what day it is.",
+            "Yep. The day to show your feelings to important ones. Kamui's been nagging me on all day, ignoring the guy wasn't an option.",
+            "Here. Take this. Guess you'd expected something like this. I've tried several ways of making it and there's been quite a few failed products, but eating them up was kinda fun.",
+            "Valentine? Nah, I'm not interested in calling it this way or whatever.",
+            "Unlike that guy, I know what I want. I wouldn't sully such an important matter in such a petty way."
+        ],
+        "Type": 1,
+        "UiType": 2,
+        "StartTimeStr": "2022/2/13 0:00",
+        "EndTimeStr": "2022/2/16 23:59"
     }
 ]

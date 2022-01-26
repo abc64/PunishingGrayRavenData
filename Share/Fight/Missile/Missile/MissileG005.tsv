@@ -101,51 +101,189 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90660102	闪避飞镖（闪避加伤害）-远程飞镖	1	0.8	0.5		0.25	25			4		0	3			1	1	1	-1		FxMo1DiaorensanxingMd000001Attack01Shouji2				FxMo1DiaorensanxingMd000001Attack01Zidan		-1			1				0	0	0	0								0							0	1				906601021	801015	906625	906626						1	HitCase		0		0			1					
 90660103	闪避飞镖（闪避加伤害）-远程飞镖	1	0.8	0.5		0.25	25			4		0	3			1	1	1	-1		FxMo1DiaorensanxingMd000001Attack01Shouji2				FxMo1DiaorensanxingMd000001Attack01Zidan		-1			1				0	0	0	0								0							0	1				906601031	801015	906625	906626						1	HitCase		0		0			1					
 90660105	闪避飞镖（闪避加伤害）-近战第一下普攻伤害	1	2	4		0.2	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906601051	801030	906625	906626						0	HitCase		0		0			1					
-90660201	三连后闪击（闪避加普攻）-第1下踢腿伤害帧	3	2	220		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	1				906602011	801020	906627	906628			906621			0	HitCase		1		1			1					
+90660201	三连后闪击（闪避加普攻）-第1下踢腿伤害帧	3	2	220		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	1				906602011	801030	906627	906628			906621			0	HitCase		1		1			1					
 90660203	三连后闪击（闪避加普攻）-第2下踢腿伤害帧	1	2	3		2	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack02Shouji02						-1			1				0	0	0	0								0							0	1				906602031	801030	906627	906628						0	HitCase		1		1			1					
-90660206	三连后闪击（闪避加普攻）-第一下镰刀伤害帧	3	2	200		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	1				906602061	801030	906627	906628						0	HitCase		1		1			1					
-90660304	飞雷神-绑在身体前方跟随自身的伤害子弹	2	2	1		0.5	0			4		0	1						-1		FxMo1DiaorensanxingMd000001Attack03Shouji						-1			1				0	0	0	0								0							0	3				906603041	801090	906634	906635						0	HitCase		1		1			1					
+90660206	三连后闪击（闪避加普攻）-第一下镰刀伤害帧	3	2	200		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	1				906602061	801010	906627	906628						0	HitCase		1		1			1					
+90660304	飞雷神-绑在身体前方跟随自身的伤害子弹	2	2	1		0.5	0			4		0	1						-1		FxMo1DiaorensanxingMd000001Attack03Shouji						-1			1				0	0	0	0								0							0	3				906603041	801070	906634	906635						0	HitCase		1		1			1					
 90660310	飞雷神（远距离突进+远距离追杀）-角色头上出危	3	30	180			0			4		0	0.1			1	1	1	-1								-1			1				0	0	0	0								0							0	1					906632								0	HitCase		0					0					
 90660504	新版被刺杀死亡-4	2	0.1				0			4		0	3						-1						FxQianxingDiaorenDeath		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
-90660601	匍匐突进out击中敌人-第一击子弹高抬腿	3	2.2	180		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	1				906606011	801030	906636	906637						0	HitCase		1		1			1					
-90660602	匍匐突进out击中敌人-第二击子弹扫堂腿	2	2.6	360		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	3				906606021	801030	906636	906637						0	HitCase		1		1			1					
-90660603	匍匐突进out击中敌人-第三击子弹匕首突刺	1	2	2.6		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji02						-1			1				0	0	0	0								0							0	3				906606031	801030	906636	906637						0	HitCase		1		1			1					
-90660701	突进二连-扫堂腿第一击	3	2.2	180		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack07Shouji						-1			1				0	0	0	0								0							0	3				906607011	801040	906640	906641						0	HitCase		1		1			1					
+90660601	匍匐突进out击中敌人-第一击子弹高抬腿	3	2.2	180		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	1				906606011	801010	906636	906637						0	HitCase		1		1			1					
+90660602	匍匐突进out击中敌人-第二击子弹扫堂腿	2	2.6	360		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	3				906606021	801020	906636	906637						0	HitCase		1		1			1					
+90660603	匍匐突进out击中敌人-第三击子弹匕首突刺	1	2	2.6		1	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack06Shouji02						-1			1				0	0	0	0								0							0	3				906606031	801035	906636	906637						0	HitCase		1		1			1					
+90660701	突进二连-扫堂腿第一击	3	2.2	180		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack07Shouji						-1			1				0	0	0	0								0							0	3				906607011	801030	906640	906641						0	HitCase		1		1			1					
 90660702	突进二连-扫堂腿第二击	3	2.6	220		0.5	0			4		0	0.2						-1		FxMo1DiaorensanxingMd000001Attack07Shouji02						-1			1				0	0	0	0								0							0	3				906607021	801040	906643	906644			906618			0	HitCase		1		1			1					
 90660804	飞雷神远距离接力远距离-伤害子弹	2	2	1		0.5	0			4		0	1			1	1	1	-1		FxMo1DiaorensanxingMd000001Attack08Shouji						-1			1				0	0	0	0								0							0	3				906608041	801070	906634	906635						0	HitCase		1		1			1					
 90660810	飞雷神接力版本-角色头上出危	3	30	180			0			4		0	0.1						-1								-1			1				0	0	0	0								0							0	1					906632								0	HitCase		0					0					
-90661101	突进普攻（普通突进出拳）-跟随子弹向前突进	2	2	1		0.2	0			4		0	0.5						-1		FxMo1DiaorensanxingMd000001Attack11Shouji						-1			1				0	0	0	0								0							0	3				906611011	801035	906647	906648						0	HitCase		1		1			1					
+90661101	突进普攻（普通突进出拳）-跟随子弹向前突进	2	2	1		0.2	0			4		0	0.5						-1		FxMo1DiaorensanxingMd000001Attack11Shouji						-1			1				0	0	0	0								0							0	3				906611011	801030	906647	906648						0	HitCase		1		1			1					
 90661103	突进普攻（普通突进出拳）-双手插伤害子弹	3	2	1		0.5	0			4		0	0.1						-1		FxMo1DiaorensanxingMd000001Attack11Shouji						-1			1				0	0	0	0								0							0	3				906611031	801035	906647	906648						0	HitCase		1		1			1					
 90663601	吊人1号状态机死亡技能-播放特效	2	0.1				0			4		0	1						-1						FxMe1BioMd007020Death		-1			1				0	0	0	0								0							0	1													0	HitCase		0		0			0					
 90663701	吊人2号状态机死亡技能-播放特效	2	0.1				0			4		0	1						-1						FxMe1BioMd007020Death		-1			1				0	0	0	0								0							0	1													0	HitCase		1		0			0					
 90663801	吊人3号状态机死亡技能-播放特效	2	0.1				0			4		0	1						-1						FxMe1BioMd007020Death		-1			1				0	0	0	0								0							0	1													0	HitCase		0		0			0					
-90690103	七相拳-第一下把玩家拉过来造成一次伤害	1	3.5	8.3		3.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901031	801020	906931	906932	906933					0	HitCase		0		1			1					
-90690104	七相拳-幻影第一击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901041	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690105	七相拳-幻影第二击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901051	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690106	七相拳-幻影第三击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901061	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690107	七相拳-幻影第四击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901071	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690108	七相拳-幻影第五击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901081	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690109	七相拳-幻影第六击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901091	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690110	七相拳-重拳出击	1	2.6	5		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	3				906901101	801035		906936	906937					0	HitCase	1	0		1			1					
+90690103	七相拳-第一下把玩家拉过来造成一次伤害	1	3.5	8.3		3.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901031	801010	906931	906932	906933					0	HitCase		0		1			1					
+90690104	七相拳-幻影第一击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901041	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690105	七相拳-幻影第二击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901051	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690106	七相拳-幻影第三击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901061	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690107	七相拳-幻影第四击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901071	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690108	七相拳-幻影第五击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901081	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690109	七相拳-幻影第六击	1	2.6	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901091	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690110	七相拳-重拳出击	1	2.6	5		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	3				906901101	801020		906936	906937					0	HitCase	1	0		1			1					
 90690111	七相拳-预警矩形	1	3.5	8		3.5	0			4		0	1	0.5					-1						FxYujingJu01		-1			1				0	0	0	0								0							0	1													0	HitCase	1	0		1			0					
-90690113	七相拳-幻影第七击	1	3	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901131	801010	906931	906934	906935					0	HitCase	1	0		1			1					
-90690201	砸地击飞-砸地伤害子弹，击倒	2	3		0	0	0			4		0	0.1						-1		FxMo1LucunMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	3				906902011	801060	906915	906916						0	HitCase		0		1			1					
-90690404	冲锋过程loop-冲锋过程中前面子弹	1	2.4	2.6	0	1	0			4		0	2						-1								-1			1				0	0	0	0								0							0	1					801035					906907			0	HitCase		1		1			1					
+90690113	七相拳-幻影第七击	1	3	3		3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack01Shouji						-1			1				0	0	0	0								0							0	1				906901131	801005	906931	906934	906935					0	HitCase	1	0		1			1					
+90690201	砸地击飞-砸地伤害子弹，击倒	2	3		0	0	0			4		0	0.1						-1		FxMo1LucunMd000001Attack02Shouji						-1			1				0	0	0	0								0							0	3				906902011	801045	906915	906916						0	HitCase		0		1			1					
+90690404	冲锋过程loop-冲锋过程中前面子弹	1	2.4	2.6	0	1	0			4		0	2						-1								-1			1				0	0	0	0								0							0	1					801030					906907			0	HitCase		1		1			1					
 90690501	抓人没抓到-1	1	2.4	2.8	0	1	0			4		0	0.5						-1								-1			1				0	0	0	0								0							0	1							906625	906626		906907			0	HitCase		1		1			1					
-90690603	抓人砸地-伤害帧	2	1.5		0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	1					801060								0	HitCase		0					0					
-90690701	闪避连招-闪避第一下出拳	1	2	3.5	0	0.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji01						-1			1				0	0	0	0								0							0	3				906907011	801040								0	HitCase		0					1					
-90690702	闪避连招-踢脚	1	2	4	0	0.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji02						-1			1				0	0	0	0								0							0	3				906907021	801040								0	HitCase		0					1					
+90690603	抓人砸地-伤害帧	2	1.5		0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack06Shouji						-1			1				0	0	0	0								0							0	1					801040								0	HitCase		0					0					
+90690701	闪避连招-闪避第一下出拳	1	2	3.5	0	0.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji01						-1			1				0	0	0	0								0							0	3				906907011	801010								0	HitCase		0					1					
+90690702	闪避连招-踢脚	1	2	4	0	0.5	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji02						-1			1				0	0	0	0								0							0	3				906907021	801030								0	HitCase		0					1					
 90690703	闪避连招-三段飞踢	1	2	4	0	1	20			4		0	1						-1		FxMo1LucunMd000001Attack23Shouji03				FxMo1LucunMd000001Attack08Dandao		-1			1				0	0	0	0								0							0	1				906907031	801040								0	HitCase		0					1					
-90690801	远程-蓄力冲击波伤害子弹	1	1.8	1		0.25	50			4		0	2			1	1	1	-1		FxMo1LucunMd000001Attack08Shouji				FxMo1LucunMd000001Attack08Dandao		-1			1				0	0	0	0								0							0	1				906908011	801080	906917	906918			906909			1	HitCase		0		1			1					
+90690801	远程-蓄力冲击波伤害子弹	1	1.8	1		0.25	50			4		0	2			1	1	1	-1		FxMo1LucunMd000001Attack08Shouji				FxMo1LucunMd000001Attack08Dandao		-1			1				0	0	0	0								0							0	1				906908011	801040	906917	906918			906909			1	HitCase		0		1			1					
 90690803	子弹预警闪线	1	1	1	0	0	0			4		0	0.2						-1						FxYujingXian02		-1			1				0	0	0	0								0							0	1													1.5	HitCase		1		1			0					
 90690806	远程-蓄力冲击波-预警红线	1	1	1	0	0	0			4		0	0.5						-1						FxYujingXian01		-1			1				0	0	0	0								0							0	1													1.5	HitCase		1		1			0					
-90690902	冲击波命中敌人突进击飞-伤害帧	1	2.6	2.6		1	0			4		0	0.52						-1		FxMo1LucunMd000001Attack09Shouji						-1			1				0	0	0	0								0							0	1				906909021	801050	906919	906920						0	HitCase		1					1					
+90690902	冲击波命中敌人突进击飞-伤害帧	1	2.6	2.6		1	0			4		0	0.52						-1		FxMo1LucunMd000001Attack09Shouji						-1			1				0	0	0	0								0							0	1				906909021	801030	906919	906920						0	HitCase		1					1					
 90691701	普攻2连-第一下子弹伤害帧	1	2	3.2	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack09Shouji						-1			1				0	0	0	0								0							0	3				906917011	801030	906940	906941						0	HitCase		0					1					
-90691802	普攻2连-第一下子弹伤害帧	2	2.8		0	3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack18Shouji						-1			1				0	0	0	0								0							0	3				906918021	801050	906921	906922						0	HitCase		0					1					
+90691802	普攻2连-第一下子弹伤害帧	2	2.8		0	3	0			4		0	0.1						-1		FxMo1LucunMd000001Attack18Shouji						-1			1				0	0	0	0								0							0	3				906918021	801025	906921	906922						0	HitCase		0					1					
 90691804	火球下砸-地裂特效	2	3		0	3	0			4		0	1						-1		FxMo1LucunMd000001Attack18Shouji				FxMo1LucunMd000001Attack18Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
 90691902	下踩-第一下伤害子弹	3	5.6	60	0	0	0			4		0	0.1						-1		FxMo1LucunMd000001Attack19Shouji01						-1			1				0	0	0	0								0							0	3				906919021	801030	906940	906941						0	HitCase		0					1					
 90691905	下踩-突刺预警	2	1.5		0	0	0			4		0	1						-1						FxMo1LucunMd000001Attack19Yujing		-1			1				0	0	0	0								1							0	1													0	HitCase		0					0					
-90691906	下踩-突刺伤害（延时1S触发）	2	1.5		0	0	0			4		0	1						-1		FxMo1LucunMd000001Attack19Shouji02				FxMo1LucunMd000001Attack19Dilie02	1	-1			1				0	0	0	0								1							0	3				906919061	801070	906921	906922						0	HitCase		0					1					
-90692102	闪避连招-第一下出拳伤害帧	1	2	3.2	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji01						-1			1				0	0	0	0								0							0	3				906921021	801020	906938	906938						0	HitCase		0		1			1					
-90692103	闪避连招-第二下出拳伤害帧	1	2	3.6	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji02						-1			1				0	0	0	0								0							0	3				906921031	801030	906940	906941						0	HitCase		0		1			1					
-90692104	闪避连招-第三下飞踢伤害帧	1	2	3.8	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji03						-1			1				0	0	0	0								0							0	3				906921041	801040	906942	906943						0	HitCase		0		1			1					
+90691906	下踩-突刺伤害（延时1S触发）	2	1.5		0	0	0			4		0	1						-1		FxMo1LucunMd000001Attack19Shouji02				FxMo1LucunMd000001Attack19Dilie02	1	-1			1				0	0	0	0								1							0	3				906919061	801060	906921	906922						0	HitCase		0					1					
+90692102	闪避连招-第一下出拳伤害帧	1	2	3.2	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji01						-1			1				0	0	0	0								0							0	3				906921021	801015	906938	906938						0	HitCase		0		1			1					
+90692103	闪避连招-第二下出拳伤害帧	1	2	3.6	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji02						-1			1				0	0	0	0								0							0	3				906921031	801025	906940	906941						0	HitCase		0		1			1					
+90692104	闪避连招-第三下飞踢伤害帧	1	2	3.8	0	1	0			4		0	0.1						-1		FxMo1LucunMd000001Attack23Shouji03						-1			1				0	0	0	0								0							0	3				906921041	801030	906942	906943						0	HitCase		0		1			1					
+83700101	折返跃迁-特效	2	0.1				0			4		0	0.8						-1						FxMb1AolajiangAAtk01Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700202	锤子砸地特效	2	2.5		0	0	0			4		0	1						-1						FxMb1AolajiangAAtk02Dilie02		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700203	跳出水特效	2	2.5			3	0			4		0	1						-1						FxMb1AolajiangAAtk02Dilie03		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700205	跳出-伤害帧	2	2.5		0	3	0			4		0	0.1						-1		FxMb1AolajiangAAtk03Hit						-1			1				0	0	0	0								0							0	3				837002051	801040	837026							0	HitCase		0		1			1					
+83700302	跳出-水面特效	2	0.1				0			4		0	1						-1						FxMb1AolajiangAAtk03Dilie01		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700303	跳出-锤子砸地特效	2	0.1				0			4		0	1						-1						FxMb1AolajiangAAtk03Dilie02		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700304	跳出-伤害帧	2	4		0	1	0			4		0	0.1						-1		FxMb1AolajiangAAtk03Hit						-1			1				0	0	0	0								0							0	3				837003041	801040	837026							0	HitCase		0		1			1					
+83700402	滑板车(Run)-面前子弹	1	2.4	3	0	1.8	0			4		0	0.4						-1		FxMb1AolajiangAAtk04Hit						-1			1				0	0	0	0								0							0	3				837004021	801040	837025	837026			837005			0	HitCase		1		1			1					
+83700501	滑板车(Stand2)-起跳水花特效	2	2		0	0	0			4		0	0.5						-1						FxMb1AolajiangAAtk05Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83700503	滑板车(Run)-面前子弹	1	2.4	3	0	1.8	0			4		0	0.5						-1		FxMb1AolajiangAAtk05Hit						-1			1				0	0	0	0								0							0	3				837005031	801050	837021	837022			837005			0	HitCase		1		1			1					
+83700802	跳起来尾巴扇脸脸-普通子弹	3	2.5	160	0	0.7	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837008021	801045	837021	837022						0	HitCase		0		1			1					
+83701002	前冲翻滚转圈圈-普通子弹	2	3		0	0	0			4		0	0.1						-1		FxMb1AolajiangAAtk10Hit01						-1			1				0	0	0	0								0							0	3				837010021	801035	837022							0	HitCase		0		1			1					
+83701003	前冲翻滚转圈圈-子弹特效	2	3		0	0	0			4		0	0.5						-1						FxMb1AolajiangAAtk10Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701005	前冲翻滚转圈圈-转圈圈子弹-1	2	2.7		0	0	0			4		0	0.5						-1		FxMb1AolajiangAAtk10Hit02						-1			1				0	0	0	0								0							0	3				837010051	801010	837023	837024						0	HitCase		1					1					
+83701006	前冲翻滚转圈圈-转圈圈子弹-2	2	2.7		0	0	0			4		0	0.5						-1		FxMb1AolajiangAAtk10Hit02						-1			1				0	0	0	0								0							0	3				837010061	801010	837023	837024						0	HitCase		1					1					
+83701007	前冲翻滚转圈圈-转圈圈子弹-3	2	2.7		0	0	0			4		0	0.1						-1		FxMb1AolajiangAAtk10Hit02						-1			1				0	0	0	0								0							0	3				837010071	801010	837023	837024						0	HitCase		1					1					
+83701103	吸尘器-吸尘器爆炸特效	2	0.1				0			4		0	0.3						-1						FxMb1AolajiangAAtk1102		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701104	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011041	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701105	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011051	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701106	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011061	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701107	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011071	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701108	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011081	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701109	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011091	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701110	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011101	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701111	吸尘器-吸力子弹	3	6	38	0.3	0.9	0			4		0	0.1						-1		FxMb1AolajiangAAtk08Hit						-1			1				0	0	0	0								0							0	3				837011111	801005	837008	837023	837024					0	HitCase		0		1			1					
+83701112	吸尘器-吸力子弹	1	3.2	6	0.3	2.3	0			4		0	0.1						-1		FxMb1AolajiangAAtk11Hit						-1			1				0	0	0	0								0							0	3				837011121	801020	837025	837026						0	HitCase		0		1			1					
+83701202	后跳拔枪射击-地面的伤害帧子弹	2	3.5		0	6.1	0			4		0	0.1						-1		FxMb1AolajiangAAtk12Hit						-1			1				0	0	0	0								0							0	1				837012021	801025	837021	837022						0	HitCase		0		1			1					
+83701205	后跳拔枪射击-跳起来子弹特效	2	2		0	0	0			4		0	0.2						-1						FxMb1AolajiangAAtk12Dandao		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701208	后跳拔枪射击-子弹特效	2	3.5		0	6.1	0			4		0	0.5						-1						FxMb1AolajiangAAtk12Dilie02		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701209	后跳拔枪射击-落地伤害特效	2	3		0	0	0			4		0	0.5						-1						FxMb1AolajiangAAtk12Dilie03		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701210	后跳拔枪射击-落地伤害子弹	2	2		0	-0.5	0			4		0	0.1						-1		FxMb1AolajiangAAtk12Hit						-1			1				0	0	0	0								0							0	1				837012101	801025	837021	837022						0	HitCase		0		1			1					
+83701302	远程棒球-普通子弹	1	2.5	5	0	1.5	100			4		0	0.5						-1		FxMb1AolajiangAAtk14Hit				FxMb1AolajiangAAtk13Dandao		-1			1				0	0	0	0								0							0	1				837013021	801070	837021	837022						1	HitCase	1	0		1			1					
+83701803	右边闪避反击-普通子弹	1	2.8	4.6	0	2	0			4		0	0.1						-1		FxMb1AolajiangAAtk18Hit						-1			1				0	0	0	0								0							0	3				837018031	801070		837026						0	HitCase		0		1			1					
+83701805	右边闪避反击-伤害帧子弹特效	1	2.8	4.3	0	1	0			4		0	1						-1						FxMb1AolajiangAAtk18Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83701903	左边滑铲扔出锤子-普通子弹	2	2		0	1	44			4		0	0.31						-1		FxMb1AolajiangAAtk19Hit						-1			1				0	0	0	0								0							0	3				837019031	801070	837025	837026						0	HitCase	1	0		1			1					
+83702001	落下来气球起飞-武器蓄力特效	2	0.1				0			4		0	0.1						-1								-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83702002	落下来气球起飞-水球上升特效	2	0.1				0			4		0	0.1						-1								-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83702102	Stand2-气球起飞	1	1	1	0	0	0			4		0	5						-1						FxMb1AolajiangAAtk2102		-1			1				0	0	0	0								0							0	1													0	HitCase		1					0					
+83702303	在天上扔炸弹爆炸子弹	2	4		0	4	0			4		0	0.1						-1		FxMb1AolajiangAAtk23Hit						-1			1				0	0	0	0								0							0	3				837023031	801020	837025	837026						0	HitCase		0		1			0					
+83702306	在天上扔炸弹爆炸子弹特效	2	0.1				0			4		0	1						-1						FxMb1AolajiangAAtk23Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83702402	气球爆炸落地-伤害帧	2	4		0	0	0			4		0	0.1						-1		FxMb1AolajiangAAtk23Hit				FxMb1AolajiangAAtk12Dilie02		-1			1				0	0	0	0								0							0	3				837024021	801040	837026							0	HitCase		0					1					
+83702602	远程-愤招四连-第一下击退	1	2	2	0	1.5	0			4		0	0.3						-1		FxMb1AolajiangAAtk26Hit01						-1			1				0	0	0	0								0							0	3				837026021	801020								0	HitCase		1		1			1					
+83702603	远程-愤招四连-第二下击退	1	2	2	0	1.5	0			4		0	0.1						-1		FxMb1AolajiangAAtk26Hit02						-1			1				0	0	0	0								0							0	3				837026031	801020								0	HitCase		1		1			0					
+83702604	远程-愤招四连-第三下击飞	1	2	2	0	1.5	0			4		0	0.1						-1		FxMb1AolajiangAAtk26Hit03						-1			1				0	0	0	0								0							0	3				837026041	801020								0	HitCase		1		1			0					
+83702605	远程-愤招四连-第四下击退	2	3	3	0	0	0			4		0	0.3						-1								-1			1				0	0	0	0								0							0	3				837026051	801020								0	HitCase		1		1			1					
+83702903	嗷拉酱死亡--特效	1	1	1	0	0	0			4		0	10						-1						FxAolajiangABiansheng		-1			1				0	0	0	0								0							0	1													0	HitCase		0		0			0					
+83703101	折返跃迁-特效	2	0.1				0			4		0	0.8						-1						FxMb1AolajiangAAtk01Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+90740103	远程-蓄力冲击波伤害子弹	1	1	50	0	1	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk01Hit						-1			1				0	0	0	0								0							0	3				907401031	801040	907414	907415						0	HitCase		1		1			1					
+90740105	子弹预警闪线	1	1	1	0	0.7	0			4		0	0.2						-1						FxYujingXian02		-1			1				0	0	0	0								0							0	1													1.5	HitCase		1		1			0					
+90740108	远程-蓄力冲击波-预警红线	1	1	1	0	0.7	0			4		0	0.5						-1						FxYujingXian01		-1			1				0	0	0	0								0							0	1													1.5	HitCase		1		1			0					
+90740202	发射汽水易拉罐-预警1左	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740203	发射汽水易拉罐-子弹1左	2	1		0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402031	801005	907414	907415						0	HitCase		0			0.95		1					
+90740204	发射汽水易拉罐-预警2左	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740205	发射汽水易拉罐-子弹2左	2	1		0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402051	801005	907414	907415						0	HitCase		0			0.95		1					
+90740206	发射汽水易拉罐-预警3左	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740207	发射汽水易拉罐-子弹3左	2	1		0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402071	801005	907414	907415						0	HitCase		0			0.95		1					
+90740208	发射汽水易拉罐-预警4左	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740209	发射汽水易拉罐-子弹4左	2	1		0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402091	801005	907414	907415						0	HitCase		0			0.95		1					
+90740210	发射汽水易拉罐-预警1右	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740211	发射汽水易拉罐-子弹1右	2	1		-0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402111	801005	907414	907415						0	HitCase		0			0.95		1					
+90740212	发射汽水易拉罐-预警2右	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740213	发射汽水易拉罐-子弹2右	2	1		-0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402131	801005	907414	907415						0	HitCase		0			0.95		1					
+90740214	发射汽水易拉罐-预警3右	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740215	发射汽水易拉罐-子弹3右	2	1		-0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402151	801005	907414	907415						0	HitCase		0			0.95		1					
+90740216	发射汽水易拉罐-预警4右	2	1		0	0	0	0		4		0	1						-1						FxMe1XiguajunMd000002Atk02Yujing		-1			1				0	0	0	0								1							1	1													0	HitCase	1	0					0					
+90740217	发射汽水易拉罐-子弹4右	2	1		-0.7	0.6	10	0		4		1	1		1				-1		FxMe1XiguajunMd000002Atk02Hit	FxMe1XiguajunMd000002Atk02Bao		Rocket08	FxMe1XiguajunMd000002Atk02Dandao		-1		FxMe1XiguajunMd000002Atk02Bao	3	-30	-1	10	1	0	0	0								0							1	3				907402171	801005	907414	907415						0	HitCase		0			0.95		1					
+90740602	Run-突进变球下砸-伤害帧	2	3	0	0	0	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk06Hit						-1			1				0	0	0	0								0							0	3				907406021	801030	906917	906918						0	HitCase		0		1			1					
+90740603	Run-突进变球下砸-爆炸特效	2	3	0	0	0	0			4		0	0.5						-1						FxMe1XiguajunMd000002Atk06		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+90740804	球撞玩家-loop-子弹	1	2	2	0	1	0			4		0	3			1	1	1	-1		FxMe1XiguajunMd000002Atk06Hit						-1			1				0	0	0	0								0							0	3				907408041	801050	906917	906918			907404			0	HitCase		1		1			1					
+90741002	兔子跳预备-普通子弹	2	2.5		0	0	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk10Hit						-1			1				0	0	0	0								0							0	3				907410021	801020	907418	907419						0	HitCase		1		1			1					
+90741006	兔子跳预备-特效	2	2.5		0	0	0			4		0	1						-1						FxMe1XiguajunMd000002Atk10		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+90741102	兔子跳开始-普通子弹	2	2		0	0	0			4		0	0.1						-1		FxMe1XiguajunMd000002Atk12Hit						-1			1				0	0	0	0								0							0	3				907411021	801020	907418	907419						0	HitCase		1		1			1					
+90741104	兔子跳开始-特效	2	2		0	0	0			4		0	0.5						-1						FxMe1XiguajunMd000002Atk11		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+90741202	兔子跳结束接连招1-第一发子弹-左	1	0.8	0.6	-0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412021	801005	907418	907419						1.3	HitCase		0		1			1					
+90741203	兔子跳结束接连招1-第二发子弹-左	1	0.8	0.6	-0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412031	801005	907418	907419						1.3	HitCase		0		1			1					
+90741204	兔子跳结束接连招1-第三发子弹-左	1	0.8	0.6	-0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412041	801005	907418	907419						1.3	HitCase		0		1			1					
+90741206	兔子跳结束接连招1-第一发子弹-右	1	0.8	0.6	0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412061	801005	907418	907419						1.3	HitCase		0		1			1					
+90741207	兔子跳结束接连招1-第二发子弹-右	1	0.8	0.6	0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412071	801005	907418	907419						1.3	HitCase		0		1			1					
+90741208	兔子跳结束接连招1-第三发子弹-右	1	0.8	0.6	0.75	1	40			4		0	1						-1		FxMe1XiguajunMd000002Atk12Hit				FxMe1XiguajunMd000002Atk12Dandao		-1			1				0	0	0	0								0							0	3				907412081	801005	907418	907419						1.3	HitCase		0		1			1					
+90741303	兔子跳结束接连招2-下砸伤害	2	3	0	0	0	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk06Hit						-1			1				0	0	0	0								0							0	3				907413031	801030	906920	906921						0	HitCase		1		1			1					
+90741307	兔子跳结束接连招2-硬币子弹	2	4		0	0	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk06Hit						-1			1				0	0	0	0								0							0	3				907413071	801015	906918	907419						0	HitCase		1		1			1					
+90741901	闪避连招-肚子前怼	1	2	1	0	1.5	0			4		0	0.1			1	1	1	-1		FxMe1XiguajunMd000002Atk19Hit						-1			1				0	0	0	0								0							0	3				907419011	801020	906918	906919						0	HitCase		1		1			1					
+90742001	西瓜皮+嘲讽-在地上放一个子弹，持续20S	1	1.3	1.3	0	3	0			4		0	30			1	1	1	1		FxMe1XiguajunMd000002Atk19Hit				FxMe1XiguajunMd000002Atk20Dandao		1			1				0	0	0	0								0							0	1				907420011			906918						0	HitCase		0			1.5		0					
+83710403	第一击特效地裂	1	1	1	0	0	0			4		0	1						-1						FxMb1AolajiangBatk0401Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83710405	第二击特效	2	0.1				0			4		0	1						-1						FxMb1AolajiangBatk0402Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83710411	第一击伤害帧	1	2.5	4	-1	1.5	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837104111	801020		837106						0	HitCase		1		1			1					
+83710413	第二击伤害帧	1	2.4	4	1.2	2	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837104131	801020		837106						0	HitCase		1		1			1					
+83710415	第三击伤害帧	3	5.4	200	-0.5	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837104151	801030	837105	837106						0	HitCase		1		1			1					
+83710416	第四击伤害帧	3	5.1	190	0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837104161	801030	837105	837106						0	HitCase		1		1			1					
+83710417	第五击伤害帧	3	5.2	160	0	1	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837104171	801060		837106						0	HitCase		0		1			1					
+83710425	起跳特效	1	1	1	0	0	0			4		0	0.5						-1						FxMb1AolajiangBatk04Qitiao		-1			1				0	0	0	0								0							0	1													0	HitCase		0		1			0					
+83710501	蓄力爆气-蓄力爆气伤害帧	2	6		0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk05Hit						-1			1				0	0	0	0								0							0	3				837105011	801010	837106							0	HitCase		1		1			1					
+83710503	蓄力爆气-咆哮特效	2	0.1				0			4		0	3						-1						FxMb1AolajiangBatk05Paoxiao		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83710504	蓄力爆气-蓄力爆气伤害帧	2	6		0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk05Hit						-1			1				0	0	0	0								0							0	3				837105041	801010	837106							0	HitCase		1		1			1					
+83710505	蓄力爆气-蓄力爆气伤害帧	2	6		0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk05Hit						-1			1				0	0	0	0								0							0	3				837105051	801010	837106							0	HitCase		1		1			1					
+83710506	蓄力爆气-蓄力爆气伤害帧	2	6		0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk05Hit						-1			1				0	0	0	0								0							0	1				837105061	801020	837106							0	HitCase		1		1			1					
+83710601	蓄力俯冲-伤害子弹	3	5.2	200	0	0	0			4		0	0.15						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837106011	801070	837105	837106						0	HitCase		1		1			1					
+83710702	飞天导弹	2	1.5		0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	-90	0.2	7.2	0	0	0								0							1	1				837107021	801010	837105	837106						0	HitCase		0	1				1					
+83710703	飞天导弹	2	1.5		-0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	90	0.2	7.2	0	0	0								0							1	1				837107031	801010	837105	837106						0	HitCase		0	1				1					
+83710704	飞天导弹	2	1.5		0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	-90	0.2	7.2	0	0	0								0							1	1				837107041	801010	837105	837106						0	HitCase		0	1				1					
+83710705	飞天导弹	2	1.5		-0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	90	0.2	7.2	0	0	0								0							1	1				837107051	801010	837105	837106						0	HitCase		0	1				1					
+83710707	飞天导弹-冲锋子弹	1	2.6	3	0	1	0			4		0	0.5						-1		FxMb1AolajiangBatk08Hit						-1			1				0	0	0	0								0							0	3				837107071	801050	837107	837108						0	HitCase		1		1			1					
+83710714	飞天导弹	2	1.5		0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	-90	0.2	7.2	0	0	0								0							1	1				837107141	801010	837105	837106						0	HitCase		0	1				0					
+83710715	飞天导弹	2	1.5		-0.2	0.45	0			4		1	0.7		1				-1		FxMb1AolajiangBDaodanHit				FxMb1AolajiangBDaodan		-1		FxMb1AolajiangBDaodanHit	4	0	90	0.2	7.2	0	0	0								0							1	1				837107151	801010	837105	837106						0	HitCase		0	1				0					
+83710805	后跳反击-伤害子弹	3	7.3	200	0	1	0			4		0	0.1						-1		FxMb1AolajiangBatk08Hit						-1			1				0	0	0	0								0							0	3				837108051	801030	837108							0	HitCase		1		1			1					
+83710808	后跳反击-起跳特效	2	0.1				0			4		0	0.5						-1						FxMb1AolajiangBatk06		-1			1				0	0	0	0								0							0	1													0	HitCase		0		1			0					
+83711005	疯狗四连大风车-最后一击裂地特效	2	0.1				0			4		0	1						-1						FxMb1AolajiangBatk10Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711006	疯狗四连大风车-第一下伤害帧	1	1.8	7.4	0.4	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837110061	801010	837106	837023						0	HitCase		1		1			1					
+83711007	疯狗四连大风车-第二下伤害帧	1	1.8	7.4	0.4	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837110071	801010	837106	837023						0	HitCase		1		1			1					
+83711008	疯狗四连大风车-第三下伤害帧	1	1.8	7.4	0.4	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837110081	801010	837106	837023						0	HitCase		1		1			1					
+83711009	疯狗四连大风车-第四下击飞伤害帧	1	2.2	7	0.4	1	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837110091	801030	837106							0	HitCase		1		1			1					
+83711102	前冲挑飞-伤害帧	1	3.1	5.8	1	1.8	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837111021	801020	837105	837106			837102			0	HitCase		1		1			1					
+83711105	前冲挑飞-锤子砸地特效	1	1	1	0	0	0			4		0	0.5						-1						FxMb1AolajiangBatk11Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711202	前冲挑飞连招-伤害帧	1	2.6	3.5	0	2	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837112021	801040	837105	837106						0	HitCase		1		1			1					
+83711208	前冲挑飞连招-地裂石头	2	0.1				0			4		0	1						-1						FxMb1AolajiangBatk12Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711211	前冲挑飞连招-最左边的锤子子弹	1	1.2	1.2	-1.8	4	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837112111	801030	837105	837106						0	HitCase		1		1			1					
+83711302	前冲挑飞未命中三连-第一下下砸	1	3.5	4	1	1.2	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837113021	801020	837024							0	HitCase		1		1			1					
+83711303	前冲挑飞未命中三连-第二下横扫	3	5	200	0	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837113031	801020	837105	837106						0	HitCase		1		1			1					
+83711304	前冲挑飞未命中三连-飞天激光	1	1	1	0	-2	30			4		1	1.2		1				1		FxMb1AolajiangBatk11Hit			Bip001Head	FxMb1AolajiangBDaodan		1		FxMb1AolajiangBDaodanHit	5	-60	30	0.1	100	6.28318	-0.3	8								0							0	3				837113041	801010	837023	837024						0	HitCase		0					1					
+83711307	前冲挑飞未命中三连-地裂	1	1	1	0	0	0			4		0	1						-1						FxMb1AolajiangBatk13Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711311	前冲挑飞未命中三连-飞天激光	1	1	1	0	-2	30			4		1	1.2		1				1		FxMb1AolajiangBatk11Hit			Bip001Head	FxMb1AolajiangBDaodan		1		FxMb1AolajiangBDaodanHit	5	60	30	0.1	100	6.28318	-0.3	8								0							0	3				837113111	801010	837023	837024						0	HitCase		0					1					
+83711312	前冲挑飞未命中三连-飞天激光	1	1	1	0	-2	30			4		1	1.2		1				1		FxMb1AolajiangBatk11Hit			Bip001Head	FxMb1AolajiangBDaodan		1		FxMb1AolajiangBDaodanHit	5	0	30	0.1	100	6.28318	-0.3	8								0							0	3				837113121	801010	837023	837024						0	HitCase		0					1					
+83711402	第一击地裂	2	0.1				0			4		0	1						-1						FxMb1AolajiangBatk1401Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711404	第二击地裂	2	0.1				0			4		0	1						-1						FxMb1AolajiangBatk1402Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711410	流星锤四连-第一下伤害帧	3	4.6	200	-1.2	-1.7	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837114101	801020	837105	837106						0	HitCase		1		1			1					
+83711411	流星锤四连-第二下伤害帧	3	4.3	160	-0.9	0	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837114111	801020	837105	837106						0	HitCase		1		1			1					
+83711412	流星锤四连-第三下伤害帧	1	1.6	6	0	3	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837114121	801030	837107	837108						0	HitCase		1		1			1					
+83711413	流星锤四连-把玩家拉回来	1	1.6	7	0	3	0			4		0	0.1						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837114131	837116	837023	837024						0	HitCase		1		1			1					
+83711414	流星锤四连-最后一击冲刺	1	2	3.2	0	0	0			4		0	0.3						-1		FxMb1AolajiangBatk11Hit						-1			1				0	0	0	0								0							0	3				837114141	801030	837107	837108						0	HitCase		1		1			1					
+83711507	突进甩刀+后撤蓄力俯冲-刀光伤害帧	3	4.2	210	0	-1	0			4		0	0.1						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837115071	801040	837107	837108						0	HitCase		1		1			1					
+83711509	突进甩刀+后撤蓄力俯冲-冲锋伤害帧	1	2	3	0	1	0			4		0	0.33						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837115091	801050	837107	837108						0	HitCase		1		1			1					
+83711602	接闪避-前冲挑飞-伤害帧	1	3	5.8	1	2	0			4		0	0.1						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837116021	801030	837107	837108						0	HitCase		1		1			1					
+83711604	接闪避-前冲挑飞-前冲锤击地裂特效	1	1	1	0	0	0			4		0	1						-1						FxMb1AolajiangBatk16Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711701	Stand前冲流星锤下砸-普通子弹	3	5.3	160	0	1	0			4		0	0.1						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837117011	801050	837108							0	HitCase		0		1			1					
+83711704	stand前冲流星锤下砸-打击特效	1	1	1	0	0	0			4		0	1.5						-1						FxMb1AolajiangBatk17Dilie		-1			1				0	0	0	0								0							0	1													0	HitCase		0					0					
+83711801	前冲流星锤下砸-普通子弹	3	5.1	160	0	1	0			4		0	0.1						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837118011	801035	837108							0	HitCase		0		1			1					
+83712206	远程闪避+冲锋到你脸上-伤害子弹	3	5	210	-3	1	0			4		0	0.15						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837122061	801020	837107	837108						0	HitCase		1		1			1					
+83712210	远程闪避+冲锋到你脸上-冲锋子弹	1	2.4	3.5	0	0	0			4		0	0.16						-1		FxMb1AolajiangBatk16Hit						-1			1				0	0	0	0								0							0	3				837122101	801020	837107	837108						0	HitCase		1		1			1					

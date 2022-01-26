@@ -1041,7 +1041,7 @@
         "AttribId": 4,
         "Kind": 3,
         "Type": 1,
-        "Name": "箱子",
+        "Name": "Box",
         "ModelId": "Mt1BujixiangMd000001",
         "ColliderType": 1,
         "BodyRadius": 1.5,
@@ -1369,5 +1369,43 @@
         "SkillId": [
             961601
         ]
+    },
+    {
+        "Id": 9617,
+        "AttribId": 4,
+        "Kind": 1,
+        "Type": 1,
+        "Name": "Watermelon Ball",
+        "ModelId": "Mb1XiguazuqiuMd010001",
+        "ColliderType": 1,
+        "BodyRadius": 1,
+        "CameraCollideRadius": 1,
+        "ModelScale": 1.5,
+        "EffectScale": 1,
+        "BossHp": 0,
+        "HpWdigetCount": 3,
+        "HpWidgetHeight": 0.8,
+        "HpWidgetType": 2,
+        "RollCharHeight": 1.5,
+        "StandUpImmuneHitTime": 0.3,
+        "MaxHitValue": 10,
+        "DeathTime": 0,
+        "HasRunToStand": 0,
+        "CollisionPriority": 3,
+        "UseShadowMesh": 1,
+        "DeathMagic": [
+            96170098,
+            96170096,
+            96170094,
+            96170092
+        ],
+        "RobotBornMagic": [],
+        "BornMagic": [
+            null,
+            800013,
+            800044,
+            700027
+        ],
+        "SkillId": []
     }
 ]

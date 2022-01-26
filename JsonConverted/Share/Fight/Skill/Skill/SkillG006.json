@@ -986,7 +986,7 @@
     },
     {
         "Id": 906161,
-        "Name": "スキル1-前方噴炎",
+        "Name": "技能1-向前喷火",
         "CastTime": 2.56,
         "AfterTime": 0,
         "Animation": "Attack11",
@@ -1544,7 +1544,7 @@
     },
     {
         "Id": 906401,
-        "Name": "双腕撃震",
+        "Name": "双手砸地",
         "CastTime": 3.967,
         "AfterTime": 0,
         "Animation": "Attack01",
@@ -1555,7 +1555,7 @@
     },
     {
         "Id": 906402,
-        "Name": "左正拳",
+        "Name": "左侧直拳",
         "CastTime": 4.733,
         "AfterTime": 0,
         "Animation": "Attack02",
@@ -1566,7 +1566,7 @@
     },
     {
         "Id": 906403,
-        "Name": "投石",
+        "Name": "扔石头",
         "CastTime": 5.7,
         "AfterTime": 0,
         "Animation": "Attack03",
@@ -1577,7 +1577,7 @@
     },
     {
         "Id": 906404,
-        "Name": "跳躍パンチ",
+        "Name": "跳跃冲拳",
         "CastTime": 7.333,
         "AfterTime": 0,
         "Animation": "Attack04",
@@ -1588,7 +1588,7 @@
     },
     {
         "Id": 906405,
-        "Name": "憤怒の回転撃",
+        "Name": "愤怒回旋冲拳",
         "CastTime": 8.933,
         "AfterTime": 0,
         "Animation": "Attack05",
@@ -1599,7 +1599,7 @@
     },
     {
         "Id": 906406,
-        "Name": "出現動作",
+        "Name": "出生动作",
         "CastTime": 3.367,
         "AfterTime": 0,
         "Animation": "Attack06",
@@ -1610,7 +1610,7 @@
     },
     {
         "Id": 906461,
-        "Name": "自動-双腕撃震",
+        "Name": "自控-双手砸地",
         "CastTime": 2.467,
         "AfterTime": 1.5,
         "Animation": "Attack01",
@@ -1620,7 +1620,7 @@
     },
     {
         "Id": 906462,
-        "Name": "自動-伝送用立ち位置",
+        "Name": "自控-传送用站立",
         "CastTime": 1,
         "AfterTime": 0,
         "Animation": "Stand",
@@ -1630,7 +1630,7 @@
     },
     {
         "Id": 906463,
-        "Name": "自動-双腕撃震",
+        "Name": "自控-双手砸地",
         "CastTime": 2.467,
         "AfterTime": 1.5,
         "Animation": "Attack01",
@@ -1640,7 +1640,7 @@
     },
     {
         "Id": 906464,
-        "Name": "自動-双腕撃震",
+        "Name": "自控-双手砸地",
         "CastTime": 2.467,
         "AfterTime": 1.5,
         "Animation": "Attack01",
@@ -1670,7 +1670,7 @@
     },
     {
         "Id": 906501,
-        "Name": "大車輪in",
+        "Name": "车轮滚滚in",
         "CastTime": 0.7,
         "AfterTime": 0,
         "Animation": "Attack01",
@@ -1681,7 +1681,7 @@
     },
     {
         "Id": 906502,
-        "Name": "大車輪loop",
+        "Name": "车轮滚滚loop",
         "CastTime": 999,
         "AfterTime": 0,
         "Animation": "Attack02",
@@ -1692,7 +1692,7 @@
     },
     {
         "Id": 906503,
-        "Name": "大車輪out",
+        "Name": "车轮滚滚out",
         "CastTime": 2.1,
         "AfterTime": 0,
         "Animation": "Attack03",
@@ -1702,7 +1702,7 @@
     },
     {
         "Id": 906504,
-        "Name": "超無敵ブーメラン",
+        "Name": "超级无敌回旋镖",
         "CastTime": 7.833,
         "AfterTime": 0,
         "Animation": "Attack04",
@@ -1713,7 +1713,7 @@
     },
     {
         "Id": 906505,
-        "Name": "水平側頭殺",
+        "Name": "横向侧头杀",
         "CastTime": 2.967,
         "AfterTime": 0,
         "Animation": "Attack05",
@@ -1724,7 +1724,7 @@
     },
     {
         "Id": 906506,
-        "Name": "竹とんぼ",
+        "Name": "竹蜻蜓",
         "CastTime": 2.4,
         "AfterTime": 1,
         "Animation": "Attack06",
@@ -1735,7 +1735,7 @@
     },
     {
         "Id": 906507,
-        "Name": "出現動作",
+        "Name": "出生动作",
         "CastTime": 2.133,
         "AfterTime": 0,
         "Animation": "Attack07",
@@ -1746,7 +1746,7 @@
     },
     {
         "Id": 906561,
-        "Name": "自動-前方投刃",
+        "Name": "自控-向前丢飞镖",
         "CastTime": 1.9,
         "AfterTime": 1.067,
         "Animation": "Attack05",
@@ -1757,7 +1757,7 @@
     },
     {
         "Id": 906562,
-        "Name": "自動-伝送用立ち位置",
+        "Name": "自控-传送用站立",
         "CastTime": 1,
         "AfterTime": 0,
         "Animation": "Stand",
@@ -1767,7 +1767,7 @@
     },
     {
         "Id": 906563,
-        "Name": "自動-前方投刃-不具合ブロック専用",
+        "Name": "自控-向前丢飞镖-bug阻挡专用",
         "CastTime": 1.9,
         "AfterTime": 1.067,
         "Animation": "Attack05",
@@ -1778,7 +1778,7 @@
     },
     {
         "Id": 906564,
-        "Name": "自動-前方投刃-不具合ブロック専用",
+        "Name": "自控-向前丢飞镖-bug阻挡专用",
         "CastTime": 1.9,
         "AfterTime": 1.067,
         "Animation": "Attack05",
@@ -1789,7 +1789,7 @@
     },
     {
         "Id": 906701,
-        "Name": "有花·三連撃",
+        "Name": "有花·三连击",
         "CastTime": 3.333,
         "AfterTime": 0,
         "Animation": "Attack01",
@@ -1800,18 +1800,18 @@
     },
     {
         "Id": 906702,
-        "Name": "有花·分身攻撃",
+        "Name": "有花·替身攻击",
         "CastTime": 3.167,
         "AfterTime": 0,
         "Animation": "Attack02",
         "DistNoTarget": 10,
-        "SkillMoveType": 6,
+        "SkillMoveType": 0,
         "SkillMoveTrackDistance": 2,
         "SkillFaceType": 2
     },
     {
         "Id": 906703,
-        "Name": "有花·竜巻",
+        "Name": "有花·龙卷风",
         "CastTime": 3.5,
         "AfterTime": 0,
         "Animation": "Attack03",
@@ -1822,7 +1822,7 @@
     },
     {
         "Id": 906705,
-        "Name": "無花·突進アーム攻撃",
+        "Name": "无花·冲刺手部攻击",
         "CastTime": 3.633,
         "AfterTime": 0,
         "Animation": "Attack05",
@@ -1833,7 +1833,7 @@
     },
     {
         "Id": 906706,
-        "Name": "無花·突進脚部攻撃",
+        "Name": "无花·冲刺腿部攻击",
         "CastTime": 3.933,
         "AfterTime": 0,
         "Animation": "Attack06",
@@ -1844,7 +1844,7 @@
     },
     {
         "Id": 906707,
-        "Name": "有花·後退回避",
+        "Name": "有花·后撤闪避",
         "CastTime": 1.677,
         "AfterTime": 0,
         "Animation": "Attack07",
@@ -1855,7 +1855,7 @@
     },
     {
         "Id": 906708,
-        "Name": "無花·後退回避",
+        "Name": "无花·后撤闪避",
         "CastTime": 1.677,
         "AfterTime": 0,
         "Animation": "Attack08",
@@ -1866,7 +1866,7 @@
     },
     {
         "Id": 906709,
-        "Name": "無花から有花へ",
+        "Name": "无花变有花",
         "CastTime": 2.333,
         "AfterTime": 0,
         "Animation": "Attack09",
@@ -1877,7 +1877,7 @@
     },
     {
         "Id": 906710,
-        "Name": "有花から無花へ",
+        "Name": "有花归无花",
         "CastTime": 1.433,
         "AfterTime": 0,
         "Animation": "Attack10",
@@ -1888,7 +1888,7 @@
     },
     {
         "Id": 906801,
-        "Name": "傘突き",
+        "Name": "伞刺",
         "CastTime": 1.1,
         "AfterTime": 0.733,
         "Animation": "Attack01",
@@ -1899,7 +1899,7 @@
     },
     {
         "Id": 906802,
-        "Name": "三連撃",
+        "Name": "三连击",
         "CastTime": 5.233,
         "AfterTime": 0,
         "Animation": "Attack02",
@@ -1911,7 +1911,7 @@
     },
     {
         "Id": 906803,
-        "Name": "回転二段蹴り全ダメージ",
+        "Name": "回旋踢二段全伤害",
         "CastTime": 3.367,
         "AfterTime": 0,
         "Animation": "Attack03",
@@ -1923,7 +1923,7 @@
     },
     {
         "Id": 906804,
-        "Name": "傘を差して後方移動",
+        "Name": "撑伞向后飞远",
         "CastTime": 2,
         "AfterTime": 1.93,
         "Animation": "Attack04",
@@ -1935,7 +1935,7 @@
     },
     {
         "Id": 906805,
-        "Name": "回避前キック",
+        "Name": "闪避前踢",
         "CastTime": 0.9,
         "AfterTime": 3.033,
         "Animation": "Attack05",
@@ -1947,7 +1947,7 @@
     },
     {
         "Id": 906806,
-        "Name": "傘薙ぎ‐傘振りダメージ",
+        "Name": "横扫伞",
         "CastTime": 3,
         "AfterTime": 0,
         "Animation": "Attack06",
@@ -1959,7 +1959,7 @@
     },
     {
         "Id": 906807,
-        "Name": "回避前キック‐ダメージなしバージョン",
+        "Name": "闪避前踢-无伤害版本",
         "CastTime": 0.9,
         "AfterTime": 3.033,
         "Animation": "Attack05",
@@ -1971,7 +1971,7 @@
     },
     {
         "Id": 906808,
-        "Name": "傘投げ",
+        "Name": "伞风扔出",
         "CastTime": 2.9,
         "AfterTime": 1.3,
         "Animation": "Attack08",
@@ -1983,7 +1983,7 @@
     },
     {
         "Id": 906810,
-        "Name": "遠距離追撃四連撃",
+        "Name": "远距离追击四连击",
         "CastTime": 2.95,
         "AfterTime": 2.483,
         "Animation": "Attack10",
@@ -1994,7 +1994,7 @@
     },
     {
         "Id": 906814,
-        "Name": "相傘ブロック",
+        "Name": "合伞格挡",
         "CastTime": 0.7,
         "AfterTime": 1.4,
         "Animation": "Attack14",
@@ -2006,7 +2006,7 @@
     },
     {
         "Id": 906815,
-        "Name": "傘を開いてブロック",
+        "Name": "开伞格挡",
         "CastTime": 0.7,
         "AfterTime": 1.4,
         "Animation": "Attack15",
@@ -2018,7 +2018,7 @@
     },
     {
         "Id": 906816,
-        "Name": "シールド突き",
+        "Name": "盾击",
         "CastTime": 0.8,
         "AfterTime": 2.1,
         "Animation": "Attack16",
@@ -2030,7 +2030,7 @@
     },
     {
         "Id": 906818,
-        "Name": "傘を開いて挑発in",
+        "Name": "挑衅开伞in",
         "CastTime": 1.1,
         "AfterTime": 0,
         "Animation": "Attack18",
@@ -2041,7 +2041,7 @@
     },
     {
         "Id": 906819,
-        "Name": "傘を開いて挑発loop",
+        "Name": "挑衅开伞loop",
         "CastTime": 999,
         "AfterTime": 0,
         "Animation": "Attack19",
@@ -2052,7 +2052,7 @@
     },
     {
         "Id": 906820,
-        "Name": "傘を開いて挑発out",
+        "Name": "挑衅开伞out",
         "CastTime": 0.6,
         "AfterTime": 1.067,
         "Animation": "Attack20",
@@ -2063,7 +2063,7 @@
     },
     {
         "Id": 906821,
-        "Name": "踏み込み",
+        "Name": "垫步向前",
         "CastTime": 0.333333333,
         "AfterTime": 2.199666667,
         "Animation": "Attack21",
@@ -2075,7 +2075,7 @@
     },
     {
         "Id": 906822,
-        "Name": "遠距離追撃四連撃で虚弱を触発in",
+        "Name": "远距离追击四连击触发虚弱in",
         "CastTime": 1.6,
         "AfterTime": 0,
         "Animation": "Attack22",
@@ -2086,7 +2086,7 @@
     },
     {
         "Id": 906823,
-        "Name": "遠距離追撃四連撃で虚弱を触発loop",
+        "Name": "远距离追击四连击触发虚弱loop",
         "CastTime": 999,
         "AfterTime": 0,
         "Animation": "Attack23",
@@ -2097,7 +2097,7 @@
     },
     {
         "Id": 906824,
-        "Name": "遠距離追撃四連撃で虚弱を触発in",
+        "Name": "远距离追击四连击触发虚弱in",
         "CastTime": 1.833,
         "AfterTime": 0,
         "Animation": "Attack24",
@@ -2108,7 +2108,7 @@
     },
     {
         "Id": 906825,
-        "Name": "側面回避",
+        "Name": "侧闪",
         "CastTime": 1.5,
         "AfterTime": 0.233,
         "Animation": "Attack25",
@@ -2120,7 +2120,7 @@
     },
     {
         "Id": 906826,
-        "Name": "出撃カメラ",
+        "Name": "出场镜头",
         "CastTime": 4.2,
         "AfterTime": 0,
         "Animation": "Attack26",
@@ -2686,6 +2686,51 @@
         "SkillFaceType": 4
     },
     {
+        "Id": 907107,
+        "Name": "躺在地上",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Lieonfloor",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907108,
+        "Name": "地面上站起来",
+        "CastTime": 1,
+        "AfterTime": 0,
+        "Animation": "Standup",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907109,
+        "Name": "高台上跳下来",
+        "CastTime": 3.7,
+        "AfterTime": 0,
+        "Animation": "Attack06",
+        "FinalMagicIds": 906107,
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907110,
+        "Name": "声波攻击",
+        "CastTime": 2.367,
+        "AfterTime": 0,
+        "Animation": "Attack01",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
         "Id": 907201,
         "Name": "选择技能",
         "CastTime": 1.667,
@@ -2750,6 +2795,28 @@
         "CastTime": 2.133,
         "AfterTime": 0,
         "Animation": "Attack06",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907207,
+        "Name": "躺在地上",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Lieonfloor",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907208,
+        "Name": "地面上站起来",
+        "CastTime": 1.1,
+        "AfterTime": 0,
+        "Animation": "Standup",
         "DistNoTarget": 10,
         "SkillMoveType": 6,
         "SkillMoveTrackDistance": 0,
@@ -2838,6 +2905,163 @@
         "CastTime": 2.167,
         "AfterTime": 0,
         "Animation": "Attack09",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907310,
+        "Name": "躺在地上loop",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack10",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907311,
+        "Name": "躺在地上爬起来out",
+        "CastTime": 3.867,
+        "AfterTime": 0,
+        "Animation": "Attack11",
+        "FinalMagicIds": 906107,
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907312,
+        "Name": "地面下跳出来",
+        "CastTime": 2.933,
+        "AfterTime": 0,
+        "Animation": "Attack12",
+        "FinalMagicIds": 906107,
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907315,
+        "Name": "高台跳下来1",
+        "CastTime": 4.3,
+        "AfterTime": 0,
+        "Animation": "Attack15",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907316,
+        "Name": "高台跳下来2",
+        "CastTime": 4.3,
+        "AfterTime": 0,
+        "Animation": "Attack16",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907317,
+        "Name": "高台跳下来3",
+        "CastTime": 4.3,
+        "AfterTime": 0,
+        "Animation": "Attack17",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907318,
+        "Name": "高台跳下来4",
+        "CastTime": 4.3,
+        "AfterTime": 0,
+        "Animation": "Attack18",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907319,
+        "Name": "高台跳下来5",
+        "CastTime": 4.3,
+        "AfterTime": 0,
+        "Animation": "Attack19",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907320,
+        "Name": "高台不动1",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack20",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907321,
+        "Name": "高台不动2",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack21",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907322,
+        "Name": "高台不动3",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack22",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907323,
+        "Name": "高台不动4",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack23",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907324,
+        "Name": "高台不动5",
+        "CastTime": 999,
+        "AfterTime": 0,
+        "Animation": "Attack24",
+        "DistNoTarget": 10,
+        "SkillMoveType": 6,
+        "SkillMoveTrackDistance": 0,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 907325,
+        "Name": "高台跳下来6",
+        "CastTime": 2.167,
+        "AfterTime": 0,
+        "Animation": "Attack25",
+        "FinalMagicIds": 906107,
         "DistNoTarget": 10,
         "SkillMoveType": 6,
         "SkillMoveTrackDistance": 0,

@@ -1,12 +1,14 @@
-CoverId	CoverName	Priority	ChallengeCondition	ChallengeStage[1]	ChallengeConsumeItem[1]	ChallengeConsumeCount[1]	ChallengeStage[2]	ChallengeConsumeItem[2]	ChallengeConsumeCount[2]	ChallengeStage[3]	ChallengeConsumeItem[3]	ChallengeConsumeCount[3]	ChallengePrefabName	ChapterId[1]	ChapterId[2]	ChapterId[3]
-1001	Lucia	1		13010101	21	0	13010102	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1001001	1001002	1001003
-1002	Liv	2		13010201	21	0	13010202	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel02.prefab	1002001		
-1003	Nanami	3		13010301	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel03.prefab	1003001	1003002	
-1004	Lee	4		13010401	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel04.prefab	1004001		
-1005	Karenina	5		13010501	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel05.prefab	1005001		
-1006	Watanabe	6		13010601	21	0	13010602	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel06.prefab	1006001	1006002	
-1007	Bianca	7		13010701	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel07.prefab	1007001	1007002	
-1008	Kamui	8		13010801	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel08.prefab	1008001		
-1009	Ayla	9		13011201	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel09.prefab	1009001		
-1010	Sophia	10		13011401	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel10.prefab	1010001		
-1011	Chrome	11		13011501	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel11.prefab	1011001		
+CoverId	CoverName	Priority	ChallengeCondition	ChallengeStage[1]	ChallengeConsumeItem[1]	ChallengeConsumeCount[1]	ChallengeStage[2]	ChallengeConsumeItem[2]	ChallengeConsumeCount[2]	ChallengeStage[3]	ChallengeConsumeItem[3]	ChallengeConsumeCount[3]	ChallengePrefabName	ChapterId[1]	ChapterId[2]	ChapterId[3]	ChallengeFx
+1001	Lucia	1		13010101	21	0	13010102	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1001001	1001002	1001003	Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1002	Liv	2		13010201	21	0	13010202	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1002001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1003	Nanami	3		13010301	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1003001	1003002		Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1004	Lee	4		13010401	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1004001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1005	Karenina	5		13010501	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1005001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1006	Watanabe	6		13010601	21	0	13010602	21	0				Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1006001	1006002		Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1007	Bianca	7		13010701	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1007001	1007002		Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1008	Kamui	8		13010801	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1008001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1009	Ayla	9		13011201	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1009001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1010	Sophia	10		13011401	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1010001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1011	Chrome	11		13011501	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1011001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1012	Vera	12		13011701	21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1012001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab
+1013	Camu	13			21	0							Assets/Product/Ui/ComponentPrefab/FuBenChallengePrequel/FuBenChallengePrequel01.prefab	1013001			Assets/Product/Effect/Prefab/FxUi/FxUiFuBenChallengePrequel01/FxUiSmoke01.prefab

@@ -16,15 +16,15 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 113	1	9860	Normal Chapter 1	Enhance 2 pieces of gear to Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					113			2	100013	113			Story			1			1	
 114	1	9850	Normal Chapter 1	Normal Story 1-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					114			1	100014	114			Story			1			1	
 320	1	9840	Normal Chapter 1	Normal Story 1-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					320			1	100220	320			Story			1			1	
-350	1	9830	Normal Chapter 1	Have a Construct reach Lv.10 and Sergeant II	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					350			1	100014	350			Story			1			1	
-116	1	9820	Normal Chapter 1	Have 1 Construct reach 450 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					116			1	100016	116			Story			1			1	
+350	1	9830	Normal Chapter 1	Member reaches Lv.10 and then Sergeant II	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					350			1	100014	350			Story			1			1	
+116	1	9820	Normal Chapter 1	1 member reaches 450 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					116			1	100016	116			Story			1			1	
 115	1	9810	Complete all Chapter 1 missions	Complete all Normal Chapter 1 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					115			19	100015				Story			1		1	1	
 117	1	9800	Normal Chapter 2	Normal Story 2-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					117			1	100017	117			Story	115		2	1		1	
 118	1	9790	Normal Chapter 2	Normal Story 2-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					118			1	100018	118			Story	115		2	1		1	
 119	1	9780	Normal Chapter 2	Normal Story 2-3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					119			1	100019	119			Story	115		2	1		1	
 120	1	9770	Normal Chapter 2	Normal Story 2-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					120			1	100020	120			Story	115		2	1		1	
-121	1	9760	Normal Chapter 2	Complete Resources - Special Training once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					121			1	100021	121			Story	115		2	1		1	
-122	1	9750	Normal Chapter 2	Have 3 Constructs reach Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					122			3	100022	122			Story	115		2	1		1	
+121	1	9760	Normal Chapter 2	Complete 1 Resource Mission - Special Training	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					121			1	100021	121			Story	115		2	1		1	
+122	1	9750	Normal Chapter 2	3 members reach Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					122			3	100022	122			Story	115		2	1		1	
 123	1	9740	Normal Chapter 2	Normal Story 2-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					123			1	100023	123			Story	115		2	1		1	
 124	1	9730	Normal Chapter 2	Normal Story 2-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					124			1	100024	124			Story	115		2	1		1	
 127	1	9720	Normal Chapter 2	Complete 4 Daily Missions	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					127			4	100027	127			Story	115		2	1		1	
@@ -39,7 +39,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 132	1	9630	Normal Chapter 2	Own 6 Lv.20 equipment	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					132			6	100032	132			Story	115		2	1		1	
 135	1	9620	Normal Chapter 2	Complete 1 Military Hardware quest	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					135			1	100033	135			Story	115		2	1		1	
 136	1	9610	Normal Chapter 2	Overclock an equipment 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					136			3	100221	136			Story	115		2	1		1	
-137	1	9600	Normal Chapter 2	Have 1 Construct reach 800 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					137			1	100037	137			Story	115		2	1		1	
+137	1	9600	Normal Chapter 2	1 member reaches 800 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					137			1	100037	137			Story	115		2	1		1	
 134	1	9590	Complete all Chapter 2 missions	Complete all Normal Chapter 2 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					134			21	100034				Story	115		2	1	1	1	
 138	1	9580	Hidden Chapter 1	Complete Hidden Story 1-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					138			1	100038	138			Story	134		3	2		1	
 139	1	9570	Hidden Chapter 1	Complete Hidden Story 1-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					139			1	100039	139			Story	134		3	2		1	
@@ -47,9 +47,9 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 143	1	9550	Hidden Chapter 1	Complete Hidden Story 1-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					143			1	100043	143			Story	134		3	2		1	
 144	1	9540	Hidden Chapter 1	Complete Hidden Story 1-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					144			1	100044	144			Story	134		3	2		1	
 328	1	9530	Hidden Chapter 1	Complete Hidden Story 1-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					328			1	100228	328			Story	134		3	2		1	
-141	1	9520	Hidden Chapter 1	Have 3 Constructs reach Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					141			3	100041	141			Story	134		3	2		1	
-142	1	9510	Hidden Chapter 1	Upgrade a Construct skill 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					142			20	100042	142			Story	134		3	2		1	
-146	1	9500	Hidden Chapter 1	Have 1 Construct reach 1050 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					146			1	100046	146			Story	134		3	2		1	
+141	1	9520	Hidden Chapter 1	3 members reach Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					141			3	100041	141			Story	134		3	2		1	
+142	1	9510	Hidden Chapter 1	Level up member skills 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					142			20	100042	142			Story	134		3	2		1	
+146	1	9500	Hidden Chapter 1	1 member reaches 1,050 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					146			1	100046	146			Story	134		3	2		1	
 145	1	9490	Complete all Chapter 1 missions	Complete all Hidden Chapter 1 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					145			9	100045				Story	134		3	2	1	1	
 147	1	9480	Normal Chapter 3	Normal Story 3-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					147			1	100047	147			Story	145		4	3		1	
 148	1	9470	Normal Chapter 3	Normal Story 3-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					148			1	100048	148			Story	145		4	3		1	
@@ -67,9 +67,9 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 160	1	9350	Normal Chapter 3	Normal Story 3-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					160			1	100060	160			Story	145		4	3		1	
 161	1	9340	Normal Chapter 3	Normal Story 3-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					161			1	100061	161			Story	145		4	3		1	
 322	1	9330	Normal Chapter 3	Normal Story 3-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					322			1	100222	322			Story	145		4	3		1	
-163	1	9320	Normal Chapter 3	Have 1 Construct reach Lv.28	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					163			1	100063	163			Story	145		4	3		1	
-164	1	9310	Normal Chapter 3	Upgrade a Construct skill 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					164			30	100064	164			Story	145		4	3		1	
-165	1	9300	Normal Chapter 3	Have 1 Construct reach 1400 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					165			1	100065	165			Story	145		4	3		1	
+163	1	9320	Normal Chapter 3	1 member reaches Lv.28	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					163			1	100063	163			Story	145		4	3		1	
+164	1	9310	Normal Chapter 3	Level up member skills 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					164			30	100064	164			Story	145		4	3		1	
+165	1	9300	Normal Chapter 3	1 member reaches 1,400 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					165			1	100065	165			Story	145		4	3		1	
 162	1	9290	Complete all Chapter 3 missions	Complete all Normal Chapter 3 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					162			19	100062				Story			4	3	1	1	
 166	1	9280	Hidden Chapter 2	Complete Hidden Story 2-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					166			1	100066	166			Story	162		5	4		1	
 167	1	9270	Hidden Chapter 2	Complete Hidden Story 2-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					167			1	100067	167			Story	162		5	4		1	
@@ -77,9 +77,9 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 169	1	9250	Hidden Chapter 2	Complete Hidden Story 2-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					169			1	100069	169			Story	162		5	4		1	
 172	1	9240	Hidden Chapter 2	Complete Hidden Story 2-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					172			1	100072	172			Story	162		5	4		1	
 329	1	9230	Hidden Chapter 2	Complete Hidden Story 2-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					329			1	100229	329			Story	162		5	4		1	
-170	1	9220	Hidden Chapter 2	Have 3 Constructs reach Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					170			3	100070	170			Story	162		5	4		1	
+170	1	9220	Hidden Chapter 2	3 members reach Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					170			3	100070	170			Story	162		5	4		1	
 171	1	9210	Hidden Chapter 2	Own 6 Lv.30 or higher equipment	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					171			6	100071	171			Story	162		5	4		1	
-174	6	9200	Hidden Chapter 2	Have 1 Construct reach 1800 BP	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					174			1	100074	174			Story	162		5	4		1	
+174	6	9200	Hidden Chapter 2	1 member reaches 1,800 BP	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					174			1	100074	174			Story	162		5	4		1	
 173	1	9190	Complete all Chapter 2 missions	Complete all Hidden Chapter 2 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					173			8	100073				Story	162		5	4	1	1	
 175	1	9180	Normal Chapter 4	Normal Story 4-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					175			1	100075	175			Story	173		6	5		1	
 176	1	9170	Normal Chapter 4	Normal Story 4-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					176			1	100076	176			Story	173		6	5		1	
@@ -97,9 +97,9 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 188	1	9050	Normal Chapter 4	Normal Story 4-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					188			1	100088	188			Story	173		6	5		1	
 189	1	9040	Normal Chapter 4	Normal Story 4-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					189			1	100089	189			Story	173		6	5		1	
 323	1	9030	Normal Chapter 4	Normal Story 4-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					323			1	100223	323			Story	173		6	5		1	
-191	1	9020	Normal Chapter 4	Have 1 Construct reach Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					191			1	100091	191			Story	173		6	5		1	
-192	1	9010	Normal Chapter 4	Upgrade a Construct skill 50 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					192			50	100092	192			Story	173		6	5		1	
-193	6	9000	Normal Chapter 4	Have 1 Construct reach 2200 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					193			1	100093	193			Story	173		6	5		1	
+191	1	9020	Normal Chapter 4	1 member reaches Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					191			1	100091	191			Story	173		6	5		1	
+192	1	9010	Normal Chapter 4	Level up member skills 50 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					192			50	100092	192			Story	173		6	5		1	
+193	6	9000	Normal Chapter 4	1 member reaches 2,200 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					193			1	100093	193			Story	173		6	5		1	
 190	1	8990	Complete all Chapter 4 missions	Complete all Normal Chapter 4 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					190			18	100090				Story	173		6	5	1	1	
 194	1	8980	Hidden Chapter 3	Complete Hidden Story 3-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					194			1	100094	194			Story	190		7	6		1	
 195	1	8970	Hidden Chapter 3	Complete Hidden Story 3-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					195			1	100095	195			Story	190		7	6		1	
@@ -107,7 +107,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 197	1	8950	Hidden Chapter 3	Complete Hidden Story 3-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					197			1	100097	197			Story	190		7	6		1	
 200	1	8940	Hidden Chapter 3	Complete Hidden Story 3-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					200			1	100100	200			Story	190		7	6		1	
 330	1	8930	Hidden Chapter 3	Complete Hidden Story 3-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					330			1	100230	330			Story	190		7	6		1	
-198	1	8920	Hidden Chapter 3	Have 3 Constructs reach Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					198			3	100098	198			Story	190		7	6		1	
+198	1	8920	Hidden Chapter 3	3 members reach Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					198			3	100098	198			Story	190		7	6		1	
 199	1	8910	Hidden Chapter 3	Own 6 Lv.35 or higher equipment	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					199			6	100099	199			Story	190		7	6		1	
 201	1	8900	Complete all Chapter 3 missions	Complete all Hidden Chapter 3 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					201			8	100101				Story	190		7	6	1	1	
 202	1	8890	Normal Chapter 5	Normal Story 5-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					202			1	100102	202			Story	201		8	7		1	
@@ -115,7 +115,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 204	1	8870	Normal Chapter 5	Normal Story 5-3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					204			1	100104	204			Story	201		8	7		1	
 205	1	8860	Normal Chapter 5	Normal Story 5-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					205			1	100105	205			Story	201		8	7		1	
 206	1	8850	Normal Chapter 5	Own Lv.40 or higher 5★ or 6★ equipment * 1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					206			1	100106	206			Story	201		8	7		1	
-207	1	8735	Normal Chapter 5	Complete Special Training RS-2 once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					207			1	100107	207			Story	201		8	7		1	
+207	1	8735	Normal Chapter 5	Complete Special Training once on Difficulty 2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					207			1	100107	207			Story	201		8	7		1	
 208	1	8830	Normal Chapter 5	Normal Story 5-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					208			1	100108	208			Story	201		8	7		1	
 209	1	8820	Normal Chapter 5	Normal Story 5-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					209			1	100109	209			Story	201		8	7		1	
 212	1	8810	Normal Chapter 5	Overclock a Memory 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					212			20	100112	212			Story	201		8	7		1	
@@ -126,8 +126,8 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 215	1	8760	Normal Chapter 5	Normal Story 5-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					215			1	100115	215			Story	201		8	7		1	
 216	1	8750	Normal Chapter 5	Normal Story 5-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					216			1	100116	216			Story	201		8	7		1	
 324	1	8740	Normal Chapter 5	Normal Story 5-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					324			1	100224	324			Story	201		8	7		1	
-218	1	8730	Normal Chapter 5	Have 3 Constructs reach Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					218			3	100118	218			Story	201		8	7		1	
-219	1	8720	Normal Chapter 5	Upgrade a Construct skill 60 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					219			60	100119	219			Story	201		8	7		1	
+218	1	8730	Normal Chapter 5	3 members reach Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					218			3	100118	218			Story	201		8	7		1	
+219	1	8720	Normal Chapter 5	Level up member skills 60 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					219			60	100119	219			Story	201		8	7		1	
 217	1	8710	Complete all Chapter 5 missions	Complete all Normal Chapter 5 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					217			18	100117				Story	201		8	7	1	1	
 220	1	8700	Hidden Chapter 4	Complete Hidden Story 4-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					220			1	100120	220			Story	217		9	8		1	
 221	1	8690	Hidden Chapter 4	Complete Hidden Story 4-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					221			1	100121	221			Story	217		9	8		1	
@@ -136,7 +136,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 226	1	8660	Hidden Chapter 4	Complete Hidden Story 4-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					226			1	100126	226			Story	217		9	8		1	
 331	1	8650	Hidden Chapter 4	Complete Hidden Story 4-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					331			1	100231	331			Story	217		9	8		1	
 224	1	8640	Hidden Chapter 4	Own Lv.40 or higher 5★ or 6★ Memory * 2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					224			2	100124	224			Story	217		9	8		1	
-225	1	8630	Hidden Chapter 4	Upgrade a Construct skill * 70	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					225			70	100125	225			Story	217		9	8		1	
+225	1	8630	Hidden Chapter 4	Level up member skills 70 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					225			70	100125	225			Story	217		9	8		1	
 227	1	8620	Complete all Chapter 4 missions	Complete all Hidden Chapter 4 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					227			8	100127				Story	217		9	8	1	1	
 228	1	8610	Normal Chapter 6	Normal Story 6-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					228			1	100128	228			Story	227		10	9		1	
 229	1	8600	Normal Chapter 6	Normal Story 6-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					229			1	100129	229			Story	227		10	9		1	
@@ -154,8 +154,8 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 241	1	8480	Normal Chapter 6	Normal Story 6-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					241			1	100141	241			Story	227		10	9		1	
 242	1	8470	Normal Chapter 6	Normal Story 6-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					242			1	100142	242			Story	227		10	9		1	
 325	1	8460	Normal Chapter 6	Normal Story 6-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					325			1	100225	325			Story	227		10	9		1	
-244	1	8450	Normal Chapter 6	Have 3 Constructs reach Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					244			3	100144	244			Story	227		10	9		1	
-245	1	8440	Normal Chapter 6	Upgrade a Construct skill 80 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					245			80	100145	245			Story	227		10	9		1	
+244	1	8450	Normal Chapter 6	3 members reach Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					244			3	100144	244			Story	227		10	9		1	
+245	1	8440	Normal Chapter 6	Level up member skills 80 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					245			80	100145	245			Story	227		10	9		1	
 243	1	8430	Complete all Chapter 6 missions	Complete all Normal Chapter 6 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					243			18	100143				Story	227		10	9	1	1	
 246	1	8420	Hidden Chapter 5	Complete Hidden Story 5-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					246			1	100146	246			Story	243		11	10		1	
 247	1	8410	Hidden Chapter 5	Complete Hidden Story 5-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					247			1	100147	247			Story	243		11	10		1	
@@ -163,7 +163,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 249	1	8390	Hidden Chapter 5	Complete Hidden Story 5-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					249			1	100149	249			Story	243		11	10		1	
 252	1	8380	Hidden Chapter 5	Complete Hidden Story 5-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					252			1	100152	252			Story	243		11	10		1	
 332	1	8370	Hidden Chapter 5	Complete Hidden Story 5-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					332			1	100232	332			Story	243		11	10		1	
-250	1	8360	Hidden Chapter 5	Have 1 Construct reach Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					250			1	100150	250			Story	243		11	10		1	
+250	1	8360	Hidden Chapter 5	1 member reaches Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					250			1	100150	250			Story	243		11	10		1	
 251	1	8350	Hidden Chapter 5	Own Lv.45 or higher 5★ or 6★ equipment * 1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					251			1	100151	251			Story	243		11	10		1	
 253	1	8340	Complete all Chapter 5 missions	Complete all Hidden Chapter 5 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					253			8	100153				Story	243		11	10	1	1	
 254	1	8330	Normal Chapter 7	Normal Story 7-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					254			1	100154	254			Story	253		12	11		1	
@@ -182,8 +182,8 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 267	1	8200	Normal Chapter 7	Normal Story 7-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					267			1	100167	267			Story	253		12	11		1	
 268	1	8190	Normal Chapter 7	Normal Story 7-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					268			1	100168	268			Story	253		12	11		1	
 326	1	8180	Normal Chapter 7	Normal Story 7-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					326			1	100226	326			Story	253		12	11		1	
-270	1	8170	Normal Chapter 7	Have 3 Constructs reach Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					270			3	100170	270			Story	253		12	11		1	
-271	1	8160	Normal Chapter 7	Upgrade a Construct skill 100 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					271			100	100171	271			Story	253		12	11		1	
+270	1	8170	Normal Chapter 7	3 members reach Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					270			3	100170	270			Story	253		12	11		1	
+271	1	8160	Normal Chapter 7	Level up member skills 100 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					271			100	100171	271			Story	253		12	11		1	
 269	1	8150	Complete all Chapter 7 missions	Complete all Normal Chapter 7 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					269			18	100169				Story	253		12	11	1	1	
 272	1	8140	Hidden Chapter 6	Complete Hidden Story 6-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					272			1	100172	272			Story	269		13	12		1	
 273	1	8130	Hidden Chapter 6	Complete Hidden Story 6-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					273			1	100173	273			Story	269		13	12		1	
@@ -191,7 +191,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 275	1	8110	Hidden Chapter 6	Complete Hidden Story 6-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					275			1	100175	275			Story	269		13	12		1	
 278	1	8100	Hidden Chapter 6	Complete Hidden Story 6-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					278			1	100178	278			Story	269		13	12		1	
 333	1	8090	Hidden Chapter 6	Complete Hidden Story 6-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					333			1	100233	333			Story	269		13	12		1	
-276	1	8080	Hidden Chapter 6	Have 3 Constructs reach Lv.55	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					276			3	100176	276			Story	269		13	12		1	
+276	1	8080	Hidden Chapter 6	3 members reach Lv.55	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					276			3	100176	276			Story	269		13	12		1	
 277	1	8070	Hidden Chapter 6	Own Lv.45 or higher 5★ or 6★ equipment * 7	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					277			7	100177	277			Story	269		13	12		1	
 279	1	8060	Complete all Chapter 6 missions	Complete all Hidden Chapter 6 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					279			8	100179				Story	269		13	12	1	1	
 280	1	8050	Normal Chapter 8	Normal Story 8-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					280			1	100180	280			Story	279		14	13		1	
@@ -199,7 +199,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 282	1	8030	Normal Chapter 8	Normal Story 8-3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					282			1	100182	282			Story	279		14	13		1	
 283	1	8020	Normal Chapter 8	Normal Story 8-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					283			1	100183	283			Story	279		14	13		1	
 284	1	8010	Normal Chapter 8	Own Lv.45 or higher 5★/6★ equipment * 10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					284			10	100184	284			Story	279		14	13		1	
-285	1	8000	Normal Chapter 8	Upgrade a Construct skill 120 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					285			120	100185	285			Story	279		14	13		1	
+285	1	8000	Normal Chapter 8	Level up member skills 120 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					285			120	100185	285			Story	279		14	13		1	
 286	1	7990	Normal Chapter 8	Normal Story 8-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					286			1	100186	286			Story	279		14	13		1	
 287	1	7980	Normal Chapter 8	Normal Story 8-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					287			1	100187	287			Story	279		14	13		1	
 290	1	7970	Normal Chapter 8	Overclock a Memory 36 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					290			36	100190	290			Story	279		14	13		1	
@@ -210,8 +210,8 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 293	1	7920	Normal Chapter 8	Normal Story 8-10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					293			1	100193	293			Story	279		14	13		1	
 294	1	7910	Normal Chapter 8	Normal Story 8-11	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					294			1	100194	294			Story	279		14	13		1	
 327	1	7900	Normal Chapter 8	Normal Story 8-12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					327			1	100227	327			Story	279		14	13		1	
-296	1	7890	Normal Chapter 8	Have 1 Construct reach Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					296			1	100196	296			Story	279		14	13		1	
-297	1	7880	Normal Chapter 8	Upgrade a Construct skill 140 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					297			140	100197	297			Story	279		14	13		1	
+296	1	7890	Normal Chapter 8	1 member reaches Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					296			1	100196	296			Story	279		14	13		1	
+297	1	7880	Normal Chapter 8	Level up member skills 140 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					297			140	100197	297			Story	279		14	13		1	
 295	1	7870	Complete all Chapter 8 missions	Complete all Normal Chapter 8 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					295			18	100195				Story	279		14	13	1	1	
 298	1	7860	Hidden Chapter 7	Complete Hidden Story 7-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					298			1	100198	298			Story	295		15	14		1	
 299	1	7850	Hidden Chapter 7	Complete Hidden Story 7-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					299			1	100199	299			Story	295		15	14		1	
@@ -219,7 +219,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 301	1	7830	Hidden Chapter 7	Complete Hidden Story 7-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					301			1	100201	301			Story	295		15	14		1	
 304	1	7820	Hidden Chapter 7	Complete Hidden Story 7-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					304			1	100204	304			Story	295		15	14		1	
 334	1	7810	Hidden Chapter 7	Complete Hidden Story 7-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					334			1	100234	334			Story	295		15	14		1	
-302	1	7800	Hidden Chapter 7	Have 3 Constructs reach Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					302			3	100202	302			Story	295		15	14		1	
+302	1	7800	Hidden Chapter 7	3 members reach Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					302			3	100202	302			Story	295		15	14		1	
 303	1	7790	Hidden Chapter 7	Own Lv.45 or higher 5★/6★ equipment * 12	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					303			12	100203	303			Story	295		15	14		1	
 305	1	7780	Complete all Chapter 7 missions	Complete all Hidden Chapter 7 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					305			8	100205				Story	295		15	14	1	1	
 306	1	7770	Hidden Chapter 8	Complete Hidden Story 8-1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					306			1	100206	306			Story	305		16	15		1	
@@ -228,7 +228,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 309	1	7740	Hidden Chapter 8	Complete Hidden Story 8-4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					309			1	100209	309			Story	305		16	15		1	
 312	1	7730	Hidden Chapter 8	Complete Hidden Story 8-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					312			1	100212	312			Story	305		16	15		1	
 335	1	7720	Hidden Chapter 8	Complete Hidden Story 8-6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					335			1	100235	335			Story	305		16	15		1	
-310	1	7710	Hidden Chapter 8	Have 6 Constructs reach Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					310			6	100210	310			Story	305		16	15		1	
+310	1	7710	Hidden Chapter 8	6 members reach Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					310			6	100210	310			Story	305		16	15		1	
 311	1	7700	Hidden Chapter 8	Own Lv.45 or higher 5★/6★ equipment * 18	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					311			18	100211	311			Story	305		16	15		1	
 313	1	7690	Complete all Chapter 8 missions	Complete all Hidden Chapter 8 missions	Assets/Product/Texture/Image/IconTask/TaskIconFight.png					313			8	100213				Story	305		16	15	1	1	
 400	1	7680	Normal Chapter 9	Complete Normal Story 9-2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					400			1	100301	400			Story	313		17	16		1	
@@ -284,64 +284,10 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 750	9	9850	Underground City	Clear Stronghold 6-1	Assets/Product/Texture/Image/IconTask/TaskIconThread06.png					750			1	210005	750			Clear							
 760	9	9820	Evacuate	Clear Stronghold 7-1	Assets/Product/Texture/Image/IconTask/TaskIconThread07.png					760			1	210006	760			Clear							
 770	9	9790	Camp Building	Clear Stronghold 8-1	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					770			1	210007	770			Clear							
-780	9	9760	Space Station Recovery	Clear Stronghold 9-1	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					780			1	210008	780			クリア							
+780	9	9760	Recover Space Station	Clear Stronghold 9-1	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					780			1	210008	780			クリア							
 790	9	9730	Train Maintenance	Clear Stronghold 10-1	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					790			1	210009	790			Clear							
 800	9	9700	Night Stage	Clear Stronghold 11-1	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					800			1	210010	800			クリア							
 810	9	9670	Kowloong Metropolis	Clear Stronghold 12-1	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					810			1	210011	810			クリア							
-801	6	9090	Gray Raven File 002	Clear Stronghold 1-2	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					801			1	220001	801			Clear	800						
-802	6	9080	Gray Raven File 003	Clear Stronghold 1-3	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					802			1	220002	802			Clear	801						
-803	6	9070	Gray Raven File 004	Clear Stronghold 1-4	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					803			1	220003	803			Clear	802						
-804	6	9060	Gray Raven File 005	Clear Stronghold 1-5	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					804			1	220004	804			Clear	803						
-805	6	9050	Gray Raven File 006	Clear Stronghold 1-6	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					805			1	220005	805			Clear	804						
-806	6	9040	Gray Raven File 007	Clear Stronghold 1-7	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					806			1	220006	806			Clear	805						
-807	6	9030	Gray Raven File 008	Clear Stronghold 1-8	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					807			1	220007	807			Clear	806						
-808	6	9020	Gray Raven File 009	Clear Stronghold 1-9	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					808			1	220008	808			Clear	807						
-809	6	9010	Gray Raven File 010	Clear Stronghold 1-10	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					809			1	220009	809			Clear	808						
-811	6	8990	Gray Raven File 012	Clear Stronghold 1-12	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					811			1	220011	811			Clear	810						
-812	6	8980	Gray Raven File 013	Clear Stronghold 1-13	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					812			1	220012	812			Clear	811						
-813	6	8970	Gray Raven File 014	Clear Stronghold 1-14	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					813			1	220013	813			Clear	812						
-814	6	8960	Gray Raven File 015	Clear Stronghold 1-15	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					814			1	220014	814			Clear	813						
-815	6	8950	Gray Raven File 016	Clear Stronghold 1-16	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					815			1	220015	815			Clear	814						
-816	6	8940	Gray Raven File 017	Clear Stronghold 2-1	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					816			1	220016	816			Clear	815						
-817	6	8930	Gray Raven File 018	Clear Stronghold 2-2	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					817			1	220017	817			Clear	816						
-818	6	8920	Gray Raven File 019	Clear Stronghold 2-3	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					818			1	220018	818			Clear	817						
-819	6	8910	Gray Raven File 020	Clear Stronghold 2-4	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					819			1	220019	819			Clear	818						
-820	6	8900	Gray Raven File 021	Clear Stronghold 2-5	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					820			1	220020	820			Clear	819						
-821	6	8890	Gray Raven File 022	Clear Stronghold 2-6	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					821			1	220021	821			Clear	820						
-822	6	8880	Gray Raven File 023	Clear Stronghold 2-7	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					822			1	220022	822			Clear	821						
-823	6	8870	Gray Raven File 024	Clear Stronghold 2-8	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					823			1	220023	823			Clear	822						
-824	6	8860	Gray Raven File 025	Clear Stronghold 2-9	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					824			1	220024	824			Clear	823						
-825	6	8850	Gray Raven File 026	Clear Stronghold 2-10	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					825			1	220025	825			Clear	824						
-826	6	8840	Gray Raven File 027	Clear Stronghold 2-11	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					826			1	220026	826			Clear	825						
-827	6	8830	Gray Raven File 028	Clear Stronghold 2-12	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					827			1	220027	827			Clear	826						
-828	6	8820	Gray Raven File 029	Clear Stronghold 3-1	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					828			1	220028	828			Clear	827						
-829	6	8810	Gray Raven File 030	Clear Stronghold 3-2	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					829			1	220029	829			Clear	828						
-830	6	8800	Gray Raven File 031	Clear Stronghold 3-3	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					830			1	220030	830			Clear	829						
-831	6	8790	Gray Raven File 032	Clear Stronghold 3-4	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					831			1	220031	831			Clear	830						
-832	6	8780	Gray Raven File 033	Clear Stronghold 3-5	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					832			1	220032	832			Clear	831						
-833	6	8770	Gray Raven File 034	Clear Stronghold 3-6	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					833			1	220033	833			Clear	832						
-834	6	8760	Gray Raven File 035	Clear Stronghold 3-7	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					834			1	220034	834			Clear	833						
-835	6	8750	Gray Raven File 036	Clear Stronghold 3-8	Assets/Product/Texture/Image/IconTask/TaskIconThread03.png					835			1	220035	835			Clear	834						
-836	6	8740	Gray Raven File 037	Clear Stronghold 4-1	Assets/Product/Texture/Image/IconTask/TaskIconThread04.png					836			1	220036	836			Clear	835						
-837	6	8730	Gray Raven File 038	Clear Stronghold 4-2	Assets/Product/Texture/Image/IconTask/TaskIconThread04.png					837			1	220037	837			Clear	836						
-838	6	8720	Gray Raven File 039	Clear Stronghold 4-3	Assets/Product/Texture/Image/IconTask/TaskIconThread04.png					838			1	220038	838			Clear	837						
-839	6	8710	Gray Raven File 040	Clear Stronghold 4-4	Assets/Product/Texture/Image/IconTask/TaskIconThread04.png					839			1	220039	839			Clear	838						
-840	6	8700	Gray Raven File 041	Clear Stronghold 5-1	Assets/Product/Texture/Image/IconTask/TaskIconThread05.png					840			1	220040	840			Clear	839						
-841	6	8690	Gray Raven File 042	Clear Stronghold 5-2	Assets/Product/Texture/Image/IconTask/TaskIconThread05.png					841			1	220041	841			Clear	840						
-842	6	8680	Gray Raven File 043	Clear Stronghold 5-3	Assets/Product/Texture/Image/IconTask/TaskIconThread05.png					842			1	220042	842			Clear	841						
-843	6	8670	Gray Raven File 044	Clear Stronghold 5-4	Assets/Product/Texture/Image/IconTask/TaskIconThread05.png					843			1	220043	843			Clear	842						
-844	6	8660	Gray Raven File 045	Clear Stronghold 6-1	Assets/Product/Texture/Image/IconTask/TaskIconThread06.png					844			1	220044	844			Clear	843						
-845	6	8650	Gray Raven File 046	Clear Stronghold 6-2	Assets/Product/Texture/Image/IconTask/TaskIconThread06.png					845			1	220045	845			Clear	844						
-846	6	8640	Gray Raven File 047	Clear Stronghold 6-3	Assets/Product/Texture/Image/IconTask/TaskIconThread06.png					846			1	220046	846			Clear	845						
-847	6	8630	Gray Raven File 048	Clear Stronghold 6-4	Assets/Product/Texture/Image/IconTask/TaskIconThread06.png					847			1	220047	847			Clear	846						
-848	6	8620	Gray Raven File 049	Clear Stronghold 7-1	Assets/Product/Texture/Image/IconTask/TaskIconThread07.png					848			1	220048	848			Clear	847						
-849	6	8610	Gray Raven File 050	Clear Stronghold 7-2	Assets/Product/Texture/Image/IconTask/TaskIconThread07.png					849			1	220049	849			Clear	848						
-850	6	8600	Gray Raven File 051	Clear Stronghold 7-3	Assets/Product/Texture/Image/IconTask/TaskIconThread07.png					850			1	220050	850			Clear	849						
-851	6	8590	Gray Raven File 052	Clear Stronghold 7-4	Assets/Product/Texture/Image/IconTask/TaskIconThread07.png					851			1	220051	851			Clear	850						
-852	6	8580	Gray Raven File 053	Clear Stronghold 8-1	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					852			1	220052	852			Clear	851						
-853	6	8570	Gray Raven File 054	Clear Stronghold 8-2	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					853			1	220053	853			Clear	852						
-854	6	8560	Gray Raven File 055	Clear Stronghold 8-3	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					854			1	220054	854			Clear	853						
-855	6	8550	Gray Raven File 056	Clear Stronghold 8-4	Assets/Product/Texture/Image/IconTask/TaskIconThread08.png					855			1	220055	855			Clear	854						
 900	6	8540	Gray Raven	Normal Story Chapter 1	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					900			1	221000	900			Clear							
 901	6	8530	Broken Gears	Normal Story Chapter 2	Assets/Product/Texture/Image/IconTask/TaskIconThread02.png					901			1	221001	901			Clear	900						
 902	6	8520	Gray Raven: Memories	Complete Hidden Story Chapter 1	Assets/Product/Texture/Image/IconTask/TaskIconThread01.png					902			1	221002	902			Clear	901						
@@ -436,26 +382,26 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 3108	6	9680	A Pact With Time	Activate Liv: Luminance	Assets/Product/Texture/Image/IconTask/TaskIconLifu3.png					3108			1	31080	3108			Collect		2					
 3109	6	9670	Gaussian Distribution	Activate Lee: Entropy	Assets/Product/Texture/Image/IconTask/TaskIconLi2.png					3109			1	31090	3109			Collect		2					
 3110	6	9660	Explosive Finale	Activate Karenina: Ember	Assets/Product/Texture/Image/IconTask/TaskIconKalienina3.png					3110			1	31100	3110			Collect		2					
-3120	6	9650	I'm Stronger, But... I	Own 3 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3120			3	31200	3120			Collect		2					
-3121	6	9640	I'm Stronger, But... II	Own 5 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3121			5	31210	3121			Collect	3120	2					
-3122	6	9630	I'm Stronger, But... III	Own 7 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3122			7	31220	3122			Collect	3121	2					
-3123	6	9620	I'm Stronger, But... IV	Own 9 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3123			9	31230	3123			Collect	3122	2					
-3124	6	9610	I'm Stronger, But... V	Own 12 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3124			12	31240	3124			Collect	3123	2					
-3125	6	9600	I'm Stronger, But...VI	Own 15 S-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3125			15	31250	3125			Collect	3124	2					
-3130	4	9590	I Have No Friends I	Own 1 SS-rank Construct	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3130			1	31300	3130			Collect		2					
-3131	4	9580	I Have No Friends II	Own 3 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3131			3	31310	3131			Collect	3130	2					
-3132	4	9570	I Have No Friends III	Own 5 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3132			5	31320	3132			Collect	3131	2					
-3133	4	9560	I Have No Friends IV	Own 7 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3133			7	31330	3133			Collect	3132	2					
-3134	4	9550	I Have No Friends V	Own 9 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3134			9	31340	3134			Collect	3133	2					
-3135	4	9540	I Have No Friends VI	Own 12 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3135			12	31350	3135			Collect	3134	2					
-3136	4	9530	I Have No Friends VII	Own 15 SS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3136			15	31360	3136			Collect	3135	2					
-3140	4	9520	Development of Science I	Own 1 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3140			1	31400	3140			Collect		2					
-3141	4	9510	Development of Science II	Own 3 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3141			3	31410	3141			Collect	3140	2					
-3142	4	9500	Development of Science III	Own 5 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3142			5	31420	3142			Collect	3141	2					
-3143	4	9490	Development of Science IV	Own 7 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3143			7	31430	3143			Collect	3142	2					
-3144	4	9480	Development of Science V	Own 9 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3144			9	31440	3144			Collect	3143	2					
-3145	4	9470	Development of Science VI	Own 12 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3145			12	31450	3145			Collect	3144	2					
-3146	4	9460	Development of Science VII	Own 15 SSS-rank Constructs	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3146			15	31460	3146			Collect	3145	2					
+3120	6	9650	I'm Stronger, But... I	Own 3 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3120			3	31200	3120			Collect		2					
+3121	6	9640	I'm Stronger, But... II	Own 5 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3121			5	31210	3121			Collect	3120	2					
+3122	6	9630	I'm Stronger, But... III	Own 7 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3122			7	31220	3122			Collect	3121	2					
+3123	6	9620	I'm Stronger, But... IV	Own 9 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3123			9	31230	3123			Collect	3122	2					
+3124	6	9610	I'm Stronger, But... V	Own 12 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3124			12	31240	3124			Collect	3123	2					
+3125	6	9600	I'm Stronger, But...VI	Own 15 S-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3125			15	31250	3125			Collect	3124	2					
+3130	4	9590	I Have No Friends I	Own 1 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3130			1	31300	3130			Collect		2					
+3131	4	9580	I Have No Friends II	Own 3 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3131			3	31310	3131			Collect	3130	2					
+3132	4	9570	I Have No Friends III	Own 5 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3132			5	31320	3132			Collect	3131	2					
+3133	4	9560	I Have No Friends IV	Own 7 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3133			7	31330	3133			Collect	3132	2					
+3134	4	9550	I Have No Friends V	Own 9 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3134			9	31340	3134			Collect	3133	2					
+3135	4	9540	I Have No Friends VI	Own 12 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3135			12	31350	3135			Collect	3134	2					
+3136	4	9530	I Have No Friends VII	Own 15 SS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3136			15	31360	3136			Collect	3135	2					
+3140	4	9520	Development of Science I	Own 1 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3140			1	31400	3140			Collect		2					
+3141	4	9510	Development of Science II	Own 3 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3141			3	31410	3141			Collect	3140	2					
+3142	4	9500	Development of Science III	Own 5 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3142			5	31420	3142			Collect	3141	2					
+3143	4	9490	Development of Science IV	Own 7 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3143			7	31430	3143			Collect	3142	2					
+3144	4	9480	Development of Science V	Own 9 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3144			9	31440	3144			Collect	3143	2					
+3145	4	9470	Development of Science VI	Own 12 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3145			12	31450	3145			Collect	3144	2					
+3146	4	9460	Development of Science VII	Own 15 SSS-rank members	Assets/Product/Texture/Image/IconTask/TaskIconExem.png					3146			15	31460	3146			Collect	3145	2					
 3150	4	9450	prpr！	Get 2 Coatings	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3150			2	31500	3150			Collect		2					
 3151	4	9440	prprprprpr！	Get 5 Coatings	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3151			5	31510	3151			Collect	3150	2					
 3152	4	9430	prprprprpr！！	Get 10 Coatings	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3152			10	31520	3152			Collect	3151	2					
@@ -698,26 +644,42 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 4029	4	7578	Plume of Reincarnation VI	Upgrade Lucia: Plume to Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconR4Luxiya2.png					4029			1	34350	3435			Train	4028	3					
 4030	4	7577	Plume of Reincarnation VII	Upgrade Lucia: Plume to Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconR4Luxiya2.png					4030			1	34360	3436			Train	4029	3					
 4031	4	7576	Plume of Reincarnation VIII	Upgrade Lucia: Plume to Lv.80	Assets/Product/Texture/Image/IconTask/TaskIconR4Luxiya2.png					4031			1	34370	3437			Train	4030	3					
-3500	4	5630	Medal of Honor I	Promote a Construct 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3500			5	35000	3500			Train		3					
-3501	4	5620	Medal of Honor II	Promote a Construct 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3501			10	35010	3501			Train	3500	3					
-3502	4	5610	Medal of Honor III	Promote a Construct 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3502			20	35020	3502			Train	3501	3					
-3503	4	5600	Medal of Honor IV	Promote a Construct 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3503			30	35030	3503			Train	3502	3					
-3504	4	5590	Medal of Honor V	Promote a Construct 40 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3504			40	35040	3504			Train	3503	3					
-3505	4	5580	Medal of Honor VI	Promote a Construct 50 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3505			50	35050	3505			Train	3504	3					
-3506	4	5570	Medal of Honor VII	Promote a Construct 75 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3506			75	35060	3506			Train	3505	3					
-3507	4	5560	Medal of Honor VIII	Promote a Construct 100 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3507			100	35070	3507			Train	3506	3					
-3508	4	5550	Medal of Honor IX	Promote a Construct 125 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3508			125	35080	3508			Train	3507	3					
-3509	4	5540	Medal of Honor X	Promote a Construct 150 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3509			150	35090	3509			Train	3508	3					
-3510	4	5530	No Longer Human I	Evolve a Construct 2 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3510			2	35100	3510			Train		3					
-3511	4	5520	No Longer Human II	Evolve a Construct 4 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3511			4	35110	3511			Train	3510	3					
-3512	4	5510	No Longer Human III	Evolve a Construct 6 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3512			6	35120	3512			Train	3511	3					
-3513	4	5500	No Longer Human IV	Evolve a Construct 8 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3513			8	35130	3513			Train	3512	3					
-3514	4	5490	No Longer Human V	Evolve a Construct 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3514			10	35140	3514			Train	3513	3					
-3515	4	5480	No Longer Human VI	Evolve a Construct 12 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3515			12	35150	3515			Train	3514	3					
-3516	4	5470	No Longer Human VII	Evolve a Construct 14 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3516			14	35160	3516			Train	3515	3					
-3517	4	5460	No Longer Human VIII	Evolve a Construct 16 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3517			16	35170	3517			Train	3516	3					
-3518	4	5450	No Longer Human IX	Evolve a Construct 18 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3518			18	35180	3518			Train	3517	3					
-3519	4	5440	No Longer Human X	Evolve a Construct 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3519			20	35190	3519			Train	3518	3					
+4032	4	7575	Dazzling Radiance I	Vera: Rozen upgrades to Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4032			1	34300	3430			Train		3					
+4033	4	7574	Dazzling Radiance II	Vera: Rozen upgrades to Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4033			1	34310	3431			Train	4032	3					
+4034	4	7573	Dazzling Radiance III	Vera: Rozen upgrades to Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4034			1	34320	3432			Train	4033	3					
+4035	4	7572	Dazzling Radiance IV	Vera: Rozen upgrades to Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4035			1	34330	3433			Train	4034	3					
+4036	4	7571	Dazzling Radiance V	Vera: Rozen upgrades to Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4036			1	34340	3434			Train	4035	3					
+4037	4	7570	Dazzling Radiance VI	Vera: Rozen upgrades to Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4037			1	34350	3435			Train	4036	3					
+4038	4	7569	Dazzling Radiance VII	Vera: Rozen upgrades to Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4038			1	34360	3436			Train	4037	3					
+4039	4	7568	Dazzling Radiance VIII	Vera: Rozen upgrades to Lv.80	Assets/Product/Texture/Image/IconTask/TaskIconWeila2.png					4039			1	34370	3437			Train	4038	3					
+4040	4	7575	Crocotta Shadow I	Camu: Crocotta upgrades to Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4040			1	34300	3430			Train		3					
+4041	4	7574	Crocotta Shadow II	Camu: Crocotta upgrades to Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4041			1	34310	3431			Train	4040	3					
+4042	4	7573	Crocotta Shadow III	Camu: Crocotta upgrades to Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4042			1	34320	3432			Train	4041	3					
+4043	4	7572	Crocotta Shadow IV	Camu: Crocotta upgrades to Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4043			1	34330	3433			Train	4042	3					
+4044	4	7571	Crocotta Shadow V	Camu: Crocotta upgrades to Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4044			1	34340	3434			Train	4043	3					
+4045	4	7570	Crocotta Shadow VI	Camu: Crocotta upgrades to Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4045			1	34350	3435			Train	4044	3					
+4046	4	7569	Crocotta Shadow VII	Camu: Crocotta upgrades to Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4046			1	34360	3436			Train	4045	3					
+4047	4	7568	Crocotta Shadow VIII	Camu: Crocotta upgrades to Lv.80	Assets/Product/Texture/Image/IconTask/TaskIconKamu2.png					4047			1	34370	3437			Train	4046	3					
+3500	4	5630	Medal of Honor I	Promote members a total of 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3500			5	35000	3500			Collect		3					
+3501	4	5620	Medal of Honor II	Promote members a total of 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3501			10	35010	3501			Collect	3500	3					
+3502	4	5610	Medal of Honor III	Promote members a total of 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3502			20	35020	3502			Collect	3501	3					
+3503	4	5600	Medal of Honor IV	Promote members a total of 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3503			30	35030	3503			Collect	3502	3					
+3504	4	5590	Medal of Honor V	Promote members a total of 40 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3504			40	35040	3504			Collect	3503	3					
+3505	4	5580	Medal of Honor VI	Promote members a total of 50 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3505			50	35050	3505			Collect	3504	3					
+3506	4	5570	Medal of Honor VII	Promote members a total of 75 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3506			75	35060	3506			Collect	3505	3					
+3507	4	5560	Medal of Honor VIII	Promote members a total of 100 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3507			100	35070	3507			Collect	3506	3					
+3508	4	5550	Medal of Honor IX	Promote members a total of 125 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3508			125	35080	3508			Collect	3507	3					
+3509	4	5540	Medal of Honor X	Promote members a total of 150 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3509			150	35090	3509			Collect	3508	3					
+3510	4	5530	No Longer Human I	Evolve members a total of 2 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3510			2	35100	3510			Collect		3					
+3511	4	5520	No Longer Human II	Evolve members a total of 4 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3511			4	35110	3511			Collect	3510	3					
+3512	4	5510	No Longer Human III	Evolve members a total of 6 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3512			6	35120	3512			Collect	3511	3					
+3513	4	5500	No Longer Human IV	Evolve members a total of 8 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3513			8	35130	3513			Collect	3512	3					
+3514	4	5490	No Longer Human V	Evolve members a total of 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3514			10	35140	3514			Collect	3513	3					
+3515	4	5480	No Longer Human VI	Evolve members a total of 12 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3515			12	35150	3515			Collect	3514	3					
+3516	4	5470	No Longer Human VII	Evolve members a total of 14 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3516			14	35160	3516			Collect	3515	3					
+3517	4	5460	No Longer Human VIII	Evolve members a total of 16 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3517			16	35170	3517			Collect	3516	3					
+3518	4	5450	No Longer Human IX	Evolve members a total of 18 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3518			18	35180	3518			Collect	3517	3					
+3519	4	5440	No Longer Human X	Evolve members a total of 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3519			20	35190	3519			Train	3518	3					
 3520	4	5430	Power Unlimited I	Overclock an equipment 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3520			5	35200	3520			Train		3					
 3521	4	5420	Power Unlimited II	Overclock an equipment 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3521			10	35210	3521			Train	3520	3					
 3522	4	5410	Power Unlimited III	Overclock an equipment 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3522			20	35220	3522			Train	3521	3					
@@ -757,16 +719,16 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 3571	6	5070	Home Essentials II	Get 5★ HQ Facilities * 50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3571			50	35710	3571			Train	3570	3					
 3572	6	5060	Home Essentials III	Get 5★ HQ Facilities * 100	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3572			100	35720	3572			Train	3571	3					
 3573	6	5050	Home Essentials IV	Get 5★ HQ Facilities * 150	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3573			150	35730	3573			Train	3572	3					
-3600	4	7040	Consumable I	Spend 1000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3600			1000000	36000	3600			Special		4					
-3601	4	7030	Consumable II	Spend 3000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3601			3000000	36010	3601			Special	3600	4					
-3602	4	7020	Consumable III	Spend 5000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3602			5000000	36020	3602			Special	3601	4					
-3603	4	7010	Consumable IV	Spend 10000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3603			10000000	36030	3603			Special	3602	4					
-3604	4	7000	Consumable V	Spend 15000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3604			15000000	36040	3604			Special	3603	4					
-3605	4	6990	Consumable VI	Spend 20000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3605			20000000	36050	3605			Special	3604	4					
-3606	4	6980	Consumable VII	Spend 30000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3606			30000000	36060	3606			Special	3605	4					
-3607	4	6970	Consumable VIII	Spend 50000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3607			50000000	36070	3607			Special	3606	4					
-3608	4	6960	Consumable IX	Spend 70000000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3608			70000000	36080	3608			Special	3607	4					
-3609	4	6950	Commandant Ready	Spend 99999999 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3609			99999999	36090	3609			Special	3608	4					
+3600	4	7040	Consumable I	Spend 1,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3600			1000000	36000	3600			Special		4					
+3601	4	7030	Consumable II	Spend 3,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3601			3000000	36010	3601			Special	3600	4					
+3602	4	7020	Consumable III	Spend 5,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3602			5000000	36020	3602			Special	3601	4					
+3603	4	7010	Consumable IV	Spend 10,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3603			10000000	36030	3603			Special	3602	4					
+3604	4	7000	Consumable V	Spend 15,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3604			15000000	36040	3604			Special	3603	4					
+3605	4	6990	Consumable VI	Spend 20,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3605			20000000	36050	3605			Special	3604	4					
+3606	4	6980	Consumable VII	Spend 30,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3606			30000000	36060	3606			Special	3605	4					
+3607	4	6970	Consumable VIII	Spend 50,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3607			50000000	36070	3607			Special	3606	4					
+3608	4	6960	Consumable IX	Spend 70,000,000 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3608			70000000	36080	3608			Special	3607	4					
+3609	4	6950	Commandant Ready	Spend 99,999,999 Cogs	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3609			99999999	36090	3609			Special	3608	4					
 3610	4	6940	Friend A	Gift Cogs to a friend 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3610			10	36100	3610			Special		4					
 3611	4	6930	Friend B	Gift Cogs to a friend 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3611			30	36110	3611			Special	3610	4					
 3612	4	6920	Friend C	Gift Cogs to a friend 60 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3612			60	36120	3612			Special	3611	4					
@@ -779,14 +741,14 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 3631	4	6850	Commandant Passing By II	Use Support 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3631			30	36310	3631			Special	3630	4					
 3632	4	6840	Commandant Passing By III	Use Support 60 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3632			60	36320	3632			Special	3631	4					
 3633	4	6830	Commandant Passing By IV	Use Support 100 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3633			100	36330	3633			Special	3632	4					
-3640	4	6820	Construct Friends I	Have 1 Construct reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3640			1	36400	3640			Special		4					
-3641	4	6810	Construct Friends II	Have 3 Constructs reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3641			3	36410	3641			Special	3640	4					
-3642	4	6800	Construct Friends III	Have 5 Constructs reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3642			5	36420	3642			Special	3641	4					
-3643	4	6790	Construct Friends IV	Have 10 Constructs reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3643			10	36430	3643			Special	3642	4					
-3650	4	6780	Construct Friends V	Have 1 Construct reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3650			1	36500	3650			Special		4					
-3651	4	6770	Construct Friends VI	Have 3 Constructs reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3651			3	36510	3651			Special	3650	4					
-3652	4	6760	Construct Friends VII	Have 5 Constructs reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3652			5	36520	3652			Special	3651	4					
-3653	4	6750	Construct Friends VIII	Have 10 Constructs reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3653			10	36530	3653			Special	3652	4					
+3640	4	6820	Members' Friends I	1 member reaches Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3640			1	36400	3640			Special		4					
+3641	4	6810	Members' Friends II	3 members reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3641			3	36410	3641			Special	3640	4					
+3642	4	6800	Members' Friends III	5 members reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3642			5	36420	3642			Special	3641	4					
+3643	4	6790	Members' Friends IV	10 members reach Affection 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3643			10	36430	3643			Special	3642	4					
+3650	4	6780	Members' Friends V	1 member reaches Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3650			1	36500	3650			Special		4					
+3651	4	6770	Members' Friends VI	3 members reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3651			3	36510	3651			Special	3650	4					
+3652	4	6760	Members' Friends VII	5 members reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3652			5	36520	3652			Special	3651	4					
+3653	4	6750	Members' Friends VIII	10 members reach Affection 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3653			10	36530	3653			Special	3652	4					
 3660	4	6740	Flock of Ravens	Commandant reaches Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3660			10	36600	3660			Special		4					
 3661	4	6730	Blue Sky	Commandant reaches Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3661			20	36610	3661			Special	3660	4					
 3662	4	6720	Ship of the Line	Commandant reaches Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3662			30	36620	3662			Special	3661	4					
@@ -805,14 +767,14 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 3808	10	3000	Personal Score II	Accumulate 100000 Personal Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					3808			100000	38080	3808			Target							
 7100	7	10000	Liv's Trial I	Normal Story 1-5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7100			1	71000	7100			Target							
 7101	7	9990	Liv's Trial II	Have any equipment reach Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7101			1	71010	7101			Target							
-7102	7	9980	Liv's Trial III	Have 3 Constructs reach Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7102			3	71020	7102			Target							
+7102	7	9980	Liv's Trial III	3 members reach Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7102			3	71020	7102			Target							
 7103	7	9970	Liv's Trial IV	Overclock 5★ equipment * 2 to Lv30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7103			2	71030	7103			Target							
 7104	7	9960	Liv's Trial V	Clear 5 Daily quests	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7104			5	71040	7104			Target							
 7105	7	9955	Liv's Trial VI	Recycle 1 piece of 4★ equipment	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7105			1	71050	7105			Target							
 7106	7	9965	Liv's Trial VII	Clear all stages in Celica's Class - Basic Battle	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7106			1	71040	7106			Target							
 7200	7	9950	Lucia's Trial I	Normal Story Chapter 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7200			1	72000	7200			Target							
 7201	7	9940	Lucia's Trial II	Overclock 5★ equipment * 6 to Lv30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7201			6	72010	7201			Target							
-7202	7	9930	Lucia's Trial III	Have 3 Constructs reach Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7202			3	72020	7202			Target							
+7202	7	9930	Lucia's Trial III	3 members reach Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7202			3	72020	7202			Target							
 7203	7	9920	Lucia's Trial IV	Complete Interlude - Lucia Stage 6	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7203			1	72030	7203			Target							
 7204	7	9910	Lucia's Trial V	Clear Stage 2 of Memory Rescue	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7204			1	72040	7204			Target							
 7205	7	9900	Lucia's Trial VI	Complete 10 Basic Research	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7205			10	72050	7205			Target							
@@ -825,19 +787,19 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 7400	7	9860	Kamui's Trial I	Clear Phantom Pain Cage (Chaos)	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7400			1	74000	7400			Target							
 7401	7	9850	Kamui's Trial II	Reach Commandant Level 40	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7401			40	74010	7401			Target							
 7402	7	9840	Kamui's Trial III	Complete Special Training on Difficulty 2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7402			1	74020	7402			Target							
-7403	7	9830	Kamui's Trial IV	Have 4 Constructs reach Elite III	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7403			4	74030	7403			Target							
+7403	7	9830	Kamui's Trial IV	4 members reach Elite III	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7403			4	74030	7403			Target							
 7404	7	9825	Kamui's Trial V	Modify Dormitory Decor once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7404			1	74040	7404			Target							
 7500	7	9820	Nanami's Trial I	Clear Stage 4 of Memory Rescue	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7500			1	75000	7500			Target							
 7501	7	9810	Nanami's Trial II	Have any equipment reach Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7501			1	75010	7501			Target							
 7502	7	9800	Nanami's Trial III	Reach Commandant Level 45	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7502			45	75020	7502			Target							
-7503	7	9790	Nanami's Trial IV	Upgrade any 3 Constructs to Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7503			3	75000	7503			Target							
+7503	7	9790	Nanami's Trial IV	Any 3 members reach Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7503			3	75000	7503			Target							
 7600	7	9780	Bianca's Trial I	Normal Story Chapter 5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7600			1	76000	7600			Target							
 7601	7	9770	Bianca's Trial II	Complete Stage 6 of Memory Rescue	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7601			1	76010	7601			Target							
 7602	7	9750	Bianca's Trial III	Complete Interlude - Lee Stage 5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7602			1	76020	7602			Target							
-7603	7	9745	Bianca's Trial IV	Have any Construct reach 2500 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7603			1	76020	7603			Target							
+7603	7	9745	Bianca's Trial IV	Any member reaches 2,500 BP	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7603			1	76020	7603			Target							
 7700	7	9740	Karenina's Trial I	Login for a total of 7 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7700			1	77000	7700			Target							
 7701	7	9730	Karenina's Trial II	Reach Commandant Level 50	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7701			50	77010	7701			Target							
-7702	7	9720	Karenina's Trial III	Have 4 Constructs reach Task Force II	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7702			4	77020	7702			Target							
+7702	7	9720	Karenina's Trial III	4 members reach Task Force II	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					7702			4	77020	7702			Target							
 90201	6	1	Arctic Pursuit I	Complete Arctic Night Stage 1	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					100			1	100000	90201			Event							
 90202	6	1	Arctic Pursuit II	Complete Arctic Night Stage 2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					100			1	100000	90202			Event							
 90203	6	1	Arctic Pursuit III	Complete Arctic Night Stage 3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					1			1	100000	90203			Event							
@@ -1210,41 +1172,41 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 11332	6	9567	Tower Vanquisher VIII	Reach Project Babel Strategic Lv.260	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					11332			260	11332				Clear							
 11333	6	9566	Tower Vanquisher IX	Reach Project Babel Strategic Lv.280	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					11333			280	11333				Clear							
 11334	6	9565	Tower Vanquisher X	Reach Project Babel Strategic Lv.300	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					11334			300	11334				Clear							
-12300	15	9599	Sands of Infinity I	Clear Babel Tower: Sands of Infinity BPV-1	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12300			1	11300				Clear							
-12301	15	9598	Sands of Infinity II	Clear Babel Tower: Sands of Infinity BPV-2	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12301			1	11301				Clear							
-12302	15	9597	Sands of Infinity III	Clear Babel Tower: Sands of Infinity BPV-3	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12302			1	11302				Clear							
-12303	15	9596	Sands of Infinity IV	Clear Babel Tower: Sands of Infinity BPV-4	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12303			1	11303				Clear							
-12304	15	9595	Sands of Infinity V	Clear Babel Tower: Sands of Infinity BPV-5	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12304			1	11304				Clear							
-12305	15	9594	Dunes I	Reach Sands of Infinity Strategic Lv.5	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12305			5	11305				Clear							
-12306	15	9593	Dunes II	Reach Sands of Infinity Strategic Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12306			10	11306				Clear							
-12307	15	9592	Dunes III	Reach Sands of Infinity Strategic Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12307			15	11307				Clear							
-12308	15	9591	Dunes IV	Reach Sands of Infinity Strategic Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12308			20	11308				Clear							
-12309	15	9590	Dunes V	Reach Sands of Infinity Strategic Lv.25	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12309			25	11309				Clear							
-12310	15	9589	Oasis I	Reach Sands of Infinity Strategic Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12310			30	11310				Clear							
-12311	15	9588	Oasis II	Reach Sands of Infinity Strategic Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12311			35	11311				Clear							
-12312	15	9587	Oasis III	Reach Sands of Infinity Strategic Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12312			40	11312				Clear							
-12313	15	9586	Oasis IV	Reach Sands of Infinity Strategic Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12313			45	11313				Clear							
-12314	15	9585	Oasis V	Reach Sands of Infinity Strategic Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12314			50	11314				Clear							
-12315	15	9584	Mirage I	Reach Sands of Infinity Strategic Lv.55	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12315			55	11315				Clear							
-12316	15	9583	Mirage II	Reach Sands of Infinity Strategic Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12316			60	11316				Clear							
-12317	15	9582	Mirage III	Reach Sands of Infinity Strategic Lv.65	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12317			65	11317				Clear							
-12318	15	9581	Mirage IV	Reach Sands of Infinity Strategic Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12318			70	11318				Clear							
-12319	15	9580	Mirage V	Reach Sands of Infinity Strategic Lv.75	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12319			75	11319				Clear							
-12320	15	9579	Star Ocean I	Reach Sands of Infinity Strategic Lv.80	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12320			80	11320				Clear							
-12321	15	9578	Star Ocean II	Reach Sands of Infinity Strategic Lv.85	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12321			85	11321				Clear							
-12322	15	9577	Star Ocean III	Reach Sands of Infinity Strategic Lv.90	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12322			90	11322				Clear							
-12323	15	9576	Star Ocean IV	Reach Sands of Infinity Strategic Lv.95	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12323			95	11323				Clear							
-12324	15	9575	Star Ocean V	Reach Sands of Infinity Strategic Lv.100	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12324			100	11324				Clear							
-12325	15	9574	Eternal Throne I	Reach Sands of Infinity Strategic Lv.120	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12325			120	11325				Clear							
-12326	15	9573	Eternal Throne II	Reach Sands of Infinity Strategic Lv.140	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12326			140	11326				Clear							
-12327	15	9572	Eternal Throne III	Reach Sands of Infinity Strategic Lv.160	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12327			160	11327				Clear							
-12328	15	9571	Eternal Throne IV	Reach Sands of Infinity Strategic Lv.180	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12328			180	11328				Clear							
-12329	15	9570	Eternal Throne V	Reach Sands of Infinity Strategic Lv.200	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12329			200	11329				Clear							
-12330	15	9569	Eternal Throne VI	Reach Sands of Infinity Strategic Lv.220	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12330			220	11330				Clear							
-12331	15	9568	Eternal Throne VII	Reach Sands of Infinity Strategic Lv.240	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12331			240	11331				Clear							
-12332	15	9567	Eternal Throne VIII	Reach Sands of Infinity Strategic Lv.260	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12332			260	11332				Clear							
-12333	15	9566	Eternal Throne IX	Reach Sands of Infinity Strategic Lv.280	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12333			280	11333				Clear							
-12334	15	9565	Eternal Throne X	Reach Sands of Infinity Strategic Lv.300	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12334			300	11334				Clear							
+12300	6	9599	Sands of Infinity I	Clear Babel Tower: Sands of Infinity BPV-1	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12300			1	11300				Clear							
+12301	6	9598	Sands of Infinity II	Clear Babel Tower: Sands of Infinity BPV-2	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12301			1	11301				Clear							
+12302	6	9597	Sands of Infinity III	Clear Babel Tower: Sands of Infinity BPV-3	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12302			1	11302				Clear							
+12303	6	9596	Sands of Infinity IV	Clear Babel Tower: Sands of Infinity BPV-4	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12303			1	11303				Clear							
+12304	6	9595	Sands of Infinity V	Clear Babel Tower: Sands of Infinity BPV-5	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12304			1	11304				Clear							
+12305	6	9594	Dunes I	Reach Sands of Infinity Strategic Lv.5	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12305			5	11305				Clear							
+12306	6	9593	Dunes II	Reach Sands of Infinity Strategic Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12306			10	11306				Clear							
+12307	6	9592	Dunes III	Reach Sands of Infinity Strategic Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12307			15	11307				Clear							
+12308	6	9591	Dunes IV	Reach Sands of Infinity Strategic Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12308			20	11308				Clear							
+12309	6	9590	Dunes V	Reach Sands of Infinity Strategic Lv.25	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12309			25	11309				Clear							
+12310	6	9589	Oasis I	Reach Sands of Infinity Strategic Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12310			30	11310				Clear							
+12311	6	9588	Oasis II	Reach Sands of Infinity Strategic Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12311			35	11311				Clear							
+12312	6	9587	Oasis III	Reach Sands of Infinity Strategic Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12312			40	11312				Clear							
+12313	6	9586	Oasis IV	Reach Sands of Infinity Strategic Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12313			45	11313				Clear							
+12314	6	9585	Oasis V	Reach Sands of Infinity Strategic Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12314			50	11314				Clear							
+12315	6	9584	Mirage I	Reach Sands of Infinity Strategic Lv.55	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12315			55	11315				Clear							
+12316	6	9583	Mirage II	Reach Sands of Infinity Strategic Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12316			60	11316				Clear							
+12317	6	9582	Mirage III	Reach Sands of Infinity Strategic Lv.65	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12317			65	11317				Clear							
+12318	6	9581	Mirage IV	Reach Sands of Infinity Strategic Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12318			70	11318				Clear							
+12319	6	9580	Mirage V	Reach Sands of Infinity Strategic Lv.75	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12319			75	11319				Clear							
+12320	6	9579	Star Ocean I	Reach Sands of Infinity Strategic Lv.80	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12320			80	11320				Clear							
+12321	6	9578	Star Ocean II	Reach Sands of Infinity Strategic Lv.85	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12321			85	11321				Clear							
+12322	6	9577	Star Ocean III	Reach Sands of Infinity Strategic Lv.90	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12322			90	11322				Clear							
+12323	6	9576	Star Ocean IV	Reach Sands of Infinity Strategic Lv.95	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12323			95	11323				Clear							
+12324	6	9575	Star Ocean V	Reach Sands of Infinity Strategic Lv.100	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12324			100	11324				Clear							
+12325	6	9574	Eternal Throne I	Reach Sands of Infinity Strategic Lv.120	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12325			120	11325				Clear							
+12326	6	9573	Eternal Throne II	Reach Sands of Infinity Strategic Lv.140	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12326			140	11326				Clear							
+12327	6	9572	Eternal Throne III	Reach Sands of Infinity Strategic Lv.160	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12327			160	11327				Clear							
+12328	6	9571	Eternal Throne IV	Reach Sands of Infinity Strategic Lv.180	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12328			180	11328				Clear							
+12329	6	9570	Eternal Throne V	Reach Sands of Infinity Strategic Lv.200	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12329			200	11329				Clear							
+12330	6	9569	Eternal Throne VI	Reach Sands of Infinity Strategic Lv.220	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12330			220	11330				Clear							
+12331	6	9568	Eternal Throne VII	Reach Sands of Infinity Strategic Lv.240	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12331			240	11331				Clear							
+12332	6	9567	Eternal Throne VIII	Reach Sands of Infinity Strategic Lv.260	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12332			260	11332				Clear							
+12333	6	9566	Eternal Throne IX	Reach Sands of Infinity Strategic Lv.280	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12333			280	11333				Clear							
+12334	6	9565	Eternal Throne X	Reach Sands of Infinity Strategic Lv.300	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12334			300	11334				Clear							
 12335	6	9564	Eternal Throne XI	Reach Sands of Infinity Strategic Lv.320	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12335			320	11334				Clear							
 12336	6	9563	Eternal Throne XII	Reach Sands of Infinity Strategic Lv.340	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					12336			340	11334				Clear							
 11335	6	9564	Mission has expired	Invalid	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png								1					Clear							
@@ -1257,6 +1219,28 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 11342	6	9557	Mission has expired	Invalid	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png								1					Clear							
 11343	6	9556	Mission has expired	Invalid	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png								1					Clear							
 11344	6	9555	Mission has expired	Invalid	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png								1					Clear							
+13300	15	10000	Theme Park I	Clear Babel Tower BP-1 once (Lv.1 or above)	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13300			1	13300				Clear							
+13301	15	9999	Theme Park II	Clear Babel Tower BP-2 once (Lv.1 or above)	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13301			1	13301				Clear							
+13302	15	9998	Theme Park III	Clear Babel Tower BP-3 once (Lv.1 or above)	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13302			1	13302				Clear							
+13303	15	9997	Theme Park IV	Clear Babel Tower BP-4 once (Lv.1 or above)	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13303			1	13303				Clear							
+13304	15	9996	Drifting Wave I	Reach Babel Strategic Lv.5	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13304			5	13304				Clear							
+13305	15	9995	Drifting Wave II	Reach Babel Strategic Lv.10	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13305			10	13305				Clear							
+13306	15	9994	Drifting Wave III	Reach Babel Strategic Lv.15	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13306			15	13306				Clear							
+13307	15	9993	Drifting Wave IV	Reach Babel Strategic Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13307			20	13307				Clear							
+13308	15	9992	Drifting Wave V	Reach Babel Strategic Lv.25	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13308			25	13308				Clear							
+13309	15	9991	Underground Treasure Hunt I	Reach Babel Strategic Lv.30	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13309			30	13309				Clear							
+13310	15	9990	Underground Treasure Hunt II	Reach Babel Strategic Lv.35	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13310			35	13310				Clear							
+13311	15	9989	Underground Treasure Hunt III	Reach Babel Strategic Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13311			40	13311				Clear							
+13312	15	9988	Underground Treasure Hunt IV	Reach Babel Strategic Lv.45	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13312			45	13312				Clear							
+13313	15	9987	Underground Treasure Hunt V	Reach Babel Strategic Lv.50	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13313			50	13313				Clear							
+13314	15	9986	Speedy Cloud I	Reach Babel Strategic Lv.55	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13314			55	13314				Clear							
+13315	15	9985	Speedy Cloud II	Reach Babel Strategic Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13315			60	13315				Clear							
+13316	15	9984	Speedy Cloud III	Reach Babel Strategic Lv.65	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13316			65	13316				Clear							
+13317	15	9983	Speedy Cloud IV	Reach Babel Strategic Lv.70	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13317			70	13317				Clear							
+13318	15	9982	Ether Tower I	Reach Babel Strategic Lv.75	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13318			75	13318				Clear							
+13319	15	9981	Ether Tower II	Reach Babel Strategic Lv.105	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13319			105	13319				Clear							
+13320	15	9980	Ether Tower III	Reach Babel Strategic Lv.160	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13320			160	13320				Clear							
+13321	15	9979	Ether Tower IV	Reach Babel Strategic Lv.215	Assets/Product/Texture/Image/IconTask/TaskIconChallenge06.png					13321			215	13321				Clear							
 11401	11	10000		5						11401			5	11401				Collect							
 11402	11	9990		10						11402			10	11402				Collect							
 11403	11	9980		15						11403			15	11403				Collect							
@@ -1290,56 +1274,112 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 11431	11	9700	Module Upgrade II	Have Sophia: Silverfang learn a skill 40 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11431			40	11238	11064			Train							
 11432	11	9690	Module Upgrade III	Have Sophia: Silverfang learn a skill 60 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11432			60	11239	11065			Train							
 11433	11	9680	Module Upgrade IV	Have Sophia: Silverfang learn a skill 80 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11433			80	11240	11066			Train							
-11501	16	10000	Moment of Peace	Rest or Prep 3 times at Respite	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11501			3	11501				Clear							
-11502	16	9980	Small Harvest	Gain 500 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11502			500	11502				Clear							
-11503	16	9960	Windfall	Open Supply Crate 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11503			3	11503				Clear							
-11504	16	9940	Adrenaline	Gain 1 bonus	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11504			1	11504				Clear							
-11505	16	9920	Windfall HD	Open Supply Crate 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11505			5	11505				Clear							
-11506	16	9900	Farm Besieged	Clear 8 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11506			8	11506				クリア							
-11507	16	9880	Wuming Reincarnated	Clear 16 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11507			16	11507				クリア							
-11508	16	9860	Misty Enclave Mystery	Clear 24 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11508			24	11508				クリア							
-11509	16	9840	Thousand Faces	Clear 32 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11509			32	11509				クリア							
-11510	16	9820	Snowy Trail	Clear 40 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11510			40	11510				クリア							
-11511	16	9800	Secret of Monastery	Clear 48 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11511			48	11511				戦闘							
-11512	16	9780	Skyscraper	Clear 56 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11512			56	11512				戦闘							
-11513	16	9760	Wandering Hope	Clear 64 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11513			64	11513				戦闘							
-11514	16	9740	Abyssea Crisis	Clear 72 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11514			72	11514				戦闘							
-11515	16	9720	Peaceful Abyssea	Clear 80 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11515			80	11515				戦闘							
-11516	16	9700	Challenger I	Complete 1 Boss Battle	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11516			1	11516				戦闘							
-11517	16	9680	Challenger II	Complete 3 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11517			3	11517				戦闘							
-11518	16	9660	Challenger III	Complete 5 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11518			5	11518				戦闘							
-11519	16	9640	Veteran I	Battle once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11519			1	11519				戦闘							
-11520	16	9620	Veteran II	Battle 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11520			3	11520				戦闘							
-11521	16	9600	Veteran III	Battle 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11521			5	11521				戦闘							
-11522	16	9580	Veteran IV	Battle 7 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11522			7	11522				戦闘							
-11523	16	9560	Veteran V	Battle 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11523			10	11523				戦闘							
-11524	16	9540	Veteran VI	Battle 13 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11524			13	11524				戦闘							
-11525	16	9520	Veteran VII	Battle 16 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11525			16	11525				戦闘							
-11526	16	9500	Veteran VIII	Battle 19 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11526			19	11526				収集							
-11527	16	9480	Veteran IX	Battle 22 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11527			22	11527				収集							
-11528	16	9460	Veteran X	Battle 25 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11528			25	11528				収集							
-11529	16	9440	Veteran XI	Battle 28 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11529			28	11529				収集							
-11530	16	9420	Veteran XII	Battle 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11530			30	11530				収集							
-11601	11	10000		5						11601			5	11601				Collect							
-11602	11	9990		10						11602			10	11602				Collect							
-11603	11	9980		15						11603			15	11603				Collect							
-11604	11	9970		20						11604			20	11604				Collect							
-11605	11	9960		25						11605			25	11605				Collect							
-11606	11	9950		30						11606			30	11606				Collect							
-11607	11	9940		35						11607			35	11607				Collect							
-11608	11	9930		40						11608			40	11608				Collect							
-11609	11	9920		45						11609			45	11609				Collect							
-11610	11	9910		50						11610			50	11610				Collect							
-11611	11	9900		55						11611			55	11611				Collect							
-11612	11	9890		60						11612			60	11612				Collect							
-11613	11	9880		65						11613			65	11613				Collect							
-11614	11	9870		70						11614			70	11614				Collect							
-11615	11	9860		75						11615			75	11615				Collect							
-11616	11	9850		80						11616			80	11616				Collect							
-11617	11	9840		85						11617			85	11617				Collect							
-11618	11	9830		90						11618			90	11618				Collect							
-11619	11	9820		95						11619			95	11619				Collect							
-11620	11	9810		100						11620			100	11620				Collect							
+11501	6	10000	Moment of Peace	Rest or Prep 3 times at Respite	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11501			3	11501				Clear							
+11502	6	9980	Small Harvest	Gain 500 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11502			500	11502				Clear							
+11503	6	9960	Windfall	Open Supply Crate 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11503			3	11503				Clear							
+11504	6	9940	Adrenaline	Gain 1 bonus	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11504			1	11504				Clear							
+11505	6	9920	Windfall HD	Open Supply Crate 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11505			5	11505				Clear							
+11506	6	9900	Farm Besieged	Clear 8 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11506			8	11506				クリア							
+11507	6	9880	Wuming Reincarnated	Clear 16 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11507			16	11507				クリア							
+11508	6	9860	Misty Enclave Mystery	Clear 24 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11508			24	11508				クリア							
+11509	6	9840	Thousand Faces	Clear 32 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11509			32	11509				クリア							
+11510	6	9820	Snowy Trail	Clear 40 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11510			40	11510				クリア							
+11511	6	9800	Secret of Monastery	Clear 48 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11511			48	11511				戦闘							
+11512	6	9780	Skyscraper	Clear 56 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11512			56	11512				戦闘							
+11513	6	9760	Wandering Hope	Clear 64 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11513			64	11513				戦闘							
+11514	6	9740	Abyssea Crisis	Clear 72 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11514			72	11514				戦闘							
+11515	6	9720	Peaceful Abyssea	Clear 80 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11515			80	11515				戦闘							
+11516	6	9700	Challenger I	Complete 1 Boss Battle	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11516			1	11516				戦闘							
+11517	6	9680	Challenger II	Complete 3 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11517			3	11517				戦闘							
+11518	6	9660	Challenger III	Complete 5 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11518			5	11518				戦闘							
+11519	6	9640	Veteran I	Battle once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11519			1	11519				戦闘							
+11520	6	9620	Veteran II	Battle 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11520			3	11520				戦闘							
+11521	6	9600	Veteran III	Battle 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11521			5	11521				戦闘							
+11522	6	9580	Veteran IV	Battle 7 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11522			7	11522				戦闘							
+11523	6	9560	Veteran V	Battle 10 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11523			10	11523				戦闘							
+11524	6	9540	Veteran VI	Battle 13 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11524			13	11524				戦闘							
+11525	6	9520	Veteran VII	Battle 16 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11525			16	11525				戦闘							
+11526	6	9500	Veteran VIII	Battle 19 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11526			19	11526				収集							
+11527	6	9480	Veteran IX	Battle 22 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11527			22	11527				収集							
+11528	6	9460	Veteran X	Battle 25 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11528			25	11528				収集							
+11529	6	9440	Veteran XI	Battle 28 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11529			28	11529				収集							
+11530	6	9420	Veteran XII	Battle 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11530			30	11530				収集							
+11531	16	10000	Moment of Peace I	Rest or Prep 2 times at Respite	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11531			2	11531				Clear							
+11532	16	10000	Moment of Peace II	Rest or Prep 4 times at Respite	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11532			4	11532				Clear							
+11533	16	9980	Small Harvest I	Gain 200 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11533			200	11533				Collect							
+11534	16	9980	Small Harvest II	Gain 400 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11534			400	11534				Collect							
+11535	16	9980	Small Harvest III	Gain 600 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11535			600	11535				Collect							
+11536	16	9980	Small Harvest IV	Gain 800 Support Points	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11536			800	11536				Collect							
+11537	16	9960	Windfall I	Open Supply Crate 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11537			3	11537				Collect							
+11538	16	9920	Windfall II	Open Supply Crate 5 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11538			5	11538				Collect							
+11539	16	9920	Windfall III	Open Supply Crate 7 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11539			7	11539				Collect							
+11540	16	9940	Adrenaline	Gain 1 effect	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11540			1	11540				Collect							
+11541	16	9900	Exploration I	Clear 8 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11541			8	11541				Clear							
+11542	16	9880	Exploration II	Clear 16 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11542			16	11542				Clear							
+11543	16	9860	Exploration III	Clear 24 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11543			24	11543				Clear							
+11544	16	9840	Exploration IV	Clear 32 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11544			32	11544				Clear							
+11545	16	9820	Exploration V	Clear 40 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11545			40	11545				Clear							
+11546	16	9800	Exploration VI	Clear 48 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11546			48	11546				Clear							
+11547	16	9780	Exploration VII	Clear 56 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11547			56	11547				Clear							
+11548	16	9760	Exploration VIII	Clear 64 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11548			64	11548				Clear							
+11549	16	9740	Exploration IX	Clear 72 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11549			72	11549				Clear							
+11550	16	9720	Exploration X	Clear 80 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11550			80	11550				Clear							
+11551	16	9900	Exploration XI	Clear 88 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11551			88	11551				Clear							
+11552	16	9880	Exploration XII	Clear 96 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11552			96	11552				Clear							
+11553	16	9860	Exploration XIII	Clear 104 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11553			104	11553				Clear							
+11554	16	9840	Exploration XIV	Clear 112 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11554			112	11554				Clear							
+11555	16	9820	Exploration XV	Clear 120 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11555			120	11555				Clear							
+11556	16	9800	Exploration XVI	Clear 128 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11556			128	11556				Clear							
+11557	16	9780	Exploration XVII	Clear 136 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11557			136	11557				Clear							
+11558	16	9760	Exploration XVIII	Clear 144 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11558			144	11558				Clear							
+11559	16	9740	Exploration XIX	Clear 152 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11559			152	11559				Clear							
+11560	16	9720	Exploration XX	Clear 160 locations	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11560			160	11560				Clear							
+11561	16	9700	Challenger I	Complete 1 Boss Battle	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11561			1	11561				Battle							
+11562	16	9680	Challenger II	Complete 3 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11562			3	11562				Battle							
+11563	16	9660	Challenger III	Complete 5 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11563			5	11563				Battle							
+11564	16	9700	Challenger IV	Complete 7 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11564			7	11564				Battle							
+11565	16	9680	Challenger V	Complete 9 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11565			9	11565				Battle							
+11566	16	9660	Challenger VI	Complete 10 Boss Battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11566			10	11566				Battle							
+11567	16	9640	Warlike I	Battle 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11567			3	11567				Battle							
+11568	16	9620	Warlike II	Battle 6 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11568			6	11568				Battle							
+11569	16	9600	Warlike III	Battle 9 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11569			9	11569				Battle							
+11570	16	9580	Warlike IV	Battle 12 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11570			12	11570				Battle							
+11571	16	9560	Warlike V	Battle 15 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11571			15	11571				Battle							
+11572	16	9540	Warlike VI	Battle 18 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11572			18	11572				Battle							
+11573	16	9520	Warlike VII	Battle 21 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11573			21	11573				Battle							
+11574	16	9500	Warlike VIII	Battle 24 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11574			24	11574				Battle							
+11575	16	9480	Warlike IX	Battle 27 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11575			27	11575				Battle							
+11576	16	9460	Warlike X	Battle 30 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11576			30	11576				Battle							
+11577	16	9440	Warlike XI	Battle 33 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11577			33	11577				Battle							
+11578	16	9420	Warlike XII	Battle 36 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11578			36	11578				Battle							
+11579	16	9640	Warlike XIII	Battle 39 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11579			39	11579				Battle							
+11580	16	9620	Warlike XIV	Battle 42 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11580			42	11580				Battle							
+11581	16	9600	Warlike XV	Battle 45 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11581			45	11581				Battle							
+11582	16	9580	Warlike XVI	Battle 48 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11582			48	11582				Battle							
+11583	16	9560	Warlike XVII	Battle 51 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11583			51	11583				Battle							
+11584	16	9540	Warlike XVIII	Battle 54 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11584			54	11584				Battle							
+11585	16	9520	Warlike XIX	Battle 57 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11585			57	11585				Battle							
+11586	16	9500	Warlike XX	Battle 60 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11586			60	11586				Battle							
+11601	11	10000		5						11601			5	11530				Collect							
+11602	11	9990		10						11602			10	11530				Collect							
+11603	11	9980		15						11603			15	11530				Collect							
+11604	11	9970		20						11604			20	11530				Collect							
+11605	11	9960		25						11605			25	11530				Collect							
+11606	11	9950		30						11606			30	11530				Collect							
+11607	11	9940		35						11607			35	11530				Collect							
+11608	11	9930		40						11608			40	11530				Collect							
+11609	11	9920		45						11609			45	11530				Collect							
+11610	11	9910		50						11610			50	11530				Collect							
+11611	11	9900		55						11611			55	11530				Collect							
+11612	11	9890		60						11612			60	11530				Collect							
+11613	11	9880		65						11613			65	11530				Collect							
+11614	11	9870		70						11614			70	11530				Collect							
+11615	11	9860		75						11615			75	11530				Collect							
+11616	11	9850		80						11616			80	11530				Collect							
+11617	11	9840		85						11617			85	11530				Collect							
+11618	11	9830		90						11618			90	11530				Collect							
+11619	11	9820		95						11619			95	11530				Collect							
+11620	11	9810		100						11620			100	11530				Collect							
 11621	11	9800	Guest Visit	Clear Cornered in Cruise Normal Mode battle once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11621			1	11621	11621			Clear							
 11622	11	9790	Taking the Helm	Clear Cornered in Cruise Abyss Mode battle once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11622			1	11622	11622			Clear							
 11623	11	9780	How Hard Can It Be?	Clear 1 Abode of Gods stage	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11623			1	11623	11623			Clear							
@@ -1388,6 +1428,26 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 11731	11	9700	Elimination - Vanguard	Clear 1 Phalanx Stage	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11731			1	11731	11722			Clear							
 11732	11	9690	Elimination - Elite	Clear 3 Phalanx Stages	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11732			3	11732	11722			Clear							
 11733	11	9680	Elimination - Commander	Clear 5 Phalanx Stages	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11733			5	11733	11722			Clear							
+11801	21	10000	Operation Summer I	Clear Versus Battle (event) stages once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11801			1	2108061				Clear							
+11802	21	9900	Operation Summer II	Clear Versus Battle (event) stages twice	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11802			2	2108071				Clear							
+11803	21	9800	Operation Summer III	Clear Versus Battle (event) stages 3 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					11803			3	2108081				Clear							
+11821	11	10000	Resource Recycle I	Clear Combat Supply AE-5 stage once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11821			1	11821	4002			Clear							
+11822	11	9900	Resource Recycle II	Clear Combat Supply AE-5 stage 5 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11822			5	11822	4002			Clear							
+11823	11	9800	Autopoiesis Search	Clear Autopoiesis Maze once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11823			1	11823	11726			Clear							
+11824	11	9700	Theme Park Adventure	Clear Project Babel - Theme Park stages once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11824			1	11824	11424			Clear							
+11825	11	9600	Legend of the Executor - GR	Clear Legend of the Executor - GR stages once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11825			1	11825	11425			Clear							
+11826	11	9500	Park Parade	Clear Park Parade stages once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11826			1	11826	11724			Clear							
+11827	11	9400	Summer Adventure	Clear Operation Summer stages once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11827			1	11827	11727			Clear							
+11828	11	9300	Summer Alliance	Clear [Co-op (event)] once	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11828			1	11828	11725			Clear							
+11829	11	9200	Summer Alliance: Overclock	Clear [Co-op (event)] once on Overclock difficulty	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11829			1	11829	11725			Clear							
+11830	11	9100	Glorious Rozen I	Activate Vera: Rozen	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11830			1	11830	11049			Train							
+11831	11	9000	Glorious Rozen II	Vera: Rozen upgrades to Lv.20	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11831			1	11831	11060			Train							
+11832	11	8900	Glorious Rozen III	Vera: Rozen upgrades to Lv.40	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11832			1	11832	11061			Train							
+11833	11	8800	Glorious Rozen V	Vera: Rozen upgrades to Lv.60	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11833			1	11833	11062			Train							
+11834	11	8700	Glorious Rozen VI	Vera: Rozen learns skills 20 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11834			20	11834	11063			Train							
+11835	11	8600	Glorious Rozen VII	Vera: Rozen learns skills 40 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11835			40	11835	11064			Train							
+11836	11	8500	Glorious Rozen VIII	Vera: Rozen learns skills 60 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11836			60	11836	11065			Train							
+11837	11	8400	Glorious Rozen X	Vera: Rozen learns skills 80 times	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					11837			80	11837	11066			Train							
 99999	6	10000	Returning Player One-off	Daily Login	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99999			1	199999				Collect							
 99998	6	9999	Returning Player One-off	Login for a total of 1 day	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99998			1	199998				Collect							
 99997	6	9998	Returning Player One-off	Login for a total of 2 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99997			2	199997				Collect							
@@ -1403,16 +1463,18 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 99987	6	9988	Returning Player Weekly	Use EXP materials 3 times on any Construct	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99987			3	199987				Collect							
 99986	6	9987	Returning Player Weekly	Clear any 5 battles	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99986			5	199986				Collect							
 99985	6	9986	Returning Player Weekly	Clear 3 Co-op Missions	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					99985			3	199985				Collect							
-35000	18	10000	Join a Guild	Join a Guild	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35000			1	350000				Guild							
-35001	18	9999	Join a Guild for 5 days	Join a Guild for 5 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35001			5	350010				Guild							
-35002	18	9998	Join a Guild for 10 days	Join a Guild for 10 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35002			10	350020				Guild	35001						
-35003	18	9997	Join a Guild for 20 days	Join a Guild for 20 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35003			20	350030				Guild	35002						
-35004	18	9996	Guild reaches Lv.2	Guild reaches Lv.2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35004			2	350040				Guild							
-35005	18	9995	Guild reaches Lv.3	Guild reaches Lv.3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35005			3	350050				Guild	35004						
-35006	18	9994	Guild reaches Lv.4	Guild reaches Lv.4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35006			4	350060				Guild	35005						
-35007	18	9993	Guild reaches Lv.5	Guild reaches Lv.5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35007			5	350070				Guild	35006						
-35008	18	9992	Guild has 10 members	Guild has 10 members	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35008			10	350080				Guild							
-35009	18	9991	Guild has 20 members	Guild has 20 members	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35009			20	350090				Guild	35008						
+35000	6	10000	Join a Guild	Join a Guild	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35000			1	350000				Guild							
+35001	6	9999	Join a Guild for 5 days	Join a Guild for 5 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35001			5	350010				Guild							
+35002	6	9998	Join a Guild for 10 days	Join a Guild for 10 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35002			10	350020				Guild	35001						
+35003	6	9997	Join a Guild for 20 days	Join a Guild for 20 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35003			20	350030				Guild	35002						
+35004	6	9996	Guild reaches Lv.2	Guild reaches Lv.2	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35004			2	350040				Guild							
+35005	6	9995	Guild reaches Lv.3	Guild reaches Lv.3	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35005			3	350050				Guild	35004						
+35006	6	9994	Guild reaches Lv.4	Guild reaches Lv.4	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35006			4	350060				Guild	35005						
+35007	6	9993	Guild reaches Lv.5	Guild reaches Lv.5	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35007			5	350070				Guild	35006						
+35008	6	9992	Guild has 10 members	Guild has 10 members	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35008			10	350080				Guild							
+35009	6	9991	Guild has 20 members	Guild has 20 members	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35009			20	350090				Guild	35008						
+35010	6	9600	Simulated Siege (reset every Thursday)	1st time clearing 6 Simulated Siege stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35010			6	350100				Guild							
+35011	23	9600	Simulated Siege (reset every Thursday)	1st time clearing 6 Simulated Siege stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					35010			6	350100	15001	2020/8/20 5:00		Guild							
 20000	17	10000	Initial Login	Initial Login	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					20000			1	20000				Journey							
 20001	17	9990	Total Login	Login for a total of 1 day	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					20001			1	20001				Journey							
 20002	17	9980	Total Login	Login for a total of 2 days	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					20002			2	20002				Journey							
@@ -1482,7 +1544,7 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 37002	11	9978	Assault Elite	Clear 2 Defense Zone stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37002			2	370002				Daily							
 37003	11	9977	Role Model	Clear 3 Defense Zone stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37003			3	370003				Daily							
 37004	11	9976	Battle Commander	Clear 4 Defense Zone stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37004			4	370004				Daily							
-37005	11	9975	The Art of Collaboration	Clear any 3 stages using a shared Construct	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37005			3	370005				Daily							
+37005	11	9975	The Art of Collaboration	Clear any 3 stages using shared members	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37005			3	370005				Daily							
 37006	11	9979	Battlefield Vanguard	Clear 1 Defense Zone stage	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37006			1	370200				Daily							
 37007	11	9978	Assault Elite	Clear 2 Defense Zone stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					37007			2	370201				Daily							
 38000	11	10000	Ice-cream Machine 1	Collect 350 Morning Star Cups	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38000			350	38000	98			Collect							
@@ -1495,6 +1557,38 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 38007	11	9300	Ice-cream Machine 8	Collect 7000 Morning Star Cups	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38007			7000	38007	98			Collect							
 38008	11	9200	Ice-cream Machine 9	Collect 8500 Morning Star Cups	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38008			8500	38008	98			Collect							
 38009	11	9100	Ice-cream Machine 10	Collect 10000 Morning Star Cups	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38009			10000	38009	98			Collect							
+38101	11	10000	Shallow Memory 1	Clear the mission Moonlit Night	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38101			1	38101	20021			Clear							
+38102	11	9900	Shallow Memory 2	Clear 3 Phantom Pain Cage stages for the first time	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38102			3	38102	30001			Clear							
+38103	11	9800	Shallow Memory 3	Clear 6 Phantom Pain Cage stages for the first time	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38103			6	38103	30001			Clear							
+38104	11	9700	Shallow Memory 4	Clear 3 War Zone stages for the first time	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38104			3	38104	30013			Clear							
+38105	11	9600	Shallow Memory 5	Clear 6 War Zone stages for the first time	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38105			6	38105	30013			Clear							
+38106	11	9500	Shallow Memory 6	Use 400ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38106			400	38106	98			Journey							
+38107	11	9400	Shallow Memory 7	Use 800ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38107			800	38107	98			Journey							
+38108	11	9300	Shallow Memory 8	Use 1,200ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					38108			1200	38108	98			Journey							
+39001	22	9600	Autopoiesis Maze - Explore 1-1	Spend 10 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39001			10	39001	11726			Journey							
+39002	22	9590	Autopoiesis Maze - Explore 1-2	Spend 20 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39002			20	39002	11726			Journey							
+39003	22	9580	Autopoiesis Maze - Explore 1-3	Spend 30 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39003			30	39003	11726			Journey							
+39004	22	9570	Autopoiesis Maze - Explore 1-4	Spend 40 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39004			40	39004	11726			Journey							
+39005	22	9560	Autopoiesis Maze - Explore 1-5	Spend 50 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39005			50	39005	11726			Journey							
+39006	22	9550	Autopoiesis Maze - Analyze 1-1	Clear Autopoiesis Maze - Analyze stages once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39006			1	39006	11726			Clear							
+39007	22	9540	Autopoiesis Maze - Analyze 1-2	Clear Autopoiesis Maze - Analyze stages twice	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39007			2	39007	11726			Clear							
+39008	5	11350	Transcendant I	Commandant Level reaches 52	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39008			52	39008				Target							
+39009	5	11349	Transcendant II	Commandant Level reaches 52	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39008			52	39010				Target	39008						
+39010	5	11348	Transcendant III	Commandant Level reaches 52	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39008			52	39011				Target	39009						
+39101	22	9600	Autopoiesis Maze - Explore 2-1	Spend 10 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39001			10	39101	11726			Journey							
+39102	22	9590	Autopoiesis Maze - Explore 2-2	Spend 20 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39002			20	39102	11726			Journey							
+39103	22	9580	Autopoiesis Maze - Explore 2-3	Spend 30 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39003			30	39103	11726			Journey							
+39104	22	9570	Autopoiesis Maze - Explore 2-4	Spend 40 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39004			40	39104	11726			Journey							
+39105	22	9560	Autopoiesis Maze - Explore 2-5	Spend 50 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39005			50	39105	11726			Journey							
+39106	22	9550	Autopoiesis Maze - Analyze 2-1	Clear Autopoiesis Maze - Analyze stages once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39006			1	39106	11726			Clear							
+39107	22	9540	Autopoiesis Maze - Analyze 2-2	Clear Autopoiesis Maze - Analyze stages twice	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39007			2	39107	11726			Clear							
+39201	22	9600	Autopoiesis Maze - Explore 3-1	Spend 10 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39001			10	39201	11726			Journey							
+39202	22	9590	Autopoiesis Maze - Explore 3-2	Spend 20 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39002			20	39202	11726			Journey							
+39203	22	9580	Autopoiesis Maze - Explore 3-3	Spend 30 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39003			30	39203	11726			Journey							
+39204	22	9570	Autopoiesis Maze - Explore 3-4	Spend 40 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39004			40	39204	11726			Journey							
+39205	22	9560	Autopoiesis Maze - Explore 3-5	Spend 50 APs in all during Exploration	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39005			50	39205	11726			Journey							
+39206	22	9550	Autopoiesis Maze - Analyze 3-1	Clear Autopoiesis Maze - Analyze stages once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39006			1	39206	11726			Clear							
+39207	22	9540	Autopoiesis Maze - Analyze 3-2	Clear Autopoiesis Maze - Analyze stages twice	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					39007			2	39207	11726			Clear							
 100001	24	10000	Clear Co-op stage 1	Clear 7 Co-op stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					100001			7	150000											
 100002	24	9999	Clear Co-op stage 2	Clear 14 Co-op stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					100002			14	150001											
 100003	24	9998	Clear Co-op stage 3	Clear 21 Co-op stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					100003			21	150002											
@@ -1511,9 +1605,6 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 2120011	11	9700	New Year Mission-10	Use 1000ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconNewYear01.png					2120011			1000	2120011	2120011										
 2120012	11	9680	New Year Mission-11	Use 1500ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconNewYear01.png					2120012			1500	2120012	2120012										
 2120013	11	9660	New Year Mission-12	Use 2000ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconNewYear01.png					2120013			2000	2120013	2120013										
-90000	18	10000	Guild Daily 1	Use 100ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					90000			50	190000				Serum							
-90001	18	9999	Guild Daily 2	Use 200ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					90001			100	190001				Serum							
-90002	18	9998	Guild Daily 3	Use 300ml of Serum in total	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					90002			200	190002				Serum							
 3000001	11	100001	Today's Gift	Login once	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					2000			1	5000003				Login							
 3000002	11	100002	Energy Supply I	Clear any 1 stage	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					2004			1	5000026	2004			Clear							
 3000003	11	100003	Energy Supply II	Clear any 3 stages	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					2006			3	5000027	2004			Clear							
@@ -1543,3 +1634,9 @@ Id	Type	Priority	Title	Desc	Icon	PreTaskId	ActivateCondition[1]	ActivateConditio
 3000129	11	100020	Resource Meister IV	Clear Cornered in Cruise stages 20 times	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					200119			20	5000200	1300039			活动							
 3000130	11	100019	Resource Meister V	Totally use 400 Cell Batteries EX during the event	Assets/Product/Texture/Image/IconTask/TaskIconCommon.png					200120			400	5000201	1300040			活动							
 3000140	11	9810	Departure	Login for a total of 3 days	Assets/Product/Texture/Image/IconTask/TaskIconAcitive.png					50007			3	5000202				Login							
+3000150	11	100035	Time of Ceremony I	Use 300ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000150			300	5000290	2014										
+3000151	11	100034	Time of Ceremony II	Use 500ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000151			500	5000291	2014										
+3000152	11	100033	Time of Ceremony III	Use 800ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000152			800	5000292	2014										
+3000153	11	100032	Time of Ceremony IV	Use 1200ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000153			1200	5000293	2014										
+3000154	11	100031	Time of Ceremony V	Use 1600ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000154			1600	5000294	2014										
+3000155	11	100030	Time of Ceremony VI	Use 2000ml of Serum during the event	Assets/Product/Texture/Image/IconTask/TaskIconENLantern.png					3000155			2000	5000295	2014										

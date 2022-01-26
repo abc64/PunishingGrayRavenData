@@ -1,0 +1,68 @@
+[
+    {
+        "ChapterId": 2001,
+        "ChapterName": "Chapter 1",
+        "ChapterEn": "Grand Blue",
+        "Bg": "UiFubenMainMapTab.ChapterBg01A",
+        "Difficult": 1,
+        "StageTitle": "EX01",
+        "OrderId": 1,
+        "StageId": [
+            15010101,
+            15010102,
+            15010103,
+            15010104,
+            15010105,
+            15010106,
+            15010107,
+            15010108,
+            15010109,
+            15010110,
+            15010111,
+            15010112,
+            15010113,
+            15010114,
+            15010115,
+            15010116,
+            15010117,
+            15010118,
+            15010119,
+            15010120
+        ],
+        "TreasureId": [
+            1001002,
+            1001003,
+            1001004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenNor/FuBenNor01FW.prefab",
+        "ActivityCondition": 30406,
+        "ExploreGroupId": 101
+    },
+    {
+        "ChapterId": 2101,
+        "ChapterName": "Chapter 1",
+        "ChapterEn": "Grand Blue",
+        "Bg": "UiFubenMainMapTab.ChapterBg01B",
+        "Difficult": 2,
+        "StageTitle": "EX01",
+        "OrderId": 1,
+        "StageId": [
+            16010101,
+            16010102,
+            16010103,
+            16010104,
+            16010105,
+            16010106,
+            16010107,
+            16010108
+        ],
+        "TreasureId": [
+            1101002,
+            1101003,
+            1101004
+        ],
+        "PrefabName": "Assets/Product/Ui/ComponentPrefab/FuBenHard/FuBenHard01FW.prefab",
+        "ActivityCondition": 100701,
+        "ExploreGroupId": 102
+    }
+]

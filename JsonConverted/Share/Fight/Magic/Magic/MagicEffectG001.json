@@ -743,9 +743,9 @@
     },
     {
         "Id": 904575000,
-        "Name": "ChangeAttribValue",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "3|500|"
+            "3|0|2500"
         ]
     },
     {
@@ -757,9 +757,9 @@
     },
     {
         "Id": 904576000,
-        "Name": "ChangeAttribValue",
+        "Name": "ChangeAttribAdditive",
         "Level": [
-            "4|500|"
+            "4|0|2500"
         ]
     },
     {
@@ -795,6 +795,48 @@
         "Name": "AddBehavior",
         "Level": [
             904580
+        ]
+    },
+    {
+        "Id": 904581,
+        "Name": "AddBuff",
+        "Level": [
+            904581
+        ]
+    },
+    {
+        "Id": 904581000,
+        "Name": "AddBehavior",
+        "Level": [
+            904581
+        ]
+    },
+    {
+        "Id": 904582,
+        "Name": "AddBuff",
+        "Level": [
+            904582
+        ]
+    },
+    {
+        "Id": 904582000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "904581|"
+        ]
+    },
+    {
+        "Id": 904583,
+        "Name": "AddBuff",
+        "Level": [
+            904583
+        ]
+    },
+    {
+        "Id": 904583000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "904581|"
         ]
     },
     {

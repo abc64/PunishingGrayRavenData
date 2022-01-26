@@ -5,6 +5,12 @@ Id	BornMagic[1]	BornMagic[2]	BornMagic[3]	SubSkillId[1]	SubSkillId[2]	SubSkillId
 201	510901						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaiqinxie.png	Incandescence	Weapon's final ATK is increased by 15% at the start of battle. No duration limit.
 202	511001						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png	Dead Point Countdown	Gain 1 additional Signal Orb at the start of battle, and 3 identical Signal Orbs every 45s.
 203	509201						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png	Matrix Lightning	After EX Dodge, Movement Speed is greatly increased and all enemies' Extra DMG Reduction is decreased by 10% in Matrix.
+301	512005						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png	Matrix Outburst	All DMG increases by 15% when in Matrix.
+302	512007						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png	Overload Signal	An Entrance Skill grants 1 additional Signal Orb. Extra DMG Bonus of Signal Orb Skills increases by 10% for 8s.
+303	512012						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaiqinxie.png	Limit Break	All ATK increases by 10%.
+401	512005						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipTongyongGandianshanbi.png	Matrix Outburst	All DMG increases by 15% when in Matrix.
+402	512007						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaibiaoji.png	Overload Signal	An Entrance Skill grants 1 additional Signal Orb. Extra DMG Bonus of Signal Orb Skills increases by 10% for 8s.
+403	512012						100	Assets/Product/Texture/Image/IconSkill/IconSkillEquipShuchuGuozaiqinxie.png	Limit Break	All ATK increases by 10%.
 2013001							0			
 2014001	501001						0		Resonance Vibration	Physical DMG increased by 15% when combo is greater than 50.
 2015001	501101						0		Saturated Loading	Pinging all 3 types of Signal Orbs within 5s increases Extra DMG Bonus by 15% for 5s. Duration resets every time it is triggered.
@@ -22,6 +28,7 @@ Id	BornMagic[1]	BornMagic[2]	BornMagic[3]	SubSkillId[1]	SubSkillId[2]	SubSkillId
 2026003	600602	600601					0		Energy Incarnate	Extra DMG Bonus increases by 5%. Pinging orbs will accumulate energy based on the number of orbs pinged. Consumes 50 energy to summon Sirius for 45s. 60s cooldown.          Its power as a weapon is nothing to write home about, but it is much sought after for its attractive appearance.
 2026004	502320						0		Falling Blossoms	For each orb pinged, Physical DMG increases by 2% for 5s. Can be stacked up to 10 times. Duration resets every time it is triggered. Gains an extra Swordwave Orb in Swordwave Mode. 10s cooldown.
 2026005	502326	502327					0		Crimson Snow	Ice DMG increased by 15%. After a 3-Ping, All DMG is increased by 10% for 5s.
+2026006	502330						0		Bramble Heart	Dark DMG increases by 15%. Attacks have a 15% chance to unleash a shadow wave, dealing 75% Dark DMG. 0.5s cooldown.
 2032001							0			
 2033001							0			
 2034001	503001						0		Deep Pursuit	Basic Attack's Extra DMG Bonus increases by 10%.
@@ -70,3 +77,6 @@ Id	BornMagic[1]	BornMagic[2]	BornMagic[3]	SubSkillId[1]	SubSkillId[2]	SubSkillId
 2095001	531101						0		Line Drawing	Extra DMG Bonus increases by 10% for 4s when performing a QTE or 3-Ping skill. Duration resets every time it is triggered.
 2096001	531301	531307	531309				0		Color Splash	Extra DMG Bonus increases by 2% for 5s when dealing DMG to enemies with Super Armor. Can be stacked up to 3 times. Duration resets every time it is triggered. Stuns an enemy for 2s when breaking its Super Armor. 10s cooldown for the same target. Physical DMG increases by 15% for 7s when releasing Vector Cube. Duration resets every time it is triggered.
 2096002	531311	531312					0		St. Elmo's Fire	Lightning DMG increases by 10%. No. of Lightning Strikes required to trigger Core Passive reduced to 3 under "Signature - Lightning Charge".
+2104001	512001						0		Photophage Phantom	Basic Attack DMG increases by 10%.
+2105001	512003						0		Rageful Abyss	After a 3-Ping, Extra DMG Bonus is increased by 12% for 4s.
+2106001	512030						0		Solar Cleave	Extra DMG Bonus increases by 15%. When Camu: Crocotta enters Berserk, Thanatos will continuously increase Dark DMG for characters on the battlefield by 10%.

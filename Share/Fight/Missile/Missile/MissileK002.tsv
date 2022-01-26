@@ -110,9 +110,9 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83500603	下砸爆炸-伤害子弹	1	1.5	6	0.2	3	0			4			0.1						-1		FxMb1MelodyAttack06Shouji02						-1			1					0	0	0								0							0	3				835006031	801040								0	HitCase		1		1			1		0			
 83500604	下砸-特效子弹	2	0.1				0			4			3						-1						FxMb1MelodyAttack06Dilie		-1			1					0	0	0								0							0	3													0	HitCase		0		1			0		0			
 83501101	蓄力重击 左	3	3.4	190		0	0		-90	4			0.15						-1		FxMb1MelodyAttack11Shouji01						-1			1					0	0	0								0							0	3				835011011	801040	835070							0	HitCase		1		1			1		0			
-83501102	蓄力重击 左-爆炸	3	3.4	190		0	0		-90	4			0.1						-1		FxMb1MelodyAttack11Shouji02						-1			1					0	0	0								0							0	3				835011021	801050	200104	835080			200104			0	HitCase		1		1			1		0			
+83501102	蓄力重击 左-爆炸	3	3.4	190		0	0		-90	4			0.1						-1		FxMb1MelodyAttack11Shouji02						-1			1					0	0	0								0							0	3				835011021	801050		835080						0	HitCase		1		1			1		0			
 83501201	蓄力重击 右	3	3.4	190		0	0		90	4			0.15						-1		FxMb1MelodyAttack12Shouji01						-1			1					0	0	0								0							0	3				835012011	801040	835070							0	HitCase		1		1			1		0			
-83501202	蓄力重击 右-爆炸	3	3.4	190		0	0		90	4			0.1						-1		FxMb1MelodyAttack12Shouji02						-1			1					0	0	0								0							0	3				835012021	801050	200104	835080			200104			0	HitCase		1		1			1		0			
+83501202	蓄力重击 右-爆炸	3	3.4	190		0	0		90	4			0.1						-1		FxMb1MelodyAttack12Shouji02						-1			1					0	0	0								0							0	3				835012021	801050		835080						0	HitCase		1		1			1		0			
 83501301	蓄力重击 二连	3	3.4	190			0		-90	4			0.15						-1		FxMb1MelodyAttack13Shouji01						-1			1					0	0	0								0							0	1				835013011	801050	200003	831574			200003			0	HitCase		1		1			1		0			
 83501302	蓄力重击 二连	1	2	6.6	0.5	3.3	0		0	4			0.1						-1		FxMb1MelodyAttack13Shouji02						-1			1					0	0	0								0							0	3				835013021	801050	200104	831574			200104			0	HitCase		1		1			1		0			
 83501401	蓄力重击 召唤	3	3.1	190		0	0		90	4			0.15						-1		FxMb1MelodyAttack14Shouji01						-1			1					0	0	0								0							0	3				835014011	801092	831574							0	HitCase		1		1			1		0			
@@ -156,7 +156,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83505301	乱挑-伤害子弹	1	1.8	2.4	-0.5	1.2	0			4			0.1						-1		FxMb1MelodyAttack52Shouji01						-1			1					0	0	0								0							0	1				835053011	801015								0	HitCase		1		1			1		0			
 83506700	烟雾特效	2	0.1				0			4			0.1						-1						FxMb1MelodySmokeGudianHitCase		-1			1					0	0	0								0							0	3													1	HitCase		0					0		0			
 83520101	合掌	2	0.1				0			4			10						-1						FxMb1MelodyhuaxuMd10001Hezhang		-1			1					0	0	0								1	0.65		1	83520111			0	3													0	HitCase		0		1			0		0			
-83520103	抓取	2	1				0			4			0.05						-1								-1			1					0	0	0								1							1	3					835206								0	HitCase		0					0		0			
+83520103	抓取	0	0.1				0			4			0.05						-1								-1			1					0	0	0								1							1	3					835206								0	HitCase		0					0		0			
 83520111	合掌-伤害子弹	1	3	2			0			4			0.1						-1								-1			1					0	0	0								2							2	3				835201111	801080	200104	835080						0	HitCase		0		1			1		0			
 83520401	顶三下	2	0.1				0			4			20						-1						FxMb1MelodyhuaxuMd10001Dingsanxia		-1			1					0	0	0								0	0.6		1	83520411			0	3													0	HitCase		0					0		0			
 83520411	顶三下	2	1.7			2	0			4			0.1						-1								-1			1					0	0	0								2	0		1	83520412			2	3				835204111	801020	835079							0	HitCase		0					1		0			
@@ -173,7 +173,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83520607	画圈放毒	2	0.1		-3.5	-6.055	0			4			10						-1						FxMb1MelodyhuaxuMd10001Attack22		-1			1					0	0	0								1	1.5		1	83522211			1	3													0	HitCase		0					0		0			
 83521101	抓取	0	0.1				0			4			2						-1						FxMb1MelodyhuaxuMd10001Tan		-1			1					0	0	0								1	0.5		1	83521111			1	3													0	HitCase		0					0		0			
 83521102	抓取	0	0.1				0			4			2						-1								-1			1					0	0	0								1	1.1		1	83521112			1	3													0	HitCase		0					0		0			
-83521105	抓取（镜头)	2	1				0			4			0.05						-1								-1			1					0	0	0								1							1	3					835207								0	HitCase		0					0		0			
+83521105	抓取（镜头)	0	0.1				0			4			0.05						-1								-1			1					0	0	0								1							1	3					835207								0	HitCase		0					0		0			
 83521111	抓取	1	4	10			0			4			0.05						-1								-1			1					0	0	0								2							2	3				835211111	801045								0	HitCase	1	0					1		0			
 83521112	抓取	1	4	10			0			4			0.05						-1								-1			1					0	0	0								2							2	3				835211121	801080	835077							0	HitCase	1	0					1		0			
 83521301	镰刀普攻1	1	3	6		3	0			4			0.1						-1		FxMb1MelodyhuaxuMd10001Attack13Shouji01						-1			1					0	0	0								0							0	1				835213011	801035	200003	831574			200003			0	HitCase		0					1		0			

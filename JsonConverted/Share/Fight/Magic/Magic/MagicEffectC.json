@@ -572,6 +572,20 @@
         ]
     },
     {
+        "Id": 700051,
+        "Name": "AddBuff",
+        "Level": [
+            700051
+        ]
+    },
+    {
+        "Id": 700051000,
+        "Name": "AddBehavior",
+        "Level": [
+            700051
+        ]
+    },
+    {
         "Id": 700101,
         "Name": "Cure",
         "Level": [
@@ -3748,6 +3762,146 @@
         ]
     },
     {
+        "Id": 701305,
+        "Name": "AddBuff",
+        "Level": [
+            701305
+        ]
+    },
+    {
+        "Id": 701305000,
+        "Name": "AddNpcState",
+        "Level": [
+            26
+        ]
+    },
+    {
+        "Id": 701306,
+        "Name": "AddBuff",
+        "Level": [
+            701306
+        ]
+    },
+    {
+        "Id": 701306000,
+        "Name": "RemoveBuff",
+        "Level": [
+            "701305|"
+        ]
+    },
+    {
+        "Id": 701307,
+        "Name": "AddBuff",
+        "Level": [
+            701307
+        ]
+    },
+    {
+        "Id": 701307000,
+        "Name": "AddBehavior",
+        "Level": [
+            701307
+        ]
+    },
+    {
+        "Id": 701308,
+        "Name": "AddBuff",
+        "Level": [
+            701308
+        ]
+    },
+    {
+        "Id": 701308000,
+        "Name": "AddBehavior",
+        "Level": [
+            701308
+        ]
+    },
+    {
+        "Id": 701309,
+        "Name": "AddBuff",
+        "Level": [
+            701309
+        ]
+    },
+    {
+        "Id": 701309000,
+        "Name": "ChangeAttribValue",
+        "Level": [
+            "3|0|15000"
+        ]
+    },
+    {
+        "Id": 701310,
+        "Name": "AddBuff",
+        "Level": [
+            701310
+        ]
+    },
+    {
+        "Id": 701310000,
+        "Name": "PlayScreenEffect",
+        "Level": [
+            100010
+        ]
+    },
+    {
+        "Id": 701311,
+        "Name": "AddBuff",
+        "Level": [
+            701311
+        ]
+    },
+    {
+        "Id": 701311000,
+        "Name": "PlayScreenEffect",
+        "Level": [
+            100010
+        ]
+    },
+    {
+        "Id": 701312,
+        "Name": "AddBuff",
+        "Level": [
+            701312
+        ]
+    },
+    {
+        "Id": 701312000,
+        "Name": "PlayScreenEffect",
+        "Level": [
+            100010
+        ]
+    },
+    {
+        "Id": 701313,
+        "Name": "AddBuff",
+        "Level": [
+            701313
+        ]
+    },
+    {
+        "Id": 701314,
+        "Name": "ShakeCamera",
+        "Level": [
+            1
+        ]
+    },
+    {
+        "Id": 701315,
+        "Name": "AddBuff",
+        "Level": [
+            701315
+        ]
+    },
+    {
+        "Id": 701315000,
+        "Name": "PlayCameraTrackOnAllClients",
+        "Level": [
+            "CTLuolanMd010001|0|0"
+        ]
+    },
+    {
         "Id": 709001,
         "Name": "AddBuff",
         "Level": [
@@ -3787,6 +3941,62 @@
         "Name": "AddBehavior",
         "Level": [
             709003
+        ]
+    },
+    {
+        "Id": 709004,
+        "Name": "AddBuff",
+        "Level": [
+            709004
+        ]
+    },
+    {
+        "Id": 709004000,
+        "Name": "AddBehavior",
+        "Level": [
+            709004
+        ]
+    },
+    {
+        "Id": 709005,
+        "Name": "AddBuff",
+        "Level": [
+            709005
+        ]
+    },
+    {
+        "Id": 709005000,
+        "Name": "AddBehavior",
+        "Level": [
+            709005
+        ]
+    },
+    {
+        "Id": 709006,
+        "Name": "AddBuff",
+        "Level": [
+            709006
+        ]
+    },
+    {
+        "Id": 709006000,
+        "Name": "AddBehavior",
+        "Level": [
+            709006
+        ]
+    },
+    {
+        "Id": 709007,
+        "Name": "AddBuff",
+        "Level": [
+            709007
+        ]
+    },
+    {
+        "Id": 709007000,
+        "Name": "AddBehavior",
+        "Level": [
+            709007
         ]
     },
     {
@@ -3937,6 +4147,90 @@
         ]
     },
     {
+        "Id": 790016,
+        "Name": "AddBuff",
+        "Level": [
+            790016
+        ]
+    },
+    {
+        "Id": 790016000,
+        "Name": "AddBehavior",
+        "Level": [
+            790016
+        ]
+    },
+    {
+        "Id": 790017,
+        "Name": "AddBuff",
+        "Level": [
+            790017
+        ]
+    },
+    {
+        "Id": 790017000,
+        "Name": "AddBehavior",
+        "Level": [
+            790017
+        ]
+    },
+    {
+        "Id": 790018,
+        "Name": "AddBuff",
+        "Level": [
+            790018
+        ]
+    },
+    {
+        "Id": 790018000,
+        "Name": "AddBehavior",
+        "Level": [
+            790018
+        ]
+    },
+    {
+        "Id": 790019,
+        "Name": "AddBuff",
+        "Level": [
+            790019
+        ]
+    },
+    {
+        "Id": 790019000,
+        "Name": "AddBehavior",
+        "Level": [
+            790019
+        ]
+    },
+    {
+        "Id": 790020,
+        "Name": "AddBuff",
+        "Level": [
+            790020
+        ]
+    },
+    {
+        "Id": 790020000,
+        "Name": "AddBehavior",
+        "Level": [
+            790020
+        ]
+    },
+    {
+        "Id": 790021,
+        "Name": "AddBuff",
+        "Level": [
+            790021
+        ]
+    },
+    {
+        "Id": 790021000,
+        "Name": "AddBehavior",
+        "Level": [
+            790021
+        ]
+    },
+    {
         "Id": 991205,
         "Name": "AddBuff",
         "Level": [
@@ -3948,6 +4242,328 @@
         "Name": "AddBehavior",
         "Level": [
             991205
+        ]
+    },
+    {
+        "Id": 790022,
+        "Name": "AddBuff",
+        "Level": [
+            790022
+        ]
+    },
+    {
+        "Id": 790022000,
+        "Name": "AddBehavior",
+        "Level": [
+            790022
+        ]
+    },
+    {
+        "Id": 790023,
+        "Name": "AddBuff",
+        "Level": [
+            790023
+        ]
+    },
+    {
+        "Id": 790023000,
+        "Name": "AddBehavior",
+        "Level": [
+            790023
+        ]
+    },
+    {
+        "Id": 790024,
+        "Name": "AddBuff",
+        "Level": [
+            790024
+        ]
+    },
+    {
+        "Id": 790024000,
+        "Name": "AddBehavior",
+        "Level": [
+            790024
+        ]
+    },
+    {
+        "Id": 790025,
+        "Name": "AddBuff",
+        "Level": [
+            790025
+        ]
+    },
+    {
+        "Id": 790025000,
+        "Name": "AddBehavior",
+        "Level": [
+            790025
+        ]
+    },
+    {
+        "Id": 790026,
+        "Name": "AddBuff",
+        "Level": [
+            790026
+        ]
+    },
+    {
+        "Id": 790026000,
+        "Name": "AddBehavior",
+        "Level": [
+            790026
+        ]
+    },
+    {
+        "Id": 790027,
+        "Name": "AddBuff",
+        "Level": [
+            790027
+        ]
+    },
+    {
+        "Id": 790027000,
+        "Name": "AddBall",
+        "Level": [
+            "1|3"
+        ]
+    },
+    {
+        "Id": 790028,
+        "Name": "AddBuff",
+        "Level": [
+            790028
+        ]
+    },
+    {
+        "Id": 790028000,
+        "Name": "AddBall",
+        "Level": [
+            "2|3"
+        ]
+    },
+    {
+        "Id": 790029,
+        "Name": "AddBuff",
+        "Level": [
+            790029
+        ]
+    },
+    {
+        "Id": 790029000,
+        "Name": "AddBall",
+        "Level": [
+            "3|3"
+        ]
+    },
+    {
+        "Id": 790030,
+        "Name": "AddBuff",
+        "Level": [
+            790030
+        ]
+    },
+    {
+        "Id": 790030000,
+        "Name": "AddBehavior",
+        "Level": [
+            790030
+        ]
+    },
+    {
+        "Id": 790031,
+        "Name": "AddBuff",
+        "Level": [
+            790031
+        ]
+    },
+    {
+        "Id": 790031000,
+        "Name": "AddBehavior",
+        "Level": [
+            790031
+        ]
+    },
+    {
+        "Id": 790032,
+        "Name": "AddBuff",
+        "Level": [
+            790032
+        ]
+    },
+    {
+        "Id": 790032000,
+        "Name": "AddBehavior",
+        "Level": [
+            790032
+        ]
+    },
+    {
+        "Id": 790033,
+        "Name": "AddBuff",
+        "Level": [
+            790033
+        ]
+    },
+    {
+        "Id": 790033000,
+        "Name": "AddBehavior",
+        "Level": [
+            790033
+        ]
+    },
+    {
+        "Id": 790034,
+        "Name": "AddBuff",
+        "Level": [
+            790034
+        ]
+    },
+    {
+        "Id": 790034000,
+        "Name": "AddBehavior",
+        "Level": [
+            790034
+        ]
+    },
+    {
+        "Id": 790035,
+        "Name": "AddBuff",
+        "Level": [
+            790035
+        ]
+    },
+    {
+        "Id": 790035000,
+        "Name": "AddBehavior",
+        "Level": [
+            790035
+        ]
+    },
+    {
+        "Id": 790036,
+        "Name": "AddBuff",
+        "Level": [
+            790036
+        ]
+    },
+    {
+        "Id": 790036000,
+        "Name": "AddBehavior",
+        "Level": [
+            790036
+        ]
+    },
+    {
+        "Id": 790037,
+        "Name": "AddBuff",
+        "Level": [
+            790037
+        ]
+    },
+    {
+        "Id": 790037000,
+        "Name": "AddBehavior",
+        "Level": [
+            790037
+        ]
+    },
+    {
+        "Id": 790038,
+        "Name": "AddBuff",
+        "Level": [
+            790038
+        ]
+    },
+    {
+        "Id": 790038000,
+        "Name": "AddBehavior",
+        "Level": [
+            790038
+        ]
+    },
+    {
+        "Id": 790039,
+        "Name": "AddBuff",
+        "Level": [
+            790039
+        ]
+    },
+    {
+        "Id": 790039000,
+        "Name": "AddBehavior",
+        "Level": [
+            790039
+        ]
+    },
+    {
+        "Id": 790040,
+        "Name": "AddBuff",
+        "Level": [
+            790040
+        ]
+    },
+    {
+        "Id": 790040000,
+        "Name": "AddBehavior",
+        "Level": [
+            790040
+        ]
+    },
+    {
+        "Id": 790041,
+        "Name": "AddBuff",
+        "Level": [
+            790041
+        ]
+    },
+    {
+        "Id": 790041000,
+        "Name": "AddBehavior",
+        "Level": [
+            790041
+        ]
+    },
+    {
+        "Id": 790042,
+        "Name": "AddBuff",
+        "Level": [
+            790042
+        ]
+    },
+    {
+        "Id": 790042000,
+        "Name": "AddBehavior",
+        "Level": [
+            790042
+        ]
+    },
+    {
+        "Id": 790043,
+        "Name": "AddBuff",
+        "Level": [
+            790043
+        ]
+    },
+    {
+        "Id": 790043000,
+        "Name": "AddBehavior",
+        "Level": [
+            790043
+        ]
+    },
+    {
+        "Id": 790044,
+        "Name": "AddBuff",
+        "Level": [
+            790044
+        ]
+    },
+    {
+        "Id": 790044000,
+        "Name": "AddBehavior",
+        "Level": [
+            790044
         ]
     }
 ]

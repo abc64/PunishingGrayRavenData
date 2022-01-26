@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "Id": 103,
+        "Model": "S01301_19Jianzhuposun05Ani",
+        "Shape": 2,
+        "ShapeParams": 103,
+        "Lifetime": 0,
+        "Destructible": 1,
+        "Type": 2,
+        "BlockNpc": 1,
+        "NpcTargetType": 2,
+        "BlockMissile": 1,
+        "MissileKind": 3,
+        "MissileTargetType": 1,
+        "MissileInteractType": 1,
+        "MissileInteractParams": 1
+    },
+    {
+        "Id": 104,
+        "Model": "S01301_19Jianzhuposun05Ani",
+        "Shape": 2,
+        "ShapeParams": 103,
+        "Lifetime": 0,
+        "Destructible": 0,
+        "Type": 2,
+        "BlockNpc": 1,
+        "NpcTargetType": 2,
+        "BlockMissile": 1,
+        "MissileKind": 3,
+        "MissileTargetType": 1,
+        "MissileInteractType": 1,
+        "MissileInteractParams": 1
+    }
+]

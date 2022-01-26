@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 101,
+        "Name": "Solo",
+        "SecondName": "Technique Challenge",
+        "TabImage": "Assets/Product/Texture/Image/UiSummerEpisode/tab02.png",
+        "PrefixName": "STN",
+        "HelpId": [
+            10034,
+            10035
+        ],
+        "BgIcon": "Assets/Product/Texture/Image/UiSummerEpisode/UiSummerEpisodeBg02.png",
+        "RewardType": 2,
+        "RewardParams": [
+            10101,
+            10102,
+            10103
+        ],
+        "StageIds": [
+            30031101,
+            30031201
+        ]
+    },
+    {
+        "Id": 102,
+        "Name": "Multiplayer",
+        "SecondName": "Combined Forces",
+        "TabImage": "Assets/Product/Texture/Image/UiSummerEpisode/tab03.png",
+        "PrefixName": "OLE",
+        "HelpId": [
+            10036,
+            10037
+        ],
+        "BgIcon": "Assets/Product/Texture/Image/UiSummerEpisode/UiSummerEpisodeBg03.png",
+        "RewardType": 1,
+        "RewardParams": [
+            11801,
+            11802,
+            11803
+        ],
+        "StageIds": [
+            30031001,
+            30031301
+        ]
+    }
+]

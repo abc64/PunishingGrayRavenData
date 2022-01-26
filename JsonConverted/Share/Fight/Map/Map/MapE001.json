@@ -221,7 +221,7 @@
         "Name": "Emex行动装备掉落（两条路）1难度",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             300104010
@@ -239,7 +239,7 @@
         "Name": "Emex行动装备掉落（两条路）2难度",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             300104020
@@ -257,7 +257,7 @@
         "Name": "Emex行动装备掉落（两条路）3难度",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             300104030
@@ -275,10 +275,28 @@
         "Name": "Emex行动装备掉落（两条路）4难度",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 26,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             300104040
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30010405,
+        "Behavior": 30010405,
+        "Name": "Emex行动装备掉落货币",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            300104050
         ],
         "Position": [
             "0|0|0"

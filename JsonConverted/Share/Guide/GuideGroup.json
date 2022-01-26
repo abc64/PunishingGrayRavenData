@@ -546,6 +546,20 @@
         "GroupId": 52701
     },
     {
+        "Id": 52731,
+        "Priority": 500000,
+        "Ignore": 0,
+        "Desc": "Guild System Guide",
+        "GuideType": 1,
+        "ConditionId": [
+            852731
+        ],
+        "CompleteId": 52731,
+        "ActiveUi": "UiMain",
+        "RewardId": 0,
+        "GroupId": 52731
+    },
+    {
         "Id": 52801,
         "Priority": 52801,
         "Ignore": 0,
@@ -586,6 +600,34 @@
         "ActiveUi": "UiMain",
         "RewardId": 0,
         "GroupId": 52931
+    },
+    {
+        "Id": 52961,
+        "Priority": 52961,
+        "Ignore": 0,
+        "Desc": "Autopoiesis Maze Guide",
+        "GuideType": 1,
+        "ConditionId": [
+            852961
+        ],
+        "CompleteId": 52961,
+        "ActiveUi": "UiMain|UiTask|UiPlayerUp",
+        "RewardId": 0,
+        "GroupId": 52961
+    },
+    {
+        "Id": 52991,
+        "Priority": 52991,
+        "Ignore": 0,
+        "Desc": "Resource Shop Guide",
+        "GuideType": 1,
+        "ConditionId": [
+            852991
+        ],
+        "CompleteId": 52991,
+        "ActiveUi": "UiMain|UiFubenDaily",
+        "RewardId": 0,
+        "GroupId": 52991
     },
     {
         "Id": 52201,

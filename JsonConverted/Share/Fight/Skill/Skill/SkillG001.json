@@ -89,7 +89,7 @@
     },
     {
         "Id": 994110,
-        "Name": "溜めレーザー",
+        "Name": "蓄力激光",
         "CastTime": 6.267,
         "AfterTime": 0,
         "Animation": "Attack01",
@@ -179,7 +179,7 @@
     },
     {
         "Id": 994501,
-        "Name": "回避",
+        "Name": "闪避",
         "CastTime": 1.166,
         "AfterTime": 1.167,
         "Animation": "Move1",
@@ -189,7 +189,7 @@
     },
     {
         "Id": 994502,
-        "Name": "障害物に衝突後に跳ね返る",
+        "Name": "撞障碍后弹",
         "CastTime": 0.15,
         "AfterTime": 0.05,
         "DistNoTarget": 10,
@@ -198,7 +198,7 @@
     },
     {
         "Id": 994503,
-        "Name": "障害物に衝突後に跳ね返る",
+        "Name": "撞障碍后弹",
         "CastTime": 0.15,
         "AfterTime": 0.05,
         "DistNoTarget": 10,
@@ -207,7 +207,7 @@
     },
     {
         "Id": 994504,
-        "Name": "左折",
+        "Name": "向左转",
         "CastTime": 999,
         "AfterTime": 0,
         "Animation": "Runl",
@@ -217,7 +217,7 @@
     },
     {
         "Id": 994505,
-        "Name": "右折",
+        "Name": "向右转",
         "CastTime": 999,
         "AfterTime": 0,
         "Animation": "Runr",
@@ -764,19 +764,62 @@
         "Animation": "Attack12",
         "FinalMagicIds": "700249|710077",
         "DistNoTarget": 10,
-        "SkillMoveType": 4,
+        "SkillMoveType": 6,
         "SkillFaceType": 0
     },
     {
         "Id": 904563,
-        "Name": "玩家操作-冲锋",
+        "Name": "水上乐园版-冲锋击飞-前摇",
+        "CastTime": 0.8,
+        "AfterTime": 0,
+        "Animation": "Attack05",
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904564,
+        "Name": "水上乐园版-冲锋击飞-冲锋",
         "CastTime": 9999,
         "AfterTime": 0,
         "Animation": "Attack06",
-        "FinalMagicIds": "904555|904556|904557|904558|904529|904578",
+        "FinalMagicIds": "700031|904529|904582|730019",
         "DistNoTarget": 10,
-        "SkillMoveType": 1,
-        "SkillFaceType": 2
+        "SkillMoveType": 6,
+        "SkillFaceType": 4
+    },
+    {
+        "Id": 904565,
+        "Name": "水上乐园版-冲锋击飞-后摇",
+        "CastTime": 2.033,
+        "AfterTime": 0,
+        "Animation": "Attack13",
+        "FinalMagicIds": "700031|730020",
+        "DistNoTarget": 10,
+        "SkillMoveType": 4,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904566,
+        "Name": "水上乐园版-冲锋击飞-闪避刹车",
+        "CastTime": 1.733,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
+    },
+    {
+        "Id": 904567,
+        "Name": "水上乐园版-冲锋击飞-闪避刹车",
+        "CastTime": 1.733,
+        "AfterTime": 0,
+        "Animation": "Attack07",
+        "FinalMagicIds": 700031,
+        "DistNoTarget": 10,
+        "SkillMoveType": 0,
+        "SkillFaceType": 0
     },
     {
         "Id": 904601,

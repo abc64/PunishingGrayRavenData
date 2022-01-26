@@ -1,14 +1,14 @@
 [
     {
-        "Id": 99919037,
-        "Behavior": 99919037,
+        "Id": 99919900,
+        "Behavior": 99919900,
         "Name": "弓箭手尖兵",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
-            999190370
+            999199000
         ],
         "Position": [
             "0|0|0"
@@ -38,10 +38,10 @@
     {
         "Id": 99919902,
         "Behavior": 99919902,
-        "Name": "运营测试关卡A多镜头",
+        "Name": "试作型装备经验本",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 31,
+        "SceneCamera": 25,
         "CameraId": 9,
         "Terrains": [
             999199020
@@ -56,10 +56,10 @@
     {
         "Id": 99919903,
         "Behavior": 99919903,
-        "Name": "运营测试关卡A多镜头",
+        "Name": "原版主线迷宫关卡1",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 66,
         "CameraId": 9,
         "Terrains": [
             999199030
@@ -74,10 +74,10 @@
     {
         "Id": 99919904,
         "Behavior": 99919904,
-        "Name": "试作型装备经验本",
+        "Name": "RougueLike普通1（公主与骑士）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 25,
+        "SceneCamera": 13,
         "CameraId": 9,
         "Terrains": [
             999199040
@@ -92,10 +92,10 @@
     {
         "Id": 99919905,
         "Behavior": 99919905,
-        "Name": "オリジナル本編迷宮ステージ1",
+        "Name": "RougueLike普通2（拆迁大队）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 66,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199050
@@ -110,10 +110,10 @@
     {
         "Id": 99919906,
         "Behavior": 99919906,
-        "Name": "测试关卡A",
+        "Name": "RougueLike普通3（枪林弹雨）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 17,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199060
@@ -128,10 +128,10 @@
     {
         "Id": 99919907,
         "Behavior": 99919907,
-        "Name": "中国城战斗23（灰鸦-庭院）",
-        "CloseLoadingDelay": 0.8,
+        "Name": "RougueLike普通4（闲庭信步）",
+        "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 12,
         "CameraId": 9,
         "Terrains": [
             999199070
@@ -146,10 +146,12 @@
     {
         "Id": 99919908,
         "Behavior": 99919908,
-        "Name": "缺省",
+        "Name": "RougueLike普通5（丸子演义）",
+        "Environment": "Scene01001b",
+        "TerrainRoot": "Test",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 63,
         "CameraId": 9,
         "Terrains": [
             999199080
@@ -164,10 +166,10 @@
     {
         "Id": 99919909,
         "Behavior": 99919909,
-        "Name": "中国城战斗10（布丽姬特-贫民窟）",
-        "CloseLoadingDelay": 0.8,
+        "Name": "RougueLike普通6（异曲同工）",
+        "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 36,
         "CameraId": 9,
         "Terrains": [
             999199090
@@ -182,10 +184,10 @@
     {
         "Id": 99919910,
         "Behavior": 99919910,
-        "Name": "中国城战斗13（遗忘者-列车）",
-        "CloseLoadingDelay": 0.8,
+        "Name": "RougueLike普通7（秀才遇兵）",
+        "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199100
@@ -200,10 +202,10 @@
     {
         "Id": 99919911,
         "Behavior": 99919911,
-        "Name": "中国城战斗19（阿尔法-隐藏）",
-        "CloseLoadingDelay": 0.8,
+        "Name": "RougueLike普通8（刀的正确用法）",
+        "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199110
@@ -218,11 +220,11 @@
     {
         "Id": 99919912,
         "Behavior": 99919912,
-        "Name": "中国城战斗29（对抗阿尔法）",
+        "Name": "RougueLike普通9（求和公式）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
-        "CameraId": 10,
+        "SceneCamera": 1,
+        "CameraId": 9,
         "Terrains": [
             999199120
         ],
@@ -236,10 +238,10 @@
     {
         "Id": 99919913,
         "Behavior": 99919913,
-        "Name": "试炼测试关卡3",
+        "Name": "RougueLike普通10（天堂与地狱）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 11,
+        "SceneCamera": 8,
         "CameraId": 9,
         "Terrains": [
             999199130
@@ -254,10 +256,10 @@
     {
         "Id": 99919914,
         "Behavior": 99919914,
-        "Name": "本編テストステージ0",
+        "Name": "RougueLike普通11（空当接龙）",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 36,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199140
@@ -270,48 +272,12 @@
         ]
     },
     {
-        "Id": 99919915,
-        "Behavior": 99919915,
-        "Name": 15,
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 29,
-        "CameraId": 9,
-        "Terrains": [
-            999199150
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
-        "Id": 99919916,
-        "Behavior": 99919916,
-        "Name": "运营测试关卡A",
-        "CloseLoadingDelay": 0.15,
-        "SwitchNpcCd": 15,
-        "SceneCamera": 4,
-        "CameraId": 9,
-        "Terrains": [
-            999199160
-        ],
-        "Position": [
-            "0|0|0"
-        ],
-        "Rotation": [
-            "0|0|0"
-        ]
-    },
-    {
         "Id": 99919917,
         "Behavior": 99919917,
-        "Name": "运营测试关卡B多镜头",
+        "Name": "新功能实验关卡",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 25,
+        "SceneCamera": 1,
         "CameraId": 9,
         "Terrains": [
             999199170
@@ -362,7 +328,7 @@
     {
         "Id": 99919920,
         "Behavior": 99919920,
-        "Name": "本編戦闘ステージテスト4",
+        "Name": "主线战斗关卡测试4",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
         "SceneCamera": 23,
@@ -380,15 +346,251 @@
     {
         "Id": 99919921,
         "Behavior": 99919921,
-        "Name": "シークレットステージ4",
-        "Environment": "Scene01001b",
-        "TerrainRoot": "Test",
+        "Name": "白模1试跑",
         "CloseLoadingDelay": 0.15,
         "SwitchNpcCd": 15,
-        "SceneCamera": 63,
+        "SceneCamera": 11,
         "CameraId": 9,
         "Terrains": [
             999199210
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919922,
+        "Behavior": 99919922,
+        "Name": "白模2试跑",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199220
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919923,
+        "Behavior": 99919923,
+        "Name": "白模3试跑",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199230
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919924,
+        "Behavior": 99919924,
+        "Name": "RougueLike精英4（全方位撞击）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 36,
+        "CameraId": 9,
+        "Terrains": [
+            999199240
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919925,
+        "Behavior": 99919925,
+        "Name": "RougueLike精英5（三人成虎）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999199250
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919926,
+        "Behavior": 99919926,
+        "Name": "RougueLike精英6（刀的正确用法plus）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 10,
+        "CameraId": 9,
+        "Terrains": [
+            999199260
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919927,
+        "Behavior": 99919927,
+        "Name": "RougueLike精英7（狐假虎威）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999199270
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919930,
+        "Behavior": 99919930,
+        "Name": "沙滩（白天）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199300
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919931,
+        "Behavior": 99919931,
+        "Name": "乐园城",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            999199310
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919932,
+        "Behavior": 99919932,
+        "Name": "地下工厂",
+        "Environment": "Scene01303",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199320
+        ],
+        "Position": [
+            58.3
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919933,
+        "Behavior": 99919933,
+        "Name": "鲨士碧儿广场",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199330
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919934,
+        "Behavior": 99919934,
+        "Name": "沙滩（夜晚）",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999199340
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919950,
+        "Behavior": 99919950,
+        "Name": "RougeLike场景事件初始化",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999199500
+        ],
+        "Position": [
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99919951,
+        "Behavior": 99919951,
+        "Name": "RougeLike场景事件选择",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 1,
+        "CameraId": 9,
+        "Terrains": [
+            999199510
         ],
         "Position": [
             "0|0|0"

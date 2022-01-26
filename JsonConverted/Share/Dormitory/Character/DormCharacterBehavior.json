@@ -6238,5 +6238,957 @@
         "BehaviorId": "D102100426",
         "CanClick": 1,
         "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10000,
+        "CharacterId": 1051001,
+        "State": "GOSWIM",
+        "BehaviorId": "D105100127",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10001,
+        "CharacterId": 1051001,
+        "State": "PUTSWIM",
+        "BehaviorId": "D105100128",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10002,
+        "CharacterId": 1131002,
+        "State": "GOSWIM",
+        "BehaviorId": "D113100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10003,
+        "CharacterId": 1131002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D113100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10004,
+        "CharacterId": 1511003,
+        "State": "GOSWIM",
+        "BehaviorId": "D151100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10005,
+        "CharacterId": 1511003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D151100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10006,
+        "CharacterId": 1011002,
+        "State": "GOSWIM",
+        "BehaviorId": "D101100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10007,
+        "CharacterId": 1011002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D101100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10008,
+        "CharacterId": 1021001,
+        "State": "GOSWIM",
+        "BehaviorId": "D102100127",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10009,
+        "CharacterId": 1021001,
+        "State": "PUTSWIM",
+        "BehaviorId": "D102100128",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10010,
+        "CharacterId": 1031001,
+        "State": "GOSWIM",
+        "BehaviorId": "D103100127",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10011,
+        "CharacterId": 1031001,
+        "State": "PUTSWIM",
+        "BehaviorId": "D103100128",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10012,
+        "CharacterId": 1041002,
+        "State": "GOSWIM",
+        "BehaviorId": "D104100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10013,
+        "CharacterId": 1041002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D104100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10014,
+        "CharacterId": 1061002,
+        "State": "GOSWIM",
+        "BehaviorId": "D106100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10015,
+        "CharacterId": 1061002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D106100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10016,
+        "CharacterId": 1071002,
+        "State": "GOSWIM",
+        "BehaviorId": "D107100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10017,
+        "CharacterId": 1071002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D107100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10018,
+        "CharacterId": 1081002,
+        "State": "GOSWIM",
+        "BehaviorId": "D108100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10019,
+        "CharacterId": 1081002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D108100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10020,
+        "CharacterId": 1021002,
+        "State": "GOSWIM",
+        "BehaviorId": "D102100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10021,
+        "CharacterId": 1021002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D102100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10022,
+        "CharacterId": 1031002,
+        "State": "GOSWIM",
+        "BehaviorId": "D103100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10023,
+        "CharacterId": 1031002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D103100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10024,
+        "CharacterId": 1061003,
+        "State": "GOSWIM",
+        "BehaviorId": "D106100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10025,
+        "CharacterId": 1061003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D106100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10026,
+        "CharacterId": 1031003,
+        "State": "GOSWIM",
+        "BehaviorId": "D103100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10027,
+        "CharacterId": 1031003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D103100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10028,
+        "CharacterId": 1011003,
+        "State": "GOSWIM",
+        "BehaviorId": "D101100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10029,
+        "CharacterId": 1011003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D101100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10030,
+        "CharacterId": 1071003,
+        "State": "GOSWIM",
+        "BehaviorId": "D107100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10031,
+        "CharacterId": 1071003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D107100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10032,
+        "CharacterId": 1051003,
+        "State": "GOSWIM",
+        "BehaviorId": "D105100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10033,
+        "CharacterId": 1051003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D105100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10034,
+        "CharacterId": 1021003,
+        "State": "GOSWIM",
+        "BehaviorId": "D102100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10035,
+        "CharacterId": 1021003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D102100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10036,
+        "CharacterId": 1081003,
+        "State": "GOSWIM",
+        "BehaviorId": "D108100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10037,
+        "CharacterId": 1081003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D108100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10038,
+        "CharacterId": 1091002,
+        "State": "GOSWIM",
+        "BehaviorId": "D109100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10039,
+        "CharacterId": 1091002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D109100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10040,
+        "CharacterId": 90370,
+        "State": "GOSWIM",
+        "BehaviorId": "D9037027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10041,
+        "CharacterId": 90370,
+        "State": "PUTSWIM",
+        "BehaviorId": "D9037028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10042,
+        "CharacterId": 90220,
+        "State": "GOSWIM",
+        "BehaviorId": "D9022027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10043,
+        "CharacterId": 90220,
+        "State": "PUTSWIM",
+        "BehaviorId": "D9022028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10044,
+        "CharacterId": 1041003,
+        "State": "GOSWIM",
+        "BehaviorId": "D104100327",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10045,
+        "CharacterId": 1041003,
+        "State": "PUTSWIM",
+        "BehaviorId": "D104100328",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10046,
+        "CharacterId": 1111002,
+        "State": "GOSWIM",
+        "BehaviorId": "D111100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10047,
+        "CharacterId": 1111002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D111100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10048,
+        "CharacterId": 81600,
+        "State": "GOSWIM",
+        "BehaviorId": "D8160027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10049,
+        "CharacterId": 81600,
+        "State": "PUTSWIM",
+        "BehaviorId": "D8160028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10050,
+        "CharacterId": 81500,
+        "State": "GOSWIM",
+        "BehaviorId": "D8150027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10051,
+        "CharacterId": 81500,
+        "State": "PUTSWIM",
+        "BehaviorId": "D8150028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10052,
+        "CharacterId": 92030,
+        "State": "GOSWIM",
+        "BehaviorId": "D9203027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10053,
+        "CharacterId": 92030,
+        "State": "PUTSWIM",
+        "BehaviorId": "D9203028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10054,
+        "CharacterId": 1121002,
+        "State": "GOSWIM",
+        "BehaviorId": "D112100227",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10055,
+        "CharacterId": 1121002,
+        "State": "PUTSWIM",
+        "BehaviorId": "D112100228",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10056,
+        "CharacterId": 92670,
+        "State": "GOSWIM",
+        "BehaviorId": "D9267027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10057,
+        "CharacterId": 92670,
+        "State": "PUTSWIM",
+        "BehaviorId": "D9267028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10058,
+        "CharacterId": 813000,
+        "State": "GOSWIM",
+        "BehaviorId": "D81300027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10059,
+        "CharacterId": 813000,
+        "State": "PUTSWIM",
+        "BehaviorId": "D81300028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10060,
+        "CharacterId": 1000000,
+        "State": "GOSWIM",
+        "BehaviorId": "D100000027",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10061,
+        "CharacterId": 1000000,
+        "State": "PUTSWIM",
+        "BehaviorId": "D100000028",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10062,
+        "CharacterId": 1021004,
+        "State": "GOSWIM",
+        "BehaviorId": "D102100427",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 10063,
+        "CharacterId": 1021004,
+        "State": "PUTSWIM",
+        "BehaviorId": "D102100428",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 729,
+        "CharacterId": 1000000,
+        "State": "WAIT",
+        "BehaviorId": "D100000024",
+        "CanClick": 1,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 730,
+        "CharacterId": 1000000,
+        "State": "GODING",
+        "BehaviorId": "D100000025",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 731,
+        "CharacterId": 1000000,
+        "State": "PUTDING",
+        "BehaviorId": "D100000026",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 732,
+        "CharacterId": 1131002,
+        "State": "IDLE",
+        "BehaviorId": "D113100201",
+        "CanClick": 1,
+        "StateMachine": "IDLE"
+    },
+    {
+        "Id": 733,
+        "CharacterId": 1131002,
+        "State": "SLEEP",
+        "BehaviorId": "D113100207",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 734,
+        "CharacterId": 1131002,
+        "State": "TIRED",
+        "BehaviorId": "D113100208",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 735,
+        "CharacterId": 1131002,
+        "State": "ANNOY",
+        "BehaviorId": "D113100210",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 736,
+        "CharacterId": 1131002,
+        "State": "BORING",
+        "BehaviorId": "D113100211",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 737,
+        "CharacterId": 1131002,
+        "State": "LAZY",
+        "BehaviorId": "D113100209",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 738,
+        "CharacterId": 1131002,
+        "State": "LOVE",
+        "BehaviorId": "D113100212",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 739,
+        "CharacterId": 1131002,
+        "State": "REWAWRD",
+        "BehaviorId": "D113100213",
+        "CanClick": 1,
+        "StateMachine": "IDLE"
+    },
+    {
+        "Id": 740,
+        "CharacterId": 1131002,
+        "State": "GRAB_UP",
+        "BehaviorId": "D113100202",
+        "CanClick": 0,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 741,
+        "CharacterId": 1131002,
+        "State": "FONDLE",
+        "BehaviorId": "D113100214",
+        "CanClick": 0,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 742,
+        "CharacterId": 1131002,
+        "State": "SELECTED",
+        "BehaviorId": "D113100203",
+        "CanClick": 1,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 743,
+        "CharacterId": 1131002,
+        "State": "RELATIOM",
+        "BehaviorId": "D113100205",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 744,
+        "CharacterId": 1131002,
+        "State": "SIT",
+        "BehaviorId": "D113100206",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 745,
+        "CharacterId": 1131002,
+        "State": "ATTRACT",
+        "BehaviorId": "D113100205",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 746,
+        "CharacterId": 1131002,
+        "State": "CABINET",
+        "BehaviorId": "D113100219",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 747,
+        "CharacterId": 1131002,
+        "State": "CHAIR",
+        "BehaviorId": "D113100220",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 748,
+        "CharacterId": 1131002,
+        "State": "BENCH",
+        "BehaviorId": "D113100221",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 749,
+        "CharacterId": 1131002,
+        "State": "GOSOFA",
+        "BehaviorId": "D113100215",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 750,
+        "CharacterId": 1131002,
+        "State": "GOCHAIR",
+        "BehaviorId": "D113100216",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 751,
+        "CharacterId": 1131002,
+        "State": "GOBENCH",
+        "BehaviorId": "D113100217",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 752,
+        "CharacterId": 1131002,
+        "State": "GOCABINET",
+        "BehaviorId": "D113100218",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 753,
+        "CharacterId": 1131002,
+        "State": "WANTTOUCH",
+        "BehaviorId": "D113100222",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 754,
+        "CharacterId": 1131002,
+        "State": "HATE",
+        "BehaviorId": "D113100223",
+        "CanClick": 0,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 755,
+        "CharacterId": 1131002,
+        "State": "WAIT",
+        "BehaviorId": "D113100224",
+        "CanClick": 1,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 756,
+        "CharacterId": 1131002,
+        "State": "GODING",
+        "BehaviorId": "D113100225",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 757,
+        "CharacterId": 1131002,
+        "State": "PUTDING",
+        "BehaviorId": "D113100226",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 758,
+        "CharacterId": 1511003,
+        "State": "IDLE",
+        "BehaviorId": "D151100301",
+        "CanClick": 1,
+        "StateMachine": "IDLE"
+    },
+    {
+        "Id": 759,
+        "CharacterId": 1511003,
+        "State": "SLEEP",
+        "BehaviorId": "D151100307",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 760,
+        "CharacterId": 1511003,
+        "State": "TIRED",
+        "BehaviorId": "D151100308",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 761,
+        "CharacterId": 1511003,
+        "State": "ANNOY",
+        "BehaviorId": "D151100310",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 762,
+        "CharacterId": 1511003,
+        "State": "BORING",
+        "BehaviorId": "D151100311",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 763,
+        "CharacterId": 1511003,
+        "State": "LAZY",
+        "BehaviorId": "D151100309",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 764,
+        "CharacterId": 1511003,
+        "State": "LOVE",
+        "BehaviorId": "D151100312",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 765,
+        "CharacterId": 1511003,
+        "State": "REWAWRD",
+        "BehaviorId": "D151100313",
+        "CanClick": 1,
+        "StateMachine": "IDLE"
+    },
+    {
+        "Id": 766,
+        "CharacterId": 1511003,
+        "State": "GRAB_UP",
+        "BehaviorId": "D151100302",
+        "CanClick": 0,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 767,
+        "CharacterId": 1511003,
+        "State": "FONDLE",
+        "BehaviorId": "D151100314",
+        "CanClick": 0,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 768,
+        "CharacterId": 1511003,
+        "State": "SELECTED",
+        "BehaviorId": "D151100303",
+        "CanClick": 1,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 769,
+        "CharacterId": 1511003,
+        "State": "RELATIOM",
+        "BehaviorId": "D151100305",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 770,
+        "CharacterId": 1511003,
+        "State": "SIT",
+        "BehaviorId": "D151100306",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 771,
+        "CharacterId": 1511003,
+        "State": "ATTRACT",
+        "BehaviorId": "D151100305",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 772,
+        "CharacterId": 1511003,
+        "State": "CABINET",
+        "BehaviorId": "D151100319",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 773,
+        "CharacterId": 1511003,
+        "State": "CHAIR",
+        "BehaviorId": "D151100320",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 774,
+        "CharacterId": 1511003,
+        "State": "BENCH",
+        "BehaviorId": "D151100321",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 775,
+        "CharacterId": 1511003,
+        "State": "GOSOFA",
+        "BehaviorId": "D151100315",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 776,
+        "CharacterId": 1511003,
+        "State": "GOCHAIR",
+        "BehaviorId": "D151100316",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 777,
+        "CharacterId": 1511003,
+        "State": "GOBENCH",
+        "BehaviorId": "D151100317",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 778,
+        "CharacterId": 1511003,
+        "State": "GOCABINET",
+        "BehaviorId": "D151100318",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 779,
+        "CharacterId": 1511003,
+        "State": "WANTTOUCH",
+        "BehaviorId": "D151100322",
+        "CanClick": 1,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 780,
+        "CharacterId": 1511003,
+        "State": "HATE",
+        "BehaviorId": "D151100323",
+        "CanClick": 0,
+        "StateMachine": "MOOD"
+    },
+    {
+        "Id": 781,
+        "CharacterId": 1511003,
+        "State": "WAIT",
+        "BehaviorId": "D151100324",
+        "CanClick": 1,
+        "StateMachine": "CONTROL"
+    },
+    {
+        "Id": 782,
+        "CharacterId": 1511003,
+        "State": "GODING",
+        "BehaviorId": "D151100325",
+        "CanClick": 0,
+        "StateMachine": "INTERACT"
+    },
+    {
+        "Id": 783,
+        "CharacterId": 1511003,
+        "State": "PUTDING",
+        "BehaviorId": "D151100326",
+        "CanClick": 1,
+        "StateMachine": "INTERACT"
     }
 ]

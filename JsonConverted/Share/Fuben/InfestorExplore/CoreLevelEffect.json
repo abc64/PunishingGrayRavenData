@@ -1,0 +1,1132 @@
+[
+    {
+        "Id": 1,
+        "CoreId": 1001,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81000
+        ],
+        "Description": "ATK & HP +5%"
+    },
+    {
+        "Id": 2,
+        "CoreId": 1001,
+        "CoreLevel": 2,
+        "DecomposeMoney": 20,
+        "BuffId": [
+            81001
+        ],
+        "Description": "ATK & HP +10%"
+    },
+    {
+        "Id": 3,
+        "CoreId": 1001,
+        "CoreLevel": 3,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81002
+        ],
+        "Description": "ATK & HP +15%"
+    },
+    {
+        "Id": 4,
+        "CoreId": 1002,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81027
+        ],
+        "Description": "Nullifies lethal DMG once per battle, then restores 20% HP."
+    },
+    {
+        "Id": 5,
+        "CoreId": 1003,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81031
+        ],
+        "Description": "Restores 3% HP per 10s after the battle starts. It can be triggered 3 times per battle."
+    },
+    {
+        "Id": 6,
+        "CoreId": 1003,
+        "CoreLevel": 2,
+        "DecomposeMoney": 20,
+        "BuffId": [
+            81032
+        ],
+        "Description": "Restores 5% HP per 10s after the battle starts. It can be triggered 3 times per battle."
+    },
+    {
+        "Id": 7,
+        "CoreId": 1003,
+        "CoreLevel": 3,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81033
+        ],
+        "Description": "Restores 8% HP per 10s after the battle starts. It can be triggered 3 times per battle."
+    },
+    {
+        "Id": 8,
+        "CoreId": 1004,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81034
+        ],
+        "Description": "Restores 10% of maximum HP at the start of battle."
+    },
+    {
+        "Id": 9,
+        "CoreId": 1004,
+        "CoreLevel": 2,
+        "DecomposeMoney": 20,
+        "BuffId": [
+            81035
+        ],
+        "Description": "Restores 15% of maximum HP at the start of battle."
+    },
+    {
+        "Id": 10,
+        "CoreId": 1004,
+        "CoreLevel": 3,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81036
+        ],
+        "Description": "Restores 20% of maximum HP at the start of battle."
+    },
+    {
+        "Id": 11,
+        "CoreId": 1005,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81037
+        ],
+        "Description": "Restores 3% of maximum HP for each enemy killed."
+    },
+    {
+        "Id": 12,
+        "CoreId": 1005,
+        "CoreLevel": 2,
+        "DecomposeMoney": 20,
+        "BuffId": [
+            81038
+        ],
+        "Description": "Restores 4% of maximum HP for each enemy killed."
+    },
+    {
+        "Id": 13,
+        "CoreId": 1005,
+        "CoreLevel": 3,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81039
+        ],
+        "Description": "Restores 5% of maximum HP for each enemy killed."
+    },
+    {
+        "Id": 14,
+        "CoreId": 1006,
+        "CoreLevel": 1,
+        "DecomposeMoney": 10,
+        "BuffId": [
+            81040
+        ],
+        "Description": "Heals all characters on field for 7.5% of maximum HP at the end of battle."
+    },
+    {
+        "Id": 15,
+        "CoreId": 1006,
+        "CoreLevel": 2,
+        "DecomposeMoney": 20,
+        "BuffId": [
+            81041
+        ],
+        "Description": "Heals all characters on field for 15% of maximum HP at the end of battle."
+    },
+    {
+        "Id": 16,
+        "CoreId": 1006,
+        "CoreLevel": 3,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81042
+        ],
+        "Description": "Heals all characters on field for 22.5% of maximum HP at the end of battle."
+    },
+    {
+        "Id": 17,
+        "CoreId": 2001,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81012
+        ],
+        "Description": "Fire DMG increases by 18%."
+    },
+    {
+        "Id": 18,
+        "CoreId": 2001,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81013
+        ],
+        "Description": "Fire DMG increases by 23%."
+    },
+    {
+        "Id": 19,
+        "CoreId": 2001,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81014
+        ],
+        "Description": "Fire DMG increases by 28%."
+    },
+    {
+        "Id": 20,
+        "CoreId": 2002,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81015
+        ],
+        "Description": "Lightning DMG increases by 18%."
+    },
+    {
+        "Id": 21,
+        "CoreId": 2002,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81016
+        ],
+        "Description": "Lightning DMG increases by 23%."
+    },
+    {
+        "Id": 22,
+        "CoreId": 2002,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81017
+        ],
+        "Description": "Lightning DMG increases by 28%."
+    },
+    {
+        "Id": 23,
+        "CoreId": 2003,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81018
+        ],
+        "Description": "Ice DMG increases by 18%."
+    },
+    {
+        "Id": 24,
+        "CoreId": 2003,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81019
+        ],
+        "Description": "Ice DMG increases by 23%."
+    },
+    {
+        "Id": 25,
+        "CoreId": 2003,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81020
+        ],
+        "Description": "Ice DMG increases by 28%."
+    },
+    {
+        "Id": 26,
+        "CoreId": 2004,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81021
+        ],
+        "Description": "Dark DMG increases by 18%."
+    },
+    {
+        "Id": 27,
+        "CoreId": 2004,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81022
+        ],
+        "Description": "Dark DMG increases by 23%."
+    },
+    {
+        "Id": 28,
+        "CoreId": 2004,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81023
+        ],
+        "Description": "Dark DMG increases by 28%."
+    },
+    {
+        "Id": 29,
+        "CoreId": 2005,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81024
+        ],
+        "Description": "Physical DMG increases by 18%."
+    },
+    {
+        "Id": 30,
+        "CoreId": 2005,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81025
+        ],
+        "Description": "Physical DMG increases by 23%."
+    },
+    {
+        "Id": 31,
+        "CoreId": 2005,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81026
+        ],
+        "Description": "Physical DMG increases by 28%."
+    },
+    {
+        "Id": 32,
+        "CoreId": 2006,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81028
+        ],
+        "Description": "Basic Attack DMG increases by 18%."
+    },
+    {
+        "Id": 33,
+        "CoreId": 2006,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81029
+        ],
+        "Description": "Basic Attack DMG increases by 23%."
+    },
+    {
+        "Id": 34,
+        "CoreId": 2006,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81030
+        ],
+        "Description": "Basic Attack DMG increases by 28%."
+    },
+    {
+        "Id": 35,
+        "CoreId": 2007,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81043
+        ],
+        "Description": "Has a 30% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown."
+    },
+    {
+        "Id": 36,
+        "CoreId": 2007,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81044
+        ],
+        "Description": "Has a 40% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown."
+    },
+    {
+        "Id": 37,
+        "CoreId": 2007,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81045
+        ],
+        "Description": "Has a 50% chance to block 1 attack. Becomes immune to any DMG for 5s after a successful block. 15s cooldown."
+    },
+    {
+        "Id": 38,
+        "CoreId": 2008,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81058
+        ],
+        "Description": "Gain a shield equal to 10% HP at the start of battle."
+    },
+    {
+        "Id": 39,
+        "CoreId": 2008,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81059
+        ],
+        "Description": "Gain a shield equal to 15% HP at the start of battle."
+    },
+    {
+        "Id": 40,
+        "CoreId": 2008,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81060
+        ],
+        "Description": "Gain a shield equal to 20% HP at the start of battle."
+    },
+    {
+        "Id": 41,
+        "CoreId": 2009,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81061
+        ],
+        "Description": "Has a 40% chance to gain a shield equal to 5% HP for 5s when taking DMG."
+    },
+    {
+        "Id": 42,
+        "CoreId": 2009,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81062
+        ],
+        "Description": "Has a 50% chance to gain a shield equal to 10% HP for 5s when taking DMG."
+    },
+    {
+        "Id": 43,
+        "CoreId": 2009,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81063
+        ],
+        "Description": "Has a 60% chance to gain a shield equal to 15% HP for 5s when taking DMG."
+    },
+    {
+        "Id": 44,
+        "CoreId": 2010,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81070
+        ],
+        "Description": "The enemy drops 1 random Signal Orb upon death."
+    },
+    {
+        "Id": 45,
+        "CoreId": 2010,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81071
+        ],
+        "Description": "The enemy drops 2 random Signal Orbs upon death."
+    },
+    {
+        "Id": 46,
+        "CoreId": 2010,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81072
+        ],
+        "Description": "The enemy drops 3 random Signal Orbs upon death."
+    },
+    {
+        "Id": 47,
+        "CoreId": 2011,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81079
+        ],
+        "Description": "Melee DMG increases by 18%."
+    },
+    {
+        "Id": 48,
+        "CoreId": 2011,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81080
+        ],
+        "Description": "Melee DMG increases by 23%."
+    },
+    {
+        "Id": 49,
+        "CoreId": 2011,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81081
+        ],
+        "Description": "Melee DMG increases by 28%."
+    },
+    {
+        "Id": 50,
+        "CoreId": 2012,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81083
+        ],
+        "Description": "Ranged DMG increases by 18%."
+    },
+    {
+        "Id": 51,
+        "CoreId": 2012,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81084
+        ],
+        "Description": "Ranged DMG increases by 23%."
+    },
+    {
+        "Id": 52,
+        "CoreId": 2012,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81085
+        ],
+        "Description": "Ranged DMG increases by 28%."
+    },
+    {
+        "Id": 53,
+        "CoreId": 2013,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81089
+        ],
+        "Description": "QTE cooldown decreases by 1s."
+    },
+    {
+        "Id": 54,
+        "CoreId": 2013,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81090
+        ],
+        "Description": "QTE cooldown decreases by 2s."
+    },
+    {
+        "Id": 55,
+        "CoreId": 2013,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81091
+        ],
+        "Description": "QTE cooldown decreases by 3s."
+    },
+    {
+        "Id": 56,
+        "CoreId": 2014,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81107
+        ],
+        "Description": "When Combo is greater than 50, DMG increases by 15%."
+    },
+    {
+        "Id": 57,
+        "CoreId": 2014,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81108
+        ],
+        "Description": "When Combo is greater than 50, DMG increases by 20%."
+    },
+    {
+        "Id": 58,
+        "CoreId": 2014,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81109
+        ],
+        "Description": "When Combo is greater than 50, DMG increases by 25%."
+    },
+    {
+        "Id": 59,
+        "CoreId": 2015,
+        "CoreLevel": 1,
+        "DecomposeMoney": 15,
+        "BuffId": [
+            81110
+        ],
+        "Description": "When Combo is greater than 50, attacks have a 10% chance to stun the enemy for 3s. (It does not affect the boss.)"
+    },
+    {
+        "Id": 60,
+        "CoreId": 2015,
+        "CoreLevel": 2,
+        "DecomposeMoney": 30,
+        "BuffId": [
+            81111
+        ],
+        "Description": "When Combo is greater than 50, attacks have a 20% chance to stun the enemy for 3s. (It does not affect the boss.)"
+    },
+    {
+        "Id": 61,
+        "CoreId": 2015,
+        "CoreLevel": 3,
+        "DecomposeMoney": 45,
+        "BuffId": [
+            81112
+        ],
+        "Description": "When Combo is greater than 50, attacks have a 30% chance to stun the enemy for 3s. (It does not affect the boss.)"
+    },
+    {
+        "Id": 62,
+        "CoreId": 3001,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81003
+        ],
+        "Description": "Increases your character's skill DMG by 20%."
+    },
+    {
+        "Id": 63,
+        "CoreId": 3001,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81004
+        ],
+        "Description": "Increases your character's skill DMG by 30%."
+    },
+    {
+        "Id": 64,
+        "CoreId": 3001,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81005
+        ],
+        "Description": "Increases your character's skill DMG by 40%."
+    },
+    {
+        "Id": 65,
+        "CoreId": 3002,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81006
+        ],
+        "Description": "Signature Move DMG is increased by 20%."
+    },
+    {
+        "Id": 66,
+        "CoreId": 3002,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81007
+        ],
+        "Description": "Signature Move DMG is increased by 30%."
+    },
+    {
+        "Id": 67,
+        "CoreId": 3002,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81008
+        ],
+        "Description": "Signature Move DMG is increased by 40%."
+    },
+    {
+        "Id": 68,
+        "CoreId": 3003,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81009
+        ],
+        "Description": "Gains 60 energy at the start of battle."
+    },
+    {
+        "Id": 69,
+        "CoreId": 3003,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81010
+        ],
+        "Description": "Gains 80 energy at the start of battle."
+    },
+    {
+        "Id": 70,
+        "CoreId": 3003,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81011
+        ],
+        "Description": "Gains 100 energy at the start of battle."
+    },
+    {
+        "Id": 71,
+        "CoreId": 3004,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81046
+        ],
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 30% of self ATK to all enemies within 2m."
+    },
+    {
+        "Id": 72,
+        "CoreId": 3004,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81047
+        ],
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 40% of self ATK to all enemies within 2m."
+    },
+    {
+        "Id": 73,
+        "CoreId": 3004,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81048
+        ],
+        "Description": "Attacks have a 50% chance to blow the enemy up, dealing DMG equal to 50% of self ATK to all enemies within 2m."
+    },
+    {
+        "Id": 74,
+        "CoreId": 3005,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81049
+        ],
+        "Description": "Limit of Dodge Gauge increases by 400."
+    },
+    {
+        "Id": 75,
+        "CoreId": 3005,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81050
+        ],
+        "Description": "Limit of Dodge Gauge increases by 700."
+    },
+    {
+        "Id": 76,
+        "CoreId": 3005,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81051
+        ],
+        "Description": "Limit of Dodge Gauge increases by 1000."
+    },
+    {
+        "Id": 77,
+        "CoreId": 3006,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81052
+        ],
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 3% for 5s. Can be stacked up to 5 times.\""
+    },
+    {
+        "Id": 78,
+        "CoreId": 3006,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81053
+        ],
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 4% for 5s. Can be stacked up to 5 times.\""
+    },
+    {
+        "Id": 79,
+        "CoreId": 3006,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81054
+        ],
+        "Description": "\"Each dodge increases Movement Speed by 15% and all DMG dealt by 5% for 5s. Can be stacked up to 5 times.\""
+    },
+    {
+        "Id": 80,
+        "CoreId": 3007,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81055
+        ],
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 600% DMG."
+    },
+    {
+        "Id": 81,
+        "CoreId": 3007,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81056
+        ],
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 900% DMG."
+    },
+    {
+        "Id": 82,
+        "CoreId": 3007,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81057
+        ],
+        "Description": "Upon entering Matrix, unleash a shockwave within 3m that deals 1200% DMG."
+    },
+    {
+        "Id": 83,
+        "CoreId": 3008,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81064
+        ],
+        "Description": "All DMG dealt increases by 10% when a shield exists."
+    },
+    {
+        "Id": 84,
+        "CoreId": 3008,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81065
+        ],
+        "Description": "All DMG dealt increases by 15% when a shield exists."
+    },
+    {
+        "Id": 85,
+        "CoreId": 3008,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81066
+        ],
+        "Description": "All DMG dealt increases by 20% when a shield exists."
+    },
+    {
+        "Id": 86,
+        "CoreId": 3009,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81067
+        ],
+        "Description": "At the start of battle, gains 1 additional Signal Orb (3 identical Signal Orbs if at max level)."
+    },
+    {
+        "Id": 87,
+        "CoreId": 3009,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81068
+        ],
+        "Description": "At the start of battle, gains 2 additional Signal Orbs (3 identical Signal Orbs if at max level)."
+    },
+    {
+        "Id": 88,
+        "CoreId": 3009,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81069
+        ],
+        "Description": "At the start of battle, gains 3 identical Signal Orbs."
+    },
+    {
+        "Id": 89,
+        "CoreId": 3010,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81073
+        ],
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 3% for 5s. Stacks up to 5 times."
+    },
+    {
+        "Id": 90,
+        "CoreId": 3010,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81074
+        ],
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 4% for 5s. Stacks up to 5 times."
+    },
+    {
+        "Id": 91,
+        "CoreId": 3010,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81075
+        ],
+        "Description": "For every Orb pinged, increases Extra DMG Bonus by 6% for 5s. Stacks up to 5 times."
+    },
+    {
+        "Id": 92,
+        "CoreId": 3011,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81076
+        ],
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 10% for 5s."
+    },
+    {
+        "Id": 93,
+        "CoreId": 3011,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81077
+        ],
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 15% for 5s."
+    },
+    {
+        "Id": 94,
+        "CoreId": 3011,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81078
+        ],
+        "Description": "Pinging Red, Yellow, and Blue Signal Orbs within 5s increases all DMG dealt by 20% for 5s."
+    },
+    {
+        "Id": 95,
+        "CoreId": 3012,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81082
+        ],
+        "Description": "Deals DMG equal to 1% of the enemy's maximum HP to all enemies within 4m per second."
+    },
+    {
+        "Id": 96,
+        "CoreId": 3013,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81086
+        ],
+        "Description": "Attacks have a 50% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s."
+    },
+    {
+        "Id": 97,
+        "CoreId": 3013,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81087
+        ],
+        "Description": "Attacks have a 100% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s."
+    },
+    {
+        "Id": 98,
+        "CoreId": 3013,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81088
+        ],
+        "Description": "Attacks have a 120% chance to deal DMG equal to 80% of self ATK to all units within 2m around the target. It can only be triggered once per 5s."
+    },
+    {
+        "Id": 99,
+        "CoreId": 3014,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81092
+        ],
+        "Description": "QTE increases the controlling character's ATK by 10% for 5s."
+    },
+    {
+        "Id": 100,
+        "CoreId": 3014,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81093
+        ],
+        "Description": "QTE increases the controlling character's ATK by 15% for 5s."
+    },
+    {
+        "Id": 101,
+        "CoreId": 3014,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81094
+        ],
+        "Description": "QTE increases the controlling character's ATK by 20% for 5s."
+    },
+    {
+        "Id": 102,
+        "CoreId": 3015,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81095
+        ],
+        "Description": "QTE reduces the target's Physical DEF by 20% for 5s."
+    },
+    {
+        "Id": 103,
+        "CoreId": 3015,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81096
+        ],
+        "Description": "QTE reduces the target's Physical DEF by 25% for 5s."
+    },
+    {
+        "Id": 104,
+        "CoreId": 3015,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81097
+        ],
+        "Description": "QTE reduces the target's Physical DEF by 30% for 5s."
+    },
+    {
+        "Id": 105,
+        "CoreId": 3016,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81098
+        ],
+        "Description": "QTE reduces the target's Elemental Resistance by 20% for 5s."
+    },
+    {
+        "Id": 106,
+        "CoreId": 3016,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81099
+        ],
+        "Description": "QTE reduces the target's Elemental Resistance by 25% for 5s."
+    },
+    {
+        "Id": 107,
+        "CoreId": 3016,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81100
+        ],
+        "Description": "QTE reduces the target's Elemental Resistance by 30% for 5s."
+    },
+    {
+        "Id": 108,
+        "CoreId": 3017,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81101
+        ],
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 300% Physical Damage."
+    },
+    {
+        "Id": 109,
+        "CoreId": 3017,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81102
+        ],
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 450% Physical Damage."
+    },
+    {
+        "Id": 110,
+        "CoreId": 3017,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81103
+        ],
+        "Description": "After summoning a QTE, unleash a shockwave within 3m that deals 600% Physical Damage."
+    },
+    {
+        "Id": 111,
+        "CoreId": 3018,
+        "CoreLevel": 1,
+        "DecomposeMoney": 18,
+        "BuffId": [
+            81104
+        ],
+        "Description": "Each attack has a 30% chance to increase its DMG by 30%."
+    },
+    {
+        "Id": 112,
+        "CoreId": 3018,
+        "CoreLevel": 2,
+        "DecomposeMoney": 36,
+        "BuffId": [
+            81105
+        ],
+        "Description": "Each attack has a 40% chance to increase its DMG by 40%."
+    },
+    {
+        "Id": 113,
+        "CoreId": 3018,
+        "CoreLevel": 3,
+        "DecomposeMoney": 54,
+        "BuffId": [
+            81106
+        ],
+        "Description": "Each attack has a 50% chance to increase its DMG by 60%."
+    }
+]

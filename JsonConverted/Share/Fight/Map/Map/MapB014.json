@@ -1,0 +1,151 @@
+[
+    {
+        "Id": 15010106,
+        "Behavior": 15010106,
+        "Name": "初见游乐园",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            150101060,
+            15010161,
+            15010162
+        ],
+        "Position": [
+            "0|0|0",
+            61.63,
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            0,
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010107,
+        "Behavior": 15010107,
+        "Name": "进入地下",
+        "Environment": "Scene01303",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            150101070,
+            15010163
+        ],
+        "Position": [
+            "0|0|0",
+            58.3,
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010110,
+        "Behavior": 15010110,
+        "Name": "锁卡穆地下水泵站",
+        "Environment": "Scene01303",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            150101100,
+            15010163
+        ],
+        "Position": [
+            "0|0|0",
+            58.3,
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|-180|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010112,
+        "Behavior": 15010112,
+        "Name": "锁维拉-热气球平台",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            150101120,
+            15010162,
+            15010160
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            103.9407
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010114,
+        "Behavior": 15010114,
+        "Name": "锁卡穆游乐场右侧",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            150101140,
+            15010161
+        ],
+        "Position": [
+            "0|0|0",
+            286.48,
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            1.52,
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010117,
+        "Behavior": 15010117,
+        "Name": "boss战嗷拉酱",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            150101170
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    }
+]

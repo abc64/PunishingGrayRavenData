@@ -529,7 +529,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005210|102|100|6",
-        "Cover": 1005210,
+        "Cover": "1005210|1005220|1005230",
         "Magic": 100521000,
         "Effect": "FxR2YongyechaoAttack21Buff",
         "EffectJoint": "HitCase"
@@ -541,7 +541,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005220|102|100|6",
-        "Cover": "1005210|1005220",
+        "Cover": "1005210|1005220|1005230",
         "Magic": 100522000,
         "Effect": "FxR2YongyechaoAttack21Buff",
         "EffectJoint": "HitCase"
@@ -565,7 +565,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005240|103|100|6",
-        "Cover": 1005240,
+        "Cover": "1005240|1005250|1005260",
         "Magic": 100524000
     },
     {
@@ -575,7 +575,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005250|103|100|6",
-        "Cover": "1005240|1005250",
+        "Cover": "1005240|1005250|1005260",
         "Magic": 100525000
     },
     {
@@ -596,7 +596,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005270|202|200|5",
-        "Cover": 1005270,
+        "Cover": "1005270|1005280|1005290",
         "Magic": 100527000,
         "Effect": "FxTongyongJianfang",
         "EffectJoint": "HitCase"
@@ -609,7 +609,7 @@
         "Limit": 1,
         "Cd": 0,
         "Kind": "1005280|202|200|5",
-        "Cover": "1005270|1005280",
+        "Cover": "1005270|1005280|1005290",
         "Magic": 100528000,
         "Effect": "FxTongyongJianfang",
         "EffectJoint": "HitCase"
@@ -1959,50 +1959,6 @@
         "Cd": 0,
         "Kind": 1013700,
         "Magic": 101370000
-    },
-    {
-        "Id": 101371,
-        "Delay": 0,
-        "Duration": 0.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1013710,
-        "Magic": 101371000,
-        "Effect": "FxR2LifuAttack51Buff",
-        "EffectJoint": "Root"
-    },
-    {
-        "Id": 101372,
-        "Delay": 0,
-        "Duration": 0.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1013720,
-        "Magic": 101372000,
-        "Effect": "FxR2LifuAttack51Buff",
-        "EffectJoint": "Root"
-    },
-    {
-        "Id": 101373,
-        "Delay": 0,
-        "Duration": 0.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1013730,
-        "Magic": 101373000,
-        "Effect": "FxR2LifuAttack51Buff",
-        "EffectJoint": "Root"
-    },
-    {
-        "Id": 101374,
-        "Delay": 0,
-        "Duration": 0.5,
-        "Limit": 1,
-        "Cd": 0,
-        "Kind": 1013740,
-        "Magic": 101374000,
-        "Effect": "FxR2LifuAttack51Buff",
-        "EffectJoint": "Root"
     },
     {
         "Id": 101375,

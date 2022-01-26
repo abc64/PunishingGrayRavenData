@@ -100,7 +100,9 @@
             1081003,
             1091002,
             1011003,
-            1121002
+            1121002,
+            1021004,
+            1131002
         ]
     },
     {
@@ -130,7 +132,8 @@
             1071003,
             1021003,
             1081003,
-            1041003
+            1041003,
+            1021004
         ]
     },
     {
@@ -140,7 +143,8 @@
             1031001,
             1031002,
             1031003,
-            1111002
+            1111002,
+            1131002
         ]
     },
     {
@@ -218,31 +222,31 @@
     {
         "Id": 11041,
         "FightEventId": 11041,
-        "ScoreAdd": 3,
+        "ScoreAdd": 4,
         "BanCharacterId": []
     },
     {
         "Id": 11042,
         "FightEventId": 11042,
-        "ScoreAdd": 6,
+        "ScoreAdd": 8,
         "BanCharacterId": []
     },
     {
         "Id": 11043,
         "FightEventId": 11043,
-        "ScoreAdd": 9,
+        "ScoreAdd": 12,
         "BanCharacterId": []
     },
     {
         "Id": 11044,
         "FightEventId": 11044,
-        "ScoreAdd": 12,
+        "ScoreAdd": 16,
         "BanCharacterId": []
     },
     {
         "Id": 11045,
         "FightEventId": 11045,
-        "ScoreAdd": 15,
+        "ScoreAdd": 20,
         "BanCharacterId": []
     },
     {
@@ -498,6 +502,12 @@
         "BanCharacterId": []
     },
     {
+        "Id": 21231,
+        "FightEventId": 21231,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
         "Id": 21261,
         "FightEventId": 21261,
         "PointSub": 1,
@@ -620,6 +630,30 @@
     {
         "Id": 22231,
         "FightEventId": 22231,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 22241,
+        "FightEventId": 22241,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 22251,
+        "FightEventId": 22251,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 22261,
+        "FightEventId": 22261,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 22271,
+        "FightEventId": 22271,
         "PointSub": 1,
         "BanCharacterId": []
     },
@@ -975,6 +1009,142 @@
         "Id": 33123,
         "FightEventId": 33123,
         "ScoreAdd": 6,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33133,
+        "FightEventId": 33133,
+        "ScoreAdd": 4,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33141,
+        "FightEventId": 33141,
+        "ScoreAdd": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33142,
+        "FightEventId": 33142,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33143,
+        "FightEventId": 33143,
+        "ScoreAdd": 3,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33151,
+        "FightEventId": 33151,
+        "ScoreAdd": 3,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33152,
+        "FightEventId": 33152,
+        "ScoreAdd": 4,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33153,
+        "FightEventId": 33153,
+        "ScoreAdd": 6,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33161,
+        "FightEventId": 33161,
+        "ScoreAdd": 3,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33162,
+        "FightEventId": 33162,
+        "ScoreAdd": 6,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33163,
+        "FightEventId": 33163,
+        "ScoreAdd": 9,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33171,
+        "FightEventId": 33171,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33172,
+        "FightEventId": 33172,
+        "ScoreAdd": 4,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33173,
+        "FightEventId": 33173,
+        "ScoreAdd": 6,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33181,
+        "FightEventId": 33181,
+        "PointSub": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33191,
+        "FightEventId": 33191,
+        "ScoreAdd": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33201,
+        "FightEventId": 33201,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33211,
+        "FightEventId": 33211,
+        "ScoreAdd": 9,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33223,
+        "FightEventId": 33223,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33231,
+        "FightEventId": 33231,
+        "ScoreAdd": 3,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33243,
+        "FightEventId": 33243,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33253,
+        "FightEventId": 33253,
+        "ScoreAdd": 2,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33261,
+        "ScoreAdd": 1,
+        "BanCharacterId": []
+    },
+    {
+        "Id": 33271,
+        "ScoreAdd": 1,
         "BanCharacterId": []
     }
 ]

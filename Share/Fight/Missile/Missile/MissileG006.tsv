@@ -60,10 +60,11 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90500311	铁三角子弹	1	10	3	-5	0	0		0	2			1						-1		FxMe1BioMd006010Attack04Shouji01						-1			1					0	0	0								0							0	1					905030								0	HitCase	1	1		1			1					
 90500411	铁三角子弹	1	9.8	2.5	-4.9	0	0		0	4			1						-1		FxMe1BioMd006010Attack03Shouji01						-1			1					0	0	0								0							0	1				905004111	905027								0	HitCase	1	1		1			1					
 90500702	伤害子子弹	2	2				0		0	4			0.1						-1								-1			1					0	0	0								0							0	1				905007021	801010					905025			0	HitCase	1	1					0					
+90500911	普通子弹-保底超过20m还原	2	100				0			2			1						-1								-1			1					0	0	0								0							0	1					905074								0	HitCase		0					0					
 90470101	追踪者戳-伤害子弹	1	2	2		2	0			4			0.1						-1		FxMo1ArmorMd010112Attack01Shouji						-1			1					0	0	0								0							0	1				904701011	801042	901507							0	HitCase	1	0		1			1	1				
 90470201	追踪者挠-伤害子弹	1	2	2		2	0			4			0.1						-1		FxMo1ArmorMd010112Attack02Shouji						-1			1					0	0	0								0							0	1				904702011	801047	901507							0	HitCase	1	0		1			1	1				
 90470302	追踪者砸-伤害子弹	2	2		0	0	0		0	4			0.1						-1		FxMo1ArmorMd010112Attack04Shouji						-1			1					0	0	0								0							0	1				904703021	801035	901508							0	HitCase	1	1		1			1	1				
-90470303	追踪者砸-范围提示	2	1.5		0	0	0			1			2						-1						FxYujing1M07S		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1			0					
+90470303	追踪者砸-范围提示	2	1.5		0	0	0			1			2						-1						FxYujing1M06S		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1			0					
 90470305	追踪者砸-起跳特效	2	0.1				0			4			2						-1						FxMo1ArmorMd010112Attack03		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 90470306	追踪者砸-特效	2	2		0	1	0			4			2						-1						FxMo1ArmorMd010112Attack04		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1			0					
 90470401	放电子弹	2	2			0	0			4			1.3						-1		FxMo1ArmorMd010112Attack04Shouji				FxMo1ArmorMd010112Attack0502		-1			1					0	0	0								0							0	1													0	HitCase		1		1			0					
@@ -76,8 +77,8 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90480104	重构保安射击-受击特效2	2	0.5		-0.5		100			4			1						1						FxMo1BioMd030052Attack01Shouji		1			1					0	0	0								0							0	1													0.3	HitCase		0		0			0					
 90480107	弹道提示	2	0.1		0.3	0	0			4			1						-1						FxYujingXian01		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
 90480108	弹道提示	2	0.1		-0.3	0	0			4			1						-1						FxYujingXian01		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
-90480109	弹道激发	2	0.1		0.3	0	0			4			0.3						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
-90480110	弹道激发	2	0.1		-0.3	0	0			4			0.3						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
+90480109	弹道激发	2	0.1		0.3	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
+90480110	弹道激发	2	0.1		-0.3	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.6	HitCase		1		1			0					
 90480202	重构保安旋转-伤害子弹1	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack02Shouji				FxMo1BioMd030052Attack02Shouji		-1			1					0	0	0								0							0	1				904802021	801012	901602							0	HitCase	1	1		1			1					
 90480203	重构保安旋转-伤害子弹2	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack02Shouji				FxMo1BioMd030052Attack02Shouji		-1			1					0	0	0								0							0	1				904802031	801012	901602							0	HitCase	1	1		1			1					
 90480204	重构保安旋转-伤害子弹3	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack02Shouji				FxMo1BioMd030052Attack02Shouji		-1			1					0	0	0								0							0	1				904802041	801012	901602							0	HitCase	1	1		1			1					
@@ -87,15 +88,15 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90480208	重构保安旋转-伤害子弹7	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack02Shouji				FxMo1BioMd030052Attack02Shouji		-1			1					0	0	0								0							0	1				904802081	801012	901602							0	HitCase	1	1		1			1					
 90480209	重构保安旋转-伤害子弹8	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack02Shouji				FxMo1BioMd030052Attack02Shouji		-1			1					0	0	0								0							0	1				904802091	801012	901602							0	HitCase	1	1		1			1					
 90480302	会心一击-攻击-玩家操作	2	4				15		0	4			3		1				-1					Gai	FxMo1BioMd030052Attack03Dandao		-1			3	-55	0	15	1	0	0	0								0	9999		1	90480304	1		1	1													1	HitCase		0		0		1	0					
-90480303	会心一击-攻击-预警	2	2				0		0	4			1.1						-1						FxYujing1M09S		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1			0					
+90480303	会心一击-攻击-预警	2	2				0		0	4			1.1						-1						FxYujing1M10S		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1			0					
 90480304	伤害-受击	2	2				0			4			1						-1						FxMo1BioMd030052Attack03Baozha		-1			1					0	0	0								2	0		1	90480305			3	1													0	HitCase	1	0		1			0					
 90480305	伤害-受击	2	2				0			4			0.1						-1		FxMo1BioMd030052Attack03Shouji				FxMo1BioMd030052Attack03Shouji		-1			1					0	0	0								2							3	2		0.2	0.1	904803051	801080	995208							0	HitCase	1	0		1			1					
 90490101	侦查机撞击-伤害子弹	1	2	1.5		1	0			4			0.3						-1		FxMo1BioMd010042Attack01Shouji01						-1			1					0	0	0								0							0	1				904901011	801037	901006							0	HitCase	1	1		1			1					
-90490106	侦查机撞击-范围提示2	1	2	8		3.5	0			4			1	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
+90490106	侦查机撞击-范围提示2	1	2	8		3.5	0			4			1.5	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
 90490202	侦查机声波-2效果	2	3				0			4			0.4						-1								-1			1					0	0	0								0							0	1				904902021	801013	200002	901006			200002			0	HitCase	1	0		1			1					
 90490203	侦查机声波-范围预警	2	3				0			4			1	0.6					-1						FxYujing1M06S		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
 90490303	侦察机-伤害子弹	2	0.1				10			4			8						-1		FxMo1BioMd010042Attack03Shouji			Head	FxMo1BioMd010042Attack03Dandao		-1			1					0	0	0								0							0	1				904903031	801030	200002	901006			200002			2	HitCase		0					1					
-90490305	侦察机-发射预警	2	0.1				0			4			1						-1					Head	FxYujingXian02		-1			1					0	0	0								0							0	1													2	HitCase		1		1			0					
+90490305	侦察机-发射预警	2	0.1				0			4			0.4						-1					Head	FxYujingXian02		-1			1					0	0	0								0							0	1													2	HitCase		1		1			0					
 90490306	侦察机-前摇特效	2	0.1				0			4			5						-1						FxMo1BioMd010042Attack03		-1			1					0	0	0								0							0	1													0	HitCase		0					0					
 90600902	平地分解out-预警	2	0.1				0			4			1						-1					Bone003	FxYubei02		-1			1					0	0	0								0							0	1													0	HitCase		0					0					
 90601101	竖劈-伤害子弹	1	1	3		1.5	0			4			0.1						-1		FxMe1BioMd007020Attack11Shouji						-1			1					0	0	0								0							0	1				906011011	801024	906012	906013			906013			0	HitCase		1		1			1					
@@ -113,13 +114,14 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90611106	向前喷火-预警	2	0.1				0			4			1						-1					Bone003	FxYubei02		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 90611201	跳喷火-伤害子弹	1	1.2	2	0.3	4	8			4			0.25						-1								-1			1					0	0	0								0							0	1				906112011	801118	906342	906343			906342			0	HitCase	1	0		1			1					
 90611207	跳喷火-伤害子弹	1	1.2	1.9	0.3	6.5	8.1			4			0.15						-1		FxMe1BioMd007010Attack12Shouji						-1			1					0	0	0								0							0	1				906112071	801118	906342	906343			906342			0	HitCase	1	0		1			1					
-90611211	跳喷火-伤害子弹	1	1.2	9	0.3	4.5	0			4			0.9						-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	1		1			0					
+90611211	跳喷火-预警区域	1	1.2	9	0.3	4.5	0			4			1.2	0.6					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	1		1			0					
 90611301	治愈己方子弹	3	2	4	0	2	0		0	2			1.8						-1	1	FxTongyongCureshouji		0.5				-1			1					0	0	0								0							0	1					905023	905022							2.5	HitCase	1	1		1	0		1					
 90611302	治愈己方子弹	3	2	4	0	2	0		0	2			0.1						-1								-1			1					0	0	0								0							0	1					906101								2.5	HitCase	1	1		1			1					
 90616101	向前喷火-伤害子弹	1	1	4		3.3	0			4			0.95						-1	1	FxMe1BioMd007010Attack11Shouji		0.4				-1			1					0	0	0								0							0	1				906161011	801105	906342	906343			906342			0	HitCase		1		1			1					
 90616103	向前喷火-武器特效	2	0.1				0			4			5						-1						FxMe1BioMd007010Attack11		-1			1					0	0	0								0							0	1													0	HitCase		1		1			0					
 90621101	发射一发	1	1	2		2.2	30			4			3						-1		FxMe1BioMd007030Attack11Shouji				FxMe1BioMd007030Attack11Dandao		-1			1					0	0	0								0							0	1				906211011	801020	906207	906208			906207			1	HitCase		0		1			1					
-90621105	发射一发-弹道激发	2	0.1		0	0	0			4			0.3						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1	HitCase		1		1			0					
+90621105	发射一发-弹道激发	2	0.1		0	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1	HitCase		1		1			0					
+90621106	发射一发-弹道激发	2	0.1		0	0	0			4			1						-1						FxYujingXian01		-1			1					0	0	0								0							0	1													1	HitCase		1		1			0					
 90621205	响尾蛇导弹发射-子弹	2	2				15		0	4			5		1				-1					WeaponCase1	FxMe1BioMd007030Attack12Dandao		-1		FxMe1BioMd007030Attack12Dilie	3	-30	0	15	1	0	0	0								3	3		1	90621206	1		4	1													0	HitCase		0		1		1	0					
 90621206	响尾蛇导弹发射-受击	2	2				0			4			0.1		1				-1		FxMe1BioMd007030Attack12Shouji						-1			1					0	0	0								2							2	2		0.2	0.1	906212061	801005	995208	906210	906209		906209			0	HitCase	1	0		1			1					
 90621208	响尾蛇导弹发射-预警地面	2	2				0		0	4			1						-1						FxNpcYujing01		-1			1					0	0	0								3					1		4	1													0	HitCase	1	0		1		1	0					
@@ -133,8 +135,8 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90632607	边走边锤-伤害子弹2	1	2.5	4		2	0			4			0.1						-1		FxMe1BioMd007040Attack25Shouji						-1			1					0	0	0								0							0	1				906326071	801038	906307				906307			0	HitCase		1		1			1					
 90633202	佛山无影脚-伤害子弹	1	2.5	3		2.5	0			4			999						-1	1	FxMe1BioMd007040Attack32Shouji		0.5				-1			1					0	0	0								0							0	1				906332021	801006	906309	906310			906309	906315		0	HitCase		1		1			1					
 90633302	佛山无影脚收功-伤害子弹1-转动	1	2.5	3		2.5	0			4			0.9						-1	1	FxMe1BioMd007040Attack32Shouji		0.5				-1			1					0	0	0								0							0	1				906333021	801006	906309	906310			906309			0	HitCase		1		1			1					
-90633303	佛山无影脚收功-伤害子弹2-扩胸	1	7	5		2	0			4			0.1						-1		FxMe1BioMd007040Attack33Shouji						-1			1					0	0	0								0							0	3				906333031	801050	906311	906312			906311			0	HitCase		1		1			1					
-90633504	远程狙击一发-伤害子弹	3	7	60		0.5	0			4			0.1						-1		FxMe1BioMd007040Attack30Shouji						-1			1					0	0	0								0							0	3				906335041	801040	906340	906341			906340			0	HitCase		1		1			1					
+90633303	佛山无影脚收功-伤害子弹2-扩胸	1	7	5		2	0			4			0.1						-1		FxMe1BioMd007040Attack33Shouji						-1			1					0	0	0								0							0	3				906333031	801050		906312						0	HitCase		1		1			1					
+90633504	远程狙击一发-伤害子弹	3	7	60		0.5	0			4			0.1						-1		FxMe1BioMd007040Attack30Shouji						-1			1					0	0	0								0							0	3				906335041	801040		906341						0	HitCase		1		1			1					
 90634202	闪亮的灯球之死-伤害子弹	2	30				0			2			1						-1		FxMe1BioMd007040Attack42Shouji						-1			1					0	0	0								0							0	2				906342021	801100								0	HitCase		1		0			1					
 90634210	闪亮的灯球之死-爆炸特效	2	0.1				0			4			5						-1						FxMe1BioMd007040Attack42Bao		-1			1					0	0	0								0							0	1													4.5	HitCase		0		0			0					
 90634214	闪亮的灯球之死-爆炸特效2	2	0.1				0			4			5						-1						FxMe1BioMd007040Attack42Bao2		-1			1					0	0	0								0							0	1													4.5	HitCase		0		0			0					
@@ -160,9 +162,9 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90640101	双手砸地-左手伤害子弹	2	1.3		0.75	2.2	0			4			0.1						-1		FxMo1LishiliuxingMd000001Attack01Shouji						-1			1					0	0	0								0							0	1				906401011	801040	906402	906403				906402		0	HitCase		1		1			1					
 90640102	双手砸地-右手伤害子弹	2	1.1		-1.75	1.5	0			4			0.1						-1		FxMo1LishiliuxingMd000001Attack01Shouji						-1			1					0	0	0								0							0	1				906401021	801040	906402	906403				906402		0	HitCase		1		1			1					
 90640201	左侧直拳-伤害子弹	3	2.5	180	0.5	0.5	0			4			0.1						-1		FxMo1LishiliuxingMd000001Attack02Shouji						-1			1					0	0	0								0							0	1				906402011	801046	906408	906409				906408		0	HitCase		1		1			1					
-90640303	扔石头-扔出去的石块特效	2	2	3			100		0	4			5		1				-1					Bone016	FxMo1LishiliuxingMd000001Attack03Zidan		-1		FxMo1LishiliuxingMd000001Attack03Baozha	3	-20	0	50	1	0	0	0								3	5	0	1	90640304	1		4	1													0	HitCase		0		1		1	0					
+90640303	扔石头-扔出去的石块特效	2	2	3			83		0	4			5		1				-1					Bone016	FxMo1LishiliuxingMd000001Attack03Zidan		-1		FxMo1LishiliuxingMd000001Attack03Baozha	3	-20	0	50	1	0	0	0								3	5	0	1	90640304	1		4	1													0	HitCase		0		1		1	0					
 90640304	扔石头-扔出去的石块伤害子弹	2	2				0			4			0.1		1				-1		FxMo1LishiliuxingMd000001Attack03Shouji						-1			1					0	0	0								2							2	2		0.2	0.1	906403041	801060	906406					906406		0	HitCase	1	0		1			1					
-90640305	扔石头-地面预警	2	2				0		0	4			0.5						-1						FxNpcYujing01		-1			1					0	0	0								3					1		4	1													0	HitCase	1	0		1		1	0					
+90640305	扔石头-地面预警	2	2				0		0	4			0.6						-1						FxYujing1M06S		-1			1					0	0	0								3					1		4	1													0	HitCase	1	0		1		1	0					
 90640405	跳跃冲拳-落地伤害子弹	2	1.3		1.2	1.8	0		0	4			0.1						-1		FxMo1LishiliuxingMd000001Attack04Shouji1						-1			1					0	0	0								0							0	1				906404051	801040	906402	906403				906402		0	HitCase		1		1			1					
 90640406	跳跃冲拳-落地伤害子弹	2	1.3		-1.8	1.2	0		0	4			0.1						-1		FxMo1LishiliuxingMd000001Attack04Shouji1						-1			1					0	0	0								0							0	1				906404061	801040	906402	906403				906402		0	HitCase		1		1			1					
 90640407	跳跃冲拳-冲拳伤害子弹左60	3	3.8	60		0	0		-60	4			0.05						-1		FxMo1LishiliuxingMd000001Attack04Shouji2						-1			1					0	0	0								0							0	1				906404071	801050	906408	906409				906408		0	HitCase		1		1			1					
@@ -190,20 +192,22 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90670104	有花·三连击-子弹	1	0.8	0.8		1	30			4			5						-1		FxMo1YanfenyixingMd000001Attack01Shouji				FxMo1YanfenyixingMd000001Attack01zidan		-1			1					0	0	0								0							0	1				906701041	801015	906715	906716				906715		1.5	HitCase		0		1			1					
 90670105	有花·三连击-子弹	1	0.8	0.8		1	30			4			5						-1		FxMo1YanfenyixingMd000001Attack01Shouji				FxMo1YanfenyixingMd000001Attack01zidan		-1			1					0	0	0								0							0	1				906701051	801015	906715	906716				906715		1.5	HitCase		0		1			1					
 90670106	有花·三连击-子弹	1	0.8	0.8		1	30			4			5						-1		FxMo1YanfenyixingMd000001Attack01Shouji				FxMo1YanfenyixingMd000001Attack01zidan		-1			1					0	0	0								0							0	1				906701061	801015	906715	906716				906715		1.5	HitCase		0		1			1					
-90670109	有花·三连击-弹道预警	2	0.1		0	0	0			4			0.3						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1.5	HitCase		1		1			0					
-90670110	有花·三连击-弹道预警	2	0.1		0	0	0			4			0.3						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1.5	HitCase		1		1			0					
+90670109	有花·三连击-弹道预警	2	0.1		0	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1.5	HitCase		1		1			0					
+90670110	有花·三连击-弹道预警	2	0.1		0	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1.5	HitCase		1		1			0					
+90670113	有花·三连击-弹道预警	2	0.1		0	0	0			4			1.05						-1						FxYujingXian01		-1			1					0	0	0								0							0	1													1.5	HitCase		1		1			0					
 90670202	有花·替身攻击-玩家刀光	2	0.1			0	0			4			5						-1		FxMo1YanfenyixingMd000001Attack02Shouji				FxMo1YanfenyixingMd000001Attack02B		-1			1					0	0	0								1	0.05	0	1	90670205			1	1													0	HitCase		0		1			0					
 90670205	有花·替身攻击-玩家子弹	3	2.5	180		-2	0			4			0.1						-1								-1			1					0	0	0								2							2	1				906702051	801050	906717	906718				906717		0	HitCase		0		1			1					
+90670208	有花·替身攻击-玩家脚底预警	2	2			0	150			4		1	0.6						-1						FxYujing1M06S		-1			1					0	0	0								1		0					1	1													0	HitCase	1	0	1	1			0					
 90670302	有花·龙卷风-龙卷风特效子弹	2	2		3	-0.5	5			4			2.3						-1						FxMo1YanfenyixingMd000001Attack03		-1			1					0	0	0								0	0.5	0	1	90670311			0	1													0	HitCase		0					1					
 90670303	有花·龙卷风-龙卷风特效子弹	2	2		-3	-0.5	5			4			2.3						-1						FxMo1YanfenyixingMd000001Attack03		-1			1					0	0	0								0	0.5	0	1	90670311			0	1													0	HitCase		0					1					
-90670305	有花·龙卷风-龙卷风地毯预警	1	3.2	12.2	3	6.1	0			4			2.15						-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0			0.5		0					
-90670306	有花·龙卷风-龙卷风地毯预警	1	3.2	12.2	-3	6.1	0			4			2.15						-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0			0.5		0					
+90670305	有花·龙卷风-龙卷风地毯预警	1	3.2	12.2	3	6.1	0			4			2.8	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0					0					
+90670306	有花·龙卷风-龙卷风地毯预警	1	3.2	12.2	-3	6.1	0			4			2.8	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0					0					
 90670311	有花·龙卷风-龙卷风子子弹	2	1.6			0.2	5			4			1.6						-1		FxMo1YanfenyixingMd000001Attack03Shouji						-1			1					0	0	0								2							2	1				906703111	801030	906707	906719	906720			906719		0	HitCase		0					0					
 90670501	无花·冲刺手部攻击-子弹	3	2.5	180			0		0	4			0.1						-1		FxMo1YanfenyixingMd000001Attack05Shouji						-1			1					0	0	0								0							0	1				906705011	801060	906721	906722				906722		0	HitCase		1		1			1					
-90670509	无花·冲刺手部攻击-地毯预警	1	5	6.5		3.25	0			4			0.5	0.5					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
+90670509	无花·冲刺手部攻击-地毯预警	1	5	6.5		3.25	0			4			1.2	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
 90670601	无花·冲刺腿部攻击-子弹	3	2.5	180			0			4			0.1						-1		FxMo1YanfenyixingMd000001Attack06Shouji						-1			1					0	0	0								0							0	1				906706011	801030	906723	906724				906723		0	HitCase		1		1			1					
 90670602	无花·冲刺腿部攻击-子弹	3	2.5	180			0			4			0.1						-1		FxMo1YanfenyixingMd000001Attack06Shouji						-1			1					0	0	0								0							0	1				906706021	801030	906725	906726				906725		0	HitCase		1		1			1					
-90670609	无花·冲刺腿部攻击-地毯预警	1	5	8		4	0			4			0.5	0.5					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
+90670609	无花·冲刺腿部攻击-地毯预警	1	5	8		4	0			4			1.2	1					-1						FxYujingJu01		-1			1					0	0	0								0							0	1													0	HitCase	1	0		1			0					
 90680102	伞刺-普通子弹	1	1	3		1.5	0			4			0.2						-1		FxMe1JiulongzhongyaziMd000001Attack01Shouji						-1			1					0	0	0								0							0	1				906801021	801020	906811	906812			906811			0	HitCase		1		1			1					
 90680202	三连击-地裂特效	2	0.1				0			4			3						-1						FxMe1JiulongzhongyaziMd000001Attack0203Dilie		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 90680203	三连击-挥舞伞1伤害	3	2	180		0	0			4			0.1						-1		FxMe1JiulongzhongyaziMd000001Attack02Shouji01						-1			1					0	0	0								0							0	1				906802031	801030	906813	906814			906813			0	HitCase		1		1			1					
@@ -250,12 +254,12 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83602025	三连击-地裂特效	2	0.1				0			4			5						-1						FxMb1JiabailieMd000001Attack24Dilie02		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 83602027	三连击-下砸子弹	2	4				0			4			0.1						-1								-1			1					0	0	0								0							0	1				836020271	801060								0	HitCase		1		1			1					
 83602029	三连击-戳刺子弹	1	2	4		2	0			4			0.1						-1								-1			1					0	0	0								0							0	1				836020291	801020	836012							0	HitCase		1		1			1					
-83602030	三连击-戳刺特效子弹	2	0.1			2.2	0			4			5						-1						FxMb1JiabailieMd000001Attack24Dilie01		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
+83602030	三连击-戳刺特效子弹	2	0.1			2.4	0			4			5						-1						FxMb1JiabailieMd000001Attack24Dilie01		-1			1					0	0	0								0							0	1													0	HitCase		0		1			0					
 83602031	三连击-横扫子弹	1	4	10		5	0			4			0.15						-1								-1			1					0	0	0								0							0	1				836020311	801080	836012							0	HitCase		1		1			1					
 83605303	飞天开炮落地横扫-子弹特效	2	2				80		-180	4			5						-1					HandCase			-1			3	-5	0	40	1	0	0	0								0							0	1				836053031									0	HitCase	2	0		1			1					
 83605305	飞天开炮落地横扫-子弹特效	2	2				80		-180	4			5						-1					HandCase			-1			3	-5	0	40	1	0	0	0								0							0	1				836053051									0	HitCase	2	0		1			1					
 83605306	飞天开炮落地横扫-普通子弹	2	15				0			4			0.1						-1								-1			1					0	0	0								0							0	1				836053061		801010							0	HitCase		1					0					
-83605507	飞天扫地-飞略子弹	2	4				0			4			0.2						-1								-1			1					0	0	0								0							0	3				836055071	801100	836012							0	HitCase		1		1			1					
+83605507	飞天扫地-飞略子弹	2	4				0			4			0.25						-1								-1			1					0	0	0								0							0	3				836055071	801100	836012							0	HitCase		1		1			1					
 83605519	飞天扫地-特效	2	0.1				0			4			10						-1						FxMb1JiabailieMd000001P02Attack05		-1			1					0	0	0								0							0	1													0	HitCase		0		1			1					
 83605706	冲过去转身一炮-横扫-普通子弹	1	3	6		3	0			4			0.15						-1		FxMb1JiabailieMd000001P02Attack16Shouji01						-1			1					0	0	0								0							0	1				836057061	801060	836011	836012			836011			0	HitCase		1		1			1					
 83605707	冲过去转身一炮-横扫-分身子弹	2	0.1				0			4			0						-1								-1			1					0	0	0								0	0	0	1	83606321			1	1													0	HitCase		0		1			1					
@@ -271,8 +275,8 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83606006	前走肩膀开炮-loop-开火子弹	2	0.5				14			4		1	5						1					Bone129			1			5	56	55	0.5	1.2	0	-1.5	0								0							0	1				836060061	801010								0	HitCase		0					1					
 83606007	前走肩膀开炮-loop-开火子弹	2	0.5				15			4		1	5						1					Bone129			1			5	69	53	0.4	1.5	0	-1.5	0								0							0	1				836060071	801010								0	HitCase		0					1					
 83606201	普攻-普通子弹	3	7	180			0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack12Shouji01						-1			1					0	0	0								0							0	1				836062011	801080	836011	836012			836011			0	HitCase		1		1			1					
-83606302	起跳扔枪-普通子弹	2	4			2	0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack13Shouji01						-1			1					0	0	0								0							0	1				836063021	801030								0	HitCase		1					0					
-83606304	起跳扔枪-普通子弹	2	8			3	0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack13Shouji01						-1			1					0	0	0								0							0	1				836063041	801100								0	HitCase		1					0					
+83606302	起跳扔枪-普通子弹	2	4			2	0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack13Shouji01						-1			1					0	0	0								0							0	1				836063021	801030								0	HitCase		1					1					
+83606304	起跳扔枪-普通子弹	2	8			3	0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack13Shouji01						-1			1					0	0	0								0							0	1				836063041	801100								0	HitCase		1					1					
 83606306	起跳扔枪-特效	2	0.1			2	0			4			10						-1						FxMb1JiabailieMd000001P02Attack13Dilie		-1			1					0	0	0								0							0	1													0	HitCase		0					0					
 83606321	起跳扔枪-分身冲出子弹	1	2	4		2	30			4			5						-1		FxMb1JiabailieMd000001P02FenshenAttackShouji01				FxMb1JiabailieMd000001P02FenshenAttack		-1			1					0	0	0								2							2	1				836063211	801020	836012							0	HitCase		0		1			1					
 83606405	前冲上挑-普通子弹	1	3	6		3	0			4			0.1						-1		FxMb1JiabailieMd000001P02Attack14Shouji01						-1			1					0	0	0								0							0	1				836064051	801070	836020							0	HitCase		1		1			1					
@@ -306,3 +310,30 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 83609910	死亡-爆炸子子弹	2	100				0			4			0.1						-1								-1			1					0	0	0								0							0	1				836099101	801025								0	HitCase		0					0					
 83609911	生命值包	2	2				8			4			999		1				-1						FxDropCure		-1			3	-80	0.1	10	0	0	0	0								3	999		1	83609912	1		4	1													1	HitCase		0			999	1	0					
 83609912	·····	2	2				0			4			999		1				1						FxDropCure		1		FxDropCureBeHit	1					0	0	0								2							2	1					836067	905023	905022						0	HitCase		0					0					
+90710103	声波攻击-普通子弹	3	6	45			0			4			0.1						-1		FxMo1BiaoyanyirenMd000001Attack01Shouji						-1			1					0	0	0								0							0	1				907101031	801060	907105	907106			907105			0	HitCase		0		1			1					
+90710106	声波攻击-普通子弹	3	6	45			0			4			0.7	0.6					-1						FxYujingShan01		-1			1					0	0	0								0							0	1													0	HitCase	1	1		1			0					
+90710203	麦克喊话爆炸声浪-普通子弹	2	0.5	0			20			4			5						-1		FxMo1BiaoyanyirenMd000001Attack02Shouji				FxMo1BiaoyanyirenMd000001Attack02Dandao		-1			1					0	0	0								0							0	1				907102031	801025	907103	907104			907103			0.5	HitCase		0		1			1					
+90710204	麦克喊话爆炸声浪-普通子弹	2	0.5	0	0.5		20		10	4			5						-1		FxMo1BiaoyanyirenMd000001Attack02Shouji				FxMo1BiaoyanyirenMd000001Attack02Dandao		-1			1					0	0	0								0							0	1				907102041	801025	907103	907104			907103			0.5	HitCase		0		1			1					
+90710205	麦克喊话爆炸声浪-普通子弹	2	0.5	0	-0.5		20		-10	4			5						-1		FxMo1BiaoyanyirenMd000001Attack02Shouji				FxMo1BiaoyanyirenMd000001Attack02Dandao		-1			1					0	0	0								0							0	1				907102051	801025	907103	907104			907103			0.5	HitCase		0		1			1					
+90710209	麦克喊话爆炸声浪-弹道预警	2	0.1		0	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.5	HitCase		1		1			0					
+90710210	麦克喊话爆炸声浪-弹道预警	2	0.1		0.5	0	0		10	4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.5	HitCase		1		1			0					
+90710211	麦克喊话爆炸声浪-弹道预警	2	0.1		-0.5	0	0		-10	4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													0.5	HitCase		1		1			0					
+90710303	头槌-普通子弹	1	2	2		1	0			4			0.1						-1		FxMo1BiaoyanyirenMd000001Attack03Shouji						-1			1					0	0	0								0							0	1				907103031	801073	907101	907102			907101			0	HitCase		1		1			1					
+90710403	加血技能-普通子弹	2	5				0			2			0.2						-1	1			0.15				-1			1					0	0	0								0							0	1					905023	905022							0	HitCase		1		1			1					
+90710404	加血技能-普通子弹	2	5				0			1			0.2						-1	1			0.15				-1			1					0	0	0								0							0	1					905023	905022							0	HitCase		1		1			1					
+90720203	白酒出拳-子弹	1	1.6	2.6	-0.1	1.3	0			4			0.1						-1		FxMo1TiaojiushiMd000001Attack02Shouji						-1			1					0	0	0								0							0	1				907202031	801070	907210	907211			907210			0	HitCase		1		1			1					
+90720303	红酒下砸-子弹	2	3				0			4			0.1						-1		FxMo1TiaojiushiMd000001Attack03shouji						-1			1					0	0	0								0							0	1				907203031	801050	907212	907213			907212			0	HitCase		1		1			1					
+90720403	啤酒喷水-子弹	1	0.6	20		10	0			4			0.6						-1	1	FxMo1TiaojiushiMd000001Attack06shouji		0.3				-1			1					0	0	0								0							0	1				907204031	801020	907214	907215			907214			0	HitCase		1		1			1					
+90720408	啤酒喷水-预警特效	2	0.1		0	0	0			4			0.4						-1						FxYujingXian02		-1			1					0	0	0								0							0	1													1.3	HitCase		1		1			0					
+90720409	啤酒喷水-预警特效	2	0.1		0	0	0			4			0.35						-1						FxYujingXian01		-1			1					0	0	0								0							0	1													1.3	HitCase		1		1			0					
+90720502	扔冰块-子弹	2	0.1				20			4			5		1				-1					Bone014(mirrored)	FxMo1TiaojiushiMd000001Attack05Dandao		-1		FxMo1TiaojiushiMd000001Attack05Bao	3	-20	0	14	1	0	0	0								0	5	0	1	90720511	1		0	1													0	HitCase		0		1		1	0					
+90720506	扔石头-地面预警	2	2				0		0	4			0.7	0.7					-1						FxYujing1M07S		-1			1					0	0	0								1							0	1													0	HitCase	1	0		1		1	0					
+90720511	扔石头-扔出去的石块伤害子弹	2	2				0			4			0.1						-1		FxMo1TiaojiushiMd000001Attack05shouji						-1			1					0	0	0								2							2	2		0.2	0.1	907205111	801060	907216	907217			907216			0	HitCase	1	0		1			1					
+90720602	头槌-子弹	1	2	2		1	0			4			0.05						-1		FxMo1TiaojiushiMd000001Attack06shouji						-1			1					0	0	0								0							0	1				907206021	801050	907218	907219			907218			0	HitCase		1		1			1					
+90730103	跑步摔倒-子弹	1	2	2		1	0			4			0.1						-1		FxMo1YouyongjiaoguanMd000001Attack09Shouji						-1			1					0	0	0								0							0	1				907301031	801060								0	HitCase		1		1			1					
+90730104	跑步摔倒-地裂特效	2	0.1				0			4			5						-1						FxMo1YouyongjiaoguanMd000001Attack01Dilie		-1			1					0	0	0								0							0	1													0	HitCase		0		1			1					
+90730504	起飞-地裂特效	2	0.1				0			4			5						-1						FxMo1YouyongjiaoguanMd000001Tongyongdilie		-1			1					0	0	0								0							0	1													0	HitCase		0		1			1					
+90730602	起飞-子弹	1	2	2		1	0			4			0.767						-1								-1			1					0	0	0								0							0	1				907306021	801030					907302			0	HitCase		1		1			1					
+90730702	起飞-地裂特效	2	0.1				0			4			5						-1						FxMo1YouyongjiaoguanMd000001Tongyongdilie		-1			1					0	0	0								0							0	1													0	HitCase		0		1			1					
+90730802	劈砍-子弹	1	2	2		1	0			4			0.1						-1		FxMo1YouyongjiaoguanMd000001Attack08Shouji						-1			1					0	0	0								0							0	1				907308021	801050								0	HitCase		1		1			1					
+90730902	顶肺-子弹	1	2	2		1	0			4			0.1						-1		FxMo1YouyongjiaoguanMd000001Attack09Shouji						-1			1					0	0	0								0							0	1				907309021	801050								0	HitCase		1		1			1					

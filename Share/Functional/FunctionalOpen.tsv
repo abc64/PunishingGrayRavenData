@@ -8,9 +8,10 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 7	Reward	5	0				1
 8	Gift Code	6	0				1
 101	Construct	7	0				1
-102	Construct - Promote	8	1	770300			1
+102	Member-Promote	8	1	770300			1
 103	Construct - Evolve	9	1				1
-104	Construct - Skill	10	1				1
+104	Member-Skills	10	1				1
+106	Member - Transcendant	10	1	8005			1
 201	Equip	11	1				1
 202	Equipment - Enhance	12	1				1
 203	Equipment - Resonance	13	1				1
@@ -35,9 +36,10 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 1001	Regular Shop	31	1	771000			1
 1002	Event Shop	37	1	771100			1
 1201	Dispatch	38	0	771200			1
-1901	Guild	38	0				1
+1901	Guild	38	1	770710			1
 1902	Guild - Create	38	0				1
 1903	Guild - Join	38	0				1
+1904	Guild Boss	38	1	772310			1
 2001	Support	39	1	771300			1
 10101	Normal Story	40	0				1
 10102	Hidden Story	41	1	771400			1
@@ -51,7 +53,7 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 10301	Event Quest	44	0				1
 10302	Co-op	44	1	772000			1
 10303	Event [Mass Deterioration]	44	0	772100			1
-10304	Event [Azure Scar]	44	0	772200			1
+10304	Brutal Level	44	0	772200			1
 10305	Test Area	45	0	772300			1
 10306	Festival Stage	46	0	772250			1
 10307	Babel Tower	47	0	772280			1
@@ -60,11 +62,16 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 10310	Tower-Climbing Event	50	0	772290			1
 10312	Joint Warfare	51	0	8004			1
 10313	Phalanx	50	0	775000			1
+10314	Extra Story	50	0				1
+10315	Autopoiesis Maze	50	1	84700201			1
+10316	Special Training	51	0	774800			1
+10317	Special Training Minigame	51	0	774800			1
+10319	Ghost Festival Minigame	53	0	772250			1
 10401	Resource Mission	33	0	772400			1
 10402	Resource - N/A 1	34	0	772500			1
 10403	Resource - N/A 2	36	0	772600			1
 10404	Resource - N/A 3	37	0	772700			1
-10406	Resource - Special Training	38	1	772800			1
+10406	Resources-Special Training	38	1	772800			1
 10407	Resource - Combat Supply	39	1	772900			1
 10408	Resource - Military Hardware	40	1	773000			1
 10409	Resource - Logistics Maintenance	41	1	773100			1
@@ -80,7 +87,7 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 1601	Memory Rescue	53	1	774100			1
 1701	Interlude	35	1	774200			1
 10405	Golden Vortex	54	1	774300			1
-105	Construct Army	55	1	774400			1
+105	Army	55	1	774400			1
 1800	Celica's Class	80	1	774500			1
 109001	Special Training RS-2	81	1	9001			2
 109002	Special Training RS-3	82	1	9002			2
@@ -107,3 +114,4 @@ Id	Name	Priority	Hint	Condition[1]	Condition[2]	Condition[3]	Type
 4000	Eden II	103	0	774800			0
 4001	Voting	104	1				1
 8001	Share Invite Code	105	0				1
+10450	Resource Shop	106	1	10450			1

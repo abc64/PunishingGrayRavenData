@@ -8,7 +8,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -20,7 +21,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -33,7 +35,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -45,7 +48,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -57,7 +61,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -70,7 +75,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -82,7 +88,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -95,7 +102,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -107,7 +115,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843001
@@ -121,7 +130,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843002
@@ -135,7 +145,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843003
@@ -149,7 +160,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": []
     },
@@ -161,7 +173,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843004
@@ -175,7 +188,8 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843005
@@ -189,10 +203,24 @@
         "HpRetain": 1,
         "MagicIds": [
             100028,
-            100039
+            100039,
+            700051
         ],
         "RebootCondition": [
             843006
         ]
+    },
+    {
+        "Id": 16,
+        "MaxRebootCount": 99999,
+        "RebootItemId": 1,
+        "ConsumeCount": 1000,
+        "HpRetain": 1,
+        "MagicIds": [
+            100028,
+            100039,
+            700051
+        ],
+        "RebootCondition": []
     }
 ]

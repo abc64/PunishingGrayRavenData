@@ -803,5 +803,58 @@
         "MultStageId": 30030902,
         "MultDescription": "No Stamina cost\\nCo-op racing mode",
         "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenmotor001.png"
+    },
+    {
+        "Id": 50,
+        "GroupID": 1,
+        "Name": "Dummy - Transcendant",
+        "RecommendLevel": 52,
+        "Order": 102,
+        "Type": 3,
+        "ConditionId": [
+            84700201
+        ],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenmuzhaung1.png",
+        "TrialID": 1,
+        "TrialStatus": 2,
+        "SingStageId": 30030304,
+        "MultStageId": 30030404,
+        "SingleDescription": "No Stamina cost.\\nEnemies will not attack\\nEnemies will always revive after death.\\nYou are advised to use the Transcendant.",
+        "MultDescription": "No Stamina cost.\\nEnemies will not attack.\\nEnemies will always revive after death.\\nOnly Transcendants can be deployed.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenmuzhuang001.png"
+    },
+    {
+        "Id": 51,
+        "GroupID": 1,
+        "Name": "Combat - Transcendant",
+        "RecommendLevel": 52,
+        "Order": 103,
+        "Type": 3,
+        "ConditionId": [
+            84700201
+        ],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenduizhan1.png",
+        "TrialID": 2,
+        "TrialStatus": 2,
+        "SingStageId": 30030305,
+        "MultStageId": 30030405,
+        "SingleDescription": "No Stamina cost.\\nEnemies will be revived infinitely.\\nYou are advised to use the Transcendant.",
+        "MultDescription": "No Stamina cost.\\nMonsters will always revive after death.\\nOnly Transcendants can be deployed.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenduizhan001.png"
+    },
+    {
+        "Id": 52,
+        "GroupID": 16,
+        "Name": "Theme Park Photos",
+        "RecommendLevel": 1,
+        "Order": 103,
+        "Type": 1,
+        "ConditionId": [],
+        "Ico": "Assets/Product/Texture/Image/UiFubenTrialBanner/UiFubenphoto1.png",
+        "TrialID": 1,
+        "TrialStatus": 2,
+        "SingStageId": 30031401,
+        "SingleDescription": "You can take pictures of wonderful moments in the park.",
+        "DetailBackGroundIco": "Assets/Product/Texture/Image/UiFubenTrialBg/UiFubenphoto1.png"
     }
 ]

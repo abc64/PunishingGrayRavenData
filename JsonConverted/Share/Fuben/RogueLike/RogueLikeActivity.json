@@ -14,7 +14,9 @@
         "TeamMemberCount": 3,
         "BlackShopId": 20001,
         "FightNeedPoint": 1,
-        "RobotMax": 8
+        "RobotMax": 8,
+        "CharacterLimitType": 3,
+        "LimitBuffId": 1
     },
     {
         "Id": 2,
@@ -32,6 +34,28 @@
         "TeamMemberCount": 3,
         "BlackShopId": 30001,
         "FightNeedPoint": 1,
-        "RobotMax": 8
+        "RobotMax": 8,
+        "CharacterLimitType": 3,
+        "LimitBuffId": 1
+    },
+    {
+        "Id": 3,
+        "BeginTimeStr": "2022/2/14 7:00",
+        "FightEndTimeStr": "2022/2/28 6:59",
+        "EndTimeStr": "2022/2/28 7:00",
+        "TeamEffectId": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "ActionPoint": 8,
+        "TeamMemberCount": 3,
+        "BlackShopId": 30001,
+        "FightNeedPoint": 1,
+        "RobotMax": 8,
+        "CharacterLimitType": 3,
+        "LimitBuffId": 1
     }
 ]

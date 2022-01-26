@@ -1,0 +1,94 @@
+[
+    {
+        "Id": 16010108,
+        "Behavior": 16010108,
+        "Name": "沙滩场景测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            160101080
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 99990901,
+        "Behavior": 99990901,
+        "Name": "交互测试",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 9,
+        "Terrains": [
+            999909010
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 15010116,
+        "Behavior": 15010116,
+        "Name": "加百列",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 11,
+        "CameraId": 10,
+        "Terrains": [
+            150101160
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    },
+    {
+        "Id": 30031401,
+        "Behavior": 30031401,
+        "Name": "观光",
+        "Environment": "Scene01302",
+        "TerrainRoot": "Test",
+        "CloseLoadingDelay": 0.15,
+        "SwitchNpcCd": 15,
+        "SceneCamera": 23,
+        "CameraId": 9,
+        "Terrains": [
+            300314010,
+            15010162,
+            15010160
+        ],
+        "Position": [
+            "0|0|0",
+            "0|0|0",
+            103.9407
+        ],
+        "Rotation": [
+            "0|0|0",
+            "0|0|0",
+            "0|0|0"
+        ]
+    }
+]

@@ -3,7 +3,7 @@
         "Id": 991105521,
         "Type": 4,
         "Time": 0.8,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "ImmuneHitTime": 2,
         "OriginType": 1,
         "ImmuneHitValue": 3
@@ -12,27 +12,39 @@
         "Id": 991105881,
         "Type": 1,
         "Time": 0.4,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 903714011,
         "Type": 1,
         "Time": 0.8,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "Speed": 5,
         "MoveTime": 0.2,
         "OriginType": 1,
         "ImmuneHitValue": 0,
-        "Acceleration": 1
+        "Acceleration": 1,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     },
     {
         "Id": 991605011,
         "Type": 2,
         "Time": 0.4,
-        "HoverTime": 0.2,
+        "HoverTime": 0,
         "OriginType": 1,
-        "ImmuneHitValue": 0
+        "ImmuneHitValue": 0,
+        "HitFlyMoveSpeed": 1.5,
+        "HitFlyMoveAcceleration": "-2",
+        "HitFlyUpSpeed": 3,
+        "HitFlyDownSpeed": 0
     }
 ]

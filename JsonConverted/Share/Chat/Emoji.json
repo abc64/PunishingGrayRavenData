@@ -1,6 +1,7 @@
 [
     {
         "Id": 11000001,
+        "Order": 1,
         "Name": "Stamp 1",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA1.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA1.png",
@@ -12,6 +13,7 @@
     },
     {
         "Id": 11000002,
+        "Order": 2,
         "Name": "Stamp 2",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA2.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA2.png",
@@ -23,6 +25,7 @@
     },
     {
         "Id": 11000003,
+        "Order": 3,
         "Name": "Stamp 3",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA3.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA3.png",
@@ -34,6 +37,7 @@
     },
     {
         "Id": 11000004,
+        "Order": 4,
         "Name": "Stamp 4",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA4.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA4.png",
@@ -45,6 +49,7 @@
     },
     {
         "Id": 11000005,
+        "Order": 5,
         "Name": "Stamp 5",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA5.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA5.png",
@@ -56,6 +61,7 @@
     },
     {
         "Id": 11000006,
+        "Order": 6,
         "Name": "Stamp 6",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA6.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA6.png",
@@ -67,6 +73,7 @@
     },
     {
         "Id": 11000007,
+        "Order": 7,
         "Name": "Stamp - My Song",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA7.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA7.png",
@@ -77,6 +84,7 @@
     },
     {
         "Id": 11000008,
+        "Order": 8,
         "Name": "Stamp - Dinner's Ready",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA8.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA8.png",
@@ -87,6 +95,7 @@
     },
     {
         "Id": 11000009,
+        "Order": 9,
         "Name": "Stamp - Good Shot",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA9.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA9.png",
@@ -97,11 +106,34 @@
     },
     {
         "Id": 11000010,
+        "Order": 10,
         "Name": "Stamp - Hmph",
         "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA10.png",
         "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA10.png",
         "Description": "Chat Stamp",
         "WorldDesc": "Hmph—Lee: Palefire",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000
+    },
+    {
+        "Id": 11000016,
+        "Order": 16,
+        "Name": "Stamp - Love Love",
+        "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA16.png",
+        "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA16.png",
+        "Description": "Chat Stamp",
+        "WorldDesc": "Love Love — Lucia: Plume",
+        "ConvertItemId": 1,
+        "ConvertItemCount": 10000
+    },
+    {
+        "Id": 11000017,
+        "Order": 17,
+        "Name": "Stamp - So many Cogs",
+        "BigIcon": "Assets/Product/Texture/Image/IconExpression/IconExpressA17.png",
+        "Path": "Assets/Product/Texture/Image/IconExpression/IconExpressA17.png",
+        "Description": "Chat Stamp",
+        "WorldDesc": "So many Cogs — Kamui",
         "ConvertItemId": 1,
         "ConvertItemCount": 10000
     }

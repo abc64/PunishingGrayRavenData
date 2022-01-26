@@ -333,7 +333,7 @@
         "Id": 17001,
         "SendName": "E-02 'Babylonia' Command",
         "Title": "Phalanx Ranking Reward",
-        "Content": "You scored higher than 99% of players in your level range in this round of Phalanx event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "Content": "You scored higher than 99% of the players in your level range in this round of Phalanx. Every battle brings us closer to Eden's return! Here is your reward.",
         "ValidTime": 604800,
         "RewardIds": [
             3702000,
@@ -346,7 +346,7 @@
         "Id": 17002,
         "SendName": "E-02 'Babylonia' Command",
         "Title": "Phalanx Ranking Reward",
-        "Content": "You scored higher than 95% of players in your level range in this round of Phalanx event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "Content": "You scored higher than 95% of the players in your level range in this round of Phalanx. Every battle brings us closer to Eden's return! Here is your reward.",
         "ValidTime": 604800,
         "RewardIds": [
             3702010,
@@ -359,7 +359,7 @@
         "Id": 17003,
         "SendName": "E-02 'Babylonia' Command",
         "Title": "Phalanx Ranking Reward",
-        "Content": "You scored higher than 90% of players in your level range in this round of Phalanx event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "Content": "You scored higher than 90% of the players in your level range in this round of Phalanx. Every battle brings us closer to Eden's return! Here is your reward.",
         "ValidTime": 604800,
         "RewardIds": [
             3702020,
@@ -372,7 +372,7 @@
         "Id": 17004,
         "SendName": "E-02 'Babylonia' Command",
         "Title": "Phalanx Ranking Reward",
-        "Content": "You scored higher than 70% of players in your level range in this round of Phalanx event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "Content": "You scored higher than 70% of the players in your level range in this round of Phalanx. Every battle brings us closer to Eden's return! Here is your reward.",
         "ValidTime": 604800,
         "RewardIds": [
             3702030,
@@ -384,7 +384,7 @@
         "Id": 17005,
         "SendName": "E-02 'Babylonia' Command",
         "Title": "Phalanx Ranking Reward",
-        "Content": "You scored higher than 5% of players in your level range in this round of Phalanx event. Every battle brings us closer to Eden's return! Here is your reward.",
+        "Content": "You scored higher than 5% of the players in your level range in this round of Phalanx. Every battle brings us closer to Eden's return! Here is your reward.",
         "ValidTime": 604800,
         "RewardIds": [
             3702040,
@@ -603,24 +603,40 @@
     {
         "Id": 40001,
         "SendName": "E-02 'Babylonia' Command",
-        "Title": "Guild Notice",
-        "Content": "Dear Commandant, your Guild application has been approved. Tap the Guild button to enter your Guild now.",
+        "Title": "Command Bureau Notification",
+        "Content": "Dear Commandant, your Command Bureau application has been approved. Tap the Command Bureau button to enter your Command Bureau now.",
         "ValidTime": 604800,
         "RewardIds": []
     },
     {
         "Id": 40002,
-        "SendName": "Guild Management Center",
+        "SendName": "Command Bureau Management Center",
         "Title": "Wish Notice",
-        "Content": "Dear Commandant, you have received a gift for your published Guild wish.",
+        "Content": "Dear Commandant, you have received a gift for the wish you published in the Command Bureau.",
         "ValidTime": 604800,
         "RewardIds": []
     },
     {
         "Id": 40003,
-        "SendName": "Guild Management Center",
-        "Title": "Guild Benefit",
-        "Content": "Dear Commandant, your Guild has purchased supplies for all members.",
+        "SendName": "Command Bureau Management Center",
+        "Title": "Command Bureau Benefit",
+        "Content": "Dear Commandant, the supplies your Command Bureau purchased have arrived.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 40004,
+        "SendName": "Command Bureau Management Center",
+        "Title": "Impeachment Failed",
+        "Content": "Dear Commandant, your impeachment effort failed due to certain reasons. The impeachment fee is hereby returned to you.",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 40005,
+        "SendName": "Command Bureau Management Center",
+        "Title": "Impeachment Compensation",
+        "Content": "Dear Commandant, you have been impeached as the chief of the Command Bureau for staying offline too long. The bureau establishment fee is hereby returned to you.",
         "ValidTime": 604800,
         "RewardIds": []
     },
@@ -1064,51 +1080,63 @@
     },
     {
         "Id": 50001,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "No.1 Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Ephemeris]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200000
+        ]
     },
     {
         "Id": 50002,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "No.2 Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Purgatory]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200010
+        ]
     },
     {
         "Id": 50003,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "No.3 Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Apogee]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200020
+        ]
     },
     {
         "Id": 50004,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "Top 5 Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Formless]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200030
+        ]
     },
     {
         "Id": 50005,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "Top 10 Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Masses]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200040
+        ]
     },
     {
         "Id": 50006,
-        "SendName": "Test Center",
-        "Title": "Ranking Reward",
-        "Content": "Top 0.1% Reward",
+        "SendName": "E-02 'Babylonia Command Center",
+        "Title": "Autopoiesis Maze Grade Reward:",
+        "Content": "Dear Commandant, your grade in [Autopoiesis Maze] has changed to [Galore]. This portrait frame is your reward.",
         "ValidTime": 604800,
-        "RewardIds": []
+        "RewardIds": [
+            5200050
+        ]
     },
     {
         "Id": 50007,
@@ -1294,6 +1322,17 @@
         ]
     },
     {
+        "Id": 13000160,
+        "SendName": "空中庭園補給センター",
+        "Title": "1日1セット×5日間",
+        "Content": "指揮官様<br>地球奪還の任務、お疲れさまです。<br>ご購入いただいた「夏のアプデ5日パス」特典（特別構造体開発券、スノードーム）を配布いたしますので、添付アイテムをお受け取りください。本特典はパス購入から5日連続でメールボックスに届きます。<br>今後も「パニシング：グレイレイヴン」をどうかよろしくお願いいたします。",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            13000133,
+            13000134
+        ]
+    },
+    {
         "Id": 11,
         "SendName": "E-02 'Babylonia' Quartermaster",
         "Title": "Recharge Pack",
@@ -1446,6 +1485,73 @@
         "SendName": "PGR Team",
         "Title": "Questionnaire Rewards",
         "Content": "Dear Commandant,<br><br>Thank you for filling the Nona Ouroboros Satisfaction Questionnaire. We prepared the participation rewards - Black Cards *150, which are attached to this mail. Please claim it in time!<br>Again, thanks for your support and love for Punishing: Gray Raven!",
+        "ValidTime": 604800,
+        "RewardIds": []
+    },
+    {
+        "Id": 14000015,
+        "SendName": "E-02 'Babylonia' Command",
+        "Title": "1 per day for 7 days",
+        "Content": "Dear Commandant, here are your Lunar New Year 7-day Pass rewards. You will receive one reward per day over 7 days. Please claim it.",
+        "ValidTime": 2592000,
+        "RewardIds": [
+            140000060,
+            140000061
+        ]
+    },
+    {
+        "Id": 96000010,
+        "SendName": "Chrome",
+        "Title": "Gift from Chrome",
+        "Content": "An assortment of fragrant chocolates has been neatly arranged in this gold-foiled gift box. You can feel the heartfelt gratitude of the sender, or... does it stem from something deeper?",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 96000011,
+        "SendName": "Sophia",
+        "Title": "Gift from Sophia",
+        "Content": "A somewhat crude-looking handmade chocolate. Fills your mouth with the dominating sweetness of date palms and camel milk, invoking even unfound nostalgia for the desert. To recreate such a stunning flavor in Babylonia, Sophia must have put in a lot of work.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 96000012,
+        "SendName": "Vera",
+        "Title": "Gift from Vera",
+        "Content": "Open it for a thorny and surprisingly spicy piece of chocolate. Pungency is a type of pain. How on earth did she manage to spice up chocolate? Must be a trade secret.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 96000013,
+        "SendName": "Camu",
+        "Title": "Gift from Camu",
+        "Content": "Open it for a massive hunk of chocolate. An explosion of different flavors compressed into one solid mass, a single bite will destroy your blood sugar levels and give you a multidimensional taste adventure.",
+        "ValidTime": 604800,
+        "RewardIds": [
+            202,
+            201,
+            200
+        ]
+    },
+    {
+        "Id": 14000020,
+        "SendName": "PGR Team",
+        "Title": "Questionnaire Rewards",
+        "Content": "Dear Commandant,<br><br>Thank you for filling the Kowloong Metropolis Questionnaire. We prepared the participation rewards [Black Cards *150] which are attached to this mail. Please claim it in time!<br>Again, thanks for your support and love for Punishing: Gray Raven!",
         "ValidTime": 604800,
         "RewardIds": []
     }

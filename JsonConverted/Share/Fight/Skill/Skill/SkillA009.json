@@ -1,7 +1,7 @@
 [
     {
         "Id": 103201,
-        "Name": "通常攻撃1",
+        "Name": "普攻1",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 2.3,
@@ -14,7 +14,7 @@
     },
     {
         "Id": 103202,
-        "Name": "通常攻撃2",
+        "Name": "普攻2",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.8,
@@ -27,7 +27,7 @@
     },
     {
         "Id": 103203,
-        "Name": "通常攻撃3",
+        "Name": "普攻3",
         "SkillType": 1,
         "CastTime": 0.75,
         "AfterTime": 2,
@@ -41,7 +41,7 @@
     },
     {
         "Id": 103204,
-        "Name": "通常攻撃4",
+        "Name": "普攻4",
         "SkillType": 1,
         "CastTime": 1.25,
         "AfterTime": 1.95,
@@ -54,7 +54,7 @@
     },
     {
         "Id": 103205,
-        "Name": "通常攻撃5",
+        "Name": "普攻5",
         "SkillType": 1,
         "CastTime": 0.9,
         "AfterTime": 2.8,
@@ -68,7 +68,7 @@
     },
     {
         "Id": 103206,
-        "Name": "赤シグナル1ショット",
+        "Name": "红球1消",
         "SkillType": 11,
         "CastTime": 1.2,
         "AfterTime": 1.5,
@@ -82,7 +82,7 @@
     },
     {
         "Id": 103207,
-        "Name": "赤シグナル2ショット",
+        "Name": "红球2消",
         "SkillType": 12,
         "CastTime": 1.2,
         "AfterTime": 1.5,
@@ -96,7 +96,7 @@
     },
     {
         "Id": 103208,
-        "Name": "赤シグナル3ショット",
+        "Name": "红球3消",
         "SkillType": 13,
         "CastTime": 1.2,
         "AfterTime": 1.5,
@@ -110,7 +110,7 @@
     },
     {
         "Id": 103209,
-        "Name": "青シグナル1ショット",
+        "Name": "蓝球1消",
         "SkillType": 21,
         "CastTime": 1,
         "AfterTime": 2.2,
@@ -124,7 +124,7 @@
     },
     {
         "Id": 103210,
-        "Name": "青シグナル2ショット",
+        "Name": "蓝球2消",
         "SkillType": 22,
         "CastTime": 1,
         "AfterTime": 2.2,
@@ -138,7 +138,7 @@
     },
     {
         "Id": 103211,
-        "Name": "青シグナル3ショット",
+        "Name": "蓝球3消",
         "SkillType": 23,
         "CastTime": 1,
         "AfterTime": 2.2,
@@ -152,7 +152,7 @@
     },
     {
         "Id": 103212,
-        "Name": "黄シグナル1ショット",
+        "Name": "黄球1消",
         "SkillType": 31,
         "CastTime": 0.7,
         "AfterTime": 2.7,
@@ -167,7 +167,7 @@
     },
     {
         "Id": 103213,
-        "Name": "黄シグナル2ショット",
+        "Name": "黄球2消",
         "SkillType": 32,
         "CastTime": 0.7,
         "AfterTime": 2.7,
@@ -182,7 +182,7 @@
     },
     {
         "Id": 103214,
-        "Name": "黄シグナル3ショット",
+        "Name": "黄球3消",
         "SkillType": 33,
         "CastTime": 0.7,
         "AfterTime": 2.7,
@@ -197,7 +197,7 @@
     },
     {
         "Id": 103215,
-        "Name": "QTEスキル",
+        "Name": "QTE技能",
         "SkillType": 7,
         "CastTime": 1.5,
         "AfterTime": 0,
@@ -212,7 +212,7 @@
     },
     {
         "Id": 103216,
-        "Name": "回避",
+        "Name": "闪避",
         "SkillType": 5,
         "CastTime": 0.4,
         "AfterTime": 1.85,
@@ -228,7 +228,7 @@
     },
     {
         "Id": 103217,
-        "Name": "デフォルトで後方回避",
+        "Name": "默认向后闪避",
         "SkillType": 6,
         "CastTime": 0.4,
         "AfterTime": 1.95,
@@ -244,7 +244,7 @@
     },
     {
         "Id": 103218,
-        "Name": "必殺技",
+        "Name": "大招",
         "SkillType": 41,
         "CastTime": 0.6,
         "AfterTime": 2.7,
@@ -259,7 +259,7 @@
     },
     {
         "Id": 103219,
-        "Name": "勝利1",
+        "Name": "胜利1",
         "SkillType": 8,
         "CastTime": 100,
         "AfterTime": 1,
@@ -272,7 +272,7 @@
     },
     {
         "Id": 103220,
-        "Name": "勝利2",
+        "Name": "胜利2",
         "SkillType": 8,
         "CastTime": 100,
         "AfterTime": 1,
@@ -285,7 +285,7 @@
     },
     {
         "Id": 103221,
-        "Name": "出現スキル",
+        "Name": "出生技能",
         "SkillType": 4,
         "CastTime": 0,
         "AfterTime": 2.75,
@@ -298,7 +298,7 @@
     },
     {
         "Id": 103222,
-        "Name": "インタラクティブ動作",
+        "Name": "交互动作",
         "SkillType": 9,
         "CastTime": 0,
         "AfterTime": 100,
@@ -311,7 +311,7 @@
     },
     {
         "Id": 103223,
-        "Name": "出撃スキル",
+        "Name": "出场技",
         "SkillType": 3,
         "CastTime": 1,
         "AfterTime": 2.2,
@@ -325,7 +325,7 @@
     },
     {
         "Id": 103224,
-        "Name": "通常攻撃1（突進）",
+        "Name": "普攻1（突进）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 2.3,
@@ -338,7 +338,7 @@
     },
     {
         "Id": 103225,
-        "Name": "通常攻撃3（突進）",
+        "Name": "普攻3（突进）",
         "SkillType": 1,
         "CastTime": 0.55,
         "AfterTime": 1.8,
@@ -352,7 +352,7 @@
     },
     {
         "Id": 103226,
-        "Name": "潜入でアクティブスキル開放",
+        "Name": "潜行开启主动技能",
         "SkillType": 46,
         "CastTime": 9999,
         "AfterTime": 0,
@@ -365,7 +365,7 @@
     },
     {
         "Id": 103227,
-        "Name": "潜入でアクティブスキル閉鎖",
+        "Name": "潜行关闭主动技能",
         "SkillType": 46,
         "CastTime": 0.5,
         "AfterTime": 0,
@@ -378,7 +378,7 @@
     },
     {
         "Id": 103228,
-        "Name": "潜入暗殺",
+        "Name": "潜行刺杀",
         "SkillType": 9,
         "CastTime": 3.8,
         "AfterTime": 0,
@@ -392,7 +392,7 @@
     },
     {
         "Id": 103251,
-        "Name": "通常攻撃1（氷）",
+        "Name": "普攻1（冰）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.9,
@@ -406,7 +406,7 @@
     },
     {
         "Id": 103252,
-        "Name": "通常攻撃2（氷）",
+        "Name": "普攻2（冰）",
         "SkillType": 1,
         "CastTime": 0.75,
         "AfterTime": 1.9,
@@ -419,7 +419,7 @@
     },
     {
         "Id": 103253,
-        "Name": "通常攻撃3（氷）",
+        "Name": "普攻3（冰）",
         "SkillType": 1,
         "CastTime": 0.6,
         "AfterTime": 2.1,
@@ -433,7 +433,7 @@
     },
     {
         "Id": 103254,
-        "Name": "通常攻撃4（氷）",
+        "Name": "普攻4（冰）",
         "SkillType": 1,
         "CastTime": 0.75,
         "AfterTime": 1.6,
@@ -446,7 +446,7 @@
     },
     {
         "Id": 103255,
-        "Name": "通常攻撃5（氷）",
+        "Name": "普攻5（冰）",
         "SkillType": 1,
         "CastTime": 1,
         "AfterTime": 2.6,
@@ -460,7 +460,7 @@
     },
     {
         "Id": 103256,
-        "Name": "赤シグナル1ショット（氷）",
+        "Name": "红球1消（冰）",
         "SkillType": 11,
         "CastTime": 1,
         "AfterTime": 2.1,
@@ -474,7 +474,7 @@
     },
     {
         "Id": 103257,
-        "Name": "赤シグナル2ショット（氷）",
+        "Name": "红球2消（冰）",
         "SkillType": 12,
         "CastTime": 1,
         "AfterTime": 2.1,
@@ -488,7 +488,7 @@
     },
     {
         "Id": 103258,
-        "Name": "赤シグナル3ショット（氷）",
+        "Name": "红球3消（冰）",
         "SkillType": 13,
         "CastTime": 1,
         "AfterTime": 2.1,
@@ -502,7 +502,7 @@
     },
     {
         "Id": 103259,
-        "Name": "青シグナル1ショット（氷）",
+        "Name": "蓝球1消（冰）",
         "SkillType": 21,
         "CastTime": 0.85,
         "AfterTime": 1.35,
@@ -516,7 +516,7 @@
     },
     {
         "Id": 103260,
-        "Name": "青シグナル2ショット（氷）",
+        "Name": "蓝球2消（冰）",
         "SkillType": 22,
         "CastTime": 0.85,
         "AfterTime": 1.35,
@@ -530,7 +530,7 @@
     },
     {
         "Id": 103261,
-        "Name": "青シグナル3ショット（冰）",
+        "Name": "蓝球3消（冰）",
         "SkillType": 23,
         "CastTime": 0.85,
         "AfterTime": 1.35,
@@ -544,7 +544,7 @@
     },
     {
         "Id": 103262,
-        "Name": "黄シグナル1ショット（氷）",
+        "Name": "黄球1消（冰）",
         "SkillType": 31,
         "CastTime": 0.6,
         "AfterTime": 1.75,
@@ -559,7 +559,7 @@
     },
     {
         "Id": 103263,
-        "Name": "黄シグナル2ショット（氷）",
+        "Name": "黄球2消（冰）",
         "SkillType": 32,
         "CastTime": 0.6,
         "AfterTime": 1.75,
@@ -574,7 +574,7 @@
     },
     {
         "Id": 103264,
-        "Name": "黄シグナル3ショット（氷）",
+        "Name": "黄球3消（冰）",
         "SkillType": 33,
         "CastTime": 0.6,
         "AfterTime": 1.75,
@@ -589,7 +589,7 @@
     },
     {
         "Id": 103265,
-        "Name": "回避（氷）",
+        "Name": "闪避（冰）",
         "SkillType": 5,
         "CastTime": 0.4,
         "AfterTime": 1.5,
@@ -605,7 +605,7 @@
     },
     {
         "Id": 103266,
-        "Name": "デフォルトで後方回避（氷）",
+        "Name": "默认向后闪避（冰）",
         "SkillType": 6,
         "CastTime": 0.4,
         "AfterTime": 1.6,
@@ -621,7 +621,7 @@
     },
     {
         "Id": 103267,
-        "Name": "必殺技（氷）",
+        "Name": "大招（冰）",
         "SkillType": 2,
         "CastTime": 4,
         "AfterTime": 1.45,
@@ -636,7 +636,7 @@
     },
     {
         "Id": 103268,
-        "Name": "出撃スキル（氷）",
+        "Name": "出场技（冰）",
         "SkillType": 3,
         "CastTime": 0.85,
         "AfterTime": 1.35,
@@ -650,7 +650,7 @@
     },
     {
         "Id": 103269,
-        "Name": "通常攻撃1（突進）（氷）",
+        "Name": "普攻1（突进）（冰）",
         "SkillType": 1,
         "CastTime": 0.5,
         "AfterTime": 1.95,
@@ -664,7 +664,7 @@
     },
     {
         "Id": 103270,
-        "Name": "小必殺技1（氷)",
+        "Name": "小大招1（冰）",
         "SkillType": 2,
         "CastTime": 1.2,
         "AfterTime": 1.8,
@@ -679,7 +679,7 @@
     },
     {
         "Id": 103271,
-        "Name": "小必殺技2（氷）",
+        "Name": "小大招2（冰）",
         "SkillType": 2,
         "CastTime": 1.2,
         "AfterTime": 1.8,
@@ -694,7 +694,7 @@
     },
     {
         "Id": 103272,
-        "Name": "小必殺技3（氷）",
+        "Name": "小大招3（冰）",
         "SkillType": 2,
         "CastTime": 1.2,
         "AfterTime": 1.8,
@@ -709,7 +709,7 @@
     },
     {
         "Id": 103273,
-        "Name": "勝利1",
+        "Name": "胜利1",
         "SkillType": 8,
         "CastTime": 100,
         "AfterTime": 0,
@@ -722,7 +722,7 @@
     },
     {
         "Id": 103274,
-        "Name": "勝利2",
+        "Name": "胜利2",
         "SkillType": 8,
         "CastTime": 100,
         "AfterTime": 0,
@@ -735,7 +735,7 @@
     },
     {
         "Id": 103275,
-        "Name": "インタラクティブ動作",
+        "Name": "交互动作",
         "SkillType": 9,
         "CastTime": 0,
         "AfterTime": 100,
@@ -748,7 +748,7 @@
     },
     {
         "Id": 103276,
-        "Name": "QTEスキル",
+        "Name": "QTE技能",
         "SkillType": 7,
         "CastTime": 1.95,
         "AfterTime": 0,
@@ -763,7 +763,7 @@
     },
     {
         "Id": 103277,
-        "Name": "通常攻撃3（突進）（氷）",
+        "Name": "普攻3(突进）（冰）",
         "SkillType": 1,
         "CastTime": 0.6,
         "AfterTime": 2.1,

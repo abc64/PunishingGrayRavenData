@@ -3,7 +3,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 90020002	库贝 弹飞	2	2				0			4			0.05		1				-1								-1		FxMo1KuroMd1001Attack01	1					0	0	0								2							0	1				900200021									0	HitCase		0					1					
 90040001	激光柱子弹	2	1				0			4			0.2						-1		FxMb1BraveMd010011ShouJi						-1			1					0	0	0								0							0	1				900400011	801010								0.5	HitCase	1	0					1					
 90005006	剑圣-Skill-02-剑风	2	3				0			4			60	60					-1						FxYujingRing		-1			1					0	0	0								0							0	1													1	HitCase	1	1					0					
-90005000	酸液喷射者-Skill-04-轰炸	2	1				10			4			3						-1		FxDibingShouji						-1			3	-20	0	10	0	0	0	0								0							1	1					970104								0	HitCase		0			9999	1	1					
+90005000	酸液喷射者-Skill-04-轰炸	2	1				10			4			3						-1		FxDibingShouji						-1			3	-20	0	10	0	0	0	0								0							1	1													0	HitCase		0			9999	1	1					
 90005001	关卡用—小受击	2	2				0			4			1						-1						FxNpcYujing01		-1			1	0				0	0	0								1							1	1				900050011									0	HitCase	1	0					0					
 90005002	关卡用—大受击	2	2				0			4			1						-1						FxNpcYujing01		-1			1	0				0	0	0								1							1	1				900050021									0	HitCase	1	0					0					
 90005003	关卡用—击飞	2	2				0			4			1						-1						FxNpcYujing01		-1			1	0				0	0	0								1							1	1				900050031									0	HitCase	1	0					0					
@@ -98,7 +98,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81100101	R-01-右爪打中间	2	3			5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811001011	801050	811042							0	HitCase		0					1					
 81100103	R-01-右爪打中间	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0					0					
 81100201	R-02-右爪打右边	2	3		4	4	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811002011	801050	811042							0	HitCase		0					1					
-81102101	M-01-前方挥砍	1	10	5		5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811021011	801075	811046							0	HitCase		0					1					
+81102101	M-01-前方挥砍	1	10	5		5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811021011	801075	811046	200003			200003			0	HitCase		0					1					
 81102201	M-02-机枪扫射	3	10.5	55			0			4			1.75						-1	1	FxDibingShouji		0.3				-1			1					0	0	0								0							0	1				811022011	801012	811044							0	HitCase	1	0					1					
 81102202	M-02-机枪扫射	3	10.5	55			0			4			1.75						-1	1	FxDibingShouji		0.3				-1			1					0	0	0								0							0	1				811022021	801012	811044							0	HitCase	1	0					1					
 81102206	M-02-机枪扫射	2	5			6	0			4			5						-1						FxMbMsMd040011Attack0401		-1			1					0	0	0								0							0	1													0	HitCase		0					0					
@@ -141,7 +141,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81120101	R-01-右爪打中间	2	3			5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811201011	801050	811042							0	HitCase		0					1					
 81120103	R-01-右爪打中间	2	0.1				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase		0					0					
 81120201	R-02-右爪打右边	2	3		4	4	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811202011	801050	811042							0	HitCase		0					1					
-81122101	M-01-前方挥砍	1	10	5		5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811221011	801075	811046							0	HitCase		0					1					
+81122101	M-01-前方挥砍	1	10	5		5	0			4			0.1						-1		FxDibingShouji						-1			1					0	0	0								0							0	1				811221011	801075	811046	200003			200003			0	HitCase		0					1					
 81122201	M-02-机枪扫射	3	10.5	55			0			4			1.75						-1	1	FxDibingShouji		0.3				-1			1					0	0	0								0							0	1				811222011	801012	811044							0	HitCase	1	0					1					
 81122202	M-02-机枪扫射	3	10.5	55			0			4			1.75						-1	1	FxDibingShouji		0.3				-1			1					0	0	0								0							0	1				811222021	801012	811044							0	HitCase	1	0					1					
 81122206	M-02-机枪扫射	2	5			6	0			4			5						-1						FxMbMsMd040011Attack0401		-1			1					0	0	0								0							0	1													0	HitCase		0					0					
@@ -241,7 +241,7 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81400402	毒圈	4	2	5			0			4			0.1						-1		FxMb1LadyMd10001Attack04Shouji						-1			1					0	0	0								0							0	1					801020								0	HitCase	1	0					0					
 81400403	毒圈	2	5				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase	1	0					0					
 81400502	大爆炸	2	35				0			4			0.1						-1		FxMb1LadyMd10001Attack05Shouji						-1			1					0	0	0								2							0	2				814005021	801100								0	HitCase	1	0		1			1					
-81400503	大爆炸	2	35			5.5	0			4			3						-1						FxMb1LadyMd10001Attack05Zha70m		-1			1					0	0	0								0	0.1		1	81400502			0	1													0	HitCase		0		1			0					
+81400503	大爆炸	2	35			5.5	0			4			3						-1						FxMb1LadyMd10001Attack05Zha70m		-1			1					0	0	0								0	0.05		1	81400502			0	1													0	HitCase		0		1			0					
 81400801	全屏毒雨（环形伤害子弹）	4	7.5	50			0			4			0.1						-1	1	FxMb1LadyMd10001Attack08Shouji		0.3				-1			1					0	0	0								0							0	1					801010								0	HitCase		0		1			0					
 81400803	大爆炸	2	7.5				0			4			0.1						-1		FxMb1LadyMd10001Attack08Shouji						-1			1					0	0	0								2							0	2				814008031	801025								0	HitCase		0					1					
 81400804	大爆炸	2	3.7				0			4			3	0.8					-1						FxMb1LadyMd10001Attack08Zha		-1			1					0	0	0								1	0.8		1	81400803			0	1													0	HitCase		0					0					
@@ -266,6 +266,6 @@ Id	Name	Shape	SizeX	SizeY	OffsetX	OffsetY	Speed	HitSpeed	Direction	TargetType	Np
 81406202	毒圈	4	2	5			0			4			0.1						-1		FxMb1LadyMd10001Attack04Shouji						-1			1					0	0	0								0							0	1		0.2	0.1		801005								0	HitCase	1	0					0					
 81406203	毒圈	2	5				0			4			0.1						-1								-1			1					0	0	0								0							0	1													0	HitCase	1	0					0					
 81406302	大爆炸	2	35				0			4			0.1						-1		FxMb1LadyMd10001Attack05Shouji						-1			1					0	0	0								2							0	1		0.2	0.1	814063021	801080	200004				200004			0	HitCase	1	0					1					
-81406303	大爆炸	2	35			5.5	0			4			3						-1						FxMb1LadyMd10001Attack05Zha70m		-1			1					0	0	0								0	0.1		1	81400502			0	1		0.2	0.1										0	HitCase		0					0					
+81406303	大爆炸	2	35			5.5	0			4			3						-1						FxMb1LadyMd10001Attack05Zha70m		-1			1					0	0	0								0	0.05		1	81400502			0	1		0.2	0.1										0	HitCase		0					0					
 81410102	一闪-伤害	2	1.1				0			6			999						-1		FxMb1SwordMd030002AttackShouji						-1			1					0	0	0								0							0	1				814101021	801100								0	HitCase	1	1		1			1					
 81410104	一闪-伤害	2	1.1				0			2			999						-1		FxMb1SwordMd030002AttackShouji						-1			1					0	0	0								0							0	1										814101			0	HitCase	1	1		1			1					

@@ -63,7 +63,7 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101109			0	0.3			1	0	1011090			101109000					
 101113			0	1.7			1	0	1011130				FxR3LiangTuowei	WeaponCase2			
 101114			0	1.7			1	0	1011140				FxR3LiangTuowei	WeaponCase1			
-101116			0	1.7			1	0	1011160			101116000	FxTongyongBati	HitCase			
+101116			0	1.7			1	0	1011160	1011160		101116000	FxTongyongBati	HitCase			
 101117			0	0			1	0	1011170	1011160							
 101118			0	2			3	0	1011180			101118000					1
 101119			0	0.05			1	0	1011190								1
@@ -101,7 +101,7 @@ Id	Name	Desc	Delay	Duration	EffectType	AffixId	Limit	Cd	Kind	Cover	Mutex	Magic	E
 101173			0	6.3			1	0	1011730								
 101174			0	5			3	0	1011740			101174000					
 101175			0	0.1			1	0	1011750			101175000					
-101176			0	0			1	0	1011760								
+101176			0	5			1	0	1011760			101176000					
 101177			0	10			1	0	1011770			101177000					
 101178			0	10			1	0	1011780			101178000					
 101179			0	-1			1	0	1011790|411			101179000	FxR3LiangPinzhiGuadianBip001LForearm	Bip001LForearm			

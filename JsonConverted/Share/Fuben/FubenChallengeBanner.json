@@ -9,7 +9,8 @@
         "ResetInterval": 18000,
         "ShopId": 301,
         "IsOpen": 1,
-        "Priority": 3
+        "Priority": 3,
+        "FunctionId": 10203
     },
     {
         "Id": 2,
@@ -18,7 +19,8 @@
         "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter04.png",
         "ResetType": 3,
         "IsOpen": 1,
-        "Priority": 1
+        "Priority": 1,
+        "FunctionId": 1601
     },
     {
         "Id": 3,
@@ -27,7 +29,8 @@
         "SimpleDesc": "War Zone",
         "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter03.png",
         "IsOpen": 1,
-        "Priority": 2
+        "Priority": 2,
+        "FunctionId": 10204
     },
     {
         "Id": 4,
@@ -36,7 +39,8 @@
         "SimpleDesc": "Golden Vortex",
         "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter05.png",
         "IsOpen": 1,
-        "Priority": 4
+        "Priority": 5,
+        "FunctionId": 10405
     },
     {
         "Id": 5,
@@ -45,7 +49,8 @@
         "SimpleDesc": "Celica's Class",
         "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter06.png",
         "IsOpen": 1,
-        "Priority": 6
+        "Priority": 7,
+        "FunctionId": 1800
     },
     {
         "Id": 6,
@@ -54,6 +59,16 @@
         "SimpleDesc": "Border Pact",
         "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter07.png",
         "IsOpen": 1,
-        "Priority": 5
+        "Priority": 6,
+        "FunctionId": 10311
+    },
+    {
+        "Id": 7,
+        "Type": 33,
+        "SimpleDesc": "Autopoiesis Maze",
+        "Icon": "Assets/Product/Texture/Image/UiFubenChallengeBanner/UiFubenChallengeChapter08.png",
+        "IsOpen": 1,
+        "Priority": 4,
+        "FunctionId": 10315
     }
 ]

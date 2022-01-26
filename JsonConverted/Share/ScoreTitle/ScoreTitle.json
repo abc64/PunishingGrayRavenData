@@ -3,7 +3,7 @@
         "Id": 13000001,
         "Type": 5,
         "ExtraParams": [],
-        "Priority": 1,
+        "Priority": 2,
         "Condition": 850004,
         "InitQuality": 3,
         "QualityConditions": [],
@@ -20,7 +20,7 @@
         "Id": 13000100,
         "Type": 5,
         "ExtraParams": [],
-        "Priority": 2,
+        "Priority": 3,
         "Condition": 850005,
         "InitQuality": 4,
         "QualityConditions": [],
@@ -37,7 +37,7 @@
         "Id": 13000300,
         "Type": 3,
         "ExtraParams": [],
-        "Priority": 4,
+        "Priority": 5,
         "InitQuality": 5,
         "QualityConditions": [],
         "Qualities": [],
@@ -45,7 +45,7 @@
         "MainDesc": "Collectible",
         "WorldDesc": "This controller monitors the number of areas cleared and is a symbol of total control within the areas. It is issued to the commandants who have demonstrated outstanding capabilities.",
         "Hint": [],
-        "GetDesc": "Clear any Border Pact area without using the reboot function to receive",
+        "GetDesc": "Clear any Border Pact area without rebooting to receive",
         "ShowType": 1,
         "ShowScore": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection006.png"
@@ -54,7 +54,7 @@
         "Id": 13000400,
         "Type": 4,
         "ExtraParams": [],
-        "Priority": 5,
+        "Priority": 6,
         "InitQuality": 2,
         "QualityConditions": [
             84700102,
@@ -70,9 +70,9 @@
         "MainDesc": "Collectible",
         "WorldDesc": "The certificate issued by Babylonia Field HQ to honor the collaboration effort and spirit of unity. It can be upgraded to different levels.",
         "Hint": [
-            "Help others to clear 10 stages to upgrade to blue",
-            "Help others to clear 50 stages to upgrade to purple",
-            "Help others to clear 200 stages to upgrade to orange"
+            "· Help others clear 10 stages to upgrade it to blue",
+            "· Help others clear 50 stages to upgrade it to purple",
+            "· Help others clear 200 stages to upgrade it to orange"
         ],
         "GetDesc": "Help others to clear 1 Joint Warfare stage to receive",
         "ShowType": 1,
@@ -82,7 +82,7 @@
         "Id": 13000500,
         "Type": 5,
         "ExtraParams": [],
-        "Priority": 3,
+        "Priority": 4,
         "Condition": 850009,
         "InitQuality": 5,
         "QualityConditions": [],
@@ -99,7 +99,7 @@
         "Id": 13005001,
         "Type": 999,
         "ExtraParams": [],
-        "Priority": 6,
+        "Priority": 7,
         "InitQuality": 2,
         "QualityConditions": [
             850001,
@@ -115,18 +115,19 @@
         "MainDesc": "Collectible",
         "WorldDesc": "Constructs give this rare collectible to their Commandant on May 20th. It carries special meanings.",
         "Hint": [
-            "Own 3 [Crimson Love] to upgrade to blue",
-            "Own 6 [Crimson Love] to upgrade to purple",
-            "Own 10 [Crimson Love] to upgrade to orange"
+            "· Gain 3 [Crimson Love] to upgrade it to blue",
+            "· Gain 6 [Crimson Love] to upgrade it to purple",
+            "· Gain 10 [Crimson Love] to upgrade it to orange"
         ],
         "GetDesc": "Converted from [Crimson Love]",
+        "ShowQualityUpTip": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection007.png"
     },
     {
         "Id": 13005100,
         "Type": 5,
         "ExtraParams": [],
-        "Priority": 7,
+        "Priority": 8,
         "Condition": 850006,
         "InitQuality": 3,
         "QualityConditions": [
@@ -139,19 +140,48 @@
         ],
         "Name": "Osiris Badge",
         "MainDesc": "Collectible",
-        "WorldDesc": "A badge with Osiris printed on it to commemorate the incredible effort made to defeat Osiris. Displays different colors as it levels up.",
+        "WorldDesc": "A badge with Osiris printed on it to commemorate the incredible effort made to defeat him. Displays different colors as it levels up. Reserved for those who have survived the Doomsday Judgment. A testament to the epic battle against the Eye of Punishment and Eye of Judgment.",
         "Hint": [
-            "Clear Osiris Overclock - Elite to upgrade to purple",
-            "Clear Osiris Overclock - Nightmare to upgrade to orange"
+            "· Clear Osiris Overclock - Elite to upgrade it to purple",
+            "· Clear Osiris Overclock - Nightmare to upgrade it to orange"
         ],
-        "GetDesc": "Clear Co-op [Event] Osiris Overclock to receive",
+        "GetDesc": "Clear Co-op [event] Osiris Overclock to receive",
+        "ShowQualityUpTip": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection005.png"
+    },
+    {
+        "Id": 13005101,
+        "Type": 5,
+        "ExtraParams": [],
+        "Priority": 9,
+        "Condition": 850020,
+        "InitQuality": 2,
+        "QualityConditions": [
+            850013,
+            850014,
+            850015
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Gabriel Badge",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A badge with Gabriel printed on it to commemorate the incredible effort made to defeat him. Displays different colors as it levels up.",
+        "Hint": [
+            "· Clear Gabriel Overclock - Easy to upgrade it to blue",
+            "· Clear Gabriel Overclock - Elite to upgrade it to purple",
+            "· Clear Gabriel Overclock - Nightmare to upgrade it to orange"
+        ],
+        "GetDesc": "Clear Co-op [event] Gabriel in Berserk or higher difficulty to receive",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection012.png"
     },
     {
         "Id": 13005200,
         "Type": 999,
         "ExtraParams": [],
-        "Priority": 8,
+        "Priority": 10,
         "InitQuality": 5,
         "QualityConditions": [],
         "Qualities": [],
@@ -159,7 +189,7 @@
         "MainDesc": "Collectible",
         "WorldDesc": "This honor is awarded to the commandants who have made it to the top. The counter will update every time a new medal is won. Forged with phosphor bronze, it is a symbol of battle-tested strength and techniques.",
         "Hint": [],
-        "GetDesc": "Awarded to the top 5%-10% players each time when Phalanx results are tallied",
+        "GetDesc": "Awarded to top 5%-10% players when Phalanx results are tallied",
         "ShowScore": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection008.png"
     },
@@ -167,7 +197,7 @@
         "Id": 13005201,
         "Type": 999,
         "ExtraParams": [],
-        "Priority": 9,
+        "Priority": 11,
         "InitQuality": 5,
         "QualityConditions": [],
         "Qualities": [],
@@ -175,7 +205,7 @@
         "MainDesc": "Collectible",
         "WorldDesc": "This medal is only awarded to the top-ranking Commandants, and is a symbol of outstanding strength and techniques. The counter will update every time a new medal is won. The perfectly blended silver and white colors make it a piece of art.",
         "Hint": [],
-        "GetDesc": "Awarded to the top 1%-5% players each time when Phalanx results are tallied",
+        "GetDesc": "Awarded to top 1%-5% players when Phalanx results are tallied",
         "ShowScore": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection009.png"
     },
@@ -183,7 +213,7 @@
         "Id": 13005202,
         "Type": 999,
         "ExtraParams": [],
-        "Priority": 10,
+        "Priority": 12,
         "InitQuality": 5,
         "QualityConditions": [],
         "Qualities": [],
@@ -191,8 +221,128 @@
         "MainDesc": "Collectible",
         "WorldDesc": "This honor is only awarded to the best of the best Commandants. The counter will update every time a new medal is won. The golden coating and carving represent unrivalled strength and techniques.",
         "Hint": [],
-        "GetDesc": "Awarded to the top 1% players each time when Phalanx results are tallied",
+        "GetDesc": "Awarded to top 1% players when Phalanx results are tallied",
         "ShowScore": 1,
         "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection010.png"
+    },
+    {
+        "Id": 13005300,
+        "Type": 2,
+        "ActivityId": 3,
+        "BeginTimeStr": "2022/1/26 2:00",
+        "EndTimeStr": "2022/3/2 1:59",
+        "ExtraParams": [],
+        "Priority": 15,
+        "InitQuality": 2,
+        "QualityConditions": [
+            850010,
+            850011,
+            850012
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Theme Park Tower Badge",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A badge obtained from Project Babel: Theme Park. Rewarded to Commandants who have succeeded in an in-depth simulation of Project Babel tactical operation phase 3. A testament to an unforgettable experience.",
+        "Hint": [
+            "· Complete Babel Tower mission [Ether Tower II] to upgrade it to blue",
+            "· Complete Babel Tower mission [Ether Tower III] to upgrade it to purple",
+            "· Complete Babel Tower mission [Ether Tower IV] to upgrade it to orange"
+        ],
+        "GetDesc": "Clear Babel Tower: Theme Park to receive",
+        "ShowScore": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection011.png",
+        "MedalIcon": "Assets/Product/Texture/Image/UiBabelTower/UiBabelTowerIconLv1.png"
+    },
+    {
+        "Id": 13005400,
+        "Type": 999,
+        "ExtraParams": [],
+        "Priority": 16,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Metal Surfboard",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A surfboard carrying summer memories. A big seller in Venus Splash Park.",
+        "Hint": [],
+        "GetDesc": "Complete Challenge Missions in Operation Summer to receive",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection013.png"
+    },
+    {
+        "Id": 13005500,
+        "Type": 7,
+        "ExtraParams": [],
+        "Priority": 18,
+        "InitQuality": 2,
+        "QualityConditions": [
+            850016,
+            850017,
+            850018
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Shark-speare Figurine",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A 1:15 limited-edition Shark-speare figurine gained after \"playing\" with Shark-speare, with quality varying depending on the level. All it ever does is play the same nursery rhyme over and over: \"Let's play and be friends! Shark-speare loves eating the Gingerbread Man!\"",
+        "Hint": [
+            "· Gain 11★ Reward to upgrade it to blue",
+            "· Gain 13★ Reward to upgrade it to purple",
+            "· Gain 15★ Reward to upgrade it to orange"
+        ],
+        "GetDesc": "Gain 9★ Reward in Park Parade to unlock",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection014.png"
+    },
+    {
+        "Id": 13000600,
+        "Type": 6,
+        "ExtraParams": [],
+        "Priority": 1,
+        "InitQuality": 2,
+        "QualityConditions": [
+            850021,
+            850022,
+            850023
+        ],
+        "Qualities": [
+            3,
+            4,
+            5
+        ],
+        "Name": "Siege Recorder",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A recording device that the United Command Bureau issues to Commandants who have vanquished strong enemies. (Participate in Simulated Siege to gain points. When the event ends, points gained are converted into Siege Recorder EXP at a rate of 10,000: 1)",
+        "Hint": [
+            "· [Siege Recorder] upgrades to blue when it reaches Lv.6",
+            "· [Siege Recorder] upgrades to purple when it reaches Lv.11",
+            "· [Siege Recorder] upgrades to orange when it reaches Lv.16"
+        ],
+        "GetDesc": "Join the United Command Bureau to receive",
+        "ShowType": 1,
+        "ShowScore": 1,
+        "ShowQualityUpTip": 1,
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection015.png"
+    },
+    {
+        "Id": 13005600,
+        "Type": 999,
+        "ActivityId": 2,
+        "ExtraParams": [],
+        "Priority": 19,
+        "InitQuality": 5,
+        "QualityConditions": [],
+        "Qualities": [],
+        "Name": "Magpie Pendant",
+        "MainDesc": "Collectible",
+        "WorldDesc": "A well-crafted souvenir mass-produced on the Nighter. According to legend, if you collect enough of them to build a magpie bridge, you will see the person you long for.",
+        "Hint": [],
+        "GetDesc": "Can be obtained from the event \"Summer Snapshots\"",
+        "MedalImg": "Assets/Product/Texture/Image/UiCollection/Iconcollection021.png"
     }
 ]
